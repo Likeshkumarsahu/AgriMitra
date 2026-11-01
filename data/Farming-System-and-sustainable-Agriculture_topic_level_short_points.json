@@ -1,0 +1,2488 @@
+{
+  "title": "Farming System and Sustainable Agriculture — Topic-Level Short-Point Knowledge Base",
+  "source_file": "Farming-System-and-sustainable-Agriculture.pdf",
+  "source_pages": 74,
+  "format_version": "2.0",
+  "extraction_style": "Deep topic-level extraction with short sentences and line-separated study points.",
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Sustainable agriculture: Introduction, definition, goal and current concepts",
+      "source_pages": "4-7"
+    },
+    {
+      "id": "ch2",
+      "title": "Factors affecting ecological balance and ameliorative measures",
+      "source_pages": "8-11"
+    },
+    {
+      "id": "ch3",
+      "title": "Land degradation and conservation of natural resources",
+      "source_pages": "12-18"
+    },
+    {
+      "id": "ch4",
+      "title": "LEIA & HEIA",
+      "source_pages": "19-26"
+    },
+    {
+      "id": "ch5",
+      "title": "Irrigation problems",
+      "source_pages": "27-28"
+    },
+    {
+      "id": "ch6",
+      "title": "Wasteland development",
+      "source_pages": "29-32"
+    },
+    {
+      "id": "ch7",
+      "title": "Organic farming: definition, principles and components",
+      "source_pages": "33-46"
+    },
+    {
+      "id": "ch8",
+      "title": "Farming systems: definition, principles and components",
+      "source_pages": "47-66"
+    },
+    {
+      "id": "ch9",
+      "title": "IFS models for wetland, irrigated dryland and dryland situations",
+      "source_pages": "67-70"
+    }
+  ],
+  "topics": [
+    {
+      "slug": "sustainable-agriculture",
+      "title": "Sustainable Agriculture",
+      "category": "concept",
+      "definition": "Agriculture that meets present needs without endangering the resource base of future generations.",
+      "sections": [
+        {
+          "heading": "Core features",
+          "type": "points",
+          "content": [
+            "Prevents land degradation and soil erosion.",
+            "Replenishes nutrients in the soil.",
+            "Controls weeds, pests and diseases through biological and cultural methods.",
+            "Minimizes dependence on synthetic fertilizers, pesticides and antibiotics.",
+            "Uses manures, crop rotation and minimal tillage."
+          ]
+        },
+        {
+          "heading": "Also known as",
+          "type": "list",
+          "content": [
+            "Alternative farming",
+            "Regenerative agriculture",
+            "Natural or organic farming",
+            "Eco-farming",
+            "Permeaculture"
+          ]
+        }
+      ],
+      "source": "pp.4-5",
+      "related": [
+        "sustainability",
+        "goals-of-sustainable-agriculture"
+      ]
+    },
+    {
+      "slug": "sustainability",
+      "title": "Sustainability in Agriculture",
+      "category": "concept",
+      "definition": "The capacity of agriculture to remain productive while maintaining its resource base.",
+      "sections": [
+        {
+          "heading": "Five characteristics",
+          "type": "points",
+          "content": [
+            "Ecologically sound: soil, crop, animal and human health are maintained.",
+            "Economically viable: farmers can produce enough for self-sufficiency.",
+            "Socially just: basic needs and productive resources are fairly accessed.",
+            "Humane: plant, animal and human life are respected.",
+            "Adaptable: rural communities can adjust to changing farming conditions."
+          ]
+        },
+        {
+          "heading": "WCED 1987 concept",
+          "type": "points",
+          "content": [
+            "Today's economic development should not be at the expense of tomorrow's development prospects."
+          ]
+        }
+      ],
+      "source": "p.5",
+      "related": [
+        "sustainable-agriculture",
+        "modern-vs-sustainable-agriculture"
+      ]
+    },
+    {
+      "slug": "modern-vs-sustainable-agriculture",
+      "title": "Sustainable Agriculture vs Modern Agriculture",
+      "category": "comparison",
+      "definition": "The source contrasts resource-conserving sustainable agriculture with chemical-input-based modern agriculture.",
+      "sections": [
+        {
+          "heading": "Plant nutrients",
+          "type": "points",
+          "content": [
+            "Sustainable: farmyard manure, compost, green manure, biofertilizers and crop rotations.",
+            "Modern: chemical fertilizers."
+          ]
+        },
+        {
+          "heading": "Pest control",
+          "type": "points",
+          "content": [
+            "Sustainable: cultural, crop rotation and biological methods.",
+            "Modern: toxic chemicals."
+          ]
+        },
+        {
+          "heading": "Inputs and ecology",
+          "type": "points",
+          "content": [
+            "Sustainable: diverse, renewable and biodegradable inputs; stable ecology.",
+            "Modern: high productivity with lower diversity and fragile ecology."
+          ]
+        },
+        {
+          "heading": "Resource extraction",
+          "type": "points",
+          "content": [
+            "Sustainable: extraction should not exceed regeneration.",
+            "Modern: extraction may exceed regeneration."
+          ]
+        },
+        {
+          "heading": "Food material",
+          "type": "points",
+          "content": [
+            "Sustainable: food materials are presented as safe.",
+            "Modern: food materials may contain toxic residues."
+          ]
+        }
+      ],
+      "source": "p.5",
+      "related": [
+        "sustainable-agriculture"
+      ]
+    },
+    {
+      "slug": "problems-of-modern-agriculture",
+      "title": "Problems of Modern Agriculture",
+      "category": "problems",
+      "definition": "Environmental problems associated in the source with modern agricultural development and faulty practices.",
+      "sections": [
+        {
+          "heading": "Major problems",
+          "type": "points",
+          "content": [
+            "Ozone layer damage from atmospheric pollutants such as CFC, nitrogen oxide and methane.",
+            "Increasing CO2 contributes to global warming, sea-level rise and rainfall-pattern changes.",
+            "Water and wind erosion cause loss of productive soil.",
+            "Deforestation increases erosion, floods, reservoir siltation and runoff.",
+            "Improper irrigation may cause soil salinization and alkalization.",
+            "Excessive groundwater extraction depletes groundwater.",
+            "Pesticide and fertilizer residues pollute surface and groundwater.",
+            "Biological diversity is reduced."
+          ]
+        }
+      ],
+      "source": "pp.5-6",
+      "related": [
+        "sustainable-agriculture",
+        "sustainable-agriculture-components"
+      ]
+    },
+    {
+      "slug": "sustainable-agriculture-components",
+      "title": "Major Components of Sustainable Agriculture",
+      "category": "components",
+      "definition": "Resource and crop-management practices used to sustain productivity while reducing environmental damage.",
+      "sections": [
+        {
+          "heading": "Components",
+          "type": "points",
+          "content": [
+            "Soil and water conservation prevents degradation and can extend the crop-growing season.",
+            "Efficient irrigation-water use reduces salinity, alkalinity and high water-table problems.",
+            "Crop rotations reduce insect-pests, diseases and weeds.",
+            "Crop rotations improve soil productivity and reduce erosion.",
+            "Integrated nutrient management combines organic, inorganic and biological nutrient sources.",
+            "Integrated pest management reduces dependence on agrochemicals.",
+            "Good weed management uses preventive measures, tillage, timely intercultivation and crop rotation."
+          ]
+        }
+      ],
+      "source": "p.6",
+      "related": [
+        "sustainable-agriculture",
+        "integrated-nutrient-management",
+        "integrated-pest-management"
+      ]
+    },
+    {
+      "slug": "goals-of-sustainable-agriculture",
+      "title": "Goals of Sustainable Agriculture",
+      "category": "goals",
+      "definition": "Long-term production goals based on resource conservation and efficient use.",
+      "sections": [
+        {
+          "heading": "Goals",
+          "type": "points",
+          "content": [
+            "Use nutrient cycling and nitrogen fixation.",
+            "Reduce external and non-renewable inputs.",
+            "Improve equitable access to productive resources and opportunities.",
+            "Use the biological and genetic potential of plants and animals.",
+            "Maintain current production levels over the long term.",
+            "Integrate farm management with conservation of soil, water, energy and biological resources."
+          ]
+        }
+      ],
+      "source": "pp.6-7",
+      "related": [
+        "sustainable-agriculture-components"
+      ]
+    },
+    {
+      "slug": "ecological-balance-factors",
+      "title": "Factors Affecting Ecological Balance",
+      "category": "ecology",
+      "definition": "Major land, water and input-management factors that disturb ecological balance.",
+      "sections": [
+        {
+          "heading": "Major factors",
+          "type": "points",
+          "content": [
+            "Deforestation and overgrazing reduce vegetation, alter climate and biodiversity, and cause resource loss.",
+            "Loss of vegetative cover accelerates soil erosion.",
+            "Poor-quality irrigation water and poor drainage cause salinity and sodicity.",
+            "Over-extraction of groundwater lowers the water table.",
+            "Over-irrigation can accumulate harmful salts.",
+            "Excess fertilizer use reduces soil biological activity and contributes to nitrate pollution.",
+            "Pesticides can cause resistance and environmental contamination."
+          ]
+        }
+      ],
+      "source": "p.8",
+      "related": [
+        "soil-erosion",
+        "groundwater-management",
+        "integrated-pest-management"
+      ]
+    },
+    {
+      "slug": "soil-management-sustainable",
+      "title": "Soil Management for Sustainable Agriculture",
+      "category": "management",
+      "definition": "Practices for preventing soil degradation and restoring productive capacity.",
+      "sections": [
+        {
+          "heading": "Soil degradation",
+          "type": "points",
+          "content": [
+            "Water and wind erosion are major causes.",
+            "Chemical degradation includes salinization and loss of nutrients and organic matter.",
+            "Short- and long-term measures are required."
+          ]
+        },
+        {
+          "heading": "Conservation practices",
+          "type": "points",
+          "content": [
+            "Contour farming.",
+            "Agronomic and cultural measures.",
+            "Contour bunding and graded bunding.",
+            "Contour ditches and bench terracing.",
+            "Runoff cycling.",
+            "Alternative land use such as pasture and fuel-fodder-timber systems on non-agricultural land."
+          ]
+        },
+        {
+          "heading": "Watershed approach",
+          "type": "points",
+          "content": [
+            "Stores drainage water for recycling.",
+            "Stored water can support crops during drought.",
+            "Can improve rainfed-crop productivity."
+          ]
+        }
+      ],
+      "source": "pp.8-9",
+      "related": [
+        "soil-erosion",
+        "integrated-nutrient-management"
+      ]
+    },
+    {
+      "slug": "integrated-nutrient-management",
+      "title": "Integrated Nutrient Management (INM)",
+      "category": "management",
+      "definition": "A nutrient-management approach that minimizes chemical use and improves nutrient-use efficiency.",
+      "sections": [
+        {
+          "heading": "Main components",
+          "type": "points",
+          "content": [
+            "Recycle crop residues and animal wastes.",
+            "Use composting and vermicomposting for materials unsuitable for direct application.",
+            "Use biological nitrogen fixation through BGA, Azolla, Rhizobium, Azotobacter and Azospirillum.",
+            "Use phosphate-solubilizing microorganisms.",
+            "Use green manuring to improve fertility and supply nutrients.",
+            "Include legumes in rotations and intercropping.",
+            "Biogas plants and suitable sewage/sludge use can contribute to nutrient recycling."
+          ]
+        },
+        {
+          "heading": "Green manure examples",
+          "type": "points",
+          "content": [
+            "Sesbania aculeata (Dhaincha).",
+            "Crotalaria juncea (Sannhemp).",
+            "Sesbania rostrata."
+          ]
+        },
+        {
+          "heading": "Sesbania rostrata",
+          "type": "number",
+          "content": [
+            "Source states fixation of about 100–250 kg N/ha in 45–55 days."
+          ]
+        }
+      ],
+      "source": "pp.9-10",
+      "related": [
+        "sustainable-agriculture-components",
+        "organic-farming"
+      ]
+    },
+    {
+      "slug": "water-resource-management",
+      "title": "Management of Water Resources",
+      "category": "management",
+      "definition": "Efficient use, conservation and recharge of irrigation and other water resources.",
+      "sections": [
+        {
+          "heading": "Recommendations",
+          "type": "points",
+          "content": [
+            "Use proper land shaping and leveling.",
+            "Use efficient irrigation-system design.",
+            "Use pipe channels to reduce seepage losses.",
+            "Use furrow, alternate-furrow or skip-furrow irrigation for row crops.",
+            "Use sprinkler and drip systems in water-scarce areas.",
+            "Use surface and groundwater conjunctively.",
+            "Provide drainage in canal command areas.",
+            "Use suitable cropping systems instead of continuous lowland rice.",
+            "Use recommended crop-production technology.",
+            "Develop integrated watersheds.",
+            "Recharge groundwater using basins, recharge wells, check dams and percolation ponds."
+          ]
+        }
+      ],
+      "source": "p.10",
+      "related": [
+        "groundwater-management",
+        "rainwater-management"
+      ]
+    },
+    {
+      "slug": "rainwater-management",
+      "title": "Management of Rainwater",
+      "category": "management",
+      "definition": "Planned use and conservation of rainfall for sustainable crop production.",
+      "sections": [
+        {
+          "heading": "Source facts",
+          "type": "points",
+          "content": [
+            "Rainfall varies widely across space and time.",
+            "The source states about 70% of India's cultivated area depends entirely on rainfall."
+          ]
+        },
+        {
+          "heading": "Options",
+          "type": "points",
+          "content": [
+            "Use agro-climatic analysis to assess rainfall probability.",
+            "Select cropping systems based on agro-climatic conditions.",
+            "Prepare contingency crop plans for abnormal weather.",
+            "Use improved soil and water management.",
+            "Conserve soil moisture in situ.",
+            "Harvest and recycle runoff.",
+            "Use improved management packages for cropping systems."
+          ]
+        }
+      ],
+      "source": "p.10",
+      "related": [
+        "water-resource-management"
+      ]
+    },
+    {
+      "slug": "integrated-pest-management",
+      "title": "Integrated Pest Management (IPM)",
+      "category": "management",
+      "definition": "A combination of agronomic, biological, chemical, physical and other methods that keeps harmful organisms at economically insignificant levels with minimum interference to beneficial organisms.",
+      "sections": [
+        {
+          "heading": "Core principle",
+          "type": "points",
+          "content": [
+            "Bio-agents are an integral part of IPM.",
+            "Priority is given to methods that reduce unnecessary pesticide dependence."
+          ]
+        },
+        {
+          "heading": "Examples",
+          "type": "points",
+          "content": [
+            "Predator: Coccinella spp.",
+            "Parasitoid: Trichogramma species."
+          ]
+        },
+        {
+          "heading": "Agronomic components",
+          "type": "points",
+          "content": [
+            "Land preparation can create unfavorable conditions for pests, diseases and weeds.",
+            "Select resistant or tolerant cultivars.",
+            "Adjust sowing time to escape peak pest pressure.",
+            "Avoid excessively dense plant populations.",
+            "Use mechanical or manual intercultivation.",
+            "Apply balanced NPK; excessive nitrogen may increase crop succulence.",
+            "Manage irrigation and drainage to avoid pest and disease build-up.",
+            "Use intercropping.",
+            "Use crop rotation."
+          ]
+        }
+      ],
+      "source": "pp.10-11",
+      "related": [
+        "sustainable-agriculture-components"
+      ]
+    },
+    {
+      "slug": "land-degradation",
+      "title": "Land Degradation",
+      "category": "definition",
+      "definition": "Loss of soil productivity or a process that lowers current or potential soil capacity to produce.",
+      "sections": [
+        {
+          "heading": "Source figures",
+          "type": "number",
+          "content": [
+            "About 32.7% of the total geographical area is stated as degraded.",
+            "Total geographical area: 328.73 million ha.",
+            "About 65% of land degradation occurs through water and wind erosion.",
+            "Net sown area: 141.89 million ha."
+          ]
+        },
+        {
+          "heading": "Types and area",
+          "type": "points",
+          "content": [
+            "Water erosion: 57.16 mha.",
+            "Wind erosion: 10.46 mha.",
+            "Ravines: 2.68 mha.",
+            "Salt affected: 6.32 mha.",
+            "Water logging: 3.20 mha.",
+            "Mines and quarry wastes: 0.25 mha.",
+            "Shifting cultivation: 2.35 mha.",
+            "Degraded forest: 24.9 mha.",
+            "Special problems: 0.09 mha.",
+            "Total listed degraded area: 107.43 mha."
+          ]
+        }
+      ],
+      "source": "pp.12-13",
+      "related": [
+        "soil-degradation-types"
+      ]
+    },
+    {
+      "slug": "soil-degradation-types",
+      "title": "Types of Soil Degradation",
+      "category": "classification",
+      "definition": "Soil degradation is classified in the source as physical, chemical and biological degradation.",
+      "sections": [
+        {
+          "heading": "Physical degradation",
+          "type": "points",
+          "content": [
+            "Soil erosion.",
+            "Soil slips.",
+            "Soil slides.",
+            "Mud flow.",
+            "Water logging."
+          ]
+        },
+        {
+          "heading": "Chemical degradation",
+          "type": "points",
+          "content": [
+            "Soil salinity.",
+            "Soil sodicity.",
+            "Soil acidity."
+          ]
+        },
+        {
+          "heading": "Biological degradation",
+          "type": "points",
+          "content": [
+            "Loss of soil organic matter.",
+            "Associated with high temperature and low water content."
+          ]
+        }
+      ],
+      "source": "p.12",
+      "related": [
+        "land-degradation",
+        "soil-erosion"
+      ]
+    },
+    {
+      "slug": "causes-land-degradation",
+      "title": "Major Factors Affecting Land Degradation",
+      "category": "causes",
+      "definition": "Human, environmental and management pressures that reduce land quality.",
+      "sections": [
+        {
+          "heading": "Factors",
+          "type": "points",
+          "content": [
+            "Extensive and frequent cropping.",
+            "Excessive fertilizer use.",
+            "Shifting cultivation without adequate recovery.",
+            "Poor irrigation practices.",
+            "Over-extraction of groundwater.",
+            "Conversion of forest and agricultural land to other uses.",
+            "Urban encroachment.",
+            "Deforestation and illegal felling.",
+            "Overgrazing and excessive fuel-wood collection.",
+            "Industrial and mining activities without adequate preventive measures.",
+            "Human and livestock pressure.",
+            "Frequent drought or monsoon failure."
+          ]
+        }
+      ],
+      "source": "p.13",
+      "related": [
+        "land-degradation",
+        "natural-resource-management"
+      ]
+    },
+    {
+      "slug": "soil-erosion",
+      "title": "Soil Erosion",
+      "category": "definition",
+      "definition": "Detachment of soil particles from the parent soil body.",
+      "sections": [
+        {
+          "heading": "Types",
+          "type": "points",
+          "content": [
+            "Wind erosion.",
+            "Water erosion.",
+            "Wave erosion."
+          ]
+        },
+        {
+          "heading": "Wave erosion",
+          "type": "points",
+          "content": [
+            "Caused by combined action of wind and water.",
+            "Occurs mainly along canal and river banks.",
+            "Can be controlled by lining canals."
+          ]
+        },
+        {
+          "heading": "Basic relationship",
+          "type": "formula",
+          "content": [
+            "Erosion = f(erosivity) × (erodibility).",
+            "Erosivity is the potential ability of rain to cause erosion.",
+            "Erodibility is soil vulnerability to erosion based on inherent properties."
+          ]
+        }
+      ],
+      "source": "p.13",
+      "related": [
+        "water-erosion",
+        "wind-erosion"
+      ]
+    },
+    {
+      "slug": "factors-losses-erosion",
+      "title": "Factors and Losses Due to Soil Erosion",
+      "category": "management",
+      "definition": "Rainfall, vegetation and soil properties control erosion and its effects.",
+      "sections": [
+        {
+          "heading": "Factors",
+          "type": "points",
+          "content": [
+            "Rainfall amount, intensity, duration and distribution affect runoff and erosion.",
+            "Vegetative cover intercepts rainfall and reduces erosion.",
+            "Topography affects runoff and particle transport.",
+            "Increasing slope generally increases erosion."
+          ]
+        },
+        {
+          "heading": "Major losses",
+          "type": "points",
+          "content": [
+            "Loss of rainwater from fields.",
+            "Loss of fertile topsoil.",
+            "Loss of plant nutrients.",
+            "Siltation of reservoirs and reduced storage capacity."
+          ]
+        },
+        {
+          "heading": "Source figures",
+          "type": "number",
+          "content": [
+            "Soil loss is stated as 16.35 t/ha annually.",
+            "Permissible limit is stated as 11 t/ha."
+          ]
+        }
+      ],
+      "source": "p.14",
+      "related": [
+        "soil-erosion",
+        "water-erosion"
+      ]
+    },
+    {
+      "slug": "water-erosion",
+      "title": "Water Erosion and USLE",
+      "category": "technical",
+      "definition": "Water erosion is described through sheet, rill and gully stages; USLE is used to predict soil loss.",
+      "sections": [
+        {
+          "heading": "Stages",
+          "type": "points",
+          "content": [
+            "Sheet erosion: uniform removal of a thin topsoil layer.",
+            "Rill erosion: small channels formed by runoff.",
+            "Gully erosion: advanced rill stage with deep and wide channels."
+          ]
+        },
+        {
+          "heading": "USLE",
+          "type": "formula",
+          "content": [
+            "A = R K L S C P.",
+            "A = predicted soil loss.",
+            "R = rainfall and runoff factor.",
+            "K = soil erodibility.",
+            "L = slope length.",
+            "S = slope gradient.",
+            "C = soil cover and management.",
+            "P = erosion-control practice."
+          ]
+        }
+      ],
+      "source": "pp.14-15",
+      "related": [
+        "soil-erosion"
+      ]
+    },
+    {
+      "slug": "wind-erosion",
+      "title": "Wind Erosion",
+      "category": "technical",
+      "definition": "Wind-driven movement of soil particles through saltation, suspension and surface creep.",
+      "sections": [
+        {
+          "heading": "Particle movement",
+          "type": "points",
+          "content": [
+            "Saltation: bouncing of fine particles around 0.1–0.5 mm.",
+            "Suspension: movement of very fine particles or dust below 0.1 mm.",
+            "Surface creep: movement of particles above 0.5 mm and below 1.0 mm along the surface."
+          ]
+        },
+        {
+          "heading": "Factors",
+          "type": "points",
+          "content": [
+            "Wind velocity is a major factor.",
+            "The source states wind velocity above 5–6 m/s is undesirable.",
+            "Soil texture, structure, cohesiveness, bulk density, organic matter, moisture and surface roughness affect erosion.",
+            "Vegetative cover reduces erosion."
+          ]
+        },
+        {
+          "heading": "Wind erosion equation",
+          "type": "formula",
+          "content": [
+            "E = I R K F C W D B.",
+            "E = soil loss by wind erosion.",
+            "I = soil cloudiness factor.",
+            "R = surface cover factor.",
+            "K = surface roughness factor.",
+            "F = soil textural class factor.",
+            "C = local wind factor.",
+            "W = field width factor.",
+            "D = wind direction factor.",
+            "B = wind barrier factor."
+          ]
+        }
+      ],
+      "source": "p.15",
+      "related": [
+        "soil-erosion"
+      ]
+    },
+    {
+      "slug": "natural-resource-management",
+      "title": "Natural Resource Management",
+      "category": "management",
+      "definition": "A sustainable-agriculture approach focused on efficient use and conservation of limited natural resources.",
+      "sections": [
+        {
+          "heading": "Need",
+          "type": "points",
+          "content": [
+            "Green Revolution increased food production, but sustainability is now a major concern.",
+            "Limited land and water resources require continuous productivity improvement.",
+            "Poor resource management and excessive agrochemicals threaten sustainability.",
+            "Impacts include biodiversity loss, land and water degradation, pollution and climatic changes."
+          ]
+        },
+        {
+          "heading": "Water-resource pressures",
+          "type": "points",
+          "content": [
+            "Limited expansion of irrigation potential.",
+            "Non-judicious use of water.",
+            "Poor irrigation-project efficiency, stated as only 30–40%.",
+            "Conveyance losses.",
+            "Diversion of agricultural water to non-agricultural uses.",
+            "Increasing groundwater pollution."
+          ]
+        }
+      ],
+      "source": "pp.16-17",
+      "related": [
+        "land-degradation",
+        "water-resource-management"
+      ]
+    },
+    {
+      "slug": "natural-resource-strategies",
+      "title": "Strategies for Natural Resource Management",
+      "category": "strategies",
+      "definition": "Resource-conservation strategies for maintaining agricultural productivity and ecological balance.",
+      "sections": [
+        {
+          "heading": "Biological diversity",
+          "type": "points",
+          "content": [
+            "Maintain essential ecological processes.",
+            "Preserve genetic diversity.",
+            "Ensure sustainable use of species and ecosystems."
+          ]
+        },
+        {
+          "heading": "Diversification",
+          "type": "points",
+          "content": [
+            "Use crop diversification.",
+            "Integrate dairy, fisheries, poultry, horticulture and forestry.",
+            "Reduce monoculture effects.",
+            "Improve soil health and resource use.",
+            "Support nutrient recycling.",
+            "Reduce risk and uncertainty."
+          ]
+        },
+        {
+          "heading": "Improved systems",
+          "type": "points",
+          "content": [
+            "Integrated intensive farming system uses farm-grown biological inputs and nutrient recycling.",
+            "Precision farming improves input-use efficiency.",
+            "Use soil-test-based fertilizer application.",
+            "Use land leveling and micro-irrigation.",
+            "Include legumes in crop rotations."
+          ]
+        },
+        {
+          "heading": "Other measures",
+          "type": "points",
+          "content": [
+            "Use organic farming.",
+            "Reclaim degraded land.",
+            "Use integrated water management.",
+            "Use bio-intensive integrated pest management."
+          ]
+        }
+      ],
+      "source": "pp.17-18",
+      "related": [
+        "natural-resource-management",
+        "integrated-pest-management"
+      ]
+    },
+    {
+      "slug": "heia",
+      "title": "High External Input Agriculture (HEIA)",
+      "category": "system",
+      "definition": "An agricultural system dependent on substantial external inputs such as hybrid seed, fertilizers, pesticides, machinery and irrigation.",
+      "sections": [
+        {
+          "heading": "Development",
+          "type": "points",
+          "content": [
+            "Developed in response to rising food demand.",
+            "Green Revolution emphasized higher harvest per unit area and increased cropping seasons.",
+            "High-yielding hybrid varieties required new production practices."
+          ]
+        },
+        {
+          "heading": "Input dependence",
+          "type": "points",
+          "content": [
+            "Chemical fertilizers were used heavily because hybrid varieties were nutrient sensitive.",
+            "Pesticides were needed because new crops were susceptible to pests and diseases.",
+            "Weedicides or manual weeding were needed because dwarf hybrids competed poorly with weeds.",
+            "Mechanization became an integral component.",
+            "New crops required more water and improved irrigation."
+          ]
+        },
+        {
+          "heading": "Sustainability issue",
+          "type": "points",
+          "content": [
+            "Many external resources were not recycled.",
+            "The system depended on regular external inputs for high yields.",
+            "Stopping inputs could make the system unproductive."
+          ]
+        }
+      ],
+      "source": "pp.19-20",
+      "related": [
+        "leisa",
+        "modern-vs-sustainable-agriculture"
+      ]
+    },
+    {
+      "slug": "heia-advantages",
+      "title": "Advantages of HEIA",
+      "category": "advantages",
+      "definition": "Benefits attributed in the source to high external input agriculture.",
+      "sections": [
+        {
+          "heading": "Advantages",
+          "type": "points",
+          "content": [
+            "Rapid increase in agricultural production.",
+            "Improved food availability.",
+            "Reduction of some nutrition-related problems.",
+            "Improved varieties can give yields in a short period.",
+            "Mechanization helps address labour shortages.",
+            "Higher income and profit margins.",
+            "Higher land productivity.",
+            "Improved market facilities."
+          ]
+        }
+      ],
+      "source": "p.20",
+      "related": [
+        "heia"
+      ]
+    },
+    {
+      "slug": "heia-disadvantages",
+      "title": "Disadvantages of HEIA",
+      "category": "disadvantages",
+      "definition": "Environmental, economic and social problems associated in the source with high external input agriculture.",
+      "sections": [
+        {
+          "heading": "Major disadvantages",
+          "type": "points",
+          "content": [
+            "Reduced biodiversity can disturb environmental balance.",
+            "Machinery may increase soil erosion through constant furrowing.",
+            "Dependence on imported machinery, fertilizers, pesticides and hybrid seed.",
+            "Pesticides can kill natural enemies as well as target pests.",
+            "Agrochemicals can affect soil pH, CEC, structure, texture and soil organisms.",
+            "High capital requirements can disadvantage capital-poor farmers.",
+            "Traditional varieties and indigenous knowledge may decline.",
+            "Farmers may face environmental, social and economic problems."
+          ]
+        }
+      ],
+      "source": "pp.20-21",
+      "related": [
+        "heia",
+        "leisa"
+      ]
+    },
+    {
+      "slug": "green-revolution-limitations",
+      "title": "Limitations of Green Revolution Practices",
+      "category": "limitations",
+      "definition": "Shortcomings identified by the source in planning and long-term effects of Green Revolution practices.",
+      "sections": [
+        {
+          "heading": "Economic and ecological issues",
+          "type": "points",
+          "content": [
+            "Surplus production could contribute to lower commodity prices.",
+            "Long-term dependence on pesticides and chemical fertilizers was not fully anticipated.",
+            "Quick crop response encouraged artificial-manure use without awareness of long-term effects.",
+            "The source states that 40–50% of applied nitrogen may be wasted in tropical countries.",
+            "Nitrogen losses increase with high rainfall, drought, erosion and low organic matter.",
+            "Continuous NPK use may create micronutrient deficiencies.",
+            "Nitrous oxide contributes to atmospheric and ozone-related concerns."
+          ]
+        },
+        {
+          "heading": "Pesticide issues",
+          "type": "points",
+          "content": [
+            "Pesticide poisoning can affect people.",
+            "Repeated use can lead to pest resistance.",
+            "Pesticides can kill natural enemies.",
+            "Pesticides can contaminate water, air, soil and food.",
+            "Pesticides can enter food chains and food webs."
+          ]
+        }
+      ],
+      "source": "pp.21-22",
+      "related": [
+        "heia",
+        "leisa"
+      ]
+    },
+    {
+      "slug": "leisa",
+      "title": "Low External Input and Sustainable Agriculture (LEISA)",
+      "category": "system",
+      "definition": "An integrated agricultural system designed to maintain optimum production using fewer external inputs in an eco-friendly manner.",
+      "sections": [
+        {
+          "heading": "Need",
+          "type": "points",
+          "content": [
+            "Developed in response to high capital needs and environmental impacts of HEIA.",
+            "Combines selected traditional principles with newer technology.",
+            "The source describes LEISA as integrating bio-dynamic, environmental, natural, organic and regenerative subsystems."
+          ]
+        },
+        {
+          "heading": "Ecological principles",
+          "type": "points",
+          "content": [
+            "Maintain favorable soil conditions and stimulate soil microorganisms.",
+            "Maintain nutrient balance through fixation, deep nutrient use, recycling and needed supplementation.",
+            "Control microclimate-related resource losses.",
+            "Use biological and mechanical erosion control.",
+            "Prioritize natural biological pest control.",
+            "Promote biodiversity and plant–plant and plant–animal interactions."
+          ]
+        },
+        {
+          "heading": "Core practices",
+          "type": "points",
+          "content": [
+            "Maintain a living soil.",
+            "Create biodiversity.",
+            "Recycle resources.",
+            "Use natural pest management."
+          ]
+        }
+      ],
+      "source": "pp.22-23",
+      "related": [
+        "heia",
+        "living-soil",
+        "resource-recycling"
+      ]
+    },
+    {
+      "slug": "living-soil",
+      "title": "Living Soil and Soil Organisms",
+      "category": "concept",
+      "definition": "LEISA emphasizes maintaining the biological, physical and chemical characteristics needed for productive soil.",
+      "sections": [
+        {
+          "heading": "Requirements",
+          "type": "points",
+          "content": [
+            "Adequate water, air and nutrients.",
+            "Favorable soil structure for water, nutrients and root growth.",
+            "Suitable soil temperature.",
+            "Absence of poisonous substances.",
+            "Active soil microorganisms."
+          ]
+        },
+        {
+          "heading": "Soil organisms",
+          "type": "points",
+          "content": [
+            "Microflora: bacteria, fungi and algae.",
+            "Microfauna: protozoa.",
+            "Mesofauna: nematodes.",
+            "Macro animals: weevils, centipedes, termites, rats, worms and snakes."
+          ]
+        },
+        {
+          "heading": "Microorganism functions",
+          "type": "points",
+          "content": [
+            "Decompose organic matter into humus.",
+            "Mineralize humus and release nutrients.",
+            "Assist nitrogen fixation.",
+            "Convert insoluble phosphate to soluble forms.",
+            "Help plants absorb nutrients.",
+            "Maintain soil sanitation.",
+            "Help suppress harmful microorganisms."
+          ]
+        }
+      ],
+      "source": "pp.23-24",
+      "related": [
+        "leisa",
+        "resource-recycling"
+      ]
+    },
+    {
+      "slug": "resource-recycling",
+      "title": "Resource Cycling and Recycling",
+      "category": "concept",
+      "definition": "Reuse of farm outputs and residues as inputs to maintain nutrient balance and reduce external-input dependence.",
+      "sections": [
+        {
+          "heading": "Nutrient balance",
+          "type": "points",
+          "content": [
+            "Nutrient removal should not exceed nutrient inflow.",
+            "Natural recycling can maintain nutrient balance when not disturbed.",
+            "Nitrogen fixation, organic manure, suitable fertilizer combinations and crop rotations support recycling."
+          ]
+        },
+        {
+          "heading": "Farm examples",
+          "type": "points",
+          "content": [
+            "Paddy straw can be recycled as a nutrient source.",
+            "Maize residues can be returned to the soil.",
+            "Dairy wastes can become manure.",
+            "Crop and livestock enterprises can exchange outputs and inputs."
+          ]
+        }
+      ],
+      "source": "pp.24-25",
+      "related": [
+        "leisa",
+        "living-soil",
+        "farming-system"
+      ]
+    },
+    {
+      "slug": "natural-crop-protection",
+      "title": "Natural Crop Protection Methods",
+      "category": "management",
+      "definition": "Preventive, biological, mechanical and natural-product methods used to manage pests in sustainable systems.",
+      "sections": [
+        {
+          "heading": "Preventive measures",
+          "type": "points",
+          "content": [
+            "Treat seed and planting material before planting.",
+            "Use hot-water treatment where suitable.",
+            "Use wood ash and sun drying where appropriate.",
+            "Maintain hygiene of farm implements.",
+            "Remove infested fruits, plants, ratoons and host plants."
+          ]
+        },
+        {
+          "heading": "Crop resistance",
+          "type": "points",
+          "content": [
+            "Select varieties resistant to pests and diseases.",
+            "Use multiple cropping to promote natural predators."
+          ]
+        },
+        {
+          "heading": "Methods",
+          "type": "points",
+          "content": [
+            "Biological control.",
+            "Mechanical control.",
+            "Natural pesticides.",
+            "Artificial pesticides when included within the listed integrated methods."
+          ]
+        },
+        {
+          "heading": "Natural pesticide examples",
+          "type": "points",
+          "content": [
+            "Garlic.",
+            "Big onion.",
+            "Pepper.",
+            "Tobacco.",
+            "Neem."
+          ]
+        }
+      ],
+      "source": "pp.25-26",
+      "related": [
+        "leisa",
+        "integrated-pest-management"
+      ]
+    },
+    {
+      "slug": "irrigation-problems",
+      "title": "Major Irrigation Problems",
+      "category": "problems",
+      "definition": "Problems caused by excessive irrigation, poor water quality, high water tables and inadequate drainage.",
+      "sections": [
+        {
+          "heading": "Major problems",
+          "type": "points",
+          "content": [
+            "Soil salinity.",
+            "Soil alkalinity.",
+            "High water table.",
+            "Poor drainage."
+          ]
+        },
+        {
+          "heading": "Main causes",
+          "type": "points",
+          "content": [
+            "Saline irrigation water.",
+            "Salt deposition from a high water table.",
+            "Canal seepage.",
+            "Arid climate.",
+            "Poor drainage.",
+            "Backwater flow in coastal areas."
+          ]
+        },
+        {
+          "heading": "Controlling factors",
+          "type": "points",
+          "content": [
+            "Quality of irrigation water.",
+            "Irrigation frequency.",
+            "Soil type and permeability.",
+            "Crop salt tolerance.",
+            "Climate."
+          ]
+        }
+      ],
+      "source": "pp.27-28",
+      "related": [
+        "saline-alkali-soils",
+        "water-resource-management"
+      ]
+    },
+    {
+      "slug": "saline-alkali-soils",
+      "title": "Saline and Alkali Soils",
+      "category": "comparison",
+      "definition": "Salt-affected soils distinguished in the source using EC, ESP, pH, salt composition and physical condition.",
+      "sections": [
+        {
+          "heading": "USDA classification",
+          "type": "points",
+          "content": [
+            "Saline: EC >4 mmhos/cm; ESP <15; pH <8.5.",
+            "Saline-alkali: EC >4; ESP >15; pH >8.5.",
+            "Alkali: EC <4; ESP >15; pH 8.5–10.0."
+          ]
+        },
+        {
+          "heading": "Saline soil",
+          "type": "points",
+          "content": [
+            "Common in arid and semi-arid areas.",
+            "Favored by high water table, high salt concentration, high temperature and low rainfall.",
+            "Main soluble salts include chlorides and sulphates.",
+            "ESP is below 15%; pH is below 8.5.",
+            "EC is above 4 mmho/cm.",
+            "Generally flocculated with relatively normal aeration and permeability.",
+            "Can be reclaimed mainly through leaching and ponding."
+          ]
+        },
+        {
+          "heading": "Alkali soil",
+          "type": "points",
+          "content": [
+            "Common in Indo-Gangetic plains and poorly drained low-lying areas.",
+            "Carbonates mainly involve sodium.",
+            "ESP is above 15%; pH is above 8.5.",
+            "EC is below 4 mmho/cm.",
+            "Soil is dispersed and compact with poor aeration and permeability.",
+            "Amendments such as gypsum or iron pyrite are important."
+          ]
+        },
+        {
+          "heading": "Formulas",
+          "type": "formula",
+          "content": [
+            "ESP = exchangeable sodium / total cation exchange capacity × 100.",
+            "SAR = Na+ / √(Ca2+ + Mg2+) ."
+          ]
+        }
+      ],
+      "source": "pp.31-32",
+      "related": [
+        "irrigation-problems"
+      ]
+    },
+    {
+      "slug": "wasteland",
+      "title": "Wasteland: Meaning and Classification",
+      "category": "definition",
+      "definition": "Land that is unproductive or underutilized because of neglect, degradation or constraints, though some wastelands can be reclaimed.",
+      "sections": [
+        {
+          "heading": "Definitions",
+          "type": "points",
+          "content": [
+            "Wasteland Survey and Reclamation Committee (1961): lands unavailable for cultivation or left as fallows and cultivable wastes.",
+            "National Wasteland Development Board: lands currently unutilized due to different constraints.",
+            "Wastelands include culturable and unculturable categories.",
+            "They are also termed degraded lands."
+          ]
+        },
+        {
+          "heading": "Classification",
+          "type": "points",
+          "content": [
+            "Culturable wastelands have potential for vegetative cover but face constraints such as erosion, waterlogging and salinization.",
+            "Many culturable wastelands can be made productive through treatment and reclamation.",
+            "Unculturable wastelands cannot be developed for vegetative cover, such as barren rocky or snow-covered areas."
+          ]
+        },
+        {
+          "heading": "Source figure",
+          "type": "number",
+          "content": [
+            "About 158 mha of India's 329 mha geographical area is stated as being under different kinds of land degradation."
+          ]
+        }
+      ],
+      "source": "pp.29-30",
+      "related": [
+        "wasteland-management",
+        "saline-alkali-soils"
+      ]
+    },
+    {
+      "slug": "wasteland-management",
+      "title": "Management of Wastelands",
+      "category": "management",
+      "definition": "Site-specific reclamation and vegetation measures for degraded and underutilized lands.",
+      "sections": [
+        {
+          "heading": "Ravine land",
+          "type": "points",
+          "content": [
+            "River erosion and deposition create ravine lands.",
+            "Known locally as khadar, diara, char, rao and cho in different regions.",
+            "Use soil-conservation measures.",
+            "Live hedges help control erosion and sediment deposition."
+          ]
+        },
+        {
+          "heading": "Coastal sandy areas",
+          "type": "points",
+          "content": [
+            "Afforestation is recommended.",
+            "Wide forest belts can moderate cyclone effects.",
+            "Casuarina tolerates salinity and moisture stress."
+          ]
+        },
+        {
+          "heading": "High-altitude and steep slopes",
+          "type": "points",
+          "content": [
+            "Excess runoff during monsoon can cause erosion and floods.",
+            "Dry periods may create moisture deficiency.",
+            "Indiscriminate grazing is a major erosion cause.",
+            "Use hedgerow planting and suitable agroforestry trees and shrubs."
+          ]
+        }
+      ],
+      "source": "pp.31-32",
+      "related": [
+        "wasteland",
+        "natural-resource-management"
+      ]
+    },
+    {
+      "slug": "organic-farming",
+      "title": "Organic Farming",
+      "category": "definition",
+      "definition": "A farming system that largely excludes synthetic inputs and relies on ecological processes, organic resources, crop rotations and biological nutrient and pest management.",
+      "sections": [
+        {
+          "heading": "Concept",
+          "type": "points",
+          "content": [
+            "Organic farming has been practiced in India since ancient times.",
+            "Aims to regenerate natural processes and make the farm ecosystem self-sustainable.",
+            "Organic components vary with crop, region and time.",
+            "The common goal is continued production through a self-supporting system."
+          ]
+        },
+        {
+          "heading": "USDA definition in source",
+          "type": "points",
+          "content": [
+            "Avoids or largely excludes synthetic fertilizers, pesticides, hormones and feed additives.",
+            "Relies on crop rotations, crop residues, animal manures, off-farm organic waste, mineral-grade rock additives and biological nutrient and plant-protection systems."
+          ]
+        },
+        {
+          "heading": "Aims",
+          "type": "points",
+          "content": [
+            "Work within a closed system using local resources.",
+            "Maintain long-term soil productivity.",
+            "Avoid agrochemical pollution.",
+            "Minimize fossil-energy use."
+          ]
+        }
+      ],
+      "source": "p.33",
+      "related": [
+        "organic-principles",
+        "organic-components"
+      ]
+    },
+    {
+      "slug": "organic-principles",
+      "title": "Principles of Organic Farming",
+      "category": "principles",
+      "definition": "Principles that guide nutrient supply, pest management, biological nitrogen fixation and biomass recycling in organic farming.",
+      "sections": [
+        {
+          "heading": "Core principles",
+          "type": "points",
+          "content": [
+            "Crops should obtain nutrients through soil biological activity under suitable conditions.",
+            "Pests and diseases should be controlled mainly through natural enemies, predators, biological agents and natural products.",
+            "Organic sources may be used in digested, semi-digested or undigested forms.",
+            "Natural resistance of crops to pests and diseases should be utilized.",
+            "Biological nitrogen fixation should be encouraged.",
+            "Biomass management should support a self-supporting nutrient system."
+          ]
+        },
+        {
+          "heading": "IFOAM-style principles presented in source",
+          "type": "points",
+          "content": [
+            "Principle of health.",
+            "Principle of ecology.",
+            "Principle of fairness.",
+            "Principle of care."
+          ]
+        }
+      ],
+      "source": "pp.33-35",
+      "related": [
+        "organic-farming",
+        "organic-components"
+      ]
+    },
+    {
+      "slug": "organic-components",
+      "title": "Components of Organic Farming",
+      "category": "components",
+      "definition": "Major biological and organic inputs used for nutrient supply and soil management.",
+      "sections": [
+        {
+          "heading": "Biofertilizers",
+          "type": "points",
+          "content": [
+            "Contain selected microorganisms.",
+            "May fix atmospheric nitrogen or make insoluble phosphorus available.",
+            "Are described as cost-effective, eco-friendly and renewable nutrient sources."
+          ]
+        },
+        {
+          "heading": "Major groups",
+          "type": "points",
+          "content": [
+            "Free-living nitrogen fixers.",
+            "Symbiotic nitrogen fixers.",
+            "Associative symbiotic organisms such as Azospirillum.",
+            "Phosphorus-solubilizing bacteria and fungi.",
+            "Arbuscular and ectomycorrhiza."
+          ]
+        },
+        {
+          "heading": "Other biological inputs",
+          "type": "points",
+          "content": [
+            "Azolla.",
+            "Plant growth-promoting rhizobacteria (PGPR).",
+            "Mycorrhizal fungi."
+          ]
+        }
+      ],
+      "source": "pp.36-38",
+      "related": [
+        "organic-farming",
+        "biofertilizers"
+      ]
+    },
+    {
+      "slug": "biofertilizers",
+      "title": "Important Biofertilizers and Microbial Inputs",
+      "category": "components",
+      "definition": "Microbial inoculants used for nitrogen fixation, phosphorus mobilization and plant growth support.",
+      "sections": [
+        {
+          "heading": "Nitrogen-fixing groups",
+          "type": "points",
+          "content": [
+            "Azotobacter: free-living nitrogen fixer.",
+            "Rhizobium: symbiotic association with legumes.",
+            "Azospirillum: associative symbiotic nitrogen fixer of graminaceous plants.",
+            "Azolla: free-floating fern capable of fixing atmospheric nitrogen."
+          ]
+        },
+        {
+          "heading": "Phosphorus-related inputs",
+          "type": "points",
+          "content": [
+            "Bacillus spp. and Aspergillus niger can solubilize unavailable phosphorus.",
+            "Mycorrhiza assists nutrient transfer, especially phosphorus, and may also help zinc and sulphur transfer."
+          ]
+        },
+        {
+          "heading": "PGPR",
+          "type": "points",
+          "content": [
+            "Colonize roots or rhizosphere soil.",
+            "Benefit crops through growth-promoting effects.",
+            "Some produce phytohormones and are used as biostimulants."
+          ]
+        }
+      ],
+      "source": "pp.36-38",
+      "related": [
+        "organic-components"
+      ]
+    },
+    {
+      "slug": "organic-manures",
+      "title": "Organic Manures",
+      "category": "components",
+      "definition": "Organic materials used to supply nutrients and improve soil physical and biological properties.",
+      "sections": [
+        {
+          "heading": "Sources",
+          "type": "points",
+          "content": [
+            "Cattle shed wastes.",
+            "Human habitation wastes.",
+            "Poultry litter and sheep/goat droppings.",
+            "Slaughterhouse wastes.",
+            "Agro-industry by-products.",
+            "Crop residues.",
+            "Water hyacinth, weeds and tank silt.",
+            "Green manure and green-leaf material."
+          ]
+        },
+        {
+          "heading": "Groups",
+          "type": "points",
+          "content": [
+            "Bulky organic manures.",
+            "Concentrated organic manures."
+          ]
+        },
+        {
+          "heading": "Benefits of bulky manures",
+          "type": "points",
+          "content": [
+            "Supply plant nutrients including micronutrients.",
+            "Improve soil structure and water-holding capacity.",
+            "Increase nutrient availability.",
+            "Influence soil biological activity during decomposition."
+          ]
+        }
+      ],
+      "source": "pp.38-39",
+      "related": [
+        "farmyard-manure",
+        "composting",
+        "green-manuring"
+      ]
+    },
+    {
+      "slug": "farmyard-manure",
+      "title": "Farmyard Manure (FYM)",
+      "category": "manure",
+      "definition": "Decomposed mixture of dung and urine of farm animals with associated litter and refuse.",
+      "sections": [
+        {
+          "heading": "Preparation",
+          "type": "points",
+          "content": [
+            "Trenches are described as about 6 m long, 2 m wide and 1 m deep.",
+            "Dung and urine-soaked material is collected daily.",
+            "Litter and refuse are mixed with soil to absorb urine.",
+            "Collected material is placed in the trench in sections."
+          ]
+        },
+        {
+          "heading": "Use",
+          "type": "points",
+          "content": [
+            "Partially rotten FYM should be applied about 3–4 weeks before sowing.",
+            "Manure left exposed in the field for long periods may lose nutrients.",
+            "Immediate incorporation after spreading reduces losses.",
+            "Responsive crops listed include potato, tomato, sweet potato, carrot, radish, onion, sugarcane, rice, Napier grass and several orchard crops."
+          ]
+        }
+      ],
+      "source": "pp.39-41",
+      "related": [
+        "organic-manures",
+        "composting"
+      ]
+    },
+    {
+      "slug": "composting",
+      "title": "Composting Methods",
+      "category": "process",
+      "definition": "Controlled decomposition of organic wastes into a stable manure-like material.",
+      "sections": [
+        {
+          "heading": "Aerobic method",
+          "type": "points",
+          "content": [
+            "Organic material is decomposed in the presence of air.",
+            "Turning is used to facilitate decomposition.",
+            "The source states decomposition ordinarily completes in about 4–5 months.",
+            "In heavy rainfall or high-water-table areas, heaps may be prepared above ground."
+          ]
+        },
+        {
+          "heading": "Anaerobic method",
+          "type": "points",
+          "content": [
+            "Uses a pit with compacted layers of farm residues.",
+            "Fresh cow dung, ash and water are added.",
+            "The pit is filled and decomposition proceeds without regular aeration."
+          ]
+        }
+      ],
+      "source": "pp.41-42",
+      "related": [
+        "organic-manures",
+        "vermicompost"
+      ]
+    },
+    {
+      "slug": "vermicompost",
+      "title": "Vermicompost",
+      "category": "process",
+      "definition": "Compost produced through the feeding and activity of earthworms on organic waste.",
+      "sections": [
+        {
+          "heading": "Process",
+          "type": "points",
+          "content": [
+            "Earthworms feed on waste organic material.",
+            "Organic matter is converted into vermicompost.",
+            "The source describes a harvesting and separation process after about four months.",
+            "The compost is dried in shade and sieved.",
+            "Earthworms are collected for the next preparation cycle."
+          ]
+        },
+        {
+          "heading": "Handling",
+          "type": "points",
+          "content": [
+            "Water is supplied as required during preparation.",
+            "Finished compost is packed in suitable polythene or laminated bags."
+          ]
+        }
+      ],
+      "source": "pp.42-43",
+      "related": [
+        "composting",
+        "organic-manures"
+      ]
+    },
+    {
+      "slug": "green-manuring",
+      "title": "Green Manuring",
+      "category": "practice",
+      "definition": "Ploughing or incorporating green plant material into soil to add organic matter and nutrients.",
+      "sections": [
+        {
+          "heading": "Benefits",
+          "type": "points",
+          "content": [
+            "Recycles nutrients.",
+            "Adds organic matter.",
+            "Reduces nutrient leaching.",
+            "Can improve crop yield.",
+            "Improves soil fertility.",
+            "Improves soil structure.",
+            "Helps prevent soil erosion.",
+            "Can aid weed control."
+          ]
+        },
+        {
+          "heading": "Green-leaf manuring",
+          "type": "points",
+          "content": [
+            "Uses green leaves and tender twigs from shrubs and trees.",
+            "Material may be collected from bunds, wastelands and nearby areas.",
+            "Examples include Glyricidia, Sesbania speciosa and Karanj."
+          ]
+        },
+        {
+          "heading": "In situ practice",
+          "type": "points",
+          "content": [
+            "Green-manure crops are incorporated into the soil at a suitable stage.",
+            "Legumes and nitrogen-fixing plants are especially useful."
+          ]
+        }
+      ],
+      "source": "pp.43-46",
+      "related": [
+        "organic-components",
+        "integrated-nutrient-management"
+      ]
+    },
+    {
+      "slug": "farming-system",
+      "title": "Farming System",
+      "category": "definition",
+      "definition": "A holistic farm-management approach integrating crops and allied enterprises so that outputs or wastes of one enterprise become inputs for another.",
+      "sections": [
+        {
+          "heading": "Examples",
+          "type": "points",
+          "content": [
+            "Crops.",
+            "Dairy.",
+            "Poultry.",
+            "Fishery.",
+            "Sericulture.",
+            "Piggery.",
+            "Apiary.",
+            "Tree crops."
+          ]
+        },
+        {
+          "heading": "Integration examples",
+          "type": "points",
+          "content": [
+            "Dairy dung and urine can produce FYM or compost.",
+            "Crop straw can feed dairy cattle.",
+            "Mulberry leaves feed silkworms.",
+            "Maize grain can be used as poultry feed."
+          ]
+        },
+        {
+          "heading": "Objective",
+          "type": "points",
+          "content": [
+            "Optimize production through efficient input use.",
+            "Maintain environmental quality.",
+            "Support national goals and farm-household needs."
+          ]
+        }
+      ],
+      "source": "pp.47-50",
+      "related": [
+        "farming-system-principles",
+        "resource-recycling"
+      ]
+    },
+    {
+      "slug": "farming-system-principles",
+      "title": "Principles and Scope of Farming System",
+      "category": "principles",
+      "definition": "Farming-system planning integrates resource, enterprise, economic and environmental considerations.",
+      "sections": [
+        {
+          "heading": "Overall objectives",
+          "type": "points",
+          "content": [
+            "Identify existing farming systems.",
+            "Develop models combining main and allied enterprises.",
+            "Optimize utilization and conservation of resources.",
+            "Maintain sustainable production without resource damage.",
+            "Increase farm-household profitability through complementary enterprises."
+          ]
+        },
+        {
+          "heading": "Scope factors",
+          "type": "points",
+          "content": [
+            "Soil and climate.",
+            "Land, labour and capital availability.",
+            "Current resource utilization.",
+            "Economics of the proposed system.",
+            "Farmer's managerial skill."
+          ]
+        },
+        {
+          "heading": "Enterprise-selection factors",
+          "type": "points",
+          "content": [
+            "Local soil and climate.",
+            "Farmer resources.",
+            "Existing resource use.",
+            "System economics.",
+            "Managerial skill.",
+            "Local social customs."
+          ]
+        }
+      ],
+      "source": "pp.47-49",
+      "related": [
+        "farming-system",
+        "farming-system-characteristics"
+      ]
+    },
+    {
+      "slug": "farming-system-research",
+      "title": "Farming System Research (FSR)",
+      "category": "research",
+      "definition": "A participatory research approach based on interdependence among farming-system components and the natural environment.",
+      "sections": [
+        {
+          "heading": "Core idea",
+          "type": "points",
+          "content": [
+            "Farmers participate in identifying research problems.",
+            "Farmers participate in testing possible solutions.",
+            "Technology should be evaluated beyond technical performance.",
+            "Research should be grounded in small-farmer conditions."
+          ]
+        }
+      ],
+      "source": "pp.48-50",
+      "related": [
+        "farming-system",
+        "farming-system-characteristics"
+      ]
+    },
+    {
+      "slug": "farming-system-characteristics",
+      "title": "Characteristics of Farming System",
+      "category": "characteristics",
+      "definition": "Features that make farming-system research and development farmer-oriented, location-specific and sustainability-focused.",
+      "sections": [
+        {
+          "heading": "Characteristics",
+          "type": "points",
+          "content": [
+            "Farmer-oriented and holistic.",
+            "Effective farmer participation.",
+            "Problem-solving approach.",
+            "Dynamic system.",
+            "Gender sensitive.",
+            "Responsible to society.",
+            "Environmental sustainability.",
+            "Location-specific technology.",
+            "Diversified enterprises to reduce environmental risk."
+          ]
+        },
+        {
+          "heading": "Additional characteristics",
+          "type": "points",
+          "content": [
+            "Bottom-up approach.",
+            "Focus on small and marginal farmers.",
+            "Extensive on-farm activities.",
+            "Collaboration between farmers and scientists.",
+            "Focus on actual adoption.",
+            "Recognizes interdependence among multiple clients."
+          ]
+        }
+      ],
+      "source": "pp.50-51",
+      "related": [
+        "farming-system-research",
+        "farming-system-principles"
+      ]
+    },
+    {
+      "slug": "objectives-farming-system",
+      "title": "Objectives of Farming System",
+      "category": "objectives",
+      "definition": "Production, income, employment, resource-use and environmental objectives achieved through integrated enterprises.",
+      "sections": [
+        {
+          "heading": "Objectives",
+          "type": "points",
+          "content": [
+            "Increase productivity per unit area and time.",
+            "Improve profitability through complementary enterprises.",
+            "Promote balanced food production.",
+            "Improve environmental safety.",
+            "Provide income or cash flow throughout the year.",
+            "Help meet fodder requirements.",
+            "Help meet timber and fuel requirements.",
+            "Generate employment.",
+            "Create scope for agro-industries.",
+            "Improve input-use efficiency.",
+            "Reduce production risk through enterprise diversification."
+          ]
+        }
+      ],
+      "source": "pp.51-52",
+      "related": [
+        "farming-system"
+      ]
+    },
+    {
+      "slug": "determinants-farming-system",
+      "title": "Determinants of Farming System",
+      "category": "determinants",
+      "definition": "Physical, biological, resource and human factors that determine the type of farming system.",
+      "sections": [
+        {
+          "heading": "Factors",
+          "type": "points",
+          "content": [
+            "Physical and biological conditions set limits on suitable enterprises.",
+            "Quantity and quality of land, water and other resources influence choices.",
+            "Farmer goals and attitudes affect the system.",
+            "Resource availability and resource-use level shape enterprise combinations."
+          ]
+        }
+      ],
+      "source": "p.52",
+      "related": [
+        "farming-system-principles"
+      ]
+    },
+    {
+      "slug": "cropping-system",
+      "title": "Cropping System",
+      "category": "component",
+      "definition": "Principles and practices of cropping and their interaction with farm resources, technology and environmental conditions.",
+      "sections": [
+        {
+          "heading": "Multiple cropping",
+          "type": "points",
+          "content": [
+            "Sequential cropping: two or more crops grown in sequence on the same field in a year.",
+            "Intercropping: two or more dissimilar crops grown simultaneously."
+          ]
+        },
+        {
+          "heading": "Types of intercropping",
+          "type": "points",
+          "content": [
+            "Mixed intercropping: simultaneous crops without distinct rows.",
+            "Row intercropping: crops arranged in different rows.",
+            "Strip intercropping: crops grown in strips wide enough for independent management.",
+            "Relay intercropping: crops introduced in sequence so growth cycles overlap."
+          ]
+        },
+        {
+          "heading": "Other terms",
+          "type": "points",
+          "content": [
+            "Monoculture: repetitive growing of a sole crop.",
+            "Diversification and multiple cropping can help distribute production risk."
+          ]
+        }
+      ],
+      "source": "pp.53-54",
+      "related": [
+        "farming-system",
+        "dairy-integration"
+      ]
+    },
+    {
+      "slug": "dairy-integration",
+      "title": "Dairy Integration in Farming System",
+      "category": "component",
+      "definition": "Integration of dairy livestock with cropping to diversify income, recycle nutrients and reduce production risk.",
+      "sections": [
+        {
+          "heading": "Benefits",
+          "type": "points",
+          "content": [
+            "Livestock diversification helps reduce risk.",
+            "Forage crops transfer nutrients within the farm.",
+            "Dung can be used as crop manure.",
+            "Crop residues provide livestock feed."
+          ]
+        },
+        {
+          "heading": "Cattle groups",
+          "type": "points",
+          "content": [
+            "Draft breeds.",
+            "Dairy breeds.",
+            "Dual-purpose breeds.",
+            "Exotic breeds.",
+            "Buffaloes."
+          ]
+        },
+        {
+          "heading": "Feed groups",
+          "type": "points",
+          "content": [
+            "Roughages: legumes, non-legume hays, straw and silage.",
+            "Concentrates: grains and grain/oilseed by-products.",
+            "Vitamin and mineral mixtures may supplement rations."
+          ]
+        }
+      ],
+      "source": "pp.54-56",
+      "related": [
+        "farming-system",
+        "resource-recycling"
+      ]
+    },
+    {
+      "slug": "biogas",
+      "title": "Biogas / Gobar Gas Plant",
+      "category": "component",
+      "definition": "A farm enterprise that converts animal dung and organic material into biogas and nutrient-rich slurry.",
+      "sections": [
+        {
+          "heading": "Types",
+          "type": "points",
+          "content": [
+            "Float-dome type, including KVIC models.",
+            "Fixed-dome type."
+          ]
+        },
+        {
+          "heading": "Technical points from source",
+          "type": "points",
+          "content": [
+            "Dry residual sludge contains approximately N 1.4–1.8%, P2O5 1.1–2.0% and K2O 0.8–1.2%.",
+            "Fresh dung gas yield is stated as about 0.04–0.1 m³ per kg per day, depending on temperature.",
+            "Gas production is highest around 30–35°C.",
+            "Production decreases sharply below 10°C.",
+            "One m³ of biogas is stated as equivalent to about 0.62 litres of kerosene."
+          ]
+        }
+      ],
+      "source": "pp.56-57",
+      "related": [
+        "dairy-integration",
+        "resource-recycling"
+      ]
+    },
+    {
+      "slug": "sheep-goat",
+      "title": "Sheep and Goat Rearing",
+      "category": "component",
+      "definition": "A livestock enterprise suitable for diverse agro-climatic conditions and small-farm resource bases.",
+      "sections": [
+        {
+          "heading": "Advantages",
+          "type": "points",
+          "content": [
+            "High adaptability to different agro-climatic conditions.",
+            "Disease tolerance is noted in the source.",
+            "Multiple kids and relatively fast growth support production.",
+            "Provides employment through the year.",
+            "Small and marginal farmers can maintain animals with available fodder."
+          ]
+        },
+        {
+          "heading": "Feed",
+          "type": "points",
+          "content": [
+            "Green fodder includes legumes and cereals.",
+            "Crop residues can be used with suitable treatment or supplementation.",
+            "Concentrates include grains, bran, oilseed products and other feed materials."
+          ]
+        }
+      ],
+      "source": "pp.57-59",
+      "related": [
+        "farming-system"
+      ]
+    },
+    {
+      "slug": "poultry",
+      "title": "Poultry Farming",
+      "category": "component",
+      "definition": "A livestock enterprise integrated into farming systems for eggs, meat, income and nutrient recycling.",
+      "sections": [
+        {
+          "heading": "Management",
+          "type": "points",
+          "content": [
+            "Day-old chicks are commonly used to start a unit.",
+            "Poultry houses need ventilation, water and power.",
+            "The site should be well drained and protected from floodwater.",
+            "Shed width is stated as not exceeding about 25–33 feet."
+          ]
+        },
+        {
+          "heading": "Feed and cost",
+          "type": "points",
+          "content": [
+            "The source states feed may account for 70–75% of poultry-farming expenditure.",
+            "Maize, rice bran and groundnut cake are examples of feed ingredients in an IFS model."
+          ]
+        }
+      ],
+      "source": "pp.59-61",
+      "related": [
+        "farming-system",
+        "wetland-ifs"
+      ]
+    },
+    {
+      "slug": "fisheries",
+      "title": "Fisheries in Farming System",
+      "category": "component",
+      "definition": "Fish culture integrated with crops and livestock to use farm water resources and recycle nutrients.",
+      "sections": [
+        {
+          "heading": "Fish species and feeding niches",
+          "type": "points",
+          "content": [
+            "Catla is described as a fast-growing Indian major carp and a surface/vegetation feeder.",
+            "Rohu is a column feeder.",
+            "Calbasu is a bottom feeder on detritus.",
+            "Mrigal is also associated with bottom feeding.",
+            "Silver carp mainly feeds on phytoplankton near the surface.",
+            "Grass carp feeds on aquatic plants and cut grass."
+          ]
+        },
+        {
+          "heading": "Integration",
+          "type": "points",
+          "content": [
+            "Fish ponds can receive nutrient-rich wastes from poultry or livestock.",
+            "Water availability and pond location are important for IFS planning."
+          ]
+        }
+      ],
+      "source": "pp.60-62",
+      "related": [
+        "farming-system",
+        "wetland-ifs"
+      ]
+    },
+    {
+      "slug": "apiculture",
+      "title": "Bee Keeping / Apiculture",
+      "category": "component",
+      "definition": "Management of honey bees for honey and other products while supporting crop pollination.",
+      "sections": [
+        {
+          "heading": "Bee species",
+          "type": "points",
+          "content": [
+            "Apis cerana is better acclimatized to higher Himalayan areas.",
+            "Apis mellifera and Apis dorsata are described as more profitable in plains."
+          ]
+        },
+        {
+          "heading": "Management",
+          "type": "points",
+          "content": [
+            "Beekeepers should know local nectar and pollen sources.",
+            "Nectar sources include tamarind, mango, guava and many fruit crops.",
+            "Pollen sources include maize, sorghum, millets, sunflower and palm."
+          ]
+        },
+        {
+          "heading": "Timing",
+          "type": "points",
+          "content": [
+            "The source identifies arrival of suitable nectar/pollen sources as important for starting beekeeping."
+          ]
+        }
+      ],
+      "source": "pp.61-62",
+      "related": [
+        "farming-system"
+      ]
+    },
+    {
+      "slug": "sericulture",
+      "title": "Sericulture",
+      "category": "component",
+      "definition": "Integrated production involving mulberry cultivation, silkworm rearing and silk reeling.",
+      "sections": [
+        {
+          "heading": "Core terms",
+          "type": "points",
+          "content": [
+            "Moriculture = cultivation of mulberry.",
+            "Mulberry is the chief food plant for the mulberry silkworm, Bombyx mori.",
+            "Sericulture includes mulberry cultivation, silkworm rearing and silk reeling."
+          ]
+        },
+        {
+          "heading": "Source details",
+          "type": "points",
+          "content": [
+            "The source states about 240 thousand ha under mulberry in India.",
+            "Silk production contributes to rural socio-economic development in some areas.",
+            "Silk goods are exported to multiple international markets."
+          ]
+        }
+      ],
+      "source": "pp.62-64",
+      "related": [
+        "farming-system"
+      ]
+    },
+    {
+      "slug": "agroforestry",
+      "title": "Agroforestry in Farming System",
+      "category": "component",
+      "definition": "Integrated land management combining trees with crops, animals or other agricultural enterprises.",
+      "sections": [
+        {
+          "heading": "Purpose",
+          "type": "points",
+          "content": [
+            "Supports integrated and self-sustained land management.",
+            "Can supply fuel, fodder, fruit and timber.",
+            "Can support soil conservation and nutrient cycling."
+          ]
+        },
+        {
+          "heading": "Agri-horticultural system",
+          "type": "points",
+          "content": [
+            "Fruit trees are combined with short-duration arable crops.",
+            "Also called food-cum-fruit system.",
+            "Fruit-tree examples: guava, pomegranate, custard apple, sapota and mango.",
+            "Pulses are important arable crops for this system."
+          ]
+        },
+        {
+          "heading": "Alley cropping",
+          "type": "points",
+          "content": [
+            "Food crops are grown in alleys formed by tree or shrub hedgerows."
+          ]
+        },
+        {
+          "heading": "Tree farming",
+          "type": "points",
+          "content": [
+            "Useful where arable crops are less profitable.",
+            "Dryland farmers may prefer trees because of labour scarcity and drought-related crop failure."
+          ]
+        }
+      ],
+      "source": "pp.64-66",
+      "related": [
+        "farming-system",
+        "natural-resource-management"
+      ]
+    },
+    {
+      "slug": "other-ifs-enterprises",
+      "title": "Other Integrated Farm Enterprises",
+      "category": "component",
+      "definition": "Additional enterprises that can diversify farming systems.",
+      "sections": [
+        {
+          "heading": "Enterprises listed",
+          "type": "points",
+          "content": [
+            "Rabbit rearing.",
+            "Duck rearing.",
+            "Turkey rearing.",
+            "Piggery.",
+            "Mushroom cultivation."
+          ]
+        },
+        {
+          "heading": "Mushroom cultivation",
+          "type": "points",
+          "content": [
+            "Mushroom is an edible fungus.",
+            "It can use agricultural residues and fit into integrated systems."
+          ]
+        }
+      ],
+      "source": "p.66",
+      "related": [
+        "farming-system"
+      ]
+    },
+    {
+      "slug": "wetland-ifs",
+      "title": "IFS Model for Wetland Situation",
+      "category": "model",
+      "definition": "An integrated rice-based system combining crop, fish, poultry and mushroom enterprises.",
+      "sections": [
+        {
+          "heading": "Model components",
+          "type": "points",
+          "content": [
+            "Rice-based cropping.",
+            "Fish culture.",
+            "Poultry.",
+            "Mushroom production."
+          ]
+        },
+        {
+          "heading": "Example model",
+          "type": "points",
+          "content": [
+            "Cropping area: 0.36 ha.",
+            "Fish pond: 0.04 ha.",
+            "Fish pond depth: 1.5 m.",
+            "Fish stocking: about 7,500 fingerlings/ha.",
+            "Poultry shed placed near the fish pond.",
+            "Poultry droppings fall into the fish pond.",
+            "Oyster mushroom is produced using rice straw."
+          ]
+        },
+        {
+          "heading": "Economic result in source",
+          "type": "number",
+          "content": [
+            "Net profit reported: Rs. 11,755.",
+            "Conventional cropping comparison: Rs. 6,335.",
+            "Additional employment: 174 man-days."
+          ]
+        }
+      ],
+      "source": "p.67",
+      "related": [
+        "farming-system",
+        "paddy-fish-culture"
+      ]
+    },
+    {
+      "slug": "cauvery-ifs",
+      "title": "IFS Model: Tamil Nadu Cauvery Delta Zone",
+      "category": "model",
+      "definition": "A rice–poultry–fish integrated system designed for a canal-irrigated rice-growing zone.",
+      "sections": [
+        {
+          "heading": "System",
+          "type": "points",
+          "content": [
+            "One-hectare model.",
+            "Fish pond: 0.04 ha.",
+            "Cropping: rice–rice–cotton on 0.76 ha.",
+            "Cropping: rice–rice–maize on 0.20 ha.",
+            "Maize supplies a major poultry-feed component."
+          ]
+        },
+        {
+          "heading": "Poultry and fish",
+          "type": "points",
+          "content": [
+            "Poultry unit uses Babcock and hybrid layer birds in the source model.",
+            "Feed includes maize, rice bran and groundnut cake.",
+            "Fish pond is located near the poultry shed.",
+            "Fish stocking density: about 10,000 fingerlings/ha.",
+            "Fish harvesting begins after about six and a half months."
+          ]
+        },
+        {
+          "heading": "Economic result",
+          "type": "number",
+          "content": [
+            "Net return reported: Rs. 17,200.",
+            "Employment generated: 385 man-days."
+          ]
+        }
+      ],
+      "source": "p.67",
+      "related": [
+        "wetland-ifs",
+        "farming-system"
+      ]
+    },
+    {
+      "slug": "irrigated-ifs",
+      "title": "IFS Model for Irrigated Situation",
+      "category": "model",
+      "definition": "A one-hectare integrated model combining crops, fodder, dairy, biogas and mushroom production.",
+      "sections": [
+        {
+          "heading": "Cropping components",
+          "type": "points",
+          "content": [
+            "Cotton–green gram–maize + fodder cowpea–Bellary onion: 0.56 ha.",
+            "Wheat–sunflower–maize + fodder cowpea–summer cotton + green gram: 0.11 ha.",
+            "Grass Bajra Napier: 0.15 ha.",
+            "Lucerne: 0.05 ha.",
+            "Leucaena on bunds: 0.05 ha.",
+            "Total: 1.00 ha."
+          ]
+        },
+        {
+          "heading": "Farmstead",
+          "type": "points",
+          "content": [
+            "Dairy: 3 Jersey cows + 2 calves.",
+            "Biogas: 2 m³ capacity.",
+            "Mushroom production: 1.5–2.0 kg/ha as stated in the source."
+          ]
+        },
+        {
+          "heading": "Results",
+          "type": "number",
+          "content": [
+            "Mean revenue: Rs. 34,600/ha under IFS.",
+            "Conventional comparison: Rs. 13,950.",
+            "Employment: about 770 man-days/year.",
+            "Crop by-products are recycled into dairy feed.",
+            "Dung is recycled through the biogas unit."
+          ]
+        }
+      ],
+      "source": "p.68",
+      "related": [
+        "farming-system",
+        "biogas",
+        "dairy-integration"
+      ]
+    },
+    {
+      "slug": "paddy-fish-culture",
+      "title": "Paddy-Cum-Fish Culture",
+      "category": "model",
+      "definition": "Rice production integrated with fish culture in water-retaining paddy fields.",
+      "sections": [
+        {
+          "heading": "Suitable conditions",
+          "type": "points",
+          "content": [
+            "Paddy fields remain flooded for about 3–8 months.",
+            "Low-lying fields with good water availability are preferred.",
+            "Soil should retain water and be fertile."
+          ]
+        },
+        {
+          "heading": "Fish species",
+          "type": "points",
+          "content": [
+            "Cyprinus carpio var. communis: scale carp.",
+            "Cyprinus carpio var. specularis: mirror carp.",
+            "Cyprinus carpio var. nudus: leather carp."
+          ]
+        },
+        {
+          "heading": "Field preparation",
+          "type": "points",
+          "content": [
+            "Construct strong bunds to retain water and prevent fish escape.",
+            "Level the field.",
+            "Provide irrigation and drainage channels.",
+            "Use inlets and outlets for water management.",
+            "Stock fish about 10–15 days after rice transplantation."
+          ]
+        }
+      ],
+      "source": "pp.68-69",
+      "related": [
+        "wetland-ifs",
+        "fisheries"
+      ]
+    },
+    {
+      "slug": "paddy-fish-management",
+      "title": "Management and Production of Paddy-Cum-Fish Culture",
+      "category": "management",
+      "definition": "Water, nutrient, stocking, harvesting and marketing practices for integrated rice-fish production.",
+      "sections": [
+        {
+          "heading": "Water and inputs",
+          "type": "points",
+          "content": [
+            "Water can be diverted from streams through wooden or bamboo barriers.",
+            "Organic fertilizers include poultry droppings, pig excreta, cow dung and plant wastes.",
+            "The source specifies no chemical insecticide, pesticide or fertilizer during the described integrated system."
+          ]
+        },
+        {
+          "heading": "Stocking",
+          "type": "points",
+          "content": [
+            "Fish seed rate: about 2,500 fish/ha.",
+            "Fish rearing period: 3–6 months.",
+            "Paddy rearing period: 5–7 months."
+          ]
+        },
+        {
+          "heading": "Harvest",
+          "type": "points",
+          "content": [
+            "3–4 months fish culture: about 200–300 kg/ha reported.",
+            "5–6 months fish culture: about 400–500 kg/ha reported.",
+            "Water is drained through outlets before fish harvesting.",
+            "Paddy is harvested after fish harvesting."
+          ]
+        },
+        {
+          "heading": "Production and marketing",
+          "type": "points",
+          "content": [
+            "Paddy production is reported as about 3,500–4,500 kg/ha.",
+            "Fish may be sold live or fresh in local markets.",
+            "Source reports live fish at Rs.120/kg and fresh fish at Rs.100/kg during the cited period.",
+            "Prices fluctuate with season."
+          ]
+        }
+      ],
+      "source": "pp.69-70",
+      "related": [
+        "paddy-fish-culture",
+        "wetland-ifs"
+      ]
+    },
+    {
+      "slug": "groundwater-management",
+      "title": "Groundwater Management",
+      "category": "resource",
+      "definition": "Management of groundwater extraction and recharge to avoid depletion and support sustainable irrigation.",
+      "sections": [
+        {
+          "heading": "Problems",
+          "type": "points",
+          "content": [
+            "Increasing wells can increase extraction from limited aquifers.",
+            "Excess extraction lowers the groundwater table.",
+            "Over-irrigation can accumulate harmful salts."
+          ]
+        },
+        {
+          "heading": "Sustainable approach",
+          "type": "points",
+          "content": [
+            "Maximize groundwater recharge.",
+            "Minimize surface runoff.",
+            "Use conjunctive surface- and groundwater management.",
+            "Use recharge wells, check dams and percolation ponds where suitable."
+          ]
+        }
+      ],
+      "source": "pp.8,10",
+      "related": [
+        "water-resource-management",
+        "ecological-balance-factors"
+      ]
+    }
+  ]
+}

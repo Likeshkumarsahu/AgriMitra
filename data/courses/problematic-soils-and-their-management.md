@@ -1,0 +1,4106 @@
+---
+title: "Problematic-Soils-and-Their-Management"
+slug: "problematic-soils-and-their-management"
+category: "Soil Science"
+source: "agri-data/Problematic-Soils-and-Their-Management.pdf"
+---
+
+Problematic Soils and Their Management
+
+Problematic Soils and Their Management
+
+## Problematic Soils And Their Management
+## Department Of Soil Science And Agricultural Chemistry
+Compiled BY
+Dr. Yanendra kumar singh
+Dr. Arun kumar jha
+Dr. Ragini kumari
+Dr. Shweta shambhavi
+Dr. Sankar chandra paul
+
+## Bihar Agricultural College, Sabour,
+## Bhagalpur
+## Bihar Agricultural University, Sabour,
+## Bhagalpur -813210
+Problematic Soils and Their Management
+
+SN
+
+Introduction
+
+Page
+No.
+
+Soil health and quality
+
+Distribution of waste land and problem soils in India
+
+Reclamation and management of saline and sodic soils
+
+Acid soils
+
+Acid sulphate soils
+
+Compacted soils
+
+Eroded soils
+
+Physical processes responsible for soil erosion
+
+Waterlogged soils
+
+Polluted soil
+
+Irrigation water – quality and standards
+
+Use of saline water in agriculture
+
+Remote sensing and gis in diagnosis and management of problem soils
+
+Multipurpose trees and its use for bioremediation of soil
+
+Land capability and suitability classification
+
+Land suitability classification
+
+Problematic soils under different agro-ecosystem in india
+
+Tittle
+
+Problematic Soils and Their Management
+## Introduction
+"The multiple roles of soils often go unnoticed. Soils don‘t have a voice, and few
+people speak out for them. They are our silent ally in food production."
+Jose Graziano da Silva, FAO Director-General
+Soil is a natural finite resource base which sustains life on earth. It is a three phase
+dynamic system that performs many functions and ecosystem services and highly
+heterogeneous. Soil biota is the biological universe which helps the soil in carrying out its
+functions. Often soil health is considered independently without referring to interlinked soil
+functions and also based on soil test for few parameters. Physical condition of soil and
+biological fertility are overlooked in soil health management which needs revisiting of soil
+users. Recognising the importance of soil health in all dimensions, 2015 has been declared
+as the International Year of Soils by the 68th UN General Assembly. Food and Agriculture
+- rganisation of the United Nations has formed Global soil partnership with various
+countries to promote healthy soils for a healthy life and world without hunger. India, the
+second most populous country in the world faces severe problems in agriculture. It is
+estimated that out of the 328.8 m ha of the total geographical area in India, 173.65 m ha are
+degraded, producing less than 20% of its potential yield (Govt. of India, 1990).
+Soil heterogeneity is the reasons for the diverse nature of cropping and production pattern.
+Soil heterogeneity is the case where soil in a relatively small area varies greatly in texture,
+fertility, topography, moisture content, drainage etc. If it exists in large scale due to the
+parent material or manmade activities, then the problem of soil suitability to agriculture
+arises.
+Soil consists of a solid phase (minerals and organic matter) as well as a porous phase that
+holds gases and water. Accordingly, soils are often treated as a three-state system.
+The soils which possess characteristics that make them uneconomical for the
+cultivation of crops without adopting proper reclamation measures are known as problem
+soils.
+
+Problematic Soils and Their Management
+
+## Soil Health And Quality
+Soil health is the capacity of soil to function as a vital living system, within ecosystem and land-use
+boundaries, to sustain plant and animal productivity, maintain or enhance water and air quality, and
+promote plant and animal health. Anthropogenic reductions in soil health, and of individual
+components of soil quality, are a pressing ecological concern. A conference
+entitled ‗Soil Health: Managing the Biological Component of Soil Quality‘ was held was held in the
+USA in November 1998 to help increase awareness of the importance and utility of soil organisms
+as indicators of soil quality and determinants of soil health. To evaluate sustainability of
+agricultural practices, assessment of soil health using various indicators of soil quality is needed.
+Soil organism and biotic parameters (e.g. abundance, diversity, food web structure, or community
+stability) meet most of the five criteria for useful indicators of soil quality. Soil organisms respond
+sensitively to land management practices and climate. They are well correlated with beneficial soil
+and ecosystem functions including water
+
+storage, decomposition and nutrient cycling,
+
+detoxification of toxicants, and suppression of noxious and pathogenic organisms. Soil organisms
+also illustrate the chain of cause and effect that links land management decisions to ultimate
+productivity and health of plants and animals. Indicators must be comprehensible and useful to land
+managers, who are the ultimate stewards of soil quality and soil health. Visible organisms such as
+earthworms, insects, and molds have historically met this criterion. Finally, indicators must be easy
+and inexpensive to measure, but the need for knowledge of taxonomy complicates the measurement
+- f soil organisms. Several farmer-participatory programs for managing soil quality and health have
+incorporated abiotic and simple biotic indicators. The challenge for the future is to develop
+sustainable management systems which are the vanguard of soil health; soil quality indicators are
+merely a means towards this end.
+Introduction: Interest in evaluating the quality and health of our soil resources has been
+stimulated by increasing awareness that soil is a critically important component of the earth‘s
+biosphere, functioning not only in the production of food and fibre but also in the
+maintenance of local, regional, and global environmental quality. Soil is also the basis of
+agricultural and of natural plant communities. Thus, the thin layer of soil covering the surface
+- f the earth represents the difference between survival and extinction for most land-based
+life. However, inventories of soil productive capacity indicate human-induced degradation on
+nearly 40% of the world‘s agricultural land as a result of soil erosion, atmospheric pollution,
+and extensive soil cultivation, over-grazing, land clearing, salinization, and desertification.
+Indeed, degradation and loss of productive agricultural land is one of our most pressing
+ecological concerns, rivalled only by human caused environmental problems like global
+climate change, depletion of the protective ozone layer, and serious declines in biodiversity.
+ 
+Food and Agricultural organization (FAO) has defined soil health as under:
+
+Problematic Soils and Their Management
+
+"Soil health is the capacity of soil to function as a living system, with ecosystem and land use
+boundaries, to sustain plant and animal productivity, maintain or enhance water and air
+quality, and promote plant and animal health. Healthy soils maintain a diverse community of
+soil organisms that help to control plant disease, insect and weed pests, form beneficial
+symbiotic associations with plant roots; recycle essential plant nutrients; improve soil
+structure with positive repercussions for soil water and nutrient holding capacity, and
+ultimately improve crop production". However, soil quality has been defined by the Soil
+Science Society of America Ad Hoc Committee on soil quality (S-581) as ‗the capacity of a
+specific kind of soil to function, within natural or managed ecosystem boundaries, to sustain
+plant and animal productivity, maintain or enhance water and air quality, and support
+human health and habitation‘. The term ‘soil health‘ is preferred by some because it portrays
+soil as a living, dynamic system whose functions are mediated by a diversity of living
+- rganisms that require management and conservation. Soil health, biodiversity, and soil
+resilience are severely limited in extreme environments and are more sensitive to
+anthropogenic disturbance. However use of the term soil quality will generally be associated
+with a soils‘ fitness for a specific use and the term soil health used in a broader sense to
+indicate the capacity of soil to function as a vital living system to sustain biological
+productivity, promote environmental quality, and maintain plant and animal health. In this
+sense soil health is synonymous with sustainability. The soil health approach is better applied
+when specific goals are defined for a desired outcome from a set of decisions. Therefore we
+can think of the soil health soil quality as an evaluation process which consists of a series of
+actions:◻ Selection of soil health indicators
+◻ Determination of a minimum data set (MDS)
+◻ Development of an interpretation scheme of indices
+◻ On-farm assessment and validation
+The quality of a soil includes an inherent component, determined by the soil‘s
+physical and chemical properties within the constraints set by climate and ecosystem. In
+addition, soil quality includes a component affected by management and land-use decisions.
+Unfortunately, past management of agriculture and other ecosystems has substantially
+degraded and reduced the quality of many soils throughout the world. In particular,
+mechanical cultivation and the continuous production of row crops has resulted in physical
+loss of soil, displacement through erosion, and large decreases in soil organic matter content
+with a concomitant release of CO2 to the atmosphere. Further, the projected doubling of the
+
+Problematic Soils and Their Management
+
+human population in the next century threatens accelerated degradation of soils and other
+natural resources. Thus, to preserve agriculture for future generations, we must develop
+production systems that conserve and enhance soil quality.
+As a small step towards this end, a conference entitled ‗Soil Health: Managing the
+Biological Component of Soil Quality‘ was held as part of the joint annual meeting of the
+Entomological Society of America (ESA) and the American Phytopathology Society (APS)
+which convened in Las Vegas, Nevada in November 1998. The goals of the conference were
+to increase awareness within the ESA and APS of the utility of soil organisms as indicators of
+soil quality, and to permit researchers from diverse disciplines to integrate results from
+multiple taxa of soil organisms. The overarching objective was to help ‗translate science into
+practice‘ by providing a forum for researchers and extension workers to discuss farmerparticipatory programs for managing soil quality.
+Soil quality: indicator of sustainable land management
+Developing sustainable land management systems is complicated by the need to
+consider their utility to humans, their efficiency of resource use, and their ability to maintain
+a balance with the environment that is favourable both to humans and most other species. In
+particular, it is challenged to develop agricultural management systems that balance the needs
+for production of food and fibre with those for maintenance of the environment. In short, the
+assessment of soil quality or health, and direction of change with time, is the primary
+indicator of sustainable land management.
+Although soil‘s contribution to plant productivity is widely recognized, soil condition
+also impacts water and air quality. The quality of surface and sub-surface water has been
+jeopardized in many parts of the world by intensive land management practices and the
+consequent imbalance of C, N, and water cycling in soil. Agriculture is considered the most
+widespread contributor to nonpoint source water pollution in the USA (National Research
+Council, 1993). The major water contaminant in North America and Europe is nitrate
+nitrogen, the principal sources of which are conversion of unmanaged land to intensive
+agriculture, animal manures, atmospheric deposition, and commercial fertilizers. Human
+alterations of the nitrogen cycle have almost doubled the rate of nitrogen input to terrestrial
+ecosystems over the past 30 years resulting in large increases in the transfer of nitrogen from
+land to the atmosphere and to rivers, estuaries, and coastal oceans. Soil management practices
+such as tillage, cropping patterns, and pesticide and fertilizer use influence water quality. In
+addition, these management practices can influence atmospheric quality through changes in
+the soil‘s capacity to produce or consume important atmospheric gases such as carbon
+
+Problematic Soils and Their Management
+
+dioxide, nitrous oxide, and methane. The present threat of global climate change and ozone
+depletion, through elevated levels of greenhouse gases and altered hydrological cycles,
+necessitates a better understanding of the influence of land management on soil processes. In
+summary, the quality and health of soil determine agricultural sustainability, environmental
+quality, and as a consequence of both, plant, animal, and human health. Scientists make a
+significant contribution to sustainable land management by translating scientific knowledge
+and information on soil function into practical tools and approaches by which land managers
+can assess the sustainability of their management practices. Specifically, assessment of soil
+quality/health is needed to identify problem production areas, make realistic estimates of food
+production, monitor changes in sustainability and environmental quality as related to
+agricultural management, and to assist government agencies in formulating and evaluating
+sustainable agricultural and land-use policies.
+Use of one given approach for assessing or indexing soil quality is fraught with
+complexity and precludes its practical or meaningful use by land managers or policy makers.
+However, the use of simple indicators of soil quality and health which have meaning to
+farmers and other land managers will likely be the most fruitful means of linking science with
+practice in assessing the sustainability of management practices.
+Soil Health Indicators: Minimum dataset required to be documented in soil health must be
+sufficient to indicate about health of the soil, to decide best suited crop/(s) for the field and to
+prescribe manure and or fertilizers for highest or targeted yields of crops. But, it is surprising
+that most of the soil testing laboratories incorporate only the dataset related to nutrient status,
+pH, electrical conductivity and organic carbon content of the supplied soil sample in
+respective soil health card. In the opinion of authors, this data set is incomplete and required
+to be modified. For example, dose and scheduling of nitrogenous fertilizer depends greatly on
+textural classes of soil and data set related to this parameter is not supplied with health card.
+Doran et al (1996) have proposed the minimum data set of physical, chemical and biological
+indicators for determining the quality or health of the soil in their literature published in
+Advances in Agronomy are as under:
+Physical indicators:
+➢ Texture
+➢ Depth of soil and rooting
+➢ Infiltration and soil bulk density
+➢ Water holding capacity
+Chemical Indicators:
+
+Problematic Soils and Their Management
+
+➢ Total soil organic matter
+➢ Active organic matter
+➢ pH
+➢ Electrical conductivity
+➢ Extractable N, P and K
+Biological Indicator:
+➢ Microbial biomass C and N
+➢ Potentially mineralizable N
+➢ Specific respiration
+➢ Macro organism numbers
+However, Johnson et al. (1997) defined soil quality as ‗a measure of the condition of soil
+relative to the requirements of one or more biological species and/or to any human purpose‘.
+
+Problematic Soils and Their Management
+## Distribution Of Waste Land And Problem Soils In India
+Wasteland: The National Wasteland Development Board (NWBD) has defined
+wasteland as ―degraded land which can be brought under vegetative cover with reasonable
+effort and which is currently underutilized and land which is deteriorating for lack of
+appropriate water and soil management or on account of natural causes‖
+Categories of Wasteland in India
+
+•
+
+Gullies and/or ravines
+
+•
+
+Upland with or without scrub
+
+•
+
+Waterlogged and marshy land
+
+•
+
+Land affected by salinity/alkalinity in coastal and inland areas
+
+•
+
+Land under shifting cultivation
+
+•
+
+Underutilized/ degraded notified forest land
+
+•
+
+Degraded pasture/grazing land
+
+•
+
+Degraded land under plantation crops
+
+•
+
+Shifting sands-inland/coastal
+
+•
+
+Mining/industrial wasteland
+
+•
+
+Barren rocky/stony waste/sheet rock areas
+
+•
+
+Steep sloping area
+
+•
+
+Snow covered and/or glacial area
+
+Problematic Soils and Their Management
+
+Table: India - State-wise distribution of Wastelands
+Area in Sq km
+Sl. No. STATE NAME
+TGA
+Total WL
+% to TGA
+Andhra Pradesh
+275068
+38788.22
+14.10
+Arunachal Pradesh
+83743
+5743.84
+6.86
+Assam
+78438
+8778.02
+11.19
+Bihar
+94171
+6841.09
+7.26
+Chattisgarh
+135194
+11817.82
+8.74
+Delhi
+83.34
+5.62
+Goa
+496.27
+13.41
+Gujarat
+196024
+21350.38
+10.89
+Haryana
+44212
+2347.05
+5.31
+Himachal Pradesh
+55673
+22470.05
+40.36
+Jammu & Kashmir *
+101387
+73754.38
+72.75
+Jharkhand
+79706
+11670.14
+14.64
+Karnataka
+191791
+14438.12
+7.53
+Kerala
+38863
+2458.69
+6.33
+Madhya Pradesh
+308252
+40042.98
+12.99
+Maharashtra
+307690
+38262.81
+12.44
+Manipur
+22327
+7027.47
+31.48
+Meghalaya
+22429
+3865.76
+17.24
+Mizoram
+21081
+6021.14
+28.56
+Nagaland
+16579
+4815.18
+29.04
+Orissa
+155707
+16648.27
+10.69
+Punjab
+50362
+1019.50
+2.02
+Rajasthan
+342239
+93689.47
+27.38
+Sikkim
+3280.88
+46.24
+Tamilnadu
+130058
+9125.56
+7.02
+Tripura
+10486
+1315.17
+12.54
+Uttarakhand
+53483
+12790.06
+23.91
+UttarPradesh
+240928
+10988.59
+4.56
+West Bengal
+88752
+1994.41
+2.25
+Union Territory
+337.30
+3.55
+Total
+3166414
+472261.95
+14.91
+* Unsurveyed areas (J&K) : 120849.00
+Total geographical area : 3287263.00
+“
+Table: India - Category-wise distribution of Wastelands in India
+Area in Sq km
+
+Sl.No. Category
+
+Total
+
+% to
+
+WL
+
+TGA
+
+Gullied and/or ravinous land-Medium
+
+6999.03
+
+0.22
+
+Gullied and/or ravinous land-Deep/very deep ravine
+
+1714.83
+
+0.05
+
+Land with dense scrub
+
+93389.55
+
+2.95
+
+Problematic Soils and Their Management
+
+Land with open scrub
+
+91633.00
+
+2.89
+
+Waterlogged and Marshy land-Permanent
+
+2532.46
+
+0.08
+
+Waterlogged and Marshy land-Seasonal
+
+2990.84
+
+0.09
+
+Land affected by salinity/alkalinity-Moderate
+
+5429.83
+
+0.17
+
+Land affected by salinity/alkalinity-Strong
+
+1737.81
+
+0.05
+
+Shifting cultivation area-Current Jhum
+
+5625.07
+
+0.18
+
+Shifting cultivation area-Abandoned Jhum
+
+4608.45
+
+0.15
+
+Under utilised/degraded forest-Scrub dominated
+
+85809.54
+
+2.71
+
+Agricultural land inside notified forest land
+
+16386.08
+
+0.52
+
+Degraded pastures/grazing land
+
+7196.44
+
+0.23
+
+Degraded land under plantation crops
+
+316.22
+
+0.01
+
+Sands- Riverine
+
+2439.85
+
+0.08
+
+Sands- Coastal sand
+
+719.00
+
+0.02
+
+Sands- Desert Sand
+
+5280.07
+
+0.17
+
+Sands- Semi-stabilized to stabilized (>40m) dune
+
+11188.21
+
+0.35
+
+15627.63
+
+0.49
+
+Sands- Semi-stabilized to stabilized moderately high
+
+(15- 40m) dune
+
+Mining Wastelands
+
+505.35
+
+0.02
+
+Industrial wastelands
+
+63.99
+
+0.00
+
+Barren rocky area
+
+69373.92
+
+2.19
+
+Snow cover and/or glacial area
+
+40694.80
+
+1.29
+
+Total
+
+472261.95
+
+14.91
+
+Wasteland Reclamation: Reclamation of wasteland means re-claiming it or to use it
+for productive purpose. Wasteland reclamation is the process of turning barren, sterile
+wasteland into something that is fertile and suitable for habitation and cultivation.
+Need for wasteland reclamation:
+
+•
+
+It provides a source of income for the rural poor.
+
+•
+
+It ensures a constant supply of fuel, fodder and timber for local use.
+
+•
+
+It makes the soil fertile by preventing soil erosion and conserving moisture.
+
+•
+
+The programme helps maintain an ecological balance in the area.
+
+•
+
+The increasing forest cover helps in maintaining local climatic conditions.
+
+Problematic Soils and Their Management
+
+Problem Soils: The soils which possess characteristics that make them uneconomical
+for the cultivation of crops without adopting proper reclamation measures are known as
+problem soils.
+India, the second most populous country in the world faces severe problems in
+agriculture. It is estimated that out of the 328.8 m ha of the total geographical area in India,
+173.65 m ha are degraded, producing less than 20% of its potential yield.
+Types of problem soils
+1. Physical problem soils
+2. Chemical Problem soils
+3. Biological Problem soils
+4. Nutritional problem soils as a result of above constraints
+1. Physical problem soils
+✓ Slow permeable soils/Impermeable soils - the capillary porosity is high it leads to
+impeded drainage, poor aeration and reduced conditions.
+✓ Soil surface crusting - Surface crusting is due to the presence of colloidal oxides of
+iron and aluminium in soils which binds the soil particles under wet regimes. On
+drying it forms a hard mass on the surface.
+✓ Sub soil hard pan - The reasons for the formation of sub surface hard pan in red soils
+is due to the illuviation of clay to the sub soil horizons coupled with cementing action
+- f oxides of iron, aluminium and calcium carbonate.
+✓ Shallow soils - Shallow soils are formed due to the presence of parent rocks
+immediately below the soil surface (15-20 cm depth).
+✓ Highly permeable soils - Sandy soils containing more than 70 per cent sand fractions
+- ccur in coastal areas, river delta and in the desert belts. Excessive permeability of the
+sandy soils results in poor water retention capacity, very high hydraulic conductivity
+and infiltration rates. These soils being devoid of finer particles and organic matter,
+the aggregates are weakly formed, the non-capillary pores dominating with very poor
+soil structure. So whatever the nutrients and water added to these soils are not utilized
+by the crops and subjected to loss of nutrients and water. In addition, it is not
+providing anchorage to the crops grown.
+✓ Heavy clay soils - Clay soils are referred as heavy soils. To be classified as clay soil,
+it should be made up of about 40% clay particles, the finest particles found in soil.
+
+Problematic Soils and Their Management
+
+This is also slowly permeable soils. Heavy have very hard consistence when dry and
+very plastic and sticky (heavy) when wet. They are imperfectly to poorly drained,
+leaching of soluble weathering products is limited. Flooding can be a major problem
+in areas with higher rainfall.
+2. Chemical Problem soils
+✓ Salt affected soils - The salt-affected soils occur in the arid and semiarid regions
+where evapo-transpiration greatly exceeds precipitation. The accumulated ions
+causing salinity or alkalinity include sodium, potassium, magnesium, calcium,
+chlorides, carbonates and bicarbonates. The salt affected soils can be primarily
+classified as saline soil and sodic soil. The state-wise distribution of salt affected soils
+in India is presented in the following table
+State
+
+Water logged area
+
+Salt affected area
+
+Andhra Pradesh
+
+Bihar
+
+Gujarat
+
+Haryana
+
+Karnataka
+
+Kerala
+
+Madhya Pradesh
+
+Maharashtra & Goa
+
+Odhisa
+
+Punjab
+
+Rajasthan
+
+TN
+
+UP
+
+WB
+
+NA
+
+Total
+
+✓ Saline soils- Saline soils defined as soils having a conductivity of the saturation
+extract greater than 4 dS m-1 and an exchangeable sodium percentage less than 15
+Saline soils defined as soils having a conductivity of the saturation extract greater
+than 4 dS m-1 and an exchangeable sodium percentage less than 15. The pH is usually
+
+Problematic Soils and Their Management
+
+less than 8.5. Formerly these soils were called white alkali soils because of surface
+crust of white salts.
+✓ Alkali / Sodic soils - Alkali or sodic soil is defined as a soil having a conductivity of
+the saturation extract less than 4 dS m-1 and an exchangeable sodium percentage
+greater than 15. The pH is usually between 8.5 – 10.0. Most alkali soils, particularly
+in the arid and semi-arid regions, contain CaCO3 in the profile in some form and
+constant hydrolysis of CaCO3 sustains the release of OH ions in soil solution. The OH
+ions so released result in the maintenance of higher pH in calcareous alkali soils than
+that in non – calcareous alkali soils.
+✓ Saline-alkali/ sodic soils - Saline-alkali / sodic soil is defined as a soil having a
+conductivity of the saturation extract greater than 4 dS m-1 and an exchangeable
+sodium percentage greater than 15. The pH is variable and usually above 8.5
+depending on the relative amounts of exchangeable sodium and soluble salts. When
+soils dominated by exchangeable sodium, the pH will be more than 8.5 and when soils
+dominated by soluble salts, the pH will be less than 8.5.
+✓ Acid soils - Soil acidity refers to presence of higher concentration of H+ in soil
+solution and at exchange sites. They are characterized by low soil pH and with low
+base saturation. The ranges in soil pH and associated degree of acidity are as follows:
+pH range
+
+Nature of acidity
+
+3-4
+
+Very strong
+
+4-5
+
+Strong
+
+5-6
+
+Moderate
+
+6-7
+
+Slight
+
+In acid soil regions (ASR) precipitation exceeds the evapo-transpiration and
+hence leaching is predominant causing loss of bases from the soil. When the process
+- f weathering is drastic, the subsoil and in many cases, the whole profile becomes
+acidic.
+Acid soils occupy approximately 60% of the earth land area and are arise
+under humid climate conditions from carbonaceous less soil forming rocks in all
+thermal belts of the earth.
+- World wide – 800 M ha
+
+Problematic Soils and Their Management
+
+- India - 100 M ha
+95% of soils of Assam and 30% of geographical area of Jammu and Kashmir
+are acidic. In West Bengal, 2.2 M ha, in Himachal Pradesh, 0.33 M ha, in Bihar, 2
+Mha and all hill soils of erstwhile Uttar Pradesh come under acid soils. About 80% of
+soils in Orissa, 88% in Kerala, 45% in Karnataka and 20% in Maharastra are acidic.
+The laterite zone in Tamil Nadu is covered with acid soil and about 40,000 ha are
+acidic in Andhra Pradesh
+✓ Acid Sulphate soils- Acid sulphate are drained coastal wetland soils that have become
+acid (pH<4) due to oxidation of the pyritic minerals in the soil. Undrained soils
+containing pyrites need not be acid and they are called potential acid sulphate soils.
+Soil with sufficient sulphides (FeS2 and others) to become strongly acidic when
+drained are termed acid sulphate soils or as the Dutch refer to those soils cat clays.
+Generally acid sulphate soils are found in coastal areas where the land is inundated by
+salt water. In India, acid sulphate soil is, mostly found in Kerala, Orissa, Andhra
+Pradesh, Tamil Nadu and West Bengal.
+✓ Calcareous soil - Calcareous soil that contains enough free calcium carbonate
+(CaCO3) and give effervescence visibly releasing CO2 gas when treated with dilute
+0.1 N hydrochloric acid. The pH of calcareous soil is > 8.5 and it is also regarded as
+an alkaline (Basic) soil.
+✓ Man made polluted soils - Soil contamination is the presence of man-made chemicals
+- r other alteration of the natural soil environment. This type of contamination
+typically arises from the rupture of underground storage tanks, application of
+pesticides, percolation of contaminated surface water to subsurface strata, leaching of
+wastes from landfills or direct discharge of industrial wastes to the soil. The most
+common chemicals involved are petroleum hydrocarbons, solvents, pesticides, lead
+and other heavy metals. This occurrence of this phenomenon is correlated with the
+degree of industrialization and intensity of chemical usage. The concern over soil
+contamination stems primarily from health risks, both of direct contact and from
+secondary contamination of water supplies.
+3. Biological problems in soils
+✓ SOC and microbial population- Biological problems often results from management
+practices and anthropogenic influence. Soil organic carbon (SOC) is the main source
+- f energy for soil microorganisms and a trigger for nutrient availability through
+
+Problematic Soils and Their Management
+
+mineralization. Humus participates in aggregate stability, and nutrient and water
+holding capacity. Organic acids (e.g., oxalic acid), commonly released from
+decomposing organic residues and manures, prevents phosphorus fixation by clay
+minerals and improve its plant availability, especially in subtropical and tropical soils.
+An increase in SOM, and therefore total C, leads to greater biological diversity in the
+soil.
+✓ Soil Respiration - Soil respiration reflects the capacity of soil to support soil life
+including crops, soil animals, and microorganisms. In the laboratory, soil respiration
+can be used to estimate soil microbial biomass and make some inference about
+nutrient cycling in the soil. Soil respiration also provides an indication of the soil's
+ability to sustain plant growth.
+✓ Soil Enzymes - Absence or suppression of soil enzymes prevents or reduces processes
+that can affect plant nutrition. Poor enzyme activity (e.g., pesticide degrading
+enzymes) can result in an accumulation of chemicals that are harmful to the
+environment; some of these chemicals may further inhibit soil enzyme activity
+✓ Eroded soils- Soil erosion is defined as the detachment and transportation of soil mass
+from one place to another through the action of wind, water in motion or by the
+beating action of rain drops. Erosion extensively occurs in poorly aggregated soils
+(low humus) and in a higher percentage of silt and very fine sand. Erosion increases
+when soil remains bare or without vegetation. In India about 86.9% soil erosion is
+caused by water and 17.7% soil erosion is caused by wind. Out of the total 173.6 Mha
+- f total degraded land in India, soil erosion by wind and water accounts for 144.1
+Mha. The surface soil is taken away by the runoff causing loss of valuable topsoil
+along with nutrients, both native and applied. In India about 5334 million tones (16.35
+tonnes/ha/year) of soil is being eroded annually due to agriculture and associated
+activities and 29% of the eroded materials are permanently lost into the sea.
+
+Problematic Soils and Their Management
+
+## Reclamation And Management Of Saline And Sodic Soils
+The most widely accepted definition of salt-affected soils is as defined by the United States
+Department of Agriculture, USDA (Richards, 1954).In canal irrigated areas, due to seepage of
+water from the canal or in low lying areas with frequent flooding, water logging occurs which
+mainly led to increase in salinity/alkalinity.
+Alkali Soils: In these soils, the Exchangeable Sodium Percentage (ESP) is greater than 15, pH is
+more than 8.2 and Electric Conductivity (EC) is below 4 ds/m.
+Saline Soils: Saline soils have excessive concentration of natural soluble salts, mainly chlorides,
+sulphates and carbonates of calcium, magnesium and sodium. In such soil Electrical Conductivity
+(EC) of saturated soil extract is more than 4 ds/m, Exchangeable Sodium Percentage (ESP) is less
+than 15 and pH is also less than 8.2. Such soils are called
+―saline soils‖ or ―white alkali‖ or ―solonchack‖ soils.
+
+Management of Soil Salinity and Alkalinity problems:
+Keeping in view the fact that plant growth can be restricted or entirely prevented by increased levels
+- f salinity and alkalinity in the soil, these soils have to be reclaimed so that they become
+productive. The processes of accumulation of salts and build up of ESP have to be reversed. To
+achieve these objectives provision of adequate drainage, replacement of Na+ ions form the soil –
+exchange complex and leaching out of soluble salts below root zone have to be ensured. Without
+adequate drainage and leaching of salts, proper reclamation cannot be achieved on a long- term
+basis. In addition to decreasing the salts and ESP levels in the root zone and maintaining them
+below the permissible limits (which depend upon salt and Na+ ions tolerance of crops), soil
+management practices must ensure prevention form reverting the salinity and ESP to the original
+condition. Following general principle has to be considered for properly understanding and
+implementing the reclamation measures:
+•
+
+The total soluble salt concentration in the root zone has to be decreased to control osmotic
+effect on plant growth. Maintenance of total soil moisture tension (osmotic pressure plus
+soil moisture tension) must be ensured at optimum level so that plant roots can absorb
+adequate amount of water.
+
+•
+
+Since soluble salts in the soil are transported by water, the quality of water used for
+dissolving the salts, determines the efficiency of leaching and drainage processes.
+Therefore, availability of good quality water is of paramount important for the success of
+reclamation work.
+
+- Salt concentration in soil solution, upward movement of salts and their accumulation
+
+Problematic Soils and Their Management
+increase with increase in the evaporation and transpiration form the surface of the soil and
+the vegetation, especially when ground water-table is shallow.
+•
+
+Increase or decrease of salts in the root zone depends upon whether the salt inputs are higher
+- r lower than the salt outputs.
+
+•
+
+The cations in the soil solution and those adsorbed on the exchange complex are in
+equilibrium with each other. The dispersion and flocculation of clay particles and the
+effectiveness of amendments are controlled by this principle. Systematic planning for reclamation
+work requires characterization of the problem (e.g extent and kind of salinity or alkalinity/sodicity)
+as the first step. Thereafter, for each specific problem, specific systems of management have to be
+followed.
+
+•
+
+The physical, hydro technical, chemical and biological methods (Kovda et al., 1973) used
+for the amelioration of salt- affected soils are discussed below.
+
+Physical amelioration
+The commonly followed physical methods for amelioration of salt-affected soils include
+deep ploughing, sub-soiling, sanding, profile inversion and scrapping. The first two methods
+break the impermeable layer, hard pan or cemented sub-soil layer existing at various depths
+in the soil profile to improve the internal drainage of the soil and facilitate the transportation
+- f salts dissolved in water to deeper layers. Incorporation of sand in salt –affected soil is done
+to bring about permanent change in texture, increase soil permeability and improve air-water
+relations in the root zone. In sodic soils having large amount of clay, application of
+inadequate quantity of sand may, however, create problems because of the cementing effect.
+Therefore, large quantities of send have to be applied to cheek this cementing effect,
+Profile inversion can be adopted only under conditions where surface soil is good but
+the soil below some depth is sodic, saline or has undesirable characteristics. The objective is
+to retain the good soil of the surface while inverting the saline /sodic sub-soil down. Since
+this is a very cumbersome method, it is generally not followed by the farmers.
+Many farmers often resort to scrapping of surface by a few centimetres of salt/salty soil
+and dump it at some other place. This is only a temporary measure for improving the plant
+growth. Reclamation by this method cannot be achieved on a permanent basis, particularly
+under shallow water- table condition where salts can again rise and accumulate at the surface
+due to evapotranspiration.
+Hydro-technical Amelioration
+The reclamation of salt-affected soils by this method involves basically the removal of salts
+form the saline soil or displacement of sodium ions form the exchange complex of alkali soils
+through the processes of leaching with water and drainage. This requires that sufficient water
+must pass through the soil to decrease salt concentration in the soil below the permissible
+19 balance in the soil to be reclaimed. The
+limits and, in turn, maintain proper salt and water
+
+Problematic Soils and Their Management
+
+leaching of the salt-affected soils leads to highly saline drainage water. Therefore, suitable
+measures for its disposal should be taken before initiating the leaching processes, particularly
+in areas having high water table the success of leaching of salts and reclamation, therefore,
+depends upon the efficiency with which salts can be removed from the soil. It is important to
+check the re-salinisation or re-alkalisation of the soils. Therefore, provision of adequate
+drainage system is a pre-requisite for any reclamation process.
+The extent of leaching required depends upon : (a) soil properties (soil texture, soil structure,
+soil pore geometry, cracking phenomenon and clay mineralogy), (b)Initial salinity and
+chemical composition of soluble salts,(c) quality of the water (in terms of amount and
+composition of salts ) used for leaching,(d) leaching method,(e) water-table depth,
+(f)efficiency of the drainage system, and (g) salt tolerance of crops to be grown. The amount
+- f water of known salt concentration (ciw), required for leaching of salts form the initial level
+- f soil salinity (co) to the pre-determined level of soil salinity after leaching (cf) can be
+worked out form the relation of (cf-ciw)/(co-ciw) with Dw/Ds, i.e. the depth of water (Dw)
+displaced form a given depth of soil (Ds) The quantity of salts removed per unit depth of
+water applied determined the efficiency off the leaching process.
+Leaching requirement
+In the soils irrigated with waters having different concentration of salts (ciw), the control on
+the building of salts at a given depth of the soil will depend upon the concept that the outputs
+- f salts leaving and area should be more than, or equal to, the inputs , i.e. the quantity of salts
+entering the area. Keeping this In view, the first salt and water balance equation for internally
+well drained well upland soils can be rewritten as expression:
+Diw.ciw-Ddw.Cdw+Drw.Crw=S ---------- (1)
+And the second equation for low land soils as Equation :
+Diw.Ciw +Dcw.Ccw+Drw.Crw-Ddw.Cdw-Dew.Cew=S
+
+(2)
+
+Assuming the concentrations of salts rain water (rw) and evapotranspired water (ew) as
+negligible, the salt content of a given soil volume at any time, ‗ST‘ for upland areas is given
+by Equation:
+ST=Diw.Ciw-Ddw.Cdw ---------------- (3)
+and for low lying areas, by Equation :
+ST=Diw.Ciw-Ddw.Cdw+Dew.Cew ----------------------(4)
+When ST is zero at steady state condition, Equation (3) for upland soils reduces to the
+following relationship:
+Diw.Ciw= Ddw.Cdw
+Ddw
+Diw =
+
+Ciw
+Cdw
+
+= Leaching Fraction (LF) ------ (5)
+
+Problematic Soils and Their Management
+
+Ddw=Diw.Ciw/Cdw= Leaching Requirment (LR) --------- (6)
+and Equation (4) for low-lying soils reduces to Equation :
+Ddw=(Diw.Ciw+Dcw.Ccw)/ Cdw=LR
+
+(7)
+
+The above equation indicates that with increase in salinity of irrigation water, more water
+(Diw) will have to be applied to control salt build-up below the desired level. These LR
+calculations are sufficiently accurate for most of the crops. Leaching Fraction (LF) refers to
+the fraction of the depth of applied irrigating water that leaves the root zone as drainage
+water. These equations can be further modified by including the leaching efficiency factor.
+Leaching Methods
+Ponding continuously or intermittently with sufficient depth of good quality water on the
+surface on the soil and ensuring downward movement of water is traditionally the most
+commonly used method for leaching or salts. The effectiveness of this method depends upon
+how uniformly the water is applied and how much of it passes through the root zone soil.
+Land levelling is, therefore, an extremely important step before initiation of the leaching
+process. Variations in micro-relief within the field often lead to rise in salinity in the raised
+areas and leaching in the depressions. The permeability and initial salinity of the soil largely
+control the rate of leaching As a general rule, leaching should be done with the depth of water
+equivalent to the depth of soil to be reclaimed the passage of 1m leaching water per metre of
+soil depth under continuous ponded condition normally removes approximately 80% of
+solute salts form the soil.
+The basin furrow method of leaching is considered to be more efficient. Under this method,
+water is allowed to meander back and forth across the field through adjacent is much less
+than that needed for ponding method of leaching.
+Drainage system
+Drainage system in saline soils should be designed to regulate the water and salt balance of
+both the surface soil and sub-soil. Sub-soil drainage is not very effective in highly impervious
+sodic soils. In areas where water-table remains shallow for most part of the year and the
+quality of ground water is poor, installation of sub-soil drainage system will be more useful.
+The need for the development of either surface of subsurface drains has to be worked out on
+the basis of the nature of soil, ground water condition, climate, cropping pattern, economic
+considerations, etc. Installation of sub-surface drains is much more costly than the surface
+drains.
+Chemical Amelioration
+
+Problematic Soils and Their Management
+
+Reclamation of alkali/sodic soils requires neutralization of alkalinity and replacement of
+most of the sodium ions from the soil-exchange complex by more favourable calcium ions, as
+given by the expression:
+2Na-X + Ca2+ (solution) = Ca-X + 2Na+ (solution)
+Where ‗x‘ is soil- exchange complex.
+This can be accomplished by the application of chemical amendments (the materials that
+directly or indirectly furnish or mobilize divalent cations, usually Ca2+ for the replacement of
+sodium from the exchange complex of the Soil) followed by leaching to remove soluble salts
+and other reaction products. The type of chemical compound and their quantities required for
+reclamation of alkali/ sodic soils depend upon physic-chemical properties of the soil, desired
+rate of replacement of sodium ions, and economic considerations. The chemical amendments
+used for ameliorations of these soils can be broadly grouped as follows:
+(1) Soluble sources of calcium: Gypsum (CaSO4.2H2O), calcium chloride (CaCl2) and
+phospho-gypsum (An industrial by-product)
+(ii) Sparingly soluble calcium salts: Calcite CaCO3, and
+(iii) Acids or acid-formers: Sulphur, sulphuric acid, sulphates of iron and aluminium, pyrites,
+lime –sulphur.
+The effectiveness of each of these amendments mainly depends upon the presence or
+absence of alkaline-earth carbonates (Particularly CaCO3) in the soil. When soils contain
+CaCO3, any soluble source of calcium and acids or acid formers may be used. When the soils
+are no calcareous, application of acids and acid- form sources of calcium should be used.
+Application of sparingly soluble CaCO3 for the reclamation of Sodic soils is not
+recommended because its solubility decreases with increase in pH of the soil.
+The reactions of these amendments in the soils containing CaCO3 can be illustrated by
+Equations:
+Gypsum:
+2Na-X+CaSO4= Ca-X +Na2SO4
+Calcium Chloride:
+2Na-X+ CaCl2= Ca-X +2NaCl
+Sulphur- Microbial oxidation:
+2S+2O2 = 2SO3
+SO3+H2O
+H2SO4 + 2CaCO3
+2Na-X + CaSO4
+
+H2SO4
+CaSO4 + Ca(HCO3)2
+Ca-X + Na2SO4
+
+Problematic Soils and Their Management
+
+The microbial oxidation of sulphur is mediated by aerobic thiobacilli group of
+chemoautotrophs .
+Pyrite ----- Oxidation of pyrites, like sulphur leads to formation of sulphuric acid. The overall
+reactions are given Equations :
+2FeS2 + 7H2O = 2FeSO4 + 2H2SO4
+2CaCO3+ H2SO4 = CaSO4 + Ca(HCO3)2
+2Na-X + CaSO4 = Ca-X + Na2SO4
+The rate of oxidation of pyrite is, however, slow and depends upon the moisture content
+- xygen availability, temperature and particle size. When applied on the basis of water soluble
+sulphur content, its efficiency in reclamation is quite high,
+Lime –sulphur and sulphates of iron and aluminium produce sulphuric acid which further
+acts like the reactions given above. Calcium chloride is highly soluble in water but its high
+cost and hygroscopicvity prohibit its use on a large scale. Acids are not generally
+recommended because of the high cost involved and difficulty in handling them at the field
+level.
+Gypsum is, by far, the most economical and commonly used chemical amendment. In
+India the resources of gypsum are estimated to be more than 1000 million tonnes. The
+gypsum requirement (GR) for amelioration of alkali /sodic soil depends upon exchangeable
+sodium content to be replaced, exchange efficiency and the depth of soil to be reclaimed. The
+laboratory estimation of GR (US Salinity Laboratory staff, 1954) is carried out by
+equilibrating a sodic soil with gypsum solution of known calcium concentration and then
+estimating the calcium deficit (as a result of exchange of sodium with calcium) I n the extract
+solution .This determination includes Ca2+ required to replace the exchangeable Na+ ions
+plus that required to neutralize alkalinity.
+The quantity of gypsum required to replace an initial l level of exchangeable sodium (Enail)
+and achieve its reduction to a desired level of exchangeable sodium (E Naf) per unit area and
+per unit depth of the soil, can also be calculated using Equation:
+GR(in cmol/kg soil)= (Enai-ENaf) CEC
+Wher,ENa and CEC are in cmol(P+) /kg soil
+Science one coml gypsum/kg soil is equal to 860 kg gypsum/106 kg soil, for one hectare to a
+depth of 0-15 cm (2×106kg soil), the GR can be calculated by Equation:
+GR(kg/ha)=1720×(Enai-ENaf) CEC
+The GR worked out by this method is based on 100% replacement of Na+ by Ca2+ ions.
+Under actual condition, the efficiency is always much lower. To compensate for the lack of a
+
+Problematic Soils and Their Management
+
+quantitative replacement, the GR worked out by this method should be multiplied by 1.25.
+The quantities of different amendments to be applied in comparison with gypsum are given in
+Table.
+
+Relative quantities of different amendments compared with gypsum
+Amendents
+
+Tonnes equivalent to 1 tonne of gypsum
+
+Gypsum
+
+1.0
+
+Sulphur
+
+0.18
+
+Lime-sulphur
+
+0.75
+
+Sulphuric acid
+
+0.57
+
+Iron sulphate
+
+1.62
+
+Al-sulphate
+
+1.27
+
+Lime stone
+
+0.58
+
+Gypsum should be broadcast and incorporated in the surface 0-10 cm soil by dicing or by
+using a cultivar. Mixing of gypsum in deeper soil decreases its effectiveness, as a fraction of
+the applied gypsum can refract with soluble carbonates to precipitate Ca as CaCo3. the
+- ptimum size of gypsum particles is determined on the basis of the required efficiency of
+reclamation cost of grinding and ease of application Mined gypsum ground to pass through 2mm sieve has been found to be pass through react faster, gypsum ground to pass through a 2mm sieve can efficiently reclaim alkali soil.
+Biological Amelioration
+Organic materials and action of plant roots improve biological activity in the soil. The
+decomposition of materials increases the concentration of CO2 and organic acids in the soil
+which help in mobilizing calcium by dissolving calcium compounds. This can be
+accomplished by green manuring, incorporation of crop residues, application of FYM, press
+mud and other organic materials.
+Rice is preferred to be grown during reclamation of alkali soils owing to its high tolerance to
+soil sodicity. The pending of water for optimum rice growth promotes build-up partial
+pressure of CO2 and leaching of salts resulting from exchange of sodium by calcium.
+
+Problematic Soils and Their Management
+
+## Acid Soils
+Nearly 100.6 m ha of land out of total geographical area of 329 m ha and gross cropped area of
+134 m ha suffers from soil acidity. Out of 100.6 m ha 20 m ha is in Assam and North East states, 15.5
+m ha in Jammu & Kashmir, 12.6 m ha in Odisha, 9.6 m ha in Karnataka, 8.9 m ha in M.P., 8.3 m ha in
+A.P., 5.2 m ha in Bihar, 5.0 m ha in H.P., 3.5 m ha in W.B., 3.5 m ha in Kerala, 3.1 m ha in Maharastra,
+2.9 m ha in U.P. and 2.6 m ha in T.N. Acid soil occurs in 1/3rd of the cultivated area of India.
+Acid soils are often characterised by low CEC, intermediate textured ranging from sandy loam to
+loam, low organic matter content except in case of hill, terai soils and soils under forest and low P
+content while the N content is variable. Acid soils have higher number of Fe & Al ions in soil
+solution and also have high exchangeable H+ and Al3+ ions. Conventionally acid soils have been
+defined in terms of soil pH and base saturation both of which are low.
+Jackson grouped soil acidity as:
+1. Strong soil acidity (pH < 4.2)
+2. Weak soil acidity (4.2 to 5.2)
+3. Very weak soil acidity (5.2 to 6.5 or 7.0)
+Causes of soil acidity:
+1) Leaching of bases due to heavy rainfall: The regions where rainfall or precipitation is
+high enough to leach appreciable amounts of exchangeable bases from the surface
+soils and relatively insoluble compounds of AL and Fe remains in the soil. The
+natures of these compounds are acidic and its oxides and hydroxides reacts with water
+and release hydrogen ion (H+) in soil solution and soil become acidic.
+2) Acidic parent materials: Some soils have parent materials which develop acid such as
+granite.
+3) Acid forming fertilizers: The use of ammonium sulphate, NH4(SO4)
+4) When soluble bases are lost, the H+ ions of carbonic acid and other acids developed in
+soil replace basic cations from exchangeable sites of colloids through continuous
+leaching and become acid increasingly.
+5) Soluble salts: Presence of soluble salts leads to increase in soil acidity due to
+displacement followed by hydrolysis of adsorbed Fe+3, Al+3, Mn+2 ions by the cations
+- f the soil
+6) Carbon-dioxide: The carbonic acid formed during decomposition of organic residues
+in soil will contribute soil acidity through weak dissociation.
+7) Acid rain: Acid rain contain H+ ion at a concentration > 2 micro molecules. NH4+ ion
+are also present. The positive charge is balanced by variety of anions generally SO4=
+& NO3-. The effect of acid precipitation is to acidify the soil.
+
+Problematic Soils and Their Management
+
+8) Sub-soil acidity: Many highly weathered soil such as Ultisols, sub-soil acidity limits
+crop yield even when the plough layers is adequately limed. Root proliferation is
+severely restricted due to Al toxicity and water stored in sub-soil is rendered
+unavailable to crops. This is an important limiting factor in many acid soils and need
+special attention.
+Kinds of soil acidity:
+1. Active acidity:
+Develops due to H+ and Al+3 ions concentration of the soil solution. The magnitude of
+this acidity is limited and can be reclaimed very easily.
+2. Exchangeable acidity:
+Develops due to adsorbed H+ and Al+3 ions on the soil colloids. The magnitude of this
+acidity is high.
+3. Potential acidity/ Reserve acidity:
+H+ and Al+3 ions present inside the soil crystal lattice. Soil constituents capable of
+contributing H+ ions to the soil solution through ionization, dissociation, hydrolysis
+etc. It is the major contributor of soil acidity.
+Effect of Soil Acidity on Plants
+Except for a few crops like tea, coffee and potato, most of the crops do not find
+- ptimum conditions for their growth and development. But the effects are more pronounced
+when the soil pH is below 6.0. Acidity affects the plants both directly and indirectly.
+A. Direct effects
+1. Extremely high concentration of hydrogen ions just outside the plant roots has a
+toxic effect on roots.
+2. The permeability of the plasma membrane surrounding root hair is reduced.
+Consequently, the activity of root hair that absorbs water and nutrients from the soil is highly
+slackened.
+3. Excessive presence of hydrogen ions in soil solution also results in increased
+absorption of H+ ions by the plant roots. This phenomenon disturbs acid-base balance inside
+the plant which virtually inhibits plant growth.
+4. Numerous essential chemical reactions are carried out by the enzymes secreted by
+soil organisms as well as plant itself. These enzymes lose their effectiveness if hydrogen ion
+concentration goes too high.
+
+Problematic Soils and Their Management
+
+B. Indirect effects
+1. Availability of nutrients increases e.g. P. Cu, Zn.
+2. Some essential micronutrients such as Fe, Mn, Cu and Al etc. become highly
+soluble in acid soils and their availability to the plant roots goes so high that they become
+toxic to the plants.
+3. In most of the acid soils plants show deficiency symptoms of Ca and Mg. This is
+because of the fact that acid soils are mostly deficient in these elements.
+4. Some disease causing agents (especially fungi) flourish well in acid soils. Incidence
+- f disease is, therefore, increased.
+5. At the same time a large population of beneficial microorganisms suffers badly due
+to high concentration of hydrogen ions. This results in decreased soil fertility.
+Effects of soil acidity on plant growth:
+Most soil used for vegetable cultivation become gradually more acidic as calcium is lost due
+to leaching by rainwater and irrigation. The process is further accelerated by the use of
+nitrogenous fertilisers such as ammonium nitrate and ammonium sulphate. Vegetables vary in
+their tolerance to soil acidity. In general, the most favourable pH range for vegetable is
+between 5.5 to 6.5 in mineral soil and 5.0 to 6.0 in organic soil.
+1. Ca, K, Mg and Na are alkaline elements, which are lost with increasing acidity
+whereas P is more available in acidic soil conditions.
+2. Acidity can also induce deficiencies of micronutrients such as Mo and B, although a
+deficiency in the latter is more commonly seen in alkaline soils where over-liming has
+- ccurred.
+3. Acidic soil often causes the stunting and yellowing of leaves, resulting in the decrease
+in growth and yield of crops as the pH levels falls.
+4. Plants grown in adverse pH conditions may be more prone to disease and fungal
+attack.
+5. pH can affect the absorption of nutrients by plant roots pH values above 7.5 cause
+iron, manganese, copper, zinc and boron ions to be less available to plants.
+6. pH values below 6 cause the solubility of phosphoric acid, calcium and magnesium to
+drop.
+7. Aluminium toxicity is the most widespread problem in acid soils. Aluminium is
+present in all soils, but dissolved Al3+ is toxic to plants; Al3+ is most soluble at low
+pH, above pH 5.2 little aluminium is in soluble form in most soils. Aluminium is not a
+plant nutrient, and as such, is not actively taken up by the plants, but enters plant roots
+
+Problematic Soils and Their Management
+
+passively through osmosis. Aluminium damages roots in several ways: In root tips
+and Aluminium interferes with the uptake of Calcium, an essential nutrient, as well as
+bind with phosphate and interfere with production of ATP and DNA, both of which
+contain phosphate. Aluminium can also restrict cell wall expansion causing roots to
+become stunted.
+Management of acid soil:
+Lime or liming materials are used to ameliorate soil acidity.
+Liming materials:
+1. Calcium oxide (CaO)
+## 2. Ca(OH)2
+3. Calcite (CaCO3)
+4. Dolomite (CaCO3, MgCO3)
+5. Marl (Deposition of CaCO3)
+6. Basic slag
+7. Others: chalk, wood ash etc.
+Reactions of liming materials in soil
+1. Reaction of CaO:
+This is also known as un-slaked lime or burnt limestone or quick lime. It is a white
+powder and difficult to handle as it is caustic and explosive. When added to a moist
+acid soil, the calcium cation in CaO displaces the exchangeable H & Al from surface
+soil colloids.
+
+2. Reaction of Ca(OH)2
+This is commonly known as slaked lime or building lime. This is prepared by mixing
+water with calcium oxide under controlled conditions. Much heat is generated in the
+process. When added to the acid soil
+
+Problematic Soils and Their Management
+
+3. Dolomite (CaCO3, MgCO3):
+Dolomite deposits are found in many places of India. Besides calcium, it also contains
+nearly equal amount of magnesium which is an essential plant nutrient Acid soils are
+- ften deficient in this nutrient.
+
+Lime Requirement (LR) and liming factor
+The desirable pH range for most of the crops is 6.0 to 7.0. The amount of lime or
+liming materials that must be added to the acidic soil to raise the pH of that soil to a desired
+value is known as Lime requirement (LR). Any increase in pH will still depend on the
+amount of lime applied, with the general rule of thumb being a 0.1 unit increase in pH for
+every tonne of lime applied.
+Liming Factor may be defined as the factor by which the actual amount lime can be
+calculated from the estimated theoretical amount of lime or liming materials. This depends on
+rate of lime stone solution, plant uptake and leaching during the reaction period.
+Lime requirement to bring the soil to desired level of pH indicated below
+pH of soil buffer
+suspension
+
+Lime required to bring the soil to indicated pH (tones per acre of pure
+calcium carbonate i.e.CaCO3)
+pH 6.0
+
+pH 6.4
+
+pH 6.8
+
+6.7
+
+1.0
+
+1.2
+
+1.4
+
+6.6
+
+1.4
+
+1.7
+
+1.9
+
+6.5
+
+1.8
+
+2.2
+
+2.5
+
+6.4
+
+2.3
+
+2.7
+
+3.1
+
+6.3
+
+2.7
+
+3.2
+
+3.7
+
+6.2
+
+3.7
+
+3.7
+
+4.2
+
+6.1
+
+3.5
+
+4.2
+
+4.8
+
+6.0
+
+3.9
+
+4.7
+
+5.4
+
+5.9
+
+4.4
+
+5.2
+
+6.0
+
+5.8
+
+4.8
+
+5.7
+
+6.5
+
+5.7
+
+5.2
+
+6.2
+
+7.1
+
+5.6
+
+5.6
+
+6.7
+
+7.7
+
+5.5
+
+6.0
+
+7.2
+
+8.3
+
+5.4
+
+6.5
+
+7.7
+
+8.9
+
+5.3
+
+6.9
+
+8.2
+
+9.4
+
+Problematic Soils and Their Management
+
+5.2
+
+7.4
+
+8.6
+
+10.0
+
+5.1
+
+7.8
+
+9.1
+
+10.6
+
+5.0
+
+8.2
+
+9.6
+
+11.2
+
+4.9
+
+8.6
+
+10.1
+
+11.8
+
+4.8
+
+8.1
+
+10.6
+
+12.4
+
+The amount of the liming material greatly depends upon the soil texture. The smaller
+the soil particles, the greater will be the site exposed for hydrogen ions to stick on.
+Neutralizing the hydrogen ions present in the soil solution (active acidity) is not enough. The
+amount of amendment should be enough to neutralize hydrogen ions around the soil particles
+also. Soil testing for lime recommendation must take this point into account. Reserve acidity
+is sometimes thousand times greater than active acidity. In clay soils, reserve acidity is very
+high, whereas in sandy soils it is comparatively low. The amount of liming material required
+to neutralize total acidity (active + reserve), therefore, varies greatly according to soil texture.
+Even if amount of liming material is not given in the soil testing report, it can be found out
+from the table below taking the help of soil testing report (soil pH). Calcium Carbonate
+needed to increase the pH of a soil textural class by one unit.
+Sl.
+
+Soil texture
+
+Lime
+
+No.
+
+in
+
+tonnes/ha
+
+Sand
+
+2.50
+
+Sandy loam
+
+3.75
+
+Loam
+
+5.00
+
+Silt loam
+
+6.25
+
+Clay loam
+
+7.50
+
+Clay
+
+8.25
+
+Application of lime
+Lime is not mobile in the soil. Therefore, it should be spread in the field with maximum
+possible uniformity and worked well into the soil. This can be done during the preparation of
+field. Soil should be sufficiently moist at the time of liming or a light irrigation may be given
+to the field after mixing the lime. If slaked lime is used, seeds should be sown in the field at
+least 3-4 weeks after liming. To maintain desirable soil reaction in the humid regions, liming
+at every 3-5 years interval is recommended.
+Liming will provide the following benefits:
+1. Reduces the possibility of Mn2+ and Al3+ toxicity.
+
+Problematic Soils and Their Management
+
+2. Improves microbial activity.
+3. Improves physical condition (better structure).
+4. Improves symbiotic nitrogen fixation by legumes.
+5. Improves palatability of forages.
+6. Provides an inexpensive source for Ca2+ and Mg2+ when these nutrients are deficient
+at lower pH.
+7. Improves nutrient availability (availability of P and Mo increases as pH increases at
+6.0 – 7.0, however, other micronutrients availability increases as pH decreases).
+8. Improves fertilizer use efficiency.
+Effects of liming
+Advantages of liming are three-fold viz. physical, chemical and biological. They are
+described below:
+1. Physical effects
+Liming improves physical condition of heavy soils; they become granular in structure
+and their water holding capacity is improved. Liming also encourage the decomposition of
+- rganic matter and consequently, there is greater production of organic colloids. The Cahumus so produced is believed to be an effective cementing agent in binding the soil
+particles. Liming also prevents soil erosion because soils which have received liming
+treatment support good plant growth.
+2. Chemical effects
+Among the principal chemical properties influenced by liming is the reduction of H
+ions in the colloidal complex. It increases the availability of almost all the nutrients such as
+nitrogen, phosphorus, potassium, calcium, magnesium, boron, zinc, copper and molybdenum,
+and reduces the toxicity caused by soluble iron, aluminium and manganese.
+3. Biological effects
+One of the outstanding biological effects of liming is to encourage the microbial
+activity of the soil. By raising the soil pH, it makes the soil more congenial for a number of
+micro organisms. Nitrifying and nitrogen fixing bacteria, both symbiotic and non symbiotic
+are stimulated by the addition of lime to an acid soil. Lime also brings about a more rapid
+decomposition of organic manure, both native and added, as a result of improved microbial
+activity. This further increases the availability of nitrogen phosphorus and sulphur.
+
+Problematic Soils and Their Management
+
+Adverse effects or over liming
+1. The main effect of over liming is to reduce the availability of some of the essential
+nutrients, both major and minor, such as P, K, Fe, Mn, B, Cu, Zn etc, and thus bring about
+nutritional deficiency.
+2. Excess lime also interferes with the absorption of certain elements like potassium,
+phosphorus, boron, etc. by plants thus hindering their utilization.
+3. The very rapid decomposition of organic matter in soils of arid of semi arid regions is
+also attributed to the accumulation of excess lime in these soils.
+Crops Tolerant to Acidity
+Most crop plants grow well when the soil pH is between 5.5 and 7.5, a fairly wide
+range even under field condition. Serious trouble develops when the pH drops below 5.0.
+Crops which can be successfully grown in acid soils are listed in the following table.
+Acid tolerant crops
+Sl.
+
+Slightly tolerant
+
+Medium tolerant
+
+Very tolerant
+
+Berseem
+
+Maize
+
+Mustard
+
+Sugarcane
+
+Potato
+
+Buck wheat
+
+Cauliflower
+
+Wheat
+
+Coffee
+
+French bean
+
+Soya bean
+
+Rubber
+
+Cabbage
+
+Barley
+
+Tea
+
+Watermelon
+
+Oats
+
+Lucerne
+
+Rice
+
+No.
+
+The effectiveness/efficiency of liming material:
+The amount of lime or effectiveness of lime to apply depends on four main factors;
+neutralizing value, fineness of the lime, purity of lime and soil texture.
+1. Neutralizing value (NV) or Calcium Carbonate Equivalent (CCE). It is defined as
+acid neutralizing capacity of an agricultural liming material expressed as a weight
+percentage of calcium carbonate.
+
+Problematic Soils and Their Management
+
+The required amount of various amendments is expressed in terms of Calcium
+Carbonate Equivalents (CCE). The CCE means amount of calcium carbonate which can
+neutralise as much acidity as 100 kg of a liming material in question can neutralise. As shown
+below, 100 kg of CaO can neutralize as much acidity as 179 kg of calcium carbonate and vice
+versa.
+Calcium Carbonate (CaCO3) equivalent of some important liming materials:
+Sl.No.
+
+Calcium carbonate [CaCO3]
+
+Liming material (100 kg)
+
+(kg)
+
+Calcium oxide (CaO)
+
+Calcium hydroxide
+
+Dolomite
+
+Limestone (calcium carbonate)
+
+Basic slag
+
+60-70
+
+2. Degree of fineness of material
+The finer the particles of lime, the faster they react with soil. Lime manufacturers
+have to specify the percentages of different-sized particles in their product.
+3. Purity of liming materials: The purer the liming material, the higher will be its
+
+effectiveness in amelioration of soil acidity.
+
+Problematic Soils and Their Management
+
+## Acid Sulphate Soils
+In modem system of soil classification, acid sulphate soils have been assigned separate position and
+these soils have been placed in a group called sulpha-aquepts. This group includes soils in which
+the top horizon contains sulphuric horizon at some level or the other in top 25 cm thick layer. This
+is mineral or organic sub-layer with yellow colouration due to xarocite.
+Soils with sufficient sulphides (FeS2 and others) to become strongly acidic when drained and
+aerated enough for cultivation are termed as acid sulphate soils or as Dutch refer to those soils as
+cat clays. When allowed to develop aciity, these soils are usually more acidic than pH 4.0. Before
+drainage, such soils may have normal soil pH and are only potential acid sulphate soils. Generally
+acid sulphate soils are found in coastal areas where the land is inundated by salt water. In India, acid
+sulphate soil is, mostly found in Kerala, Orissa, Andhra Pradesh, Tamil Nadu and West Bengal. The
+area covered under acid sulphate soils in Thailand and India combinedly is about 2 million acres.
+Strongly acid sulphate soils results in toxicities of aluminium and iron, soluble salts (unless
+leached), manganese and hydrogen sulphide (H2S) gas. Hydrogen sulphide often formed in lowland
+rice soils causing akiochi disease that prevents rice plants roots from absorbing nutrients.
+Formation of Acid Sulphate Soils
+Lands inundated with waters that contain sulphates, particularly salt waters,
+accumulate sulphur compounds, which in poorly aerated soils are bacterially reduced to
+sulphides. Soils are not usually ver acidic when first drained in water.
+Acid sulfate soils (ASS) are naturally occurring soils and sediments containing iron
+sulfides, most commonly pyrite. When Acid sulfate soils are exposed to air the iron sulfides
+in the soil react with oxygen and water to produce a variety of iron compounds and sulfuric
+acid. Initially a chemical reaction, the process is accelerated by soil bacteria. The resulting
+acid can release other substances, including heavy metals, from the soil and into the
+surrounding environment. Potential acid sulfate soils ASS which have not been oxidised by
+exposure to air are known as potential acid sulfate soils (PASS). While contained in a layer of
+waterlogged soil, the iron sulfides in the soil are stable and the surrounding soil pH is often
+weakly acid to weakly alkaline.
+Potential acid sulfate soils:
+
+- Often have a pH close to neutral (6.5–7.5)
+- Contain unoxidised iron sulphides
+- Are usually soft, sticky and saturated with water
+- Are usually gel-like muds but can include wet sands and gravels
+- Have the potential to produce acid if exposed to oxygen.
+Reactions involving the formation of Acid Sulphate
+Soils
+
+Problematic Soils and Their Management
+Acid sulphate soils form due to oxidation of sulphides in soils. The slow oxidation of mineral
+sulphides in soil is non-biological until soil pH reaches an acidity of pH 4.0 but the process is
+not well understood. Below ph 4.0, the bacteria, Thiobacillus ferroxidans are the most active
+- xidizers and the activity builds up rapidly.
+2S + 3O2 + 2H2O
+Microbial
+H2SO4
+(Elemental Sulphur) oxidation
+(Sulphuric acid)
+H2S + 2O2
+Microbial
+(Hydrogen Sulphide) oxidation
+
+H2SO4
+(Sulphuric acid)
+
+Non-Biological
+
+FeS2 + 2H2O + 7O2
+(Ferrous Sulphide)
+
+Microbial
+- xidation
+
+FeSO4
++
+(Ferrous Sulphate)
+
+H2SO4
+(Sulphuric acid)
+
+Accelerated by bacteria (Thiobaccilus ferroxidans)
+4FeSO4 + O2 + 2H2SO4
+(Ferrous Sulphate)
+
+Microbial
+- xidation
+
+2Fe2(SO4)3
+(Ferric Sulphate)
+
++
+
+2H2O
+
+Rapid in acid pH (non-biological)
+FeS2 + 8H2O + 7Fe2(SO4)3
+
+Microbial
+- xidation
+
+15FeSO4
++
+(Ferrous Sulphate)
+
+8H2SO4
+(Sulphuric acid)
+
+Managing acid sulfate soils
+The easiest and most effective way to avoid the harm caused by acid sulfate soils is to leave
+them alone—so identification and mapping are important. Avoiding acid sulfate soils is
+encouraged when possible.
+However, acid sulfate soils are common in places where humans live, and sometimes
+construction in and around these sediments cannot be avoided. In such cases, the first step is
+to minimise the level of disturbance as much as possible.
+Minimising disturbance
+Minimising disturbance can be quite easy, and may involve:
+•
+
+designing a construction project that limits the amount of excavation—for instance, building
+an above-ground car park instead of a basement, building smaller structures on stilts or pushpiles, or placing clean fill in a thick layer before building
+
+•
+
+locating a construction project on the part of a property where acid sulfate soils are buried
+deepest, so the amount of acid sulfate soil removed is reduced
+
+•
+
+using construction methods and site management procedures that don't leave acid sulfate soils
+exposed to air without treatment
+
+•
+
+aligning and designing linear infrastructure in tidal areas so that natural water flows (both
+surface and groundwater) are not blocked
+
+•
+
+Making farm and urban drains broad and shallow so they don't dig into buried acid sulfate
+
+soil layers, but can still remove excess surface35
+water efficiently.
+
+Problematic Soils and Their Management
+Treatment
+If acid sulfate soil is disturbed, it must be treated.
+•
+
+Liming and Leaching: The most common method of treatment is to mix an alkaline
+material into the soil, where it can react with acidity and neutralise it. Agricultural
+lime (powdered calcium carbonate—CaCO3) is the most common neutralising
+material in use. If these soils are leached during early years of acidification, lime
+requirements are lowered. Leaching, however, is difficult because of the high water
+table commonly found in this type of soil and low permeability of the clay. Sea water is
+sometimes available for preliminary leaching.
+
+•
+
+Keeping the area flooded: Maintaining the reduced condition of flooded (anaerobic)
+soil inhibits acid development, which requires oxidation. This solution almost limits
+the use of the area to rice growing. Unfortunately, droughts occur and can in short
+time periods cause acidification of these soils. The water used to flood the potential
+acid sulphate soils often develop acidity and injure crops.
+
+•
+
+Controlling water table: If a non-acidifying layer covers the sulphuric horizon,
+drainage to keep only the sulphuric layer under water (anaerobic) is possible.
+
+Problematic Soils and Their Management
+
+## Compacted Soils
+Compacted soils cannot function healthily, resulting in poor crop establishment and lower crop
+yields. There is also less infiltration of rainfall, increased runoff and soil erosion.
+Causes of soil compaction
+Soil compaction occurs when soil density is increased by an energy input into moist or wet soil.
+The force may be exerted by tyres, tillage tools or animal hooves. In conventional tillage systems,
+most of the surface area of a paddock receives at least one wheel pass during a fallow. The first
+pass of a tractor wheel can create 90 per cent of the damage caused by five passes. Most
+compaction occurs in the top 20 −30 centimetres of the soil.
+Repeated tillage at the same depth can form a hardpan a dense, impenetrable layer beneath the
+tilled soil. The most important factor determining the extent and severity of soil compaction is the
+moisture content at the time of tyre or implement passage. Other factors like implement design and
+tyre-inflation pressures are important although secondary to soil moisture content.
+Impact of soil compaction
+Compacted soil lacks the interconnected air spaces that are essential to the movement of
+water, gases and plant roots, and critical for a biologically healthy soil.
+a. In dry years, crop yields are most affected when plant roots are unable to penetrate
+compacted layers to enable access to much needed subsoil water.
+b. Water-use efficiency is greatly reduced as rain or irrigation water is unable to
+penetrate the compacted layers of soil to re-fill the subsoil. This results in more runoff and evaporation.
+c. Compacted soil requires more horsepower (and fuel) to cultivate. Planting implements
+are less effective in compacted soil and poor germination is the result.
+d. Fertiliser efficiency is also reduced as the large blocks of compacted soil provide few
+surfaces to retain and release fertiliser for crop growth.
+e. Most degradation in grazing lands occurs when surface cover is removed as a result of
+high grazing pressures. This exposes soils to raindrop impact, runoff and soil loss by
+erosion.
+
+Problematic Soils and Their Management
+
+## Eroded Soils
+Soil erosion is defined as the wearing away of topsoil. Topsoil is the top layer of soil and is
+the most fertile because it contains the most organic, nutrient-rich materials. Such soils are called as
+Eroded soils. Soil erosion is the displacement of the upper layer of soil, one form of soil
+degradation. A low level of erosion of soil is a naturally occurring process on all land. The agents of
+soil erosion are water and wind, each contributing a significant amount of soil loss each year. Soil
+erosion may be a slow process that continues relatively unnoticed, or it may occur at an alarming
+rate causing a serious loss of topsoil. The loss of soil from farmland may be reflected in reduced
+crop production potential, lower surface water quality, and damaged drainage networks.
+Human activities have increased by 10–40 times the rate at which erosion is occurring globally.
+Excessive (or accelerated) erosion causes both "on-site" and "off-site" problems. On-site impacts
+include decreases in agricultural productivity and (on natural landscapes) ecological collapse,
+both because of loss of the nutrient-rich upper soil layers. In some cases, the eventual end result is
+desertification. Off-site effects include sedimentation of waterways and eutrophication of water
+bodies, as well as sediment-related damage to roads and houses. Water and wind erosion are the
+two primary causes of land degradation; combined, they are responsible for about 84% of the global
+extent of degraded land, making excessive erosion one of the most significant environmental
+problems worldwide.
+Intensive a g r i c u l t u r e , deforestation, roads, a n t h r o p o g e n i c climate
+
+change, and urban
+
+sprawl are amongst the most significant human activities in regard to their effect on stimulating
+erosion. However, there are many prevention and remediation practices that can curtail or limit
+erosion of vulnerable soils.
+
+Problematic Soils and Their Management
+
+Physical processes responsible for soil erosion
+a. Rainfall and surface runoff
+Rainfall, and the surface runoff which may result from rainfall, produces four main
+types of soil erosion: splash erosion, sheet erosion, rill erosion, and gully erosion. Splash
+erosion is generally seen as the first and least severe stage in the soil erosion process, which
+is followed by sheet erosion, then rill erosion and finally gully erosion (the most severe of the
+four).
+In splash erosion, the impact of a falling raindrop creates a small crater in the soil, ejecting
+soil particles. The distance these soil particles travel can be as much as 0.6 m (two feet)
+vertically and 1.5 m (five feet) horizontally on level ground.
+If the soil is saturated, or if the rainfall rate is greater than the rate at which water can
+infiltrate into the soil, surface runoff occurs. If the runoff has sufficient flow energy, it
+will transport loosened soil particles (sediment) down the slope. Sheet erosion is the transport
+- f loosened soil particles by overland flow.
+Rill erosion refers to the development of small, ephemeral concentrated flow paths which
+function as both sediment source and sediment delivery systems for erosion on hill slopes.
+Generally, where water erosion rates on disturbed upland areas are greatest, rills are active.
+Flow depths in rills are typically of the order of a few centimeters (about an inch) or less and
+along-channel slopes may be quite steep. This means that rills exhibit hydraulic physics very
+different from water flowing through the deeper, wider channels of streams and rivers.
+Gully erosion occurs when runoff water accumulates and rapidly flows in narrow channels
+during or immediately after heavy rains or melting snow, removing soil to a considerable
+depth.
+b. Rivers and streams
+
+Valley or stream erosion occurs with continued water flow along a linear feature. The
+erosion is both downward, deepening the valley, and head ward, extending the valley into the
+hillside, creating head cuts and steep banks. In the earliest stage of stream erosion, the erosive
+activity is dominantly vertical, the valleys have a typical V cross-section and the stream
+gradient is relatively steep. When some base level is reached, the erosive activity switches to
+lateral erosion, which widens the valley floor and creates a narrow floodplain. The stream
+gradient becomes nearly flat, and lateral deposition of sediments becomes important as the
+stream meanders across the valley floor. In all stages of stream erosion, by far the most
+erosion occurs during times of flood, when more and faster-moving water is available to
+carry a larger sediment load. In such processes, it is not the water alone that erodes:
+
+Problematic Soils and Their Management
+
+suspended abrasive particles, pebbles and boulders can also act erosively as they traverse a
+surface, in a process known as traction.
+Bank erosion is the wearing away of the banks of a stream or river. This is distinguished
+from changes on the bed of the watercourse, which is referred to as scour. Erosion
+and changes in the form of river banks may be measured by inserting metal rods into the bank
+and marking the position of the bank surface along the rods at different times.
+Thermal erosion is the result of melting and weakening permafrost due to moving water. It
+can occur both along rivers and at the coast.
+c. Floods
+
+At extremely high flows, vortices are formed by large volumes of rapidly rushing
+water. Vortex cause extreme local erosion, plucking bedrock and creating pothole-type
+geographical features called Rock-cut basins.
+d. Wind erosion
+
+Wind erosion is a major geomorphological force, especially in arid and semiarid regions. It is also a major source of land degradation, evaporation, desertification,
+harmful airborne dust, and crop damage—especially after being increased far above natural
+rates by human activities such as deforestation, urbanization, and agriculture.
+Wind erosion is of two primary varieties: deflation, where the wind picks up and carries
+away loose particles; and abrasion, where surfaces are worn down as they are struck by
+airborne particles carried by wind. Deflation is divided into three categories: (1) surface
+creep, where larger, heavier particles slide or roll along the ground; (2) saltation, where
+particles are lifted a short height into the air, and bounce and saltate across the surface of the
+soil; and (3) suspension, where very small and light particles are lifted into the air by the
+wind, and are often carried for long distances. Saltation is responsible for the majority (50–
+70%) of wind erosion, followed by suspension (30–40%), and then surface creep (5–25%).
+Silty soils tend to be the most affected by wind erosion; silt particles are relatively easily
+detached and carried away.
+Wind erosion is much more severe in arid areas and during times of drought. For
+example, in the Great Plains, it is estimated that soil loss due to wind erosion can be as much
+as 6100 times greater in drought years than in wet years.
+
+Problematic Soils and Their Management
+
+Factors affecting soil erosion
+a. Climate
+
+The amount and intensity of precipitation is the main climatic factor governing soil
+erosion by water. The relationship is particularly strong if heavy rainfall occurs at times
+when, or in locations where, the soil's surface is not well protected by vegetation. This might
+be during periods when agricultural activities leave the soil bare, or in semi-arid regions
+where vegetation is naturally sparse. Wind erosion requires strong winds, particularly during
+times of drought when vegetation is sparse and soil is dry (and so is more erodible). Other
+climatic factors such as average temperature and temperature range may also affect erosion,
+via their effects on vegetation and soil properties. In general, given similar vegetation and
+ecosystems, areas with more precipitation (especially high-intensity rainfall), more wind, or
+more storms are expected to have more erosion.
+In some areas of the world, rainfall intensity is the primary determinant of erosivity, with
+higher intensity rainfall generally resulting in more soil erosion by water. The size and
+velocity of rain drops is also an important factor. Larger and higher-velocity rain drops have
+greater kinetic energy, and thus their impact will displace soil particles by larger distances
+than smaller, slower-moving rain drops.
+b. Soil structure and composition
+
+The composition, moisture, and compaction of soil are all major factors in
+determining the erosivity of rainfall. Sediments containing more clay tend to be more
+resistant to erosion than those with sand or silt, because the clay helps bind soil particles
+together. Soil containing high levels of organic materials are often more resistant to erosion,
+because the organic materials coagulate soil colloids and create a stronger, more stable soil
+structure. The amount of water present in the soil before the precipitation also plays an
+important role, because it sets limits on the amount of water that can be absorbed by the soil
+(and hence prevented from flowing on the surface as erosive runoff). Wet, saturated soils will
+not be able to absorb as much rain water, leading to higher levels of surface runoff and thus
+higher erosivity for a given volume of rainfall. Soil compaction also affects the permeability
+- f the soil to water, and hence the amount of water that flows away as runoff. More
+compacted soils will have a larger amount of surface runoff than less compacted soils.
+c. Vegetative cover
+
+Vegetation acts as an interface between the atmosphere and the soil. It increases
+the permeability of the soil to rainwater, thus decreasing runoff. It shelters the soil from
+winds, which results in decreased wind erosion, as well as advantageous changes in
+
+Problematic Soils and Their Management
+
+microclimate. The roots of the plants bind the soil together, and interweave with other roots,
+forming a more solid mass that is less susceptible to both water and wind erosion. The
+removal of vegetation increases the rate of surface erosion.
+d. Topography
+
+The topography of the land determines the velocity at which surface runoff will flow,
+which in turn determines the erosivity of the runoff. Longer, steeper slopes (especially those
+without adequate vegetative cover) are more susceptible to very high rates of erosion during
+heavy rains than shorter, less steep slopes. Steeper terrain is also more prone to mudslides,
+landslides, and other forms of gravitational erosion processes.
+Human activities that increase soil erosion
+a. Agricultural practices
+
+Unsustainable agricultural practices are the single greatest contributor to the global
+increase in erosion rates. The tillage of agricultural lands, which breaks up soil into finer
+particles, is one of the primary factors. The problem has been exacerbated in modern times,
+due to mechanized agricultural equipment that allows for deep plowing, which severely
+increases the amount of soil that is available for transport by water erosion. Others
+include mono-cropping, farming on steep slopes, pesticide and chemical fertilizer usage
+(which kill organisms that bind soil together), row-cropping, and the use of surface irrigation.
+A complex overall situation with respect to defining nutrient losses from soils, could arise as
+a result of the size selective nature of soil erosion events. Loss of total phosphorus, for
+instance, in the finer eroded fraction is greater relative to the whole soil. Extrapolating this
+evidence to predict subsequent behaviour within receiving aquatic systems, the reason is that
+this more easily transported material may support a lower solution P concentration compared
+to coarser sized fractions.[41]Tillage also increases wind erosion rates, by dehydrating the soil
+and breaking it up into smaller particles that can be picked up by the wind. Exacerbating this
+is the fact that most of the trees are generally removed from agricultural fields, allowing
+winds to have long, open runs to travel over at higher speeds. Heavy grazing reduces
+vegetative cover and causes severe soil compaction, both of which increase erosion rates.
+b. Deforestation
+
+In an undisturbed forest, the mineral soil is protected by a layer of leaf
+litter and humus that cover the forest floor. These two layers form a protective mat over the
+soil that absorbs the impact of rain drops. They are porous and highly permeable to rainfall,
+and allow rainwater to slow percolate into the soil below, instead of flowing over the surface
+
+Problematic Soils and Their Management
+
+as runoff. The roots of the trees and plants hold together soil particles, preventing them from
+being washed away. The vegetative cover acts to reduce the velocity of the raindrops that
+strike the foliage and stems before hitting the ground, reducing their kinetic energy. However
+it is the forest floor, more than the canopy, that prevents surface erosion. The terminal
+velocity of rain drops is reached in about 8 metres (26 feet). Because forest canopies are
+usually higher than this, rain drops can often regain terminal velocity even after striking the
+canopy. However, the intact forest floor, with its layers of leaf litter and organic matter, is
+still able to absorb the impact of the rainfall.
+Deforestation causes increased erosion rates due to exposure of mineral soil by removing the
+humus and litter layers from the soil surface, removing the vegetative cover that binds soil
+together, and causing heavy soil compaction from logging equipment. Once trees have been
+removed by fire or logging, infiltration rates become high and erosion low to the degree the
+forest floor remains intact. Severe fires can lead to significant further erosion if followed by
+heavy rainfall. Shifting cultivation is a farming system which sometimes incorporates
+the slash and burn method in some regions of the world. This degrades the soil and causes the
+soil to become less and less fertile.
+c. Roads and urbanization
+Urbanization has major effects on erosion processes—first by denuding the land of
+vegetative cover, altering drainage patterns, and compacting the soil during construction; and
+next by covering the land in an impermeable layer of asphalt or concrete that increases the
+amount of surface runoff and increases surface wind speeds. Much of the sediment carried in
+runoff from urban areas (especially roads) is highly contaminated with fuel, oil, and other
+chemicals. This increased runoff, in addition to eroding and degrading the land that it flows
+- ver, also causes major disruption to surrounding watersheds by altering the volume and rate
+- f water that flows through them, and filling them with chemically polluted sedimentation.
+The increased flow of water through local waterways also causes a large increase in the rate
+- f bank erosion.
+d. Climate change
+
+The warmer atmospheric temperatures observed over the past decades are expected to
+lead to a more vigorous hydrological cycle, including more extreme rainfall events. The rise
+in sea levels that has occurred as a result of climate change has also greatly increased coastal
+erosion rates.
+
+Problematic Soils and Their Management
+
+Studies on soil erosion suggest that increased rainfall amounts and intensities will lead
+to greater rates of soil erosion. Thus, if rainfall amounts and intensities increase in many parts
+- f the world as expected, erosion will also increase, unless amelioration measures are taken.
+Soil erosion rates are expected to change in response to changes in climate for a variety of
+reasons. The most direct is the change in the erosive power of rainfall. Other reasons include:
+a) changes in plant canopy caused by shifts in plant biomass production associated with
+moisture regime; b) changes in litter cover on the ground caused by changes in both plant
+residue decomposition rates driven by temperature and moisture dependent soil microbial
+activity as well as plant biomass production rates; c) changes in soil moisture due to shifting
+precipitation regimes and evapo-transpiration rates, which changes infiltration and runoff
+ratios; d) soil erodibility changes due to decrease in soil organic matter concentrations in soils
+that lead to a soil structure that is more susceptible to erosion and increased runoff due to
+increased soil surface sealing and crusting; e) a shift of winter precipitation from non-erosive
+snow to erosive rainfall due to increasing winter temperatures; f) melting of permafrost,
+which induces an erodible soil state from a previously non-erodible one; and g) shifts in land
+use made necessary to accommodate new climatic regimes.
+e. Land degradation
+
+Water and wind erosion are now the two primary causes of land degradation;
+combined, they are responsible for 84% of degraded acreage.
+Monitoring, measuring and modeling soil erosion
+Monitoring and modeling of erosion processes can help people better understand the causes
+- f soil erosion, make predictions of erosion under a range of possible conditions, and plan the
+implementation of preventative and restorative strategies for erosion. However, the
+complexity of erosion processes and the number of scientific disciplines that must be
+considered to understand and model them (e.g. climatology, hydrology, geology, soil science,
+agriculture, chemistry, physics, etc.) makes accurate modelling challenging. Erosion models
+are also non-linear, which makes them difficult to work with numerically, and makes it
+difficult or impossible to scale up to making predictions about large areas from data collected
+by sampling smaller plots.
+The most commonly used model for predicting soil loss from water erosion is the Universal
+Soil Loss Equation (USLE). This was developed in the 1960s and 1970s. It estimates the
+average annual soil loss A on a plot-sized area as:
+## A = Rklscp
+Problematic Soils and Their Management
+
+where R is the rainfall erosivity factor, K is the soil erodibility factor, L and S are
+topographic factors representing length and slope, C is the cover and management factor
+and P is the support practices factor.
+Despite the USLE's plot-scale spatial focus, the model has often been used to estimate
+soil erosion on much larger areas, such as watersheds or even whole continents. One
+major problem is that the USLE cannot simulate gully erosion, and so erosion from
+gullies is ignored in any USLE-based assessment of erosion. Yet erosion from gullies can
+be a substantial proportion (10–80%) of total erosion on cultivated and grazed land.
+Prevention and remediation
+The most effective known method for erosion prevention is to increase vegetative cover
+- n the land, which helps prevent both wind and water erosion. Terracing is an extremely
+effective means of erosion control, which has been practiced for thousands of years by people
+all over the world. Windbreaks (also called shelterbelts) are rows of trees and shrubs that are
+planted along the edges of agricultural fields, to shield the fields against winds. In addition to
+significantly reducing wind erosion, windbreaks provide many other benefits such as
+improved microclimates for crops (which are sheltered from the dehydrating and otherwise
+damaging effects of wind), habitat for beneficial bird species, carbon sequestration, and
+aesthetic improvements to the agricultural landscape. Traditional planting methods, such as
+mixed-cropping (instead of monocropping) and crop rotation have also been shown to
+significantly reduce erosion rates. Crop residues play a role in the mitigation of erosion,
+because they reduce the impact of raindrops breaking up the soil particles. There is a higher
+potential for erosion when producing potatoes than when growing cereals, or oilseed
+crops. Forages have a fibrous root system, which helps combat erosion by anchoring the
+plants to the top layer of the soil, and covering the entirety of the field, as it is a non-row
+crop. In tropical coastal systems, properties of mangroves have been examined as a potential
+means to reduce soil erosion. Their complex root structures are known to help reduce wave
+damage from storms and flood impacts while binding and building soils. These roots can
+slow down water flow, leading to the deposition of sediments and reduced erosion rates.
+However, in order to maintain sediment balance, adequate mangrove forest width needs to be
+present.
+
+Problematic Soils and Their Management
+
+## Waterlogged Soils
+A waterlogged or submerged soil is defined as the soil which contains moisture above field capacity
+to water stagnation. In another way we can say water logged soils are soils that are saturated with
+water for a sufficiently long time in a year to give the soil the following distinctive gley horizons
+resulting from oxidation-reduction process.
+i. a partially oxidized ―A‖ horizon high in organic matter.
+ii. a mottled zone in which oxidation and reduction alternate and
+iii. a permanently reduced zone which is bluish green in colour.
+The soil is intermittently saturated with water, oxidation of organic matter is slow and it
+accumulates in the ‗A‘ horizons. In the second horizon, Fe & Mn are deposited as rusty
+mottles or streaks if the diffusion of O2 into the soil is slow, if the diffusion is rapid, they are
+deposited as concretions.
+
+Properties of waterlogged soils
+Physical properties: (i) Diffusion of molecular oxygen and development of aerobic to anaerobic
+layer: When a soil is submerged, water replaces the air in the pore spaces. Except in a thin layer at
+the soil surface, and sometimes a layer below the plough sole, most soil layers are virtually oxygen
+free within a few hours after submergence and promote anaerobic layer.
+(ii) Aeration status of a submerged soil: Immediately after submergence the entry of O2 and
+- ther atmospheric gases in the soil is severely restricted. The escape of soil gases by diffusion
+is also affected to the same degree. The net result of submergence is the concentration of O 2
+in the soil is reduced to a very low value, while that of soil gases, notably CO2 is increased
+especially if conditions are favourable for biological activity.
+(iii) Accumulation of carbon dioxide: Soil gases like CO2 and methane accumulate due to
+submergence and also may escape as bubbles if pressure builds up. It has been recorded that
+during the first three weeks of submergence some soils may generate CO2 upto 25 ton ha-1.
+
+Problematic Soils and Their Management
+
+(iv) Soil compaction and puddling: In compaction, soil solids are rearranged with
+compression if liquid and gaseous phases accompanied by volume change. Soil compaction
+affects the water retention characteristics, water intake rates, and gaseous exchange. In
+compacted soil, bulk density microvoids, thermal conductivity and diffusivity and nutrient
+mobility increases, and on the other hand, macrovoids, hydraulic conductivity and water
+intake rate decreases. Generally medium textured soils are most susceptible to compaction.
+Puddling influences physical, chemical and biological soil properties which in turn influence
+rice growth.
+Electrochemical properties: (i) Decrease in Redox Potential (Eh) unit volt or
+millivolt: Redox potential is one of the most important properties of which differentiates
+between a submerged soil and well drained soil. The Eh value of soil shows whether a soil is
+in oxidised state or in reduced one. If its value is positive and high, the system is strongly
+- xidising and if it is negative and low, the system is reducing. The Eh of submerged soil is
+low (0.2 to -0.4 V) and reflects the reduced system, while that for aerobic soils is high (0.8 V
+to 0.3 V) reflecting oxidised system.
+Effect of soil factors and duration of submergence: Soils having high nitrate (>275
+ppm) have positive potential for several weeks after submergence, soils low in OM (<1.5%)
+- r high in Mn (>0.2%) maintain positive potentials even 6 months after submergence. Soils
+with more than 3% OM and low in active Mn and Fe (sandy soils) attain Eh of -0.2 to -0.3 V
+within 2 weeks of submergence. Stable potential reached after several week of submergence
+lie between 0.2 V and -0.3 V. On reaching stable potential the change in Eh is practically
+unaffected by temperature in the range of 150C to 450C.
+(ii) Changes in pH: When an aerobic soil is submerged, its pH decreases to a minimum due to
+accumulation of CO2 produced by respiration of anaerobic bacteria. Then it rises to a stable
+value of 6.7 to 7.2 a few weeks later due to reduction of Fe. The overall effect of
+submergence is to increase the pH of acid soils and decrease the pH of alkali or calcareous
+soils. The decrease in pH of alkali or calcareous soils is due to accumulation of CO2. Thus
+due to submergence the pH of acid soils (except those low in Fe) and alkaline soils converge
+to 7. Draining and exposure to air reverse pH change in paddy soils. The increase in pH of
+acid soils is one of the benefits of flooding rice soils, because it eliminates Al toxicity and
+minimises Fe toxicity and increase the availability of phosphate.
+(iii) Specific conductance: The specific conductance of the solution of most soils increases
+after submergence; attain a maximum and declining to a stable value, which varies with the
+nature and properties of the soil.
+
+Problematic Soils and Their Management
+
+Chemical and Microbiological properties: (i) Organic Matter decomposition: Organic matter
+decomposition in waterlogged soils is only partial and proceeds at a slow rate since it is
+entirely carried out by anaerobic organisms, which operate at low energy level. Unstable
+- rganic substances are produced followed by evolution of CO2 and methane.
+(ii) Ammonification: In waterlogged soils mineralisation of organic nitrogen stops at
+ammonia stage.
+(iii) Denitrification: Denitrification is increased by low oxygen concentration, high organic
+matter, increase in temperature and low redox potential.
+(iv) Nitrogen fixation: Nitrogen fixation in waterlogged soils is carried out by BGA, N-fixing
+photosynthetic bacteria and nitrogen fixing bacteria.
+(v) Phosphorus: Under reduced conditions phosphorus is present in water insoluble and
+available forms.
+(vi) Iron: Iron is reduced and its solubility increased.
+Development and classification of water logging
+Waterlogging may occur due to several causes which may be classified into two groups:
+A. Natural causes: (1) Geological and Geomorphological:
+(a). Soil factors: The magnitude of fluctuation of ground water region is high in clayey soil or
+loamy sand than sandy soil or pebbled. The high infiltration capacity of North Bihar soils is
+conducive to high water table.
+(b). Topography: Generally flattened topography and basin shaped lands are always prone to
+water logging.
+(2) Climate: If the rate of rainfall is higher than the rate of evaporation and infiltration as well
+as run off due to flattened topography water logging occurs.
+(3) Hydrological factors: During monsoon most of the rivers are in floods. The flood water
+may percolate into the banks and cause arise in the water table or it may overflow the banks
+and accumulate in the low lying areas having flat or basin shaped topography.
+(4) Artesian pressure from underground sources: Wells drilled downwards to penetrate
+underground aquifers often produce flowing wells, which may or may not be utilised fully for
+irrigation. Thus the entire valley may become waterlogged because of uncontrolled flow of
+artesian wells.
+B. Defective irrigation and drainage managements:
+i. Excessive use of water
+ii. Seepage from canals, laterals and ditches.
+iii. Poor, inadequate or absence of surface or subsurface drainage system on forms.
+
+Problematic Soils and Their Management
+
+iv. Inherent stratification of irrigated soils.
+v. Mineral elements in irrigation water or in virgin soils.
+vi. Nature of crops.
+vi. Absence of basic data on water balance and the ground water of problem areas.
+Management of waterlogged soils
+1. Improvement of drainage: Drainage is the most important problem of waterlogged areas.
+No shortcut method can solve all drainage problems. For bringing about improvement in
+drainage following studies and survey work should be done thoroughly.
+i. Field reconnaissance - To find out the number and location of natural waterways and
+possible location of drainage outlets.
+ii. Topographic survey - To identify the slope, undulation, to find out the potential drainage
+- utlet.
+iii. Soil Survey – To find out the characteristics of underlying soil layers of waterlogged area
+and each layer should be analysed in the laboratory to determine their drainabilty.
+iv. Water table survey – The position and fluctuation of water table can be determined by
+installing observation wells.
+v. Source of irrigation water –
+Source
+
+Remedy
+
+Rainfall
+
+Surface drainage
+
+Seepage of Canal
+
+Interception drainage
+
+2. Besides the above the following cultural practices should be adopted in waterlogged areas.
+a. Growing crops tolerant to water logging – Deep water paddy for prolonged flood.
+Occasional water logging – paddy, sugarcane, jute.
+b. Planting trees with high rate of transpiration – grow forest trees, fuel plants like Eucalyptus
+rebusta, Zizyphus jujube, Napier grass, Guinea grass.
+c. Method of planting – Ridge and furrow method of planting reduces the damage due to
+water logging.
+d. Use of balanced fertilizer due to this increase the efficiency of water use by plants.
+e. Fish farming
+f. Judicious use of irrigation water.
+g. Use of early sown and early maturity crop.
+
+Problematic Soils and Their Management
+
+## Polluted Soil
+Inorganic chemical contamination has become a widespread phenomenon and the problem
+attains greater significance due to its persistence in soil for longer period. The soil is a
+primary recipient by design or accident of a myriad of waste products and chemicals used in
+modern society. Every year millions of tons of products from variety of sources – industrial,
+domestic and agricultural find their way into the world‘s soils. Once these materials enter the
+soil, they become part of the biological cycles that affect all forms of life. Although soil acts
+as a physical factor by its sieving action, a chemical filter by adsorbing and precipitating the
+chemical substances and a biological filter by decomposing organic materials. But, owing to
+non-judicious use of manures, fertilizers, pesticides and waste materials into the soils, ground
+and surface waters get contaminated by excess quantities of nutrients, heavy metals and
+pollutants. As per an estimate of United Nation Environment Programme (UNEP), 2 billion
+hectares of land that was once productive has been irreversibly degraded in the past 100 years
+due to contamination and inaccessibility. Extant of water pollution depends on the solubility
+- f contaminants, size of the contaminants and soil type. Inorganic contaminants such as
+arsenic, nickel, selenium, zinc, nitrogen and lead are proving quite hazardous for plant and
+animal health due to bioaccumulation and subsequent biomagnifications in the food web. In
+- rder to reduce the impact of inorganic chemical contaminants on human health by
+preventing their transfer to the food web, there is an urgent need to reduce their transfer to
+agricultural plats. In view of above facts, an attempt has been made to review the sources of
+inorganic contaminants, potential hazards and remediation of contamination in the present
+text.
+Sources and ill effects of Inorganic chemical contaminates in soils: Inorganic chemical
+contaminants inter into soils either through pedogenic or anthropogenic or both pathways. If
+parent materials of the soil have higher concentration of heavy metals or pollutants than
+certainly the developed soils and water bodies of nearby area will have higher concentration
+- f inorganic chemical contaminants. Industrialization, faulty method of waste disposal, faulty
+agricultural practices, mining of minerals and unscientific drainage of effluents are few
+important anthropogenic sources of chemical contaminants. The toxicity of inorganic
+contaminants released into environment every year is now estimated to exceed that from
+- rganic and radioactive sources combined. The greatest problems most likely involve arsenic,
+lead, mercury, cadmium, nickel, copper, zinc, chromium, molybdenum, manganese,
+selenium, fluoride and boron. To greater and lesser degree, all of these elements are toxic to
+
+Problematic Soils and Their Management
+
+humans and other animals. Cadmium and arsenic are extremely poisonous; lead, mercury,
+nickel and fluoride are moderately so; boron, copper, manganese and zinc are relatively lower
+in mammalian toxicity. Table-1 provides background information on the uses, sources and
+effect of some of these elements.
+Irrespective of their sources, toxic elements can and do reach the soil, where
+they become part of the food chain: Soil
+
+Plant
+
+Animal
+
+Human (Fig. 1).
+
+Unfortunately, once the elements become part of this cycle, they may accumulate in animal
+and human body to toxic levels. This situation is especially critical for fish and other wildlife
+and for human at the top of the food chain. It has already resulted in restrictions on the use of
+certain fish and wildlife for human consumption. Also, it has become necessary to curtail the
+release of these toxic elements in the form of industrial waste.
+Permissible limits of heavy metals in soil food and drinking water: Heavy metals entered
+into living bodies depletes some essential nutrients that are further responsible for decreasing
+immunobiological defenses, intrauterine growth retardation, impaired psychosocial faculties,
+disabilities associated with malnutrition and high prevalence of upper gastrointestinal cancer
+rates. Serious systemic health hazards can develop as a result of extreme dietary
+accumulation of heavy metals. Permissible limits of heavy metals in soil, food and drinking
+water reported by Awasthi (2000) have been presented in table-2.
+Potential of sewage-sludge to cause chemical hazards: Application of sewage and sludge
+in soil for crop production is quite common practice adopted by the farmers in India and
+abroad. It has been concluded on the basis of experimental data that high concentrations of
+heavy metals in untreated sewage-sludge cause chemical pollution in soil (Table 3). It has
+been observed that continuous supply of sewage water increases pollutant concentration in
+soil (Table 4). So, sewage should be applied in field for agriculture purposes only after
+treatment with suitable amendment. It is pertinent to mention that in some of the cases
+inorganic chemicals are not sufficiently high to be toxic to the plants and living organisms
+but biomagnifications makes the concentration of heavy metal toxic to the living organisms.
+Forms of heavy metals in soil: On the basis of experimental results it has been found that
+heavy metals are found in four major forms in our soil system.
+1. Soluble or exchangeable forms, which are available to the plants to uptake.
+2. The elements are bounded by the soil organic matter and may be released over a period of
+time.
+
+Problematic Soils and Their Management
+
+3. Association of heavy metals in soils is with carbonates
+4. Association of heavy metals in soils with oxides of iron and manganese.
+Prevention and elimination of inorganic chemical contamination: Three primary methods
+- f alleviating soil contamination by toxic inorganic compounds are(1) to eliminate or drastically reduce the soil application of the toxins;
+(2) to immobilize the toxin by means of soil management, to prevent it from moving into
+food or water supplies; and
+(3) in the case of severe contamination, to remove the toxin by chemical, physical or
+biological remediation.
+Reducing soil application: The first method requires action to reduce unintentional aerial
+contamination from industrial operations and from automobile, truck and bus exhausts.
+Anthropogenic activities including the indiscriminate dumping of urban and industrial
+effluents responsible for heavy metal accumulation in soil must be stopped or decreased soon.
+Also, there must be judicious reduction in intended applications of the toxins through
+chemical pesticides, fertilizers, irrigation water and solid wastes which is possible by
+popularizing bio-pesticides, bio-fertilizers and treatment of water and wastes by suitable
+materials. Inorganic amendments used for the reduction of heavy metals have been presented
+in Table 5.
+Immobilizing the toxins
+Soil and crop management can help to reduce the continued cycling of these inorganic
+chemicals. This is done primarily by keeping the chemicals in the soil rather than
+encouraging their uptake by plants. The soil becomes the sink for the toxins, and thereby
+breaks the soil-plant-animal cycle through which the toxins exerts its effect. The soil breaks
+the cycle by immobilizing the toxins. For example, most of these elements are rendered less
+mobile and less available if the pH is kept near neutral or above. Draining of wet soils will be
+beneficial, since the oxidized forms of several toxic elements are generally less soluble and
+less available for plant uptake than the reduced forms. However, the opposite is true for
+chromium, which occur principally in two forms Cr3+ and Cr6+ . Hexavalent chromium forms
+compound that are mobile under a wide range of pH conditions and are highly toxic to
+humans. Trivalent chromium on the other hand forms oxides and hydroxides that are quite
+immobile except in very acid soil. Fortunately, active soil organic matter is quite effective at
+reducing chromium.
+
+Problematic Soils and Their Management
+
+Heavy phosphate applications reduce the availability of some metal cat ions but may
+have opposite effect on arsenic. Leaching may be effective in removing excess boron,
+although moving the toxin from soil to water, so bioremediation should be alone to save the
+human being from B toxicity. Covering of soil with unpolluted soil may be useful to reduce
+lead uptake by the plants.
+Care should be taken in selecting plants to be grown on metal contaminated soil.
+Generally plants translocate much larger quantities of metals to their leaves than to their fruits
+- r seeds. So, leafy vegetables should not be grown in this soil.
+Bioremediation
+Certain plants have been reported to accumulate heavy metals in considerably higher
+proportions without showing any toxicity symptoms. Plants have been found that accumulate
+more than 20,000 mg/kg nickel, 40,000 mg/kg zinc and 1000 mg/kg cadmium. These hyper
+accumulating plants would pose a serious health hazards if consumed by animals or human
+beings. But, they may facilitate a new kind of bioremediation for metal contaminated soils
+because the traditional physico-chemical methods to clean up the polluted soils are typically
+cost-prohibitive and destructive. Conclusively, it can be stated that a viable and remunerative
+- ption could be the cultivation of non-edible crops, which are economically remunerative as
+well, like cut flower, aromatic and medicinal plants etc..
+Genetic and bioengineering techniques are being utilized to develop high yielding
+hyper accumulating plants that can remove larger quantities of heavy metals contaminating
+from soils. Also, research to insert genes responsible for contaminant accumulation into other
+higher yielding plants, such as canola and Indian mustard is underway.
+A combination of chelates and phytoremediation has been used to remove lead from
+contaminated soil. Treatment of lead and arsenic contaminated water with harmless chelating
+legends may be useful for making the water usable and harmless.
+Nano particles: In situ stabilization by nano particles having low environmental impact is
+- ne of the most promising techniques. This technique is helpful in reducing the risk of ground
+water contamination, plant uptake of heavy metals, and exposure of other living organisms to
+heavy metal ions.
+Conclusion: Inorganic chemical contamination in soil, water and food has now become a
+noticeable issue for thinkers, planners, politicians and scientists because it has started to
+cause human health hazard. Natural mechanisms governing the maintenance of the ecological
+and agricultural functions of soil are being jeopardized with the increase in soil
+contamination brought about by anthropogenic activities. This is very high time to understand
+
+Problematic Soils and Their Management
+
+about the sources of inorganic chemical contamination and to adopt the preventive or curative
+measures. Numerous organic materials or inorganic chemicals offer quick remediation of
+contaminated soil and water to reduce inorganic chemical contamination level in food plants
+and ultimately to save the humanity.
+Fig. 1 : Sources of heavy metals and their recycling
+
+Table 1 : Sources and human health effects of inorganic soil pollutants.
+Chemicals
+
+Major uses and sources of soil contaminants
+
+Organisms
+principally
+harmed
+
+Arsenic
+
+Pesticides, animal feed additives, coal, petroleum,
+irrigation water, plant desiccants, detergent
+
+H,A,F,B
+
+Lead
+
+Combustion of oil, gasoline and coal, steel and iron
+production, solder in water pipes, paint pigment.
+
+H,A,F,B
+
+Cadmium
+
+Electroplating, pigments for plastic and paints,
+plastic stabilizers, batteries and phosphate
+fertilizers
+
+H,A,F,B, P
+
+Chromium
+Copper
+Mercury
+Nickel
+
+Stainless steel, chrome plated metals, pigments,
+leather tanning and refractory brick manufacture
+Fly ash, fertilizers, windblown copper containing
+dust, water pipes and mine tillage.
+Pesticides, catalyst for synthetic polymers,
+metallurgy and thermometers
+Combustion of coal, gasoline and oil, alloy
+manufacture, electroplating, batteries and mining.
+
+H,A,F,B
+
+H,A,F,B
+
+Nerve disease
+
+F,P
+
+Lung cancer
+
+H,A,F,B
+
+Zinc
+
+Galvanized iron and steel, alloys, batteries, brass,
+rubber manufacture, mining and old tires.
+
+F, P
+
+Mutagenic
+Rare, essential
+nutrients
+
+High se geological formation and irrigation water
+containing high content of se
+
+Cancer,
+skin
+lesions,
+cumulative
+poison
+Brain damage,
+convulsions
+Heart
+and
+kidney disease,
+bone
+embrittlement
+
+F,P
+
+Selenium
+
+H = Human, A = Animals, F = Fish, B = Birds, P = Plants
+Source : Brady and Well (2007)
+
+Human health
+effects
+
+Rare, loss of
+hair and nail,
+deformities
+Rare, essential
+nutrients
+
+Problematic Soils and Their Management
+
+Table 2: Indian standards for heavy metals in soil, food and drinking water
+Heavy metal
+Cd
+Cr
+Cu
+Fe
+Ni
+Pb
+Zn
+As
+Mn
+
+Soil (mg Kg-1)
+3-6
+135-270
+75-150
+250-500
+300-600
+-
+
+Food(mg Kg-1)
+1.5
+1.5
+2.5
+1.1
+-
+
+Water(mg L-1)
+0.01
+0.05
+0.05
+0.03
+0.10
+5.00
+0.05
+0.10
+
+Table 3: Regulatory limit and pollutant loading rates of heavy metals in sewage-sludge
+Elements
+As
+Cd
+Cr
+Cu
+Hg
+Mo
+Ni
+Pb
+Se
+Zn
+
+Maximum concentration in
+sludge USEPA mg/kg
+
+Heavy metals loading rate (mg/kg) in different cities
+Delhi
+Chennai
+Nagpur
+Ahmadabad
+Jaipur
+5.5
+8.3
+1.5
+3.5
+7.3
+53.5
+38.5
+49.2
+60.4
+60.5
+14.8
+32.3
+37.5
+34.5
+16.6
+24.3
+76.8
+66.9
+
+USPEA = US environmental protection agency (1993)
+
+Table 4: Availabilities of micronutrients and heavy metals of top soil (0-16cm) as affected by
+sewage irrigation for thirty years in Nagpur district of Maharashtra
+Nutrient content (mg/kg)
+Irrigation
+Location
+
+status
+
+Fe
+
+Cu
+
+Zn
+
+Mn
+
+Pb
+
+Cr
+
+Cd
+
+Non irrigated
+
+9.87
+
+1.97
+
+0.25
+
+12.04
+
+0.13
+
+0.018
+
+0.012
+
+sewage irrigated
+
+19.13
+
+2.91
+
+0.11
+
+12.13
+
+0.28
+
+0.042
+
+0.018
+
+Non irrigated
+
+9.36
+
+2.20
+
+0.14
+
+9.45
+
+0.93
+
+0.018
+
+0.016
+
+sewage irrigated
+
+17.05
+
+7.69
+
+0.51
+
+14.16
+
+0.70
+
+0.028
+
+0.012
+
+Non irrigated
+
+2.12
+
+5.99
+
+1.66
+
+4.13
+
+0.78
+
+0.026
+
+0.010
+
+sewage irrigated
+
+8.54
+
+8.22
+
+6.11
+
+24.44
+
+2.01
+
+0.030
+
+0.040
+
+Chafegadi
+
+Kuhi
+
+Asoli
+
+Problematic Soils and Their Management
+
+Table 5: Mineral amendments used for the reduction of heavy metals
+Amendment
+
+Metals immobilized
+
+Al-Montmorillonite
+
+Cd, Ni, Zn
+
+Clinoptilolite
+
+Cd, Pb, Zn
+
+Di ammonium phosphate
+
+Cd, Pb, Zn
+
+Ferrous sulphate
+
+As, Cr
+
+Hydroxyappetite
+
+Cd, Cu, Ni, Zn
+
+Lime
+
+Cd, Cu, Ni, Zn, Pb
+
+Manganese oxide
+
+Cd, Pb
+
+Water treated sludge
+
+Cd, Cu, Pb, Ni, Zn
+
+Problematic Soils and Their Management
+## Irrigation Water – Quality And Standards
+Quality of irrigation water – The concentration and composition of dissolved constituents
+in a water determine its quality for irrigation use.
+Criteria for evaluating of irrigation water – For irrigation waters, the usual criteria include
+salinity, sodicity (Sodium content) and element toxicities.
+(1) Salinity hazard of total concentration of soluble salts or electrical conductivity (dsm-1)
+Water
+Ec (dsm-1)
+Salt concentration
+Remarks
+Low salinity
+
+0 – 0.25
+
+< 0.16
+
+Can be used safely
+
+Medium salinity
+
+0.25 – 0.75
+
+0.16 – 0.50
+
+Can be used with moderate
+leachling
+
+Highly salinity
+
+0.75- 2.25
+
+0.50- 1.50
+
+Very high salinity
+
+2.25 – 5.00
+
+1.50 - 30
+
+Can not be use for
+irrigation purposes
+
+(2) Sodium hazard – High concentration of sodium are undesirable in water because sodium
+
+adsorbs on the Soil Carbon exchange sites, causing soil aggregates to break down
+(deflocculation), sealing the pores of the soil and making it impermeable to water flow. The
+tendency for sodium to increase its proportion on the carbon exchange sites at the expense of
+- ther types of cations is estimated by the ratio of sodium content of the content of calcium
+plus magnesium in the irrigation water.
++
+
+SAR =
+
+Na
+
+√(Ca2++Mg2+/2)
+
+Water class
+
+SAR Value
+
+Remarks
+
+S1
+
+Low medium hazard
+
+0 – 10
+
+Little or no hazard
+
+S2
+
+Medium sodium hazard
+
+10 – 18
+
+S3
+
+High sodium hazard
+
+18 – 26
+
+S4
+
+Very high sodium hazard
+
+>26
+
+Appreciable hazard, but can be
+used with appropriate
+management
+Un satisfactory for most of the
+crops
+
+Problematic Soils and Their Management
+
+(III) Salt index – It is also used for predicting sodium hazard. It is the relation between Na+,
+
+Ca+ and CaCo3 Present in irrigation water.
+Salt index = (Total Na – 24.5) - [(Total Ca – Ca in CaCO3) x 4.85] being reckoned as
+calcium.
+The salt index is negative (-24.5 to 0) for irrigation water of high quality and any
+positive value of the salt index is harmful for irrigation purposes. The relative degree on both
+sides (negative & positive sides) depends on the magnitude of the ―Salt index‖ factor.
+(1V) Bicarbonate hazard – The bicarbonate (HCO3) anion is an important in irrigation
+water as regards calcium and to a lesser degree also of magnesium as their carbonate in the
+soil. This brings about a change in the soluble sodium percentage (SSP) in the irrigation
+water and therefore, an increase of the sodium hazard. The RSC is used to evaluate the
+quality of irrigation water and is expressed in mel-1.
+Residue sodium carbonate = RSC
+RSC (mel-1) = (CO32-+HCO3-) – (Ca2+ + Mg2+ )
+RSC Value (mel-1)
+
+Water Quality
+
+< 1.25
+
+Water can be used safely
+
+1.25 – 2.5
+
+Water can be used with certain management
+
+>2.5
+
+Unsuitable for irrigation purposes
+
+(V) Boron Concentration – It is evident that boron is essential for the normal growth of the
+plant, but the amount required is very small. The occurrence of boron in toxic concentration
+in certain irrigation waters makes it necessary to consider this element in assessing the water
+quality. The permissible limits of boron in irrigation water are given below.
+
+Problematic Soils and Their Management
+
+Permissible limits of boron in irrigation water in relation to different categories of crops.
+Boron Concentration (ppm)
+Boron Class
+Sensitive Crops
+
+Semi tolerant
+Crops
+
+Tolerant Crops
+
+Remarks
+
+Very low
+
+< 0.33
+
+< 0.67
+
+< 1.00
+
+Can be used safely
+
+Low
+
+0.33 to 0.67
+
+0.67 to 1.33
+
+1.00 too2.00
+
+Can be used with
+management
+
+Medium
+
+0.67 to 1.00
+
+1.33 to 2.00
+
+2.00 to 3.00
+
+High
+
+1.00 to 1.25
+
+2.00 to 2.50
+
+3.00 to 3.75
+
+Very high
+
+>1.25
+
+>2.50
+
+> 3.75
+
+Un suitable for
+irrigation purposes
+
+(VI) Chloride Concentration – The chloride ion has no effect on the physical properties of a
+soil and is no adsorbed on the soil complex and so it has generally not been included in
+modern classification system. However, it can be used as a factor in some regional water
+classification.
+Cl- Concentration (mel -1 ) =
+
+Cl- + NO3CO32- + HCO3- + SO42- + Cl- + NO3-
+
+Cl- Concentration (mel -1 )
+
+Water quality
+
+4–7
+
+Excellent water
+
+7 – 12
+
+Moderately good water
+
+12 - 20
+
+Slightly usable
+
+>20
+
+Not suitable for irrigation
+
+Table (guide lines are only approximate)
+Intensity of Problem
+Water Constituent
+
+No problem
+
+Moderate
+Problem
+
+Service
+Problem
+
+1. Salinity (dsm-1 )
+
+< 0.75
+
+0.75 – 3.0
+
+> 30
+
+2. SAR – Soils are
+
+Problematic Soils and Their Management
+
+(a) dominantly montmonillonite
+
+<6
+
+6 -9
+
+>9
+
+(b) dominantly little vermiculate
+
+<8
+
+8 - 16
+
+>16
+
+(c) dominantly kaolinite sesquioxide
+
+<16
+
+16 – 24
+
+>24
+
+(a)Sodium (adjusted SAR)
+
+<3
+
+3–9
+
+>9
+
+(b)Chloride (mel-1 )
+
+<4
+
+4 – 10
+
+>10
+
+(c)Boron (mel-1 )
+
+< 0.75
+
+0.75 – 2.0
+
+>2.0
+
+4.NO-3 or NH4+ (mel-1 )
+
+<5
+
+5 – 30
+
+>30
+
+< 1.5
+
+1.5 – 8.5
+
+>8.5
+
+3. Specific ion toxicity
+
+-
+
+-1
+
+5. Hco3 (mel )
+
+(VII) Soluble Sodium Percentage (SSP)
+
+SSP =
+
+Na ×100
+𝐶𝑎+𝑀𝑔+𝑁𝑎
+
+All soluble cations are expressed in mel-1 irrigation water having SSP value of 60 and
+above are considered as harmful.
+(VIII) Magnesium hazard – It is believed that the one of the important qualitative criteria in
+judging the irrigation water is its magnesium content in relation to total divalent cations,
+Since high magnesium adsorption by soil affects their physical properties. A harmful effect
+- ne soils appears when Ca:Mg ratio declines below 50.
+Mg. Adsorption ratio = 2 =
+
+𝑀𝑔2+
+𝐶𝑎 2++𝑀𝑔2+
+
+Magnesium hazard in irrigation water is expected having Mg:Ca ratio more than 1.
+(IX) Nitrate Concentration – Very frequency ground waters contain high amount of nitrate.
+When such type of irrigation water is applied on soils. Continuously various physical
+properties will be affected very badly which causes poor growth of the plants.
+(X) Lithium – Lithium is an important trace element which may be found in most of saline
+ground – water and irrigated soils. It has been found that small concentration (0.05 – 0.1
+ppm) of Lithium in irrigation water produced toxic effects on the growth of citrus crops.
+
+Problematic Soils and Their Management
+
+## Use Of Saline Water In Agriculture
+Water is a fundamental human need and a critical national asset. According to the United Nations
+Water Organization (UNWO), the total usable fresh water supply for ecosystem and humans is only
+200,000 Km3 of water – less than one per cent of all water resources. Based on the map published
+by Consultative Group of International Agricultural Research (CGIAR), the regions suffering most
+water stress are North America, India, Central Asia, China, Chile, South Africa and Australia. In
+the other hand, demand of usable water is increasing very sharply to meet out the thrust and hunger
+- f ever increasing human population. As per an estimate of UNWO, water withdrawals are
+predicted to increase by 50% by 2025 in developing countries and 8% in developed countries. By
+2025, 800 million people will live in absolute water scarcity and two third of the world population
+could be under stress condition. Despite of fast depletion of usable water resources, ground water
+available in India is being utilized prosperously. Over 65% of irrigation water and 85% of drinking
+water is obtained from ground water resources. However, on current trends it is estimated that 60%
+- f ground water sources will be in critical state within the next twenty years. Volume of
+underground water used for irrigation purposes in India has been increased by 117% within 48
+years (1961-2009). The National Commission for Integrated Water Resource Development
+(NCIWRD) has estimated that against the total annual availability of 1953 BCM (billion cubic
+meter) of ground water and 1521 BCM of surface water, only 55.6% can be put to use. The high
+level of pollution further restricts the utilization of water. So, this is very high time to recharge our
+underground water resources, saving of underground water and use of saline water (as such or
+treated) for agricultural and other proposes.
+Total volume of water available on earth is 1.4 X 109 Km3and out of which 97.7% is saline. Slightly
+to moderate saline water can be used for agricultural purposes; however, strong saline water can
+- nly be used for irrigation and other purposes after their proper treatment/desalinization. Now, we
+have technologies and plant machineries to desalinize the brackish/ saline/ briny water for
+agriculture and human consumption. Solar or nuclear energy-based desalinization plants have been
+established in various part of the globe. Management of saline water in agriculture includes an
+important aspect of safe use of saline water to irrigate the crops. Saline/ briny water can be
+classified on the basis of electrical conductivity, sodium adsorption ratio (Na+/[(Ca++ + Mg++)/2]1/2)
+and residual sodium carbonate [(CO3-- +HCO3--)-(Ca++ + Mg++) ]. As per United State Salinity
+Laboratory, water containing less than 0.25 dSm-1 electrical conductivity can be used any type of
+soils. However, Water containing 0.25-0.75, 0.75-2.25 and 2.25-5.0 dSm-1 electrical conductivity
+can be used by providing small, good and very good drainage facilities in respective soils. If
+salinity level in irrigation water is > 5.0 dSm-1 than only salt tolerant crops can be grown with good
+drainage
+facility. As far use of water for irrigation of crop on the basis of sodium
+
+Problematic Soils and Their Management
+
+adsorption ratio is concerned, water having 0-10SAR can be used in any kind of soils and
+crops. Water having SAR values 10-18, 18-26 and >26 can be used with moderate, good and
+very good drainage facility (combined with gypsum) respectively. Water having more than
+10.00 meL-1 RSC can safely be used in soil receiving more than 700mm annual rainfall but if
+rain fall is lesser than we should not use the water having >7.5 meL-1 RSC. To prevent the
+excessive accumulation of salt in the root zone from irrigation, extra water (or rainfall) must
+be applied in excess of that needed for evapotranspiration (ET) and must pass through the
+root zone in a minimum net amount; over the long term. This amount may be referred to as
+the "leaching requirement" (Lr, the fraction of infiltrated water that must pass through the
+root zone to keep salinity within acceptable levels; US Salinity Laboratory Staff, 1954).
+While discussing the global water security through use of saline water in agriculture,
+we must not surpass the anthropogenic addition of pollutants through either run-off from
+agricultural chemicals or poor management practices. Carbonates and bi-carbonates of
+sodium and/or potassium play an important role for poor irrigation water quality.
+Saline water can also be used for irrigation purposes, but the methods of treatment
+depend on extent of salinity in water (Table 1).
+Table 1: Classification of irrigation water based on its electrical conductivity
+EC (µ mhos/cm)
+
+Use in Agriculture
+
+<250
+
+Safe to use in agriculture for irrigation.
+
+250-750
+
+Can be used with some leaching facility
+
+750-2250
+
+Can be used with good drainage facility
+
+2250-5000
+
+Salt tolerant crops can be grown with good
+drainage facility
+Salt tolerant crops can be grown with good
+drainage facility
+
+>5000
+
+Leaching requirement (LR) can be calculated by following formula:
+LR = Ci/Cd = Dd/Di
+where, Ci =Salt concentration in irrigation water
+Cd =Salt concentration in drainage water
+Di =Depth of irrigation water
+Dd =Depth of drainage water
+However, depth of irrigation water (Di) based on electrical conductivity can be calculated by
+following formula:
+Di = [ECd/(ECd - ECi)]Dc
+
+Problematic Soils and Their Management
+
+Where, ECd = EC of drainage water
+ECi = EC of irrigation water
+Di = Depth of irrigation water, and
+Dc = Equivalent depth of water representing consumptive use
+Based on sodium adsorption ratio (SAR), water can be classified as under:
+SAR
+
+Use in Agriculture
+
+<10
+
+Safe to use in agriculture for irrigation.
+
+10-18
+
+Can be used with some leaching facility
+
+18-26
+
+Can be used with good drainage facility
+
+>26
+
+Can be used in combination with gypsum to
+grow salt tolerant crops
+
+Irrigation water can also be classified based on residual sodium carbonate (RSC), which is as
+under:
+RSC (me/L)
+
+Remark
+
+<1.25
+
+Safe
+
+1.25-2.5
+
+Marginal
+
+>2.5
+
+Unsafe
+
+Conclusively, it can be stated that saline water can also be used for irrigation purposes. But,
+irrigation water having high EC, SAR and RSC values can be used for agricultural purposes
+- nly after proper treatment.
+
+Problematic Soils and Their Management
+
+## Remote Sensing And Gis In Diagnosis And Management Of
+## Problem Soils
+Introduction
+Remote sensing and GIS (Geographic Information Systems) technology provides an important tool
+for the assessment and monitoring of the natural resources. Due to rapidly expanding opportunities,
+different organizations and research sectors are interested to adopt this technology in their business
+- r research work, and lots of funds are being invested on these fields. Remote sensing and GIS
+(Geographic Information Systems) technology directly and indirectly involved for the enhancement
+- f geospatial information and their management in geo-database in which spectral properties of the
+targets viz. soil, water and vegetation of the earth surface played an important role. Materials of
+the surface reflect and absorb the energy at differently level of wavelengths interval and they are
+categorized as targets, can be differentiated by their spectral reflectance or signatures in the
+remotely sensed images and digital images acquired from the satellite sensors used for information
+extraction. To achieve this target, geospatial softwares like Erdas Imagine, Envi, TNT Mips, ArcGIS and Q-GIS are used for digital image processing and mapping. Main objective of this topic
+―Application of remote sensing and GIS in Agriculture” is to introduce the concept of remote
+sensing and GIS, methodology/flow chart and the application in agriculture,
+In initial stage, remote sensing means obtaining information about an object, area or phenomenon
+without actual touch or coming in direct contact with it. However, modern remote sensing means
+acquiring information about earth‘s land and water surfaces by using reflected or emitted
+electromagnetic energy. Over this concern, optical remote sensing makes use of visible, near
+infrared and short-wave infrared sensors to form images of the earth's surface by detecting the solar
+radiation reflected from targets on the ground but thermal remote sensing work on emitted energy.
+Hence, different materials reflect and absorb differently at different wavelengths. Thus, the targets
+can be differentiated by their spectral reflectance signatures in the remotely sensed images. There
+are different stages involved in RS-GIS in which source of energy or illumination is most important
+element provides electromagnetic energy to the target of interest whatever assigned. Further when
+the energy travels from its source to the target, it will come in contact with and interact with the
+atmosphere then it passes through and reached to the ground surface and interacts with the target.
+Depending on the properties of both the target and the radiation, the energy may reflect by, or
+emitted from the target and that energy recorded by the sensor and converted into images. Pectoral
+data whatever recorded in form of reflected energy or emitted energy the data are processed into an
+image (hardcopy and/or digital) in receiving and processing station further processed image is
+interpreted, visually and/or digitally or electronically, to extract information about the target which
+was illuminated.
+
+Problematic Soils and Their Management
+
+Electromagnetic Radiation and Electromagnetic Spectrum
+Electromagnetic Radiation consists of an electrical field which varies in magnitude in a direction
+perpendicular to the direction in which the radiation is travelling, and a magnetic field oriented at
+right angles to the electrical field. Both these fields travel at the speed of light is the first
+requirement for remote sensing. However, the electromagnetic spectrum is a complete set of
+wavelength interval where ranges start from the shorter wavelengths (including gamma and xrays) to the longer wavelengths (including microwaves and broadcast radio waves). The light
+which our eyes can detect is part of the visible spectrum an important to decimate between
+- bjects. In same manner, there is a lot of radiation around us which is "invisible" to our eyes, but
+can be detected by remote sensing instruments and applied to our advantage. The visible
+wavelengths viz, blue, green and red cover a range from approximately 0.4 to 0.7 μm in which
+longest visible wavelength is red and the shortest is violet. Blue, green, and red are the primary
+colours or wavelengths of the visible spectrum. Infra Red portion, the next portion of the
+spectrum of interest is the infrared (IR) region which covers the wavelength range from
+approximately 0.7 μm to 100 μm, may be divided into two categories based on their radiation
+properties - the reflected IR, and the emitted or thermal IR. The thermal IR region is quite
+different than the visible and reflected IR portions, as this energy is essentially the radiation that is
+emitted from the Earth's surface in the form of heat. The portion of the spectrum of more recent
+interest covers the longest wavelengths (from about 1 mm to 1 m) used for remote sensing known
+as microwave region. The shorter wavelengths have properties similar to the thermal infrared
+region while the longer wavelengths approach the wavelengths used for radio broadcasts. Satellite
+sensors identify object and discriminate it from other objects on the basis of reflected/emitted
+electromagnetic energy received by it. When sensors like cameras or multispectral scanners are
+mounted on aircraft, the images are recorded on films or magnetic tapes by filter where energy
+reflected from the targets. This can be done either using electro-optical techniques or more
+popularly by using computer. Then the output products are generated either in the form of
+photographs or in digital form. Then the photographs are analysed visually and digital data is
+analysed by computer software.
+Satellite Data Products and their interpretation
+The satellite data products give information of objects on the earth surface in the form of
+photographs or images. The pictorial products provided by aircrafts known as photographs or
+satellites are called satellite images. These images are generally taken by sensors which use both
+visible and invisible portion of electromagnetic energy. If images are taken in blue, green and red
+bands (visible portion of electromagnetic energy) respectively, they can be combined to give
+natural colour image but images are taken in green, red (visible portion of electromagnetic energy)
+65 energy) and blue, green and red colours are
+and infrared band (invisible portion of electromagnetic
+
+Problematic Soils and Their Management
+
+assigned to them respectively and then they are combined together, produce a False Colour
+Composite (FCC) image that is much effective for the extraction the information of geospatial
+features.(Fig.1). Lay person cannot visualize anything from FCC image. Only an expert can
+interpret it. Based on digital image processing and applied indices, valuable information may be
+generated and stored in database. Multispectral, hyper-spectral, thermal and microwave remote
+sensing are well known for providing satellite images. IRS series and Landsat series satellites
+provided sun synchronous satellite images. However, Indian meteorological department uses
+satellite data for weather forecasting.
+
+Fig.2 FCC image of Bihar in which vegetation appeared red
+Methodology
+Flow chart of methodology used in case of presentation of data or information whatever
+derived in computer system, There are different types of methodologies were applied to fulfil
+the objectives under ICT, similarly in case of land use pattern or agricultural information
+system under RS-GIS technology some methodologies were applied. Suppose, there is need
+to develop a land use plan using geospatial/RS-GIS technology, some steps may be involved
+which are summarized in a flow chart (Fig.2). Satellite data, toposheets and attribute data are
+the basic sources for the generation of geospatial data base and over this concern georeferencing, mosacking, visual interpretation keys, superimposed of GPS reading, digitization
+and digital image processing are some initial processes were applied for the extraction of
+geospatial features from the satellite images or attribute data. However, laboratory reports
+
+Problematic Soils and Their Management
+
+and ancillary data that may be derived or available in documented form may also be applied
+to fulfil the objectives.
+Geographical Information System
+GIS is a computer based information system which attaches a variety of qualities and
+characteristics to geographical location and helps in planning and decision making. Indian
+
+Society of Geomatics (ISG) and Indian Space Application Centre (ISRO) defined GIS as a
+system which provides a computerised mechanism for integrating various geo information
+data sets and analysing them in order to generate information relevant to planning needs in a
+context. GIS primarily deals with geographic data to be analysed, manipulated and managed
+in an organized manner through computers to solve real world problems. So, GIS operation
+requires two things – computer system and geographic data.
+Fig.2 Flow chart for preparation of digital maps towards land use planning
+Computer System and geospatial software and Data for GIS
+It includes both hardware and software. GIS runs through computer system ranging from
+portable personal computers to multi-user super computers which are programmed by wide
+variety of software languages. ARC View, ARC Info, Map Info., ARC GIS, Auto Cad Map
+etc. Used for GIS analysis. Data directly or indirectly may be related with geospatial features
+can be obtained from different sources like aerial photographs, satellite imageries, and digital
+data, conventional maps, Census, Meteorological department, field data (surveys/GPS) etc for
+GIS. These data obtained from various sources can be classified into two types – spatial data
+which describes location and attribute data which specifies the characteristics at that location.
+
+Problematic Soils and Their Management
+
+Spatial data tells us, ―Where the object is?‖ Attribute data tells us ―What the object is?‖ or
+―How much the object is?‖ In other words, it tells the characteristics at that location.
+Spatial Data
+The spatial features are very complex. So, data related geospatial features are simplified
+before they are entered into the computer. The common way of doing this work is to break
+down all geographic features into three basic entity types known as points, lines and areas
+(polygons). Points are ‗one dimensional‘ objects, used to represent features that are very
+small, e.g. a pond, an electric pole, a well or tube well etc. Only latitudinal and longitudinal
+values or a coordinate reference can be given to these features to explain their location,
+Similarly, lines are two dimensional objects and are used to represent linear features, for
+example roads and rivers. Lines are also used to represent linear features that do not exist in
+reality, such as administrative boundaries and international boundaries. Areas are three
+dimensional objects and are represented by closed set of lines and are used to define features
+such as agricultural fields, forest areas, administrative areas etc. Area entities are often
+referred to as polygons.
+Attribute Data
+Attribute data tells the characteristics of different objects / features on the earth surface.
+Attribute data can be both qualitative (like land use type, soil type, name of the city/river etc.)
+and quantitative (like elevation, temperature, pressure of a particular place, crop yield per
+acre etc.). So, the attribute can be both numeric and textual. Generally, attribute data of
+different spatial features like point (well), line (river), area (village) kept in tabular form. GIS
+- perational procedure and analytical tasks that are particularly useful for geo-spatial analysis
+include:
+1. Calculation of area, length and perimeter
+2. Calculating the distance between geographic features
+3. Multi layer operations/ Topological overlay
+4. Surface analysis
+5. Network analysis
+6. Geo-Spatial Modelling
+Application of RS- GIS
+RS-GIS are rapidly increasing in many fields and disciplines but in the field of agricultural
+research such as land use and land cover, Yield forecasting and acreage. Utility companies
+have employed GIS to map and examine agricultural market net networks, analyze use of
+their product, and determine the best locations for future structures. Entomologist used GIS in
+
+Problematic Soils and Their Management
+
+emergency response situations to determine the best routes for navigating to a certain location
+- f the insects and their impact. The potential of RS-GIS is huge and over this concern, the
+following list shows few applications:
+➢ Land evaluation analysis
+➢ Change detection of vegetated areas
+➢ Analysis of deforestation and associated environmental hazards
+➢ Monitoring vegetation health
+➢ Crop acreage and production estimation
+➢ Wasteland mapping
+➢ Soil resources mapping
+➢ Mapping of groundwater potential
+➢ Geological and mineral exploration
+➢ Monitoring forest fire etc
+As we know that agriculture plays a dominant role in growth of agricultural economies of
+both developed and undeveloped countries. A farmer needs to be informed to be efficient,
+and that includes having the knowledge and information products to forge a viable strategy
+for farming operations. Over this concern, these tools will help him to understand the health
+- f his crop, extent of infestation or stress damage, or potential yield and soil conditions. In
+context of yield of the farms, commodity brokers are also very interested to know that how
+well farms are producing?. Satellite and airborne images are used as mapping tools to classify
+crops, examine their health and viability, and monitor farming practices so that agricultural
+applications of remote sensing and GIS include the following:
+➢ Crop type classification
+➢ Crop condition assessment
+➢ Crop yield estimation
+➢ Mapping of soil characteristics
+➢ Mapping of soil management practices
+➢ Compliance monitoring (farming practices)
+Government agencies, research institutions and companies employing remote sensing
+technology in the field of forestry and agro-forestry include the following:
+1) Reconnaissance mapping:
+➢ Forest cover type discrimination
+➢ Species inventory
+➢ Agro forestry mapping
+
+Problematic Soils and Their Management
+
+➢ Clear cut mapping / regeneration assessment
+➢ Burn delineation
+➢ Biomass estimation
+In context of environmental monitoring conservation authorities are concerned with
+monitoring the quantity, health, and diversity of the Earth's forests in following concern:
+➢ Deforestation (rainforest, mangrove colonies)
+➢ Species inventory
+➢ Watershed protection
+➢ Coastal protection
+Hydrology
+Remote sensing offers a synoptic view of the geo-spatial distribution whatever found on the
+surface in which hydrological phenomena is also a part. In this continuation, study of water
+bodies, streams and watershed for the promotion of agricultural activities, Radar has brought
+a new dimension to hydrological studies with its active sensing capabilities allowing the time
+window of image acquisition to include inclement weather conditions.
+Examples of hydrological applications using remote sensing-GIS include:
+➢ Wetlands mapping and monitoring,
+➢ Soil moisture estimation,
+➢ Snow pack monitoring / delineation of extent,
+➢ Measuring snow thickness,
+➢ Determining snow-water equivalent,
+➢ River and lake ice monitoring,
+➢ Flood mapping and monitoring,
+➢ Glacier dynamics monitoring (surges, ablation)
+➢ River /delta change detection
+➢ Drainage basin mapping and watershed modelling
+➢ Irrigation canal leakage detection
+➢ Irrigation scheduling
+Soil Information System
+With respect to information technology, spatial distribution of agricultural resources plays an
+important role towards effective utilization and their sustainability. The scope of spatial
+analysis for agricultural resource management starts from a simple query about the spatial
+phenomenon to complicated combinations of attribute queries as well as spatial queries under
+mapping and their geo-databases. Soil resource is an integral part of agriculture and inventory
+
+Problematic Soils and Their Management
+
+- f the soils provide adequate information in terms of land form, natural vegetation as well as
+characteristics of soils which can be utilized for land resources management and
+development. As we know that soil health treated as the wealth of farmers because
+agricultural land is the asset of farmers and there is need to maintain. Plant growth and their
+health indirectly governed by soil health. Soil quality decreases due to over use of chemicals,
+fertilisers, faulty agricultural practices, negligible use of organic manures and leaving land
+uncultivated for a longer time. In continuation of soil information system, Geo-spatial
+distribution involve in data input for many discipline that develop spatial concepts, provide
+means for capturing and processing of spatial information, provide a formal and theoretical
+foundation. Data bases are the set of compiled information that may be edited, retrievable and
+addition of new information on demand. Databases are the basic element of DSS (Decision
+Support System), helped for the planning of natural resources. Remote sensing and GIS
+provided a scope for the generation of digital data in terms of thematic maps of geospatial
+features which are the integral part of geo-data base and these integrated databases support to
+dissemination the information by using of computer system and programming languages, in
+which ICT played a vital role for designing and displaying of the generated data on a single
+platform.
+
+Problematic Soils and Their Management
+
+## Multipurpose Trees And Its Use For Bioremediation Of Soil
+Multipurpose trees are trees that are deliberately grown and managed for more than
+- ne output. They may supply food in the form of fruit, nuts, or leaves that can be used as
+a vegetable; while at the same time supplying firewood, add nitrogen to the soil, or supply
+some other combination of multiple outputs. "Multipurpose tree" is a term common to agroforestry, particularly when speaking of tropical agro-forestry where the tree owner is
+a subsistence farmer.
+Multipurpose trees are defined as all woody perennials that are purposefully grown to
+provide more than one significant contribution to the production and/or service functions of a
+land-use system. They are so classified according to the attributes of the plant species as well
+as to the plant's functional role in the agro-forestry technology under consideration.
+While all trees can be said to serve several purposes, such as providing habitat, shade,
+- r soil improvement; multipurpose trees have a greater impact on a farmer‘s well being
+because they fulfill more than one basic human need. In most cases multipurpose trees have a
+primary role; such as being part of a living fence, or a windbreak, or used in an ally cropping
+system. In addition to this they will have one or more secondary roles, most often supplying a
+family with food or firewood, or both.
+When a multipurpose tree is planted, a number of needs and functions can be fulfilled
+at once. They may be used as a windbreak, while also supplying a staple food for the owner.
+They may be used as fencepost in a living fence, while also being the main source of
+firewood for the owner. They may be intercropped into existing fields, to supply nitrogen to
+the soil, and at the same time serve as a source of both food and firewood.
+Role of Multipurpose trees
+Agro-forestry can be applied at different scales in a landscape. The smallest scale is the
+individual farm, where trees might be grown around the homestead or as boundary markers.
+At the macro scale, agro-forestry practices may be applied to whole watersheds or to large
+expanses of open cereal farms, where the trees may be used to control water or wind erosion,
+as contour barriers or shelterbelts.
+Forestry Applications
+✓ Protection forestry,
+✓ land reclamation and rehabilitation
+✓ Management of natural vegetation
+✓ Industrial plantations
+
+Problematic Soils and Their Management
+
+✓ Community woodlots
+✓ Farm woodlots.
+Common multipurpose trees include:
+•
+
+Gliricidia sepium – the most common tree used for living fences, firewood, fodder, fixing
+nitrogen into the soil.
+
+•
+
+Moringa (Moringa oleifera) – edible leaves, pods and beans, commonly used for animal
+forage and shade (it does not fix nitrogen as is commonly believed)
+
+•
+
+Coconut palm – used for food, purified water (juice from inside the coconut), roof
+thatching, firewood, shade.
+
+•
+
+Neem – limited use as insect repellent, antibiotic, adding nitrogen to the soil, windbreaks,
+biomass production for use as mulch, firewood.
+Ideally most trees found on tropical farms should be multipurpose, and provide more
+
+to the farmer than simply shade and firewood. In most cases they should be nitrogen fixing
+legumes, or trees that greatly increase the farmer's food security.
+How Do We Know That Trees Improve Soils?
+Underlying all aspects of the role of agroforestry in maintenance of soil fertility is the
+fundamental proposition that trees improve soils. How we know that this is true?
+1. The soil that develops under natural forest and woodland is fertile. It is well structured, has
+a good water-holding capacity and has a store of nutrients bound up in the organic matter.
+Farmers know they will get a good crop by planting on cleared natural forest.
+2. The cycles of carbon and nutrients under natural forest ecosystems are relatively closed,
+with much recycling and low inputs and outputs.
+3. The practice of shifting cultivation demonstrated the power of trees to restore fertility lost
+during cropping.
+4. Experience of reclamation forestry has demonstrated the power of trees to build up fertility
+- n degraded land.
+What Makes a Good Soil-Improving Tree?
+It would be useful to have guidelines on which properties of a tree or shrub species make it
+desirable for the point of view of soil fertility. This would help in identifying naturally
+- ccurring species and selecting trees for systems which have soil improvement as a specific
+- bjective.
+Nitrogen fixation and a high biomass production have been widely recognized as desirable.
+However, many properties are specific to particular objectives of systems in which the trees
+are used. Even species that are shunned for their competitive effects may have a role in
+
+Problematic Soils and Their Management
+
+certain designs. An example is the way in which Eucalyptus species with a high water uptake,
+which adversely affects yields in adjacent crops, have been employed to lower the water table
+and so reduce salinization.
+The properties which are likely to make a woody perennial suitable for soil fertility
+maintenance or improvement are:
+1. A high rate of production of leafy biomass.
+2. A dense network of fine roots, with a capacity for abundant mycorrhizal association.
+3. The existence of deep roots.
+4. A high rate of nitrogen fixation.
+5. A high and balanced nutrient content in the foliage; litter of high quality (high in nitrogen,
+low in lignin and polyphenols).
+6. An appreciable nutrient content in the root system.
+7. Either rapid litter decay, where nutrient release is desired, or a moderate rate of litter
+decay, where maintenance of a soil cover is required.
+8. Absence of toxic substances in the litter or root residues.
+9. For soil reclamation, a capacity to grow on poor soils.
+10. Absence of severe competitive effects with crops, particularly for water.
+11. Low invasiveness.
+12. Productive functions, or service functions other than soil improvement.
+Summary of Effects of Trees on Soils
+The capacity of trees to maintain or improve soils is shown by the high fertility status and
+closed nutrient cycling under natural forest, the restoration of fertility under forest fallow in
+shifting cultivation, and the experience of reclamation forestry and agroforestry.
+Soil transects frequently show higher organic matter and better soil physical properties under
+trees. Some species, most notably Faidherbia albida, regularly give higher crop yields
+beneath the tree canopy. Trees improve soil fertility by processes which:
+· increase additions to the soil;
+· reduce losses from the soil;
+· improve soil physical, chemical and biological conditions
+The most important sets of processes are those by which trees:
+· check runoff and soil erosion;
+· maintain soil organic matter and physical properties;
+· increase nutrient inputs, through nitrogen fixation and uptake from deep soil horizons;
+· promote more closed nutrient cycling
+
+Problematic Soils and Their Management
+
+Trees may also adversely affect associated crops. The effects of allelopathy (inhibition
+effects) have probably been exaggerated by mistaking them for, or confounding them with,
+- ther processes.
+Competition for water is a serious but not insuperable problem in all dry environments,
+whereas competition for nutrients has rarely been demonstrated.
+Tree species:
+A range of properties have been identified which make tree species suited to soil
+improvement. For many purposes, high biomass production, nitrogen fixation, a combination
+- f fine feeder roots with tap roots and litter with high nutrient content are suitable. Tolerance
+to initially poor soil conditions is clearly needed for reclamation.
+About 100 species have been identified which are known to fulfil soilimproving functions,
+but there is much scope to increase this range. The following are the principal trees and
+shrubs that have been employed for soil improvement.
+Acacia auriculiformis, Acacia senegal
+Albizia lebbeck
+Anacardium occidentale, Alnus acuminate, Alnus spp.
+Azadirachta indica
+Bactris gasipaes
+Bamboo genera
+Cajanus cajan
+Casuarina cunninghamiana, Casuarina equisetifolia Casuarina glauca
+Centrosema pubescens
+Crotalaria spp.
+Dalbergia sissoo
+Erythrina caffra, Erythrina orientalis
+Gliricidia sepium
+Leucaena diversifolia, Leucaena leucocephala
+Prosopis chilensis, Prosopis
+Senna reticulate, Senna siamea (Cassia siamea,) Senna spectabilis (Cassia spectabilis)
+Sesbania grandiflora Sesbania rostrata Sesbania sesban
+Tephrosia vogelii
+Ziziphus mauritiana, Ziziphus nummularia, Zizyphus spina-christi
+
+Problematic Soils and Their Management
+
+## Land Capability And Suitability Classification
+Land Capability Classification
+The Land Capability Classification was followed by United States Department of
+Agriculture. The guiding principles for this classification are the limitations imposed on the
+sustained use of soils by the basic characteristics of soils in combination with climate,
+topography,‖ surface drainage, vegetation cover, erodibility and other natural hazards. There
+are eight land capability classes which are indicated by Roman numbers I to VIII. Then,
+there are capability sub-classes and capability units. The classes I to IV include lands suited
+for cultivation and should be maintained under natural vegetation of forests or grasses.
+Capability Sub-Classes: These are subdivisions of capability classes, made on the basis of
+four dominating limitations, namely, (i) risk of erosion (e), (ii) wetness, drainage or overflow
+(w), (iii) rooting zone limitations (s), and (iv) climatic limitations (c). The sub-classes are
+mapped by adding the limitation symbol to the capability class number, e.g., IIe, IIIs, etc.
+There are no sub-classes in Class I.
+The various classes and their characteristic features are as follows:
+Class I: Soils in this class are very good. The soils are deep, productive and easily worked
+and nearly level. They are not subject to overflow (runoff) damage. Class-I soils used for
+crops need practices‘ to maintain soil fertility and soil structure. These practices involve use
+- f fertilisers, cover cropping, green manure crop and crop rotation.
+Class-II: As far as natural conditions are concerned, the land is excellent, but some limitation
+is possible. Soils of this group have gentle slopes and are subject to moderate erosion. They
+are also subject to moderate overflows. These soils may require special practices, such as
+contour tillage, crop rotation and water-control devices.
+Class III: These are moderately good soils. They can be used regularly for crops. These soils
+have steep slopes and suffer from either some ecological problem (as soil erosion) or climatic
+problem (rainfall irregularity) which inhibits intensive commercial exploitation. Also, these
+soils are inherently low in fertility. These soils require cropping systems that produce
+adequate plant cover.
+Class IV: These soils are affected by severe permanent hazards like waterlogging and water
+deficiency. They occur frequently on steep slopes which are vulnerable to erosion. The soils
+are low in fertility. Soil and moisture conservation measures, like water disposal of terraces,
+contour tillage and stabilization of gullies, should be undertaken.
+Class V: These soils are found in foothills or in mountain valleys and are suitable for grasses,
+shrubs, etc. These soils should be used for pasture or forestry operations. Cultivation is not
+
+Problematic Soils and Their Management
+
+feasible because these soils are wet and stony. The land is nearly level and subject only to
+slight erosion by wind or water, if properly managed. There are few permanent limitations.
+Grazing should be regulated in these soils.
+Class VI: These soils have moderate permanent limitations and are unsuitable, for
+cultivation. These soils should be used for grazing and forestry. They are steep and shallow
+and more prone to erosion than class V soils. Grazing should not be permitted in these soils.
+They suffer from certain environmental constraints as well and are the environmentally
+fragile zones of our country.
+Class VII: The severity of environmental constraints is much greater in these soils,
+compared to class VI soils. As a result, these soils are subject to severe permanent hazards.
+They are fair to poor for grazing or forestry. These soils are steep, eroded, shallow or
+swampy and are completely unsuitable for cultivation. Strict management should be applied
+to these soils.
+Class VIII: These soils can serve the purposes of preserving some rare species or acting as a
+water catchment zone. Soils of this class are extremely rough, arid or swampy and are
+unsuitable for cultivation. They are not suited for forestry or grazing. They may be used for
+wildlife sanctuaries, recreation or watershed uses.
+
+Problematic Soils and Their Management
+## Land Suitability Classification
+Suitability Criteria
+Most of the plant species need well drained, moderately fine to medium texture soils, free of
+salinity and having optimum physical environment. Soil resource maps based on several
+parameters, can aid in predicting the behaviour and suitability of soils for growing field
+crops, horticultural crops, forest species and other plantation crops once the suitability criteria
+is established. Within limits, it may also find application in transfer of technology to other
+areas with comparable soil-site characteristics.
+Land suitability units:
+This grouping is used to identify land development units having minor differences in
+management requirements. This can indicate the relative importance of land development
+works. It is indicated by Arabic numerals, enclosed in parenthesis, following the subclass
+symbol.
+The FAO land suitability classification system has four different categories:
+❖ Orders,
+❖ Classes,
+❖ Subclasses
+❖ Units.
+There are two orders(S and N) which reflect the kind of suitability (S for suitable and N for
+unsuitable land).
+Order "S" -Suitable land
+Land on which sustained use for the defined purpose in the defined manner is expected to
+yield benefits that will justify required recurrent inputs without unacceptable risk to land
+resources.
+Order "N"-Unsuitable land
+Land having characteristics which appear to preclude its sustained use for the defined
+purpose in the defined manner or which would create production, upkeep and/or conservation
+problems requiring a level of recurrent inputs unacceptable at the time of interpretation.
+Land Suitability Classes:
+The framework at its origin permits complete freedom in determining the number of classes
+within each order. However, it has been recommended to use only 3 classes within order S
+and 2 classes within order N. The class will be indicated by an Arabic number in sequence of
+decreasing suitability within the order and therefore reflects degrees of suitability within the
+- rders.
+Examples:
+S1 : Suitable
+S2: Moderately suitable
+
+Problematic Soils and Their Management
+S3: Marginally suitable
+N1 : Actually unsuitable but potentially suitable
+N2 : Actually and potentially unsuitable
+Land Suitability Subclasses:
+The sub classes reflect kinds of limitations or main kinds of improvement measures required
+within classes. They are indicated in the symbol using lower case letters.
+c:
+
+Climatic conditions
+
+t:
+
+Topographic limitations
+
+w:
+
+Wetness limitations
+
+n:
+
+Salinity(and/or alkalinity) limitations
+
+f: Soil fertility limitations not readily to be corrected
+s: Physical soil limitations(influencing soil/ water relationship and management).
+Structure of the FAO land suitability classification
+S
+
+SUITABLE The land can support the land use indefinitely and benefits justify
+inputs
+
+S1 Highly
+
+Land without significant limitations. Include the best 20-30% of suitable
+
+suitable
+
+land as S1. This land is not perfect but is the best that can be hoped for
+
+S2 Moderately
+
+Land that is clearly suitable but which has limitations that either reduce
+
+suitable
+
+productivity or increase the inputs needed to sustain productivity
+compared with those needed on S1 land
+
+S3 Marginally
+suitable
+
+Land with limitations so severe that benefits are reduced and/or the inputs
+needed to sustain production are increased so that this cost is only
+marginally justified
+
+N
+
+NOT
+
+Land that cannot support the land use on a sustained basis, or land on
+
+SUITABLE which benefits do not justify necessary inputs
+N1 Currently not Land with limitations to sustained use that cannot be overcome at a
+suitable
+
+currently acceptable cost
+
+N2 Permanently Land with limitations to sustained use that cannot be overcome
+not suitable
+Examples of classes in the third category
+S2e Land assessed as S2 on account of limitation of erosion hazard
+S2w Land assessed as S2 on account of inadequate availability of water
+N2e Land assessed as N2 on account of limitation of erosion hazard
+
+Problematic Soils and Their Management
+
+## Problematic Soils Under Different Agro-Ecosystem In India
+Land, agriculture and ecology are intrinsically related and govern our agricultural systems
+holistically. Climatic factors such as temperature, rainfall, humidity, sunshine and wind are the
+primary determinants of climate of any region. And climate and soil interactions provide suitable
+environment for agricultural production, and also affect physical processes of land degradation.
+To conserve natural resources for sustainable food production, an inclusive approach is needed
+to create relatively homogeneous regions in terms of soil, climate and physiography, termed as
+agro-ecological regions. Delineation of such regions will help understanding of agricultural
+potentialities of the regions for different land uses and also for conservation of their physical
+environment. Agroclimatic region is the land unit in terms of major climate, superimposed on
+length of growing period (moisture availability period), and an agro-ecological zone is the land
+unit carved out of the agroclimatic region, superimposed on the landform, which acts as a
+modifier to climate and length of growing period (Sehgal and Abrol, 1994).
+To understand implications and role of climatic and edaphic resources in agricultural and allied
+sectors, the NBSS&LUP prepared an agro-ecological map, based on the physiography, soils,
+bioclimate and length of growing period (GP), and refined it through several approximations.
+The data from 474 meteorological stations were used for preparing water balances (Thornthwaite
+and Mather, 1955). Length of growing period (LGP) was calculated using FAO (1983) model,
+adopted after Higgins and Kassam (1981). The GP as per the model starts when precipitation (P)
+exceeds 0.5 potential evapotranspiration (PET) and ends with utilization of 100 mm of stored soil
+moisture once P falls below PET. Growing period values for 474 observation sites were plotted
+and isolines were drawn at 30 days intervals. It has been observed that arid regions generally
+correspond with growing period of less than 90 days and semi-arid region with 90–150 days.
+Subhumid zone has GP more or less between 150 and 210 days. Humid and per-humid zones
+correspond with GP of 210 to 270 days and more than 270 days per year.
+The different Agro Ecological Region (AER) in India is given below.
+1. Cold Arid Eco-region with Shallow Skeletal Soil.
+2. Hot Arid Eco-region with Desert and Saline Soils
+3. Hot Arid Eco-region with Red and Black Soils
+4. Hot Semi-Arid Eco-region with Alluvium Derived soils
+5. Hot Semi Arid Eco-region with Medium and Deep Black Soils
+6. Hot Semi-Arid Eco-region with Shallow and Medium (Dominant) Black Soils
+7. Hot Semi Arid Eco-region with Red and Black soils
+8. Hot Semi-Arid Eco-region with Red Loamy soils
+9. Hot subbumid (Dry) Eco-region with Alluvium- Derived Soils
+
+Problematic Soils and Their Management
+10. Hot Subhumid Eco-region with Red and Black Soils
+11. Hot Subhumid Eco-region with Red and Yellow Soils
+12. Hot Subhumid Eco-region with Red and Lateritic soils
+13. Hot Suhhumid (Moist) Eco-region with Alluvium-derived soils
+14. Warm Subhumid to Humid with Inclusion of Perhumid Eco-region with Brown Forest
+and Podzolic Soils
+15. Hot Subhumid (moist) to Humid (inclusion of perhumid) Eco-region with alluviumderived soils
+16. Warm Perhumid Eco-region with Brown and Red Hill Soils
+17. Warm Perhumid Eco-region with Red and Lateritc Soils
+18. Hot Subhumid to Semi-arid Eco-region with Coastal Alluvium-derived soils
+19. Hot Humid Pemhumid Eco-region with Red, Lateritic and Alluvium-derived soils
+20. Hot Humid/Perhumid Island Eco-region with Red loamy and Sandy Soils.
+
+Problematic Soils and Their Management
+
+Table: Area under degraded and wastelands of India under different AERs
+Degraded and wastelands classes* (’000 ha)
+
+Total
+degraded
+area
+
+AERs
+
+19 (’000 ha)
+
+0 11,419 1,106
+
+13,913
+
+2,341
+
+2,560
+
+12,109
+
+1,024
+
+14,960
+
+6,455
+
+7,700
+
+10,374
+
+11,270
+
+4,376
+
+4,986
+
+4,412
+
+5,685
+
+3,122
+
+4,272
+
+6,934
+
+8,288
+
+3,843
+
+5,925
+
+4,917
+
+1,512
+
+469 1,089
+
+8,193
+
+Problematic Soils and Their Management
+
+3,803
+
+1 163
+
+4,177
+
+4,009
+
+1,025
+
+5,695
+
+2,011
+
+647 1,229
+
+1 242
+
+4,735
+
+2,523
+
+516 5,330
+
+7,519
+
+1,851
+
+2,944
+
+187 2,029
+
+6,062
+
+9,287 5,080 5,719 7,130 11,425 2,631
+
+30 2,610 1,058
+
+20 260 859 120,410
+
+Total 74,021
+
+Note: Classes*: 1. Exclusively water erosion (>10 tonnes /ha/yr); Water erosion under open forest, 2. Forest; 3. Exclusively acid soils (pH
+<5.5); 4. Acid soils under water erosion; 5. Acid soils under open forest; 6. Exclusively wind erosion; 7. Exclusively saline soils; 8.
+Eroded saline soils; 9. Acid saline soils; 10.Saline soils under wind erosion; 11. Saline soils under open forest; 12.Water logged saline
+soils; 13. Exclusively sodic soils; 14.Eroded sodic soils; 15. Sodic soils under wind erosion; 16. Sodic soils under open forest; 17. Eroded
+sodic soils under open forest; 18.Mining / Industrial waste; 19. Waterlogged area (Permanent)
+
+Problematic Soils and Their Management
+
+The area estimates of the degraded and wastelands in different AERs reveal that region
+4 is highly degraded with area coverage of 14,960 thousand ha. The other AERs having
+appreciably high area coverage are AER-2 (13,913 thousand ha), AER-5 (11,270 thousand
+ha), AER-10 (8,288 thousand ha), AER-12 (8,193 thousand ha), and AER-17 (7,519
+thousand ha). Though all the AERs are affected but the least affected are AER-1 and AER20.
+Water erosion (classes 1, 2) has affected almost all AERs and AERs with large affected
+areas are: AER-4 (13,133 thousand ha), AER-6 (10,631 thousand ha), AER-5 (7,438
+thousand ha), AER-12 (6,429 thousand ha), AER-14 (5,034 thousand ha), AER-7 (4,841
+thousand ha) and AER-8 (4,803 thousand ha). Least affected AERs are AER-20, AER-1
+and AER-17. Soil acidity (classes 3,4,5) has been observed in all AERs, excepting AER-1,
+AER-2, AER-3 and AER-20. Very little land areas are affected in AER-4 and AER-6.
+Highly affected AERs are AER-17 (6,285 thousand ha), AER-19 (2,779 thousand ha),
+AER-15 (2,204 thousand ha), AER-12 (1,700 thousand ha) and AER-11 (1,538 thousand
+ha).
+Salinity affected (classes 7,8,9,10,11,12) agro-ecological regions are located in the
+semi-arid and sub-humid climatic zones of the country. Highest area coverage with salinity
+is in AER-2 (1,282 thousand ha), followed by AER-18 and AER-4 with 603 and 374
+thousand ha, respectively.
+Sodicity and salinity are observed in combination in some of the AERs. Notable among
+them are AER-2, AER-4, AER-6 and AER-18. Agroclimatic conditions coupled with
+management practices (including irrigation) are the main reasons for the development of
+soil sodicity. Highest sodicity (classes 13,14,15,16,17) is observed in AER-4 (1,364
+thousand ha), followed by AER-9 (663 thousand ha), AER-6 (445 thousand ha), AER-2
+(436 thousand ha), AER-8 (342 thousand ha), and it is not a problem in AER-1, AER-11,
+AER-12, AER-15, AER-16, AER-17, AER-19 and AER-20. Wind erosion (class 6) is
+predominant in AER-2 and has a little affected area in AER-4.
+
+Problematic Soils and Their Management
+
+☺******
+
+******
+
+This Book Download From BAU
+
+Visit for Other Agriculture books, News, Recruitment,
+Information, and Events at
+
+## Www.Agrimoon.Com
+Give Feedback & Suggestion at info@agrimoon.com
+Send a Massage for daily Update of Agriculture on WhatsApp
+
++91-7900 900 676
+## Disclaimer:
+The information on this website does not warrant or assume any legal liability or
+responsibility for the accuracy, completeness or usefulness of the courseware contents.
+The contents are provided free for noncommercial purpose such as teaching, training,
+research, extension and self learning.
+
+Connect With Us:
+
+Android.agrimoon.com
+
+AgriMoon App
+App that helps the students to gain the Knowledge
+about Agriculture, Books, News, Jobs, Interviews of
+Toppers & achieved peoples, Events (Seminar,
+Workshop), Company & College Detail and Exam
+notification.
+
+Learn.agrimoon.com
+
+AgriMoon Learn App
+App that helps the students to All Agricultural
+Competitive Exams IBPS-AFO, FCI, ICAR-JRF,
+SRF, NET, NSC, State Agricultural exams are
+available here.

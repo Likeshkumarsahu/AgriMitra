@@ -1,0 +1,2815 @@
+[
+  {
+    "id": "rice",
+    "slug": "rice",
+    "name": "Rice",
+    "nameHi": "चावल (धान)",
+    "emoji": "🌾",
+    "scientificName": "Oryza sativa",
+    "family": "Poaceae (Gramineae)",
+    "category": "fiberless-cereal",
+    "categoryName": "Cereal crop",
+    "states": [
+      "Punjab",
+      "West Bengal",
+      "Uttar Pradesh",
+      "Andhra Pradesh",
+      "Telangana",
+      "Tamil Nadu",
+      "Chhattisgarh",
+      "Odisha",
+      "Bihar",
+      "Assam"
+    ],
+    "duration": "110–145 days",
+    "image": null,
+    "conditions": {
+      "n": {
+        "min": 90,
+        "max": 120
+      },
+      "p": {
+        "min": 40,
+        "max": 60
+      },
+      "k": {
+        "min": 40,
+        "max": 60
+      },
+      "temperature": {
+        "min": 22,
+        "max": 32
+      },
+      "humidity": {
+        "min": 60,
+        "max": 80
+      },
+      "ph": {
+        "min": 5.5,
+        "max": 7
+      },
+      "rainfall": {
+        "min": 1000,
+        "max": 1800
+      }
+    },
+    "details": [
+      {
+        "id": "crop-basics",
+        "title": "Crop Basics & Plant Biology",
+        "content": "**Rice (चावल (धान))** is a cereal crop belonging to the family **Poaceae (Gramineae)** (scientific name *Oryza sativa*). It completes its crop cycle in about **110–145 days**. Growth stages follow the sequence germination → seedling → vegetative growth → reproductive phase (flowering/fruiting) → maturity. Main growing states: **Punjab, West Bengal, Uttar Pradesh, Andhra Pradesh, Telangana, Tamil Nadu, Chhattisgarh, Odisha, Bihar, Assam**. Popular varieties/ hybrids: **BPT 5204, Swarna, IR-64, PR 126, Pusa Basmati 1121, PB-1509**."
+      },
+      {
+        "id": "climate",
+        "title": "Climate Requirements",
+        "content": "**Rice** thrives in a warm and humid, ideally 25–32 °C with bright sunshine climate with full sun (high light intensity) conditions. Ideal temperature range is **22–32 °C**, relative humidity **60–80%**, and annual rainfall **1000–1800 mm**. Extreme conditions (frost, heat waves, hail or waterlogging) at sensitive stages lower yield and quality."
+      },
+      {
+        "id": "soil",
+        "title": "Soil Requirements",
+        "content": "The crop grows best in **heavy clay loam to alluvial loam that holds standing water**. Suitable soil pH ranges from **5.5–7**, electrical conductivity (EC) below **<1.5 dS/m**, and organic matter of about **1.0–1.5%**. Adequate soil depth, good drainage, and balanced nutrient status of the soil are prerequisites for a healthy stand."
+      },
+      {
+        "id": "land-preparation",
+        "title": "Land Preparation",
+        "content": "Land preparation includes **two or three deep ploughings followed by puddling. level the field, maintain 5–10 cm standing water and break the pan for better root anchorage.**. A well-tilled but properly levelled seedbed ensures uniform germination and stand establishment; drainage channels protect against waterlogging in heavy soil and during monsoons."
+      },
+      {
+        "id": "seed-planting-material",
+        "title": "Seed & Planting Material",
+        "content": "Use certified material: **Certified seed with 80%+ germination; treat with carbendazim 2 g/kg or Pseudomonas bio-formulation for bakanae & sheath blight prevention.**. Seed/variant rate for main season is **35–45 kg/ha (HYY direct-seeded 60–80 kg/ha)**. Treat seed against soil-borne diseases and, where applicable, inoculate with beneficial rhizobia/PSB before sowing for legumes."
+      },
+      {
+        "id": "sowing-planting",
+        "title": "Sowing & Planting",
+        "content": "**Sowing/planting season:** Kharif: Jun–Jul; Rabi/summer: Dec–Jan. Optimum sowing depth **2–3 cm**, spacing **20 × 15 cm (hills of 3–4 seedlings)**, maintaining a plant population of **≈ 3,00,000 hills/ha (33 hills/m²)**. Correct spacing balances canopy (sunlight) and aeration. Depth and timing should follow regional package-of-practice recommendations."
+      },
+      {
+        "id": "water-irrigation",
+        "title": "Water & Irrigation Management",
+        "content": "Irrigation method: **Flooding / shallow submergence with continuous standing water**. Critical stages — Critical stages: tillering, panicle initiation, flowering; drain 10–14 days before harvest. Typical frequency/quantity: **No fixed count; maintain 3–5 cm water depth till maturity**. Do not let the crop suffer at the most sensitive growth phases (critical stages: tillering, panicle initiation, flowering; drain 10–14 days before harvest); avoid both drought and waterlogging."
+      },
+      {
+        "id": "nutrients",
+        "title": "Nutrient Management",
+        "content": "Nutrient schedule: **120:60:40 kg N:P₂O₅:K₂O per ha** together with **apply 10–12 t/ha fym/compost before puddling** and micronutrients **znso₄ 25 kg/ha at transplanting where zinc deficiency (khaira) is seen**. Apply nutrients in splits as per n in 3 splits: basal, active tillering, panicle initiation for efficient uptake; for legumes the fixed nitrogen reduces external nitrogen requirement."
+      },
+      {
+        "id": "weeds",
+        "title": "Weed Management",
+        "content": "**Echinochloa, Cyperus, Leptochloa sp. compete in the first 45 days. Control follows an integrated approach: **Integrated: puddling, stale seedbed, hand weeding at 20–25 DAP; pre-emergence pretilachlor 0.75 kg a.i./ha or bispyribac-sodium POST.**. Weed-free first 30–60 days (critical period) gives maximum yield advantage."
+      },
+      {
+        "id": "pests",
+        "title": "Pest Management",
+        "content": "Major pests: **Yellow stem borer (Scirpophaga incertulas), BPH (Nilaparvata lugens), leaf folder (Cnaphalocrocis medinalis), whorl maggot, rice hispa.** Integrated Pest Management (IPM): monitor with traps/visual scouting, conserve natural enemies, and apply need-based pesticides at economic threshold levels."
+      },
+      {
+        "id": "diseases",
+        "title": "Disease Management",
+        "content": "Common diseases: **Blast (Pyricularia), sheath blight (Rhizoctonia), bacterial leaf blight (Xanthomonas), brown spot (Helminthosporium).** Prevention: disease-free seed/planting material, sanitation, resistant varieties, need-based fungicides/bio-control and balanced irrigation to keep foliage dry."
+      },
+      {
+        "id": "growth-management",
+        "title": "Plant Growth Management",
+        "content": "Plant-growth management includes **keep water level shallow at tillering (3 cm), deeper at pi (5–10 cm); plant density and n-split guard against lodging.**. Remove off-types/diseased plants (roguing), avoid over-crowding, and provide support (staking/training) suited to the crop habit."
+      },
+      {
+        "id": "monitoring",
+        "title": "Crop Monitoring",
+        "content": "Monitor periodically: **Weekly: plant stand, tiller count, leaf colour (N), standing water, pest/disease scouting at tillering, PI, flowering.** Record observations stage-wise and act early on pest/disease thresholds rather than after damage becomes visible."
+      },
+      {
+        "id": "harvest-post-harvest",
+        "title": "Harvest & Post-harvest",
+        "content": "Harvest at **grain turns golden, 22–25% moisture**. **Harvest by combine/mower at 22–25% MC; thresh, dry to 14% moisture**; expected yield about **5–8 t/ha (irrigated); 45–60 q/ha common for PR/IR hybrids**. Handle produce carefully to avoid bruising; dry to safe moisture and **Dry grain to ≤14% MC, store in gunny bags in clean, rat-free godown**."
+      },
+      {
+        "id": "economics-marketing",
+        "title": "Economics & Marketing",
+        "content": "Typical input cost: **₹50,000–70,000/ha**. Prevailing market price **₹2,200–2,800/q (milled); MSP ₹2,300+/q**; expected net **Profit ₹25,000–45,000/ha**. **Sold through MSP / FCI procurement or local mandi**"
+      }
+    ]
+  },
+  {
+    "id": "maize",
+    "slug": "maize",
+    "name": "Maize",
+    "nameHi": "मक्का",
+    "emoji": "🌽",
+    "scientificName": "Zea mays",
+    "family": "Poaceae",
+    "category": "fiberless-cereal",
+    "categoryName": "Cereal crop",
+    "states": [
+      "Karnataka",
+      "Andhra Pradesh",
+      "Madhya Pradesh",
+      "Bihar",
+      "Rajasthan",
+      "Uttar Pradesh",
+      "Maharashtra"
+    ],
+    "duration": "95–120 days",
+    "image": null,
+    "conditions": {
+      "n": {
+        "min": 80,
+        "max": 160
+      },
+      "p": {
+        "min": 40,
+        "max": 60
+      },
+      "k": {
+        "min": 40,
+        "max": 80
+      },
+      "temperature": {
+        "min": 18,
+        "max": 32
+      },
+      "humidity": {
+        "min": 55,
+        "max": 75
+      },
+      "ph": {
+        "min": 5.5,
+        "max": 7.5
+      },
+      "rainfall": {
+        "min": 500,
+        "max": 1200
+      }
+    },
+    "details": [
+      {
+        "id": "crop-basics",
+        "title": "Crop Basics & Plant Biology",
+        "content": "**Maize (मक्का)** is a cereal crop belonging to the family **Poaceae** (scientific name *Zea mays*). It completes its crop cycle in about **95–120 days**. Growth stages follow the sequence germination → seedling → vegetative growth → reproductive phase (flowering/fruiting) → maturity. Main growing states: **Karnataka, Andhra Pradesh, Madhya Pradesh, Bihar, Rajasthan, Uttar Pradesh, Maharashtra**. Popular varieties/ hybrids: **PMH-1, PMH-3, HQPM-1, DKC-9108, HM-4 (quality protein maize)**."
+      },
+      {
+        "id": "climate",
+        "title": "Climate Requirements",
+        "content": "**Maize** thrives in a warm-season crop; 21–30 °C ideal, frost-sensitive climate with full sun; day-length neutral hybrids do well conditions. Ideal temperature range is **18–32 °C**, relative humidity **55–75%**, and annual rainfall **500–1200 mm**. Extreme conditions (frost, heat waves, hail or waterlogging) at sensitive stages lower yield and quality."
+      },
+      {
+        "id": "soil",
+        "title": "Soil Requirements",
+        "content": "The crop grows best in **well-drained sandy-loam to loam with good fertility**. Suitable soil pH ranges from **5.5–7.5**, electrical conductivity (EC) below **<1.5 dS/m**, and organic matter of about **0.8–1.5%**. Adequate soil depth, good drainage, and balanced nutrient status of the soil are prerequisites for a healthy stand."
+      },
+      {
+        "id": "land-preparation",
+        "title": "Land Preparation",
+        "content": "Land preparation includes **plough + 2 harrowings, bed or ridge preparation; ridges (60 cm) improve drainage and mechanised picking.**. A well-tilled but properly levelled seedbed ensures uniform germination and stand establishment; drainage channels protect against waterlogging in heavy soil and during monsoons."
+      },
+      {
+        "id": "seed-planting-material",
+        "title": "Seed & Planting Material",
+        "content": "Use certified material: **Certified hybrid seed; treat with Thiram/Captan 2 g/kg against seed rot and downy mildew.**. Seed/variant rate for main season is **18–20 kg/ha (hybrids); 22–25 kg/ha composites**. Treat seed against soil-borne diseases and, where applicable, inoculate with beneficial rhizobia/PSB before sowing for legumes."
+      },
+      {
+        "id": "sowing-planting",
+        "title": "Sowing & Planting",
+        "content": "**Sowing/planting season:** Kharif: Jun–Jul; Rabi: Oct–Nov (irrigated). Optimum sowing depth **5–6 cm**, spacing **60 × 20 cm one seed/hill**, maintaining a plant population of **≈ 65,000–75,000 plants/ha**. Correct spacing balances canopy (sunlight) and aeration. Depth and timing should follow regional package-of-practice recommendations."
+      },
+      {
+        "id": "water-irrigation",
+        "title": "Water & Irrigation Management",
+        "content": "Irrigation method: **Furrow / drip / sprinkler; maize is water-efficient if timed**. Critical stages — Critical: knee-high, tasselling, silking and grain-fill; avoid stress at silking. Typical frequency/quantity: **6–9 irrigations depending on monsoon**. Do not let the crop suffer at the most sensitive growth phases (critical: knee-high, tasselling, silking and grain-fill; avoid stress at silking); avoid both drought and waterlogging."
+      },
+      {
+        "id": "nutrients",
+        "title": "Nutrient Management",
+        "content": "Nutrient schedule: **150:75:60 kg N:P₂O₅:K₂O per ha (high-yield hybrids)** together with **8–10 t/ha fym 2 weeks before sowing** and micronutrients **znso₄ 20–25 kg/ha on zinc-deficient soils**. Apply nutrients in splits as per n in 3 splits; p & k basal in bands 5 cm below seed for efficient uptake; for legumes the fixed nitrogen reduces external nitrogen requirement."
+      },
+      {
+        "id": "weeds",
+        "title": "Weed Management",
+        "content": "**Cyperus rotundus, Echinochloa, Amaranthus, Sorghum halepense. Control follows an integrated approach: **Pre-emergence atrazine 1.0 kg a.i./ha at 0–3 DAS; inter-cultivation (hoeing) at 15 DAS + hand weeding 30 DAS.**. Weed-free first 30–60 days (critical period) gives maximum yield advantage."
+      },
+      {
+        "id": "pests",
+        "title": "Pest Management",
+        "content": "Major pests: **Fall armyworm (Spodoptera frugiperda), stem borer (Chilo partellus), shoot fly, cob worm (Helicoverpa).** Integrated Pest Management (IPM): monitor with traps/visual scouting, conserve natural enemies, and apply need-based pesticides at economic threshold levels."
+      },
+      {
+        "id": "diseases",
+        "title": "Disease Management",
+        "content": "Common diseases: **Turcicum leaf blight, stalk rot (Erwinia/Fusarium), downy mildew, rust, banded leaf & sheath blight.** Prevention: disease-free seed/planting material, sanitation, resistant varieties, need-based fungicides/bio-control and balanced irrigation to keep foliage dry."
+      },
+      {
+        "id": "growth-management",
+        "title": "Plant Growth Management",
+        "content": "Plant-growth management includes **avoid n lodging with balanced k; ridge earthing-up at 30 das; remove off-types/de-tassel male rows in hybrid seed fields.**. Remove off-types/diseased plants (roguing), avoid over-crowding, and provide support (staking/training) suited to the crop habit."
+      },
+      {
+        "id": "monitoring",
+        "title": "Crop Monitoring",
+        "content": "Monitor periodically: **Stand count at 7 DAS, weed pressure, leaf colour, whorl injury (FAW), silk emergence, moisture stress at silking.** Record observations stage-wise and act early on pest/disease thresholds rather than after damage becomes visible."
+      },
+      {
+        "id": "harvest-post-harvest",
+        "title": "Harvest & Post-harvest",
+        "content": "Harvest at **black layer at grain base, husk dry, grain 25–30% mc**. **Pick cobs, de-husk, dry to 14% MC, shell**; expected yield about **6–9 t/ha hybrids; QPM 6.5–8 t/ha**. Handle produce carefully to avoid bruising; dry to safe moisture and **Shelled grain at ≤14% MC in fumigated bags**."
+      },
+      {
+        "id": "economics-marketing",
+        "title": "Economics & Marketing",
+        "content": "Typical input cost: **₹45,000–60,000/ha**. Prevailing market price **₹1,800–2,300/q**; expected net **Profit ₹20,000–35,000/ha**. **Poultry-feed millers, starch industries, ethanol plants buy most maize**"
+      }
+    ]
+  },
+  {
+    "id": "chickpea",
+    "slug": "chickpea",
+    "name": "Chickpea",
+    "nameHi": "चना (बंगाल चना)",
+    "emoji": "🫘",
+    "scientificName": "Cicer arietinum",
+    "family": "Fabaceae",
+    "category": "legume",
+    "categoryName": "Pulse / legume",
+    "states": [
+      "Madhya Pradesh",
+      "Maharashtra",
+      "Rajasthan",
+      "Uttar Pradesh",
+      "Karnataka",
+      "Haryana"
+    ],
+    "duration": "110–140 days",
+    "image": null,
+    "conditions": {
+      "n": {
+        "min": 20,
+        "max": 40
+      },
+      "p": {
+        "min": 40,
+        "max": 60
+      },
+      "k": {
+        "min": 20,
+        "max": 40
+      },
+      "temperature": {
+        "min": 15,
+        "max": 30
+      },
+      "humidity": {
+        "min": 40,
+        "max": 60
+      },
+      "ph": {
+        "min": 6,
+        "max": 7.5
+      },
+      "rainfall": {
+        "min": 400,
+        "max": 900
+      }
+    },
+    "details": [
+      {
+        "id": "crop-basics",
+        "title": "Crop Basics & Plant Biology",
+        "content": "**Chickpea (चना (बंगाल चना))** is a pulse / legume belonging to the family **Fabaceae** (scientific name *Cicer arietinum*). It completes its crop cycle in about **110–140 days**. Growth stages follow the sequence germination → seedling → vegetative growth → reproductive phase (flowering/fruiting) → maturity. Main growing states: **Madhya Pradesh, Maharashtra, Rajasthan, Uttar Pradesh, Karnataka, Haryana**. Popular varieties/ hybrids: **JG-315, JG-11, Pusa-372, Desi & Kabuli types, RVG-202**."
+      },
+      {
+        "id": "climate",
+        "title": "Climate Requirements",
+        "content": "**Chickpea** thrives in a cool, dry rabi climate; 18–27 °C ideal; frost tolerant to light frost climate with full sun; short-day type conditions. Ideal temperature range is **15–30 °C**, relative humidity **40–60%**, and annual rainfall **400–900 mm**. Extreme conditions (frost, heat waves, hail or waterlogging) at sensitive stages lower yield and quality."
+      },
+      {
+        "id": "soil",
+        "title": "Soil Requirements",
+        "content": "The crop grows best in **well-drained sandy-loam to medium black soil**. Suitable soil pH ranges from **6–7.5**, electrical conductivity (EC) below **<1.0 dS/m**, and organic matter of about **0.8–1.2%**. Adequate soil depth, good drainage, and balanced nutrient status of the soil are prerequisites for a healthy stand."
+      },
+      {
+        "id": "land-preparation",
+        "title": "Land Preparation",
+        "content": "Land preparation includes **well pulverised seedbed; 2 harrowings; avoid over-flooding; raised beds improve drainage in black soils.**. A well-tilled but properly levelled seedbed ensures uniform germination and stand establishment; drainage channels protect against waterlogging in heavy soil and during monsoons."
+      },
+      {
+        "id": "seed-planting-material",
+        "title": "Seed & Planting Material",
+        "content": "Use certified material: **Certified seed; inoculate with Rhizobium + PSB (250–350 g/ha) and treat with carbendazim.**. Seed/variant rate for main season is **60–75 kg/ha (desi), 80–90 kg (kabuli)**. Treat seed against soil-borne diseases and, where applicable, inoculate with beneficial rhizobia/PSB before sowing for legumes."
+      },
+      {
+        "id": "sowing-planting",
+        "title": "Sowing & Planting",
+        "content": "**Sowing/planting season:** Rabi: mid-Oct to mid-Nov. Optimum sowing depth **8–10 cm**, spacing **30 × 10 cm (30 cm rows)**, maintaining a plant population of **≈ 3,00,000–4,00,000 plants/ha**. Correct spacing balances canopy (sunlight) and aeration. Depth and timing should follow regional package-of-practice recommendations."
+      },
+      {
+        "id": "water-irrigation",
+        "title": "Water & Irrigation Management",
+        "content": "Irrigation method: **Sprinkler / surface; chickpea is largely rainfed/limited-irrigation**. Critical stages — One critical irrigation at pod-filling & flowering; avoid irrigation near maturity. Typical frequency/quantity: **1–2 protective irrigations**. Do not let the crop suffer at the most sensitive growth phases (one critical irrigation at pod-filling & flowering; avoid irrigation near maturity); avoid both drought and waterlogging."
+      },
+      {
+        "id": "nutrients",
+        "title": "Nutrient Management",
+        "content": "Nutrient schedule: **20:50:20 kg N:P₂O₅:K₂O per ha (P is key)** together with **2.5–5 t/ha fym** and micronutrients **rhizobium inoculation provides n; apply 20 kg n as starter**. Apply nutrients in splits as per full p & k basal; no top-dress of n needed (self-sufficient via symbiosis) for efficient uptake; for legumes the fixed nitrogen reduces external nitrogen requirement."
+      },
+      {
+        "id": "weeds",
+        "title": "Weed Management",
+        "content": "**Chenopodium album, Asphodelus tenuifolius, Convolvulus arvensis. Control follows an integrated approach: **Pre-plant glyphosate for Asphodelus; hand weeding 25–30 DAS; pendimethalin 1.0 kg a.i./ha pre-emergence.**. Weed-free first 30–60 days (critical period) gives maximum yield advantage."
+      },
+      {
+        "id": "pests",
+        "title": "Pest Management",
+        "content": "Major pests: **Gram pod borer (Helicoverpa armigera), cutworm, pod fly, aphids.** Integrated Pest Management (IPM): monitor with traps/visual scouting, conserve natural enemies, and apply need-based pesticides at economic threshold levels."
+      },
+      {
+        "id": "diseases",
+        "title": "Disease Management",
+        "content": "Common diseases: **Wilt (Fusarium oxysporum f. sp. ciceris), Ascochyta blight, dry root rot, Botrytis grey mould.** Prevention: disease-free seed/planting material, sanitation, resistant varieties, need-based fungicides/bio-control and balanced irrigation to keep foliage dry."
+      },
+      {
+        "id": "growth-management",
+        "title": "Plant Growth Management",
+        "content": "Plant-growth management includes **seed inoculation replaces n dose; avoid excessive vegetative growth by balanced sowing time; border/true-to-type roguing.**. Remove off-types/diseased plants (roguing), avoid over-crowding, and provide support (staking/training) suited to the crop habit."
+      },
+      {
+        "id": "monitoring",
+        "title": "Crop Monitoring",
+        "content": "Monitor periodically: **Germination, nodulation check at 30 DAS, pod borer egg scouting (pheromone traps), wilt patches, crop-water relations.** Record observations stage-wise and act early on pest/disease thresholds rather than after damage becomes visible."
+      },
+      {
+        "id": "harvest-post-harvest",
+        "title": "Harvest & Post-harvest",
+        "content": "Harvest at **leaves dry, pods turn straw-yellow**. **Uproot/thresh; dry to 10% MC**; expected yield about **12–20 q/ha (desi 14–18 q, Kabuli 15–20 q)**. Handle produce carefully to avoid bruising; dry to safe moisture and **Clean dry grain, treat against bruchids with deltamethrin dust**."
+      },
+      {
+        "id": "economics-marketing",
+        "title": "Economics & Marketing",
+        "content": "Typical input cost: **₹25,000–35,000/ha**. Prevailing market price **₹4,500–6,500/q**; expected net **Profit ₹30,000–50,000/ha**. **High MSP demand; export of kabuli to SE Asia/West Asia**"
+      }
+    ]
+  },
+  {
+    "id": "kidneybeans",
+    "slug": "kidneybeans",
+    "name": "Kidney Beans",
+    "nameHi": "राजमा",
+    "emoji": "🫘",
+    "scientificName": "Phaseolus vulgaris",
+    "family": "Fabaceae",
+    "category": "legume",
+    "categoryName": "Pulse / legume",
+    "states": [
+      "Himachal Pradesh",
+      "Uttarakhand",
+      "Jammu & Kashmir",
+      "Maharashtra",
+      "Nagaland"
+    ],
+    "duration": "90–120 days",
+    "image": null,
+    "conditions": {
+      "n": {
+        "min": 20,
+        "max": 40
+      },
+      "p": {
+        "min": 40,
+        "max": 70
+      },
+      "k": {
+        "min": 20,
+        "max": 50
+      },
+      "temperature": {
+        "min": 15,
+        "max": 27
+      },
+      "humidity": {
+        "min": 55,
+        "max": 70
+      },
+      "ph": {
+        "min": 6,
+        "max": 7
+      },
+      "rainfall": {
+        "min": 500,
+        "max": 1000
+      }
+    },
+    "details": [
+      {
+        "id": "crop-basics",
+        "title": "Crop Basics & Plant Biology",
+        "content": "**Kidney Beans (राजमा)** is a pulse / legume belonging to the family **Fabaceae** (scientific name *Phaseolus vulgaris*). It completes its crop cycle in about **90–120 days**. Growth stages follow the sequence germination → seedling → vegetative growth → reproductive phase (flowering/fruiting) → maturity. Main growing states: **Himachal Pradesh, Uttarakhand, Jammu & Kashmir, Maharashtra, Nagaland**. Popular varieties/ hybrids: **KRC-1, KR-143, Pusa Himlata, VRF-16, Uttara (for Uttarakhand)**."
+      },
+      {
+        "id": "climate",
+        "title": "Climate Requirements",
+        "content": "**Kidney Beans** thrives in a cool, humid hill climate; 15–24 °C optimum; sensitive to heat & frost climate with full sun conditions. Ideal temperature range is **15–27 °C**, relative humidity **55–70%**, and annual rainfall **500–1000 mm**. Extreme conditions (frost, heat waves, hail or waterlogging) at sensitive stages lower yield and quality."
+      },
+      {
+        "id": "soil",
+        "title": "Soil Requirements",
+        "content": "The crop grows best in **deep, fertile sandy-loam; good drainage vital**. Suitable soil pH ranges from **6–7**, electrical conductivity (EC) below **<1.0 dS/m**, and organic matter of about **1.0–1.5%**. Adequate soil depth, good drainage, and balanced nutrient status of the soil are prerequisites for a healthy stand."
+      },
+      {
+        "id": "land-preparation",
+        "title": "Land Preparation",
+        "content": "Land preparation includes **terraced hillsides prepared with 2 ploughings; ridge or bed system in heavy soils.**. A well-tilled but properly levelled seedbed ensures uniform germination and stand establishment; drainage channels protect against waterlogging in heavy soil and during monsoons."
+      },
+      {
+        "id": "seed-planting-material",
+        "title": "Seed & Planting Material",
+        "content": "Use certified material: **Certified seed; Rhizobium phaseoli inoculation + seed dressing for halo blight.**. Seed/variant rate for main season is **60–80 kg/ha**. Treat seed against soil-borne diseases and, where applicable, inoculate with beneficial rhizobia/PSB before sowing for legumes."
+      },
+      {
+        "id": "sowing-planting",
+        "title": "Sowing & Planting",
+        "content": "**Sowing/planting season:** Kharif: May–Jul (hill regions); spring in lower hills. Optimum sowing depth **5–6 cm**, spacing **45 × 15 cm (2 seeds/hill)**, maintaining a plant population of **≈ 2,50,000 plant/ha**. Correct spacing balances canopy (sunlight) and aeration. Depth and timing should follow regional package-of-practice recommendations."
+      },
+      {
+        "id": "water-irrigation",
+        "title": "Water & Irrigation Management",
+        "content": "Irrigation method: **Light surface irrigation; avoid over-irrigation (root rot)**. Critical stages — Critical at flowering & pod fill. Typical frequency/quantity: **2–4 irrigations**. Do not let the crop suffer at the most sensitive growth phases (critical at flowering & pod fill); avoid both drought and waterlogging."
+      },
+      {
+        "id": "nutrients",
+        "title": "Nutrient Management",
+        "content": "Nutrient schedule: **20:60:30 kg N:P₂O₅:K₂O per ha** together with **fym 5–10 t/ha at land prep** and micronutrients **mo foliar spray 0.05% on acidic hilly soils**. Apply nutrients in splits as per p basal; n top-dressed once at pre-flowering if growth is poor for efficient uptake; for legumes the fixed nitrogen reduces external nitrogen requirement."
+      },
+      {
+        "id": "weeds",
+        "title": "Weed Management",
+        "content": "**Amaranthus, Echinochloa, Cyperus on terraces. Control follows an integrated approach: **Inter-culture + hand weeding 20–30 DAS; pendimethalin pre-emergence where available.**. Weed-free first 30–60 days (critical period) gives maximum yield advantage."
+      },
+      {
+        "id": "pests",
+        "title": "Pest Management",
+        "content": "Major pests: **Aphids, whiteflies (vectors), pod borers, stem flies.** Integrated Pest Management (IPM): monitor with traps/visual scouting, conserve natural enemies, and apply need-based pesticides at economic threshold levels."
+      },
+      {
+        "id": "diseases",
+        "title": "Disease Management",
+        "content": "Common diseases: **Anthracnose (Colletotrichum lindemuthianum), common bacterial blight, rust, root rot (Rhizoctonia).** Prevention: disease-free seed/planting material, sanitation, resistant varieties, need-based fungicides/bio-control and balanced irrigation to keep foliage dry."
+      },
+      {
+        "id": "growth-management",
+        "title": "Plant Growth Management",
+        "content": "Plant-growth management includes **staking needed in indeterminate types; balanced k for pod set; avoid dense canopy for disease escape.**. Remove off-types/diseased plants (roguing), avoid over-crowding, and provide support (staking/training) suited to the crop habit."
+      },
+      {
+        "id": "monitoring",
+        "title": "Crop Monitoring",
+        "content": "Monitor periodically: **Germination %, nodulation, anthracnose spots on pods, irrigation at flowering, harvest-timing watch.** Record observations stage-wise and act early on pest/disease thresholds rather than after damage becomes visible."
+      },
+      {
+        "id": "harvest-post-harvest",
+        "title": "Harvest & Post-harvest",
+        "content": "Harvest at **pods dry, beans rattle**. **Uproot, dry, thresh; sun dry to 10% MC**; expected yield about **16–24 q/ha (hill conditions)**. Handle produce carefully to avoid bruising; dry to safe moisture and **Store at ≤10% MC with proper fumigation against bruchids**."
+      },
+      {
+        "id": "economics-marketing",
+        "title": "Economics & Marketing",
+        "content": "Typical input cost: **₹30,000–40,000/ha**. Prevailing market price **₹65,000–1,10,000/q (or ₹65–110/kg)**; expected net **High-value crop with strong demand in North India**. **Sold as dry beans; winter demand from Kashmir/north Indian plains**"
+      }
+    ]
+  },
+  {
+    "id": "pigeonpea",
+    "slug": "pigeonpea",
+    "name": "Pigeonpea",
+    "nameHi": "अरहर (तूर)",
+    "emoji": "🫘",
+    "scientificName": "Cajanus cajan",
+    "family": "Fabaceae",
+    "category": "legume",
+    "categoryName": "Pulse / legume",
+    "states": [
+      "Maharashtra",
+      "Karnataka",
+      "Madhya Pradesh",
+      "Uttar Pradesh",
+      "Telangana",
+      "Gujarat"
+    ],
+    "duration": "150–210 days",
+    "image": null,
+    "conditions": {
+      "n": {
+        "min": 20,
+        "max": 40
+      },
+      "p": {
+        "min": 40,
+        "max": 60
+      },
+      "k": {
+        "min": 20,
+        "max": 40
+      },
+      "temperature": {
+        "min": 24,
+        "max": 32
+      },
+      "humidity": {
+        "min": 55,
+        "max": 75
+      },
+      "ph": {
+        "min": 6.5,
+        "max": 7.5
+      },
+      "rainfall": {
+        "min": 600,
+        "max": 1500
+      }
+    },
+    "details": [
+      {
+        "id": "crop-basics",
+        "title": "Crop Basics & Plant Biology",
+        "content": "**Pigeonpea (अरहर (तूर))** is a pulse / legume belonging to the family **Fabaceae** (scientific name *Cajanus cajan*). It completes its crop cycle in about **150–210 days**. Growth stages follow the sequence germination → seedling → vegetative growth → reproductive phase (flowering/fruiting) → maturity. Main growing states: **Maharashtra, Karnataka, Madhya Pradesh, Uttar Pradesh, Telangana, Gujarat**. Popular varieties/ hybrids: **ICPL 87119 (Asha), Pusa-9, UPAS-120, Maruti, GT-101**."
+      },
+      {
+        "id": "climate",
+        "title": "Climate Requirements",
+        "content": "**Pigeonpea** thrives in a warm kharif crop; 24–32 °C ideal; drought-tolerant once established (deep tap root) climate with full sun conditions. Ideal temperature range is **24–32 °C**, relative humidity **55–75%**, and annual rainfall **600–1500 mm**. Extreme conditions (frost, heat waves, hail or waterlogging) at sensitive stages lower yield and quality."
+      },
+      {
+        "id": "soil",
+        "title": "Soil Requirements",
+        "content": "The crop grows best in **deep alluvial or medium black soil with good drainage**. Suitable soil pH ranges from **6.5–7.5**, electrical conductivity (EC) below **<1.5 dS/m**, and organic matter of about **0.8–1.2%**. Adequate soil depth, good drainage, and balanced nutrient status of the soil are prerequisites for a healthy stand."
+      },
+      {
+        "id": "land-preparation",
+        "title": "Land Preparation",
+        "content": "Land preparation includes **deep ploughing once + harrowing; avoid waterlogging; beds in heavy soils.**. A well-tilled but properly levelled seedbed ensures uniform germination and stand establishment; drainage channels protect against waterlogging in heavy soil and during monsoons."
+      },
+      {
+        "id": "seed-planting-material",
+        "title": "Seed & Planting Material",
+        "content": "Use certified material: **Certified seed + Rhizobium cowpea-group inoculation; carbendazim seed dressing.**. Seed/variant rate for main season is **12–15 kg/ha**. Treat seed against soil-borne diseases and, where applicable, inoculate with beneficial rhizobia/PSB before sowing for legumes."
+      },
+      {
+        "id": "sowing-planting",
+        "title": "Sowing & Planting",
+        "content": "**Sowing/planting season:** Kharif: Jun–Jul (first fortnight of June in central India). Optimum sowing depth **5–7 cm**, spacing **60–75 × 20 cm (row × plant)**, maintaining a plant population of **≈ 55,000–65,000 plants/ha**. Correct spacing balances canopy (sunlight) and aeration. Depth and timing should follow regional package-of-practice recommendations."
+      },
+      {
+        "id": "water-irrigation",
+        "title": "Water & Irrigation Management",
+        "content": "Irrigation method: **Mostly rainfed; protective irrigation only**. Critical stages — Critical: flowering and pod initiation. Typical frequency/quantity: **1–2 supplementary irrigations in dry years**. Do not let the crop suffer at the most sensitive growth phases (critical: flowering and pod initiation); avoid both drought and waterlogging."
+      },
+      {
+        "id": "nutrients",
+        "title": "Nutrient Management",
+        "content": "Nutrient schedule: **25:60:40 kg N:P₂O₅:K₂O per ha** together with **fym 5 t/ha** and micronutrients **seed inoculation covers n; s & b on deficient soils**. Apply nutrients in splits as per full p/k basal; n only as starter for efficient uptake; for legumes the fixed nitrogen reduces external nitrogen requirement."
+      },
+      {
+        "id": "weeds",
+        "title": "Weed Management",
+        "content": "**Commelina, Echinochloa, Celosia, Cyperus in early growth. Control follows an integrated approach: **Inter-cultivation 20 & 40 DAS + hand weeding; pendimethalin 1.0 kg pre-emergence.**. Weed-free first 30–60 days (critical period) gives maximum yield advantage."
+      },
+      {
+        "id": "pests",
+        "title": "Pest Management",
+        "content": "Major pests: **Pod borer (Helicoverpa armigera), pod fly (Melanagromyza), plume moth, blue butterfly.** Integrated Pest Management (IPM): monitor with traps/visual scouting, conserve natural enemies, and apply need-based pesticides at economic threshold levels."
+      },
+      {
+        "id": "diseases",
+        "title": "Disease Management",
+        "content": "Common diseases: **Fusarium wilt, sterility mosaic (mosaic virus + mite), Phytophthora blight (stem necrosis).** Prevention: disease-free seed/planting material, sanitation, resistant varieties, need-based fungicides/bio-control and balanced irrigation to keep foliage dry."
+      },
+      {
+        "id": "growth-management",
+        "title": "Plant Growth Management",
+        "content": "Plant-growth management includes **compact early-maturing types need no staking; remove wilted plants; maintain plant density for yield.**. Remove off-types/diseased plants (roguing), avoid over-crowding, and provide support (staking/training) suited to the crop habit."
+      },
+      {
+        "id": "monitoring",
+        "title": "Crop Monitoring",
+        "content": "Monitor periodically: **Wilt screening, sterility-mosaic roguing, pheromone traps for pod borer, moisture check at flowering.** Record observations stage-wise and act early on pest/disease thresholds rather than after damage becomes visible."
+      },
+      {
+        "id": "harvest-post-harvest",
+        "title": "Harvest & Post-harvest",
+        "content": "Harvest at **80–90% pods turn brown**. **Cut plants, dry 7–10 days, thresh**; expected yield about **12–18 q/ha**. Handle produce carefully to avoid bruising; dry to safe moisture and **Store dal/pods at ≤10% MC in sealed bins**."
+      },
+      {
+        "id": "economics-marketing",
+        "title": "Economics & Marketing",
+        "content": "Typical input cost: **₹28,000–40,000/ha**. Prevailing market price **₹6,500–8,500/q (tur dal)**; expected net **Profitable with MSP ~₹7,000/q; dal split adds value**. **Sold as whole or tur dal; strong dal processors demand**"
+      }
+    ]
+  },
+  {
+    "id": "mothbeans",
+    "slug": "mothbeans",
+    "name": "Moth Beans",
+    "nameHi": "मोठ",
+    "emoji": "🫘",
+    "scientificName": "Vigna aconitifolia",
+    "family": "Fabaceae",
+    "category": "legume",
+    "categoryName": "Pulse / legume (dryland)",
+    "states": [
+      "Rajasthan",
+      "Gujarat",
+      "Haryana",
+      "Madhya Pradesh"
+    ],
+    "duration": "75–90 days",
+    "image": null,
+    "conditions": {
+      "n": {
+        "min": 10,
+        "max": 20
+      },
+      "p": {
+        "min": 20,
+        "max": 40
+      },
+      "k": {
+        "min": 0,
+        "max": 20
+      },
+      "temperature": {
+        "min": 24,
+        "max": 40
+      },
+      "humidity": {
+        "min": 40,
+        "max": 55
+      },
+      "ph": {
+        "min": 6,
+        "max": 8
+      },
+      "rainfall": {
+        "min": 300,
+        "max": 600
+      }
+    },
+    "details": [
+      {
+        "id": "crop-basics",
+        "title": "Crop Basics & Plant Biology",
+        "content": "**Moth Beans (मोठ)** is a pulse / legume (dryland) belonging to the family **Fabaceae** (scientific name *Vigna aconitifolia*). It completes its crop cycle in about **75–90 days**. Growth stages follow the sequence germination → seedling → vegetative growth → reproductive phase (flowering/fruiting) → maturity. Main growing states: **Rajasthan, Gujarat, Haryana, Madhya Pradesh**. Popular varieties/ hybrids: **RMO-40, RMO-71, Jwala, Krishna, Rameshwar (for arid belt)**."
+      },
+      {
+        "id": "climate",
+        "title": "Climate Requirements",
+        "content": "**Moth Beans** thrives in a hot-arid crop; 26–40 °C; thrives on low & erratic rainfall; very drought tolerant climate with full sun conditions. Ideal temperature range is **24–40 °C**, relative humidity **40–55%**, and annual rainfall **300–600 mm**. Extreme conditions (frost, heat waves, hail or waterlogging) at sensitive stages lower yield and quality."
+      },
+      {
+        "id": "soil",
+        "title": "Soil Requirements",
+        "content": "The crop grows best in **light sandy / loamy-sand soils of arid rajasthan**. Suitable soil pH ranges from **6–8**, electrical conductivity (EC) below **up to 2.5 dS/m (salt tolerant)**, and organic matter of about **0.3–0.6%**. Adequate soil depth, good drainage, and balanced nutrient status of the soil are prerequisites for a healthy stand."
+      },
+      {
+        "id": "land-preparation",
+        "title": "Land Preparation",
+        "content": "Land preparation includes **minimal tillage — one harrowing; conserve moisture with light mulching; rainfed on stored soil moisture.**. A well-tilled but properly levelled seedbed ensures uniform germination and stand establishment; drainage channels protect against waterlogging in heavy soil and during monsoons."
+      },
+      {
+        "id": "seed-planting-material",
+        "title": "Seed & Planting Material",
+        "content": "Use certified material: **Local/certified seed, 70%+ germination; Rhizobium inoculation beneficial.**. Seed/variant rate for main season is **10–15 kg/ha**. Treat seed against soil-borne diseases and, where applicable, inoculate with beneficial rhizobia/PSB before sowing for legumes."
+      },
+      {
+        "id": "sowing-planting",
+        "title": "Sowing & Planting",
+        "content": "**Sowing/planting season:** Kharif: Jul (with onset showers); summer in irrigated Rajasthan. Optimum sowing depth **4–5 cm**, spacing **30 × 15 cm**, maintaining a plant population of **≈ 2,50,000 plants/ha**. Correct spacing balances canopy (sunlight) and aeration. Depth and timing should follow regional package-of-practice recommendations."
+      },
+      {
+        "id": "water-irrigation",
+        "title": "Water & Irrigation Management",
+        "content": "Irrigation method: **Rainfed; 1-2 life-saving irrigations if available**. Critical stages — Flowering & pod fill if moisture is limiting. Typical frequency/quantity: **0–2**. Do not let the crop suffer at the most sensitive growth phases (flowering & pod fill if moisture is limiting); avoid both drought and waterlogging."
+      },
+      {
+        "id": "nutrients",
+        "title": "Nutrient Management",
+        "content": "Nutrient schedule: **10:30:20 kg N:P₂O₅:K₂O per ha (low-input)** together with **2.5 t/ha fym or compost** and micronutrients **psb/rhizobium seed treatment**. Apply nutrients in splits as per full basal application for efficient uptake; for legumes the fixed nitrogen reduces external nitrogen requirement."
+      },
+      {
+        "id": "weeds",
+        "title": "Weed Management",
+        "content": "**Sparse in arid belt; Trianthema, Cynodon, Cyperus after rains. Control follows an integrated approach: **One inter-cultivation at 20 DAS; hand weeding if rains allow.**. Weed-free first 30–60 days (critical period) gives maximum yield advantage."
+      },
+      {
+        "id": "pests",
+        "title": "Pest Management",
+        "content": "Major pests: **Leaf hoppers, pod borers, aphids in humid pockets.** Integrated Pest Management (IPM): monitor with traps/visual scouting, conserve natural enemies, and apply need-based pesticides at economic threshold levels."
+      },
+      {
+        "id": "diseases",
+        "title": "Disease Management",
+        "content": "Common diseases: **Yellow mosaic virus (BGMV-W), powdery mildew in wet years.** Prevention: disease-free seed/planting material, sanitation, resistant varieties, need-based fungicides/bio-control and balanced irrigation to keep foliage dry."
+      },
+      {
+        "id": "growth-management",
+        "title": "Plant Growth Management",
+        "content": "Plant-growth management includes **suitable for inter-cropping (moth + sesame/pearl millet); avoid excess n (lodging).**. Remove off-types/diseased plants (roguing), avoid over-crowding, and provide support (staking/training) suited to the crop habit."
+      },
+      {
+        "id": "monitoring",
+        "title": "Crop Monitoring",
+        "content": "Monitor periodically: **Stand establishment, yellowing (VYMV), pod borer at 60 DAS.** Record observations stage-wise and act early on pest/disease thresholds rather than after damage becomes visible."
+      },
+      {
+        "id": "harvest-post-harvest",
+        "title": "Harvest & Post-harvest",
+        "content": "Harvest at **plants turn brown, pods dry**. **Uproot & thresh; dry grain to 9–10% MC**; expected yield about **4–8 q/ha (arid), up to 12 q with irrigation**. Handle produce carefully to avoid bruising; dry to safe moisture and **Store dry; moth dal has long shelf life**."
+      },
+      {
+        "id": "economics-marketing",
+        "title": "Economics & Marketing",
+        "content": "Typical input cost: **Very low — ₹8,000–15,000/ha**. Prevailing market price **₹6,000–8,000/q (moong-family demand)**; expected net **Reliable income in drylands with minimal risk**. **Moth dal & sprouts sold across Rajasthan**"
+      }
+    ]
+  },
+  {
+    "id": "mungbean",
+    "slug": "mungbean",
+    "name": "Mung Bean",
+    "nameHi": "मूंग",
+    "emoji": "🫘",
+    "scientificName": "Vigna radiata",
+    "family": "Fabaceae",
+    "category": "legume",
+    "categoryName": "Pulse / legume",
+    "states": [
+      "Rajasthan",
+      "Maharashtra",
+      "Madhya Pradesh",
+      "Tamil Nadu",
+      "Karnataka",
+      "Gujarat"
+    ],
+    "duration": "65–90 days",
+    "image": null,
+    "conditions": {
+      "n": {
+        "min": 20,
+        "max": 30
+      },
+      "p": {
+        "min": 40,
+        "max": 60
+      },
+      "k": {
+        "min": 20,
+        "max": 40
+      },
+      "temperature": {
+        "min": 22,
+        "max": 34
+      },
+      "humidity": {
+        "min": 50,
+        "max": 70
+      },
+      "ph": {
+        "min": 6,
+        "max": 7.5
+      },
+      "rainfall": {
+        "min": 500,
+        "max": 900
+      }
+    },
+    "details": [
+      {
+        "id": "crop-basics",
+        "title": "Crop Basics & Plant Biology",
+        "content": "**Mung Bean (मूंग)** is a pulse / legume belonging to the family **Fabaceae** (scientific name *Vigna radiata*). It completes its crop cycle in about **65–90 days**. Growth stages follow the sequence germination → seedling → vegetative growth → reproductive phase (flowering/fruiting) → maturity. Main growing states: **Rajasthan, Maharashtra, Madhya Pradesh, Tamil Nadu, Karnataka, Gujarat**. Popular varieties/ hybrids: **SML-668, ML-2056, IPM 02-3, Pusa Vishal, Virat, MH-421**."
+      },
+      {
+        "id": "climate",
+        "title": "Climate Requirements",
+        "content": "**Mung Bean** thrives in a warm short-duration pulse; 24–34 °C; suited to early kharif, zaid & summer climate with full sun conditions. Ideal temperature range is **22–34 °C**, relative humidity **50–70%**, and annual rainfall **500–900 mm**. Extreme conditions (frost, heat waves, hail or waterlogging) at sensitive stages lower yield and quality."
+      },
+      {
+        "id": "soil",
+        "title": "Soil Requirements",
+        "content": "The crop grows best in **well-drained loam to sandy-loam; avoids heavy clay & waterlogging**. Suitable soil pH ranges from **6–7.5**, electrical conductivity (EC) below **<1.5 dS/m**, and organic matter of about **0.6–1.0%**. Adequate soil depth, good drainage, and balanced nutrient status of the soil are prerequisites for a healthy stand."
+      },
+      {
+        "id": "land-preparation",
+        "title": "Land Preparation",
+        "content": "Land preparation includes **2 harrowings + planking; beds/ridges in heavy soils; good photoperiod management.**. A well-tilled but properly levelled seedbed ensures uniform germination and stand establishment; drainage channels protect against waterlogging in heavy soil and during monsoons."
+      },
+      {
+        "id": "seed-planting-material",
+        "title": "Seed & Planting Material",
+        "content": "Use certified material: **Certified seed with Rhizobium + PSB inoculation; carbendazim seed dressing.**. Seed/variant rate for main season is **18–20 kg/ha**. Treat seed against soil-borne diseases and, where applicable, inoculate with beneficial rhizobia/PSB before sowing for legumes."
+      },
+      {
+        "id": "sowing-planting",
+        "title": "Sowing & Planting",
+        "content": "**Sowing/planting season:** Kharif: Jun–Jul; Zaid: Mar–Apr; summer as catch crop. Optimum sowing depth **4–5 cm**, spacing **30 × 10 cm (30 cm rows)**, maintaining a plant population of **≈ 3,00,000 plants/ha**. Correct spacing balances canopy (sunlight) and aeration. Depth and timing should follow regional package-of-practice recommendations."
+      },
+      {
+        "id": "water-irrigation",
+        "title": "Water & Irrigation Management",
+        "content": "Irrigation method: **Light surface sprinkles; avoid over-watering (yellow mosaic & rot)**. Critical stages — Critical at flowering & pod-fill. Typical frequency/quantity: **3–4 irrigations (summer crop)**. Do not let the crop suffer at the most sensitive growth phases (critical at flowering & pod-fill); avoid both drought and waterlogging."
+      },
+      {
+        "id": "nutrients",
+        "title": "Nutrient Management",
+        "content": "Nutrient schedule: **20:40:20 kg N:P₂O₅:K₂O per ha** together with **fym 5 t/ha** and micronutrients **n via rhizobium; s 20 kg/ha if deficient**. Apply nutrients in splits as per full basal; n 10 kg starter only for efficient uptake; for legumes the fixed nitrogen reduces external nitrogen requirement."
+      },
+      {
+        "id": "weeds",
+        "title": "Weed Management",
+        "content": "**Echinochloa, Cyperus, Cleome, Dactyloctenium. Control follows an integrated approach: **Hand weeding 20 & 35 DAS; pendimethalin 1.0 kg a.i./ha PRE; keep canopy closed early.**. Weed-free first 30–60 days (critical period) gives maximum yield advantage."
+      },
+      {
+        "id": "pests",
+        "title": "Pest Management",
+        "content": "Major pests: **Whitefly (Bemisia tabaci — YMV vector), thrips, pod borers, bruchids in storage.** Integrated Pest Management (IPM): monitor with traps/visual scouting, conserve natural enemies, and apply need-based pesticides at economic threshold levels."
+      },
+      {
+        "id": "diseases",
+        "title": "Disease Management",
+        "content": "Common diseases: **Yellow mosaic virus (MYMV), powdery mildew, Cercospora leaf spot, root rot in wet soils.** Prevention: disease-free seed/planting material, sanitation, resistant varieties, need-based fungicides/bio-control and balanced irrigation to keep foliage dry."
+      },
+      {
+        "id": "growth-management",
+        "title": "Plant Growth Management",
+        "content": "Plant-growth management includes **timely sown crop escapes ymv; avoid high plant density shade; timely harvest avoids shattering.**. Remove off-types/diseased plants (roguing), avoid over-crowding, and provide support (staking/training) suited to the crop habit."
+      },
+      {
+        "id": "monitoring",
+        "title": "Crop Monitoring",
+        "content": "Monitor periodically: **Whitefly count on sticky traps early, YMV symptoms, pod borer at 55–65 DAS, moisture stress.** Record observations stage-wise and act early on pest/disease thresholds rather than after damage becomes visible."
+      },
+      {
+        "id": "harvest-post-harvest",
+        "title": "Harvest & Post-harvest",
+        "content": "Harvest at **80% pods turn brown/black, dry 8–10 days on plant**. **Uproot/hearvest, thresh, sun-dry to 9–10% MC**; expected yield about **8–12 q/ha (up to 15 q summer)**. Handle produce carefully to avoid bruising; dry to safe moisture and **Fumigate & store at ≤10% MC**."
+      },
+      {
+        "id": "economics-marketing",
+        "title": "Economics & Marketing",
+        "content": "Typical input cost: **₹20,000–28,000/ha**. Prevailing market price **₹7,000–9,500/q**; expected net **Strong short-duration income; MSP support**. **Moong dal & sprouts; export demand**"
+      }
+    ]
+  },
+  {
+    "id": "blackgram",
+    "slug": "blackgram",
+    "name": "Black Gram",
+    "nameHi": "उड़द",
+    "emoji": "🫘",
+    "scientificName": "Vigna mungo",
+    "family": "Fabaceae",
+    "category": "legume",
+    "categoryName": "Pulse / legume",
+    "states": [
+      "Andhra Pradesh",
+      "Maharashtra",
+      "Madhya Pradesh",
+      "Tamil Nadu",
+      "Uttar Pradesh",
+      "Telangana"
+    ],
+    "duration": "75–95 days",
+    "image": null,
+    "conditions": {
+      "n": {
+        "min": 20,
+        "max": 30
+      },
+      "p": {
+        "min": 40,
+        "max": 60
+      },
+      "k": {
+        "min": 20,
+        "max": 40
+      },
+      "temperature": {
+        "min": 24,
+        "max": 34
+      },
+      "humidity": {
+        "min": 50,
+        "max": 70
+      },
+      "ph": {
+        "min": 6,
+        "max": 7.5
+      },
+      "rainfall": {
+        "min": 600,
+        "max": 900
+      }
+    },
+    "details": [
+      {
+        "id": "crop-basics",
+        "title": "Crop Basics & Plant Biology",
+        "content": "**Black Gram (उड़द)** is a pulse / legume belonging to the family **Fabaceae** (scientific name *Vigna mungo*). It completes its crop cycle in about **75–95 days**. Growth stages follow the sequence germination → seedling → vegetative growth → reproductive phase (flowering/fruiting) → maturity. Main growing states: **Andhra Pradesh, Maharashtra, Madhya Pradesh, Tamil Nadu, Uttar Pradesh, Telangana**. Popular varieties/ hybrids: **PU-31, TU-94-2, PDKV-BB-1, LSB-1, NUL-7**."
+      },
+      {
+        "id": "climate",
+        "title": "Climate Requirements",
+        "content": "**Black Gram** thrives in a warm humid pulse; 26–32 °C ideal; suited to kharif/rabi depending on region climate with full sun conditions. Ideal temperature range is **24–34 °C**, relative humidity **50–70%**, and annual rainfall **600–900 mm**. Extreme conditions (frost, heat waves, hail or waterlogging) at sensitive stages lower yield and quality."
+      },
+      {
+        "id": "soil",
+        "title": "Soil Requirements",
+        "content": "The crop grows best in **well-drained loam; black cotton & red soils both suited**. Suitable soil pH ranges from **6–7.5**, electrical conductivity (EC) below **<1.5 dS/m**, and organic matter of about **0.6–1.0%**. Adequate soil depth, good drainage, and balanced nutrient status of the soil are prerequisites for a healthy stand."
+      },
+      {
+        "id": "land-preparation",
+        "title": "Land Preparation",
+        "content": "Land preparation includes **2 ploughings + harrow; level & channel for drainage in heavy soils.**. A well-tilled but properly levelled seedbed ensures uniform germination and stand establishment; drainage channels protect against waterlogging in heavy soil and during monsoons."
+      },
+      {
+        "id": "seed-planting-material",
+        "title": "Seed & Planting Material",
+        "content": "Use certified material: **Certified seed + Rhizobium & PSB inoculation; treat with carbendazim.**. Seed/variant rate for main season is **16–20 kg/ha**. Treat seed against soil-borne diseases and, where applicable, inoculate with beneficial rhizobia/PSB before sowing for legumes."
+      },
+      {
+        "id": "sowing-planting",
+        "title": "Sowing & Planting",
+        "content": "**Sowing/planting season:** Kharif: Jun–Jul; Rabi (rice fallows): Nov–Dec. Optimum sowing depth **4–5 cm**, spacing **30 × 10 cm**, maintaining a plant population of **≈ 2,50,000–3,00,000 plants/ha**. Correct spacing balances canopy (sunlight) and aeration. Depth and timing should follow regional package-of-practice recommendations."
+      },
+      {
+        "id": "water-irrigation",
+        "title": "Water & Irrigation Management",
+        "content": "Irrigation method: **Light irrigations; rice-fallow urad needs 2–4 light irrigations**. Critical stages — Flowering, pod initiation, pod filling. Typical frequency/quantity: **2–4**. Do not let the crop suffer at the most sensitive growth phases (flowering, pod initiation, pod filling); avoid both drought and waterlogging."
+      },
+      {
+        "id": "nutrients",
+        "title": "Nutrient Management",
+        "content": "Nutrient schedule: **20:40:20 kg N:P₂O₅:K₂O per ha** together with **fym 5 t/ha (or residual from rice)** and micronutrients **rhizobium n; s application on black soils**. Apply nutrients in splits as per basal full dose for efficient uptake; for legumes the fixed nitrogen reduces external nitrogen requirement."
+      },
+      {
+        "id": "weeds",
+        "title": "Weed Management",
+        "content": "**Echinochloa, Cyperus rotundus, Dactyloctenium, Amaranthus. Control follows an integrated approach: **Pre-emergence pendimethalin 1.0 kg a.i./ha + one hand weeding 30 DAS; inter-cultivation 20 DAS.**. Weed-free first 30–60 days (critical period) gives maximum yield advantage."
+      },
+      {
+        "id": "pests",
+        "title": "Pest Management",
+        "content": "Major pests: **Whitefly (YMVU vector), aphids, gram pod borer, bruchids.** Integrated Pest Management (IPM): monitor with traps/visual scouting, conserve natural enemies, and apply need-based pesticides at economic threshold levels."
+      },
+      {
+        "id": "diseases",
+        "title": "Disease Management",
+        "content": "Common diseases: **Yellow mosaic (UMV-U), powdery mildew & rust in late season, Cercospora blight.** Prevention: disease-free seed/planting material, sanitation, resistant varieties, need-based fungicides/bio-control and balanced irrigation to keep foliage dry."
+      },
+      {
+        "id": "growth-management",
+        "title": "Plant Growth Management",
+        "content": "Plant-growth management includes **time sowing to avoid heavy rains at flowering; avoid excessive n; suitable as rice-fallow relay crop.**. Remove off-types/diseased plants (roguing), avoid over-crowding, and provide support (staking/training) suited to the crop habit."
+      },
+      {
+        "id": "monitoring",
+        "title": "Crop Monitoring",
+        "content": "Monitor periodically: **Yellow mosaic incidence, whitefly counts, powdery mildew at flowering, pod filling moisture.** Record observations stage-wise and act early on pest/disease thresholds rather than after damage becomes visible."
+      },
+      {
+        "id": "harvest-post-harvest",
+        "title": "Harvest & Post-harvest",
+        "content": "Harvest at **85–90% pods darken**. **Harvest & thresh; sun-dry to 9–10% MC**; expected yield about **8–13 q/ha (up to 15 q rice fallow)**. Handle produce carefully to avoid bruising; dry to safe moisture and **Fumigate against bruchids; store at ≤10% MC**."
+      },
+      {
+        "id": "economics-marketing",
+        "title": "Economics & Marketing",
+        "content": "Typical input cost: **₹22,000–30,000/ha**. Prevailing market price **₹8,000–10,000/q (urad dal)**; expected net **High MSP (₹7,020/q); very profitable as rice-fallow crop**. **Urad dal for vada/dosa industry; steady demand**"
+      }
+    ]
+  },
+  {
+    "id": "lentil",
+    "slug": "lentil",
+    "name": "Lentil",
+    "nameHi": "मसूर",
+    "emoji": "🫘",
+    "scientificName": "Lens culinaris",
+    "family": "Fabaceae",
+    "category": "legume",
+    "categoryName": "Pulse / legume (cool season)",
+    "states": [
+      "Madhya Pradesh",
+      "Uttar Pradesh",
+      "Bihar",
+      "West Bengal",
+      "Chhattisgarh"
+    ],
+    "duration": "100–130 days",
+    "image": null,
+    "conditions": {
+      "n": {
+        "min": 20,
+        "max": 30
+      },
+      "p": {
+        "min": 40,
+        "max": 60
+      },
+      "k": {
+        "min": 15,
+        "max": 30
+      },
+      "temperature": {
+        "min": 12,
+        "max": 26
+      },
+      "humidity": {
+        "min": 45,
+        "max": 60
+      },
+      "ph": {
+        "min": 6,
+        "max": 7.5
+      },
+      "rainfall": {
+        "min": 400,
+        "max": 800
+      }
+    },
+    "details": [
+      {
+        "id": "crop-basics",
+        "title": "Crop Basics & Plant Biology",
+        "content": "**Lentil (मसूर)** is a pulse / legume (cool season) belonging to the family **Fabaceae** (scientific name *Lens culinaris*). It completes its crop cycle in about **100–130 days**. Growth stages follow the sequence germination → seedling → vegetative growth → reproductive phase (flowering/fruiting) → maturity. Main growing states: **Madhya Pradesh, Uttar Pradesh, Bihar, West Bengal, Chhattisgarh**. Popular varieties/ hybrids: **DPL-15, IPL-406, L-4076, Pusa Ageti Masoor, Pant L-639**."
+      },
+      {
+        "id": "climate",
+        "title": "Climate Requirements",
+        "content": "**Lentil** thrives in a rabi cool-season crop; 15–22 °C; tolerates mild frost; sensitive to heat at flowering climate with full sun (short-day) conditions. Ideal temperature range is **12–26 °C**, relative humidity **45–60%**, and annual rainfall **400–800 mm**. Extreme conditions (frost, heat waves, hail or waterlogging) at sensitive stages lower yield and quality."
+      },
+      {
+        "id": "soil",
+        "title": "Soil Requirements",
+        "content": "The crop grows best in **light to medium alluvial loam; good drainage essential**. Suitable soil pH ranges from **6–7.5**, electrical conductivity (EC) below **<1.0 dS/m**, and organic matter of about **0.8–1.2%**. Adequate soil depth, good drainage, and balanced nutrient status of the soil are prerequisites for a healthy stand."
+      },
+      {
+        "id": "land-preparation",
+        "title": "Land Preparation",
+        "content": "Land preparation includes **2 harrowings + planking; fine seedbed; avoid water-logging (root rot).**. A well-tilled but properly levelled seedbed ensures uniform germination and stand establishment; drainage channels protect against waterlogging in heavy soil and during monsoons."
+      },
+      {
+        "id": "seed-planting-material",
+        "title": "Seed & Planting Material",
+        "content": "Use certified material: **Certified seed + Rhizobium lentil inoculation; fungicide treatment for wilt.**. Seed/variant rate for main season is **30–45 kg/ha (small-seeded 30, large 40–45)**. Treat seed against soil-borne diseases and, where applicable, inoculate with beneficial rhizobia/PSB before sowing for legumes."
+      },
+      {
+        "id": "sowing-planting",
+        "title": "Sowing & Planting",
+        "content": "**Sowing/planting season:** Rabi: last week Oct – mid Nov (after paddy). Optimum sowing depth **3–4 cm (shallow)**, spacing **22–30 × 8–10 cm**, maintaining a plant population of **≈ 4,00,000 plants/ha**. Correct spacing balances canopy (sunlight) and aeration. Depth and timing should follow regional package-of-practice recommendations."
+      },
+      {
+        "id": "water-irrigation",
+        "title": "Water & Irrigation Management",
+        "content": "Irrigation method: **1–2 light irrigations at critical stages**. Critical stages — Flowering & pod filling (avoids moisture stress). Typical frequency/quantity: **1–3**. Do not let the crop suffer at the most sensitive growth phases (flowering & pod filling (avoids moisture stress)); avoid both drought and waterlogging."
+      },
+      {
+        "id": "nutrients",
+        "title": "Nutrient Management",
+        "content": "Nutrient schedule: **20:50:30 kg N:P₂O₅:K₂O per ha** together with **fym 2.5–5 t/ha** and micronutrients **rhizobium & psb seed inoculation; s for b deficiency care**. Apply nutrients in splits as per full basal for efficient uptake; for legumes the fixed nitrogen reduces external nitrogen requirement."
+      },
+      {
+        "id": "weeds",
+        "title": "Weed Management",
+        "content": "**Chenopodium album, Asphodelus, Melilotus, Phalaris minor. Control follows an integrated approach: **Hand weeding 25–35 DAS; pre-emergence pendimethalin 1.0 kg on irrigated; stale seedbed for Asphodelus.**. Weed-free first 30–60 days (critical period) gives maximum yield advantage."
+      },
+      {
+        "id": "pests",
+        "title": "Pest Management",
+        "content": "Major pests: **Aphids, gram pod borer, cutworm.** Integrated Pest Management (IPM): monitor with traps/visual scouting, conserve natural enemies, and apply need-based pesticides at economic threshold levels."
+      },
+      {
+        "id": "diseases",
+        "title": "Disease Management",
+        "content": "Common diseases: **Wilt (Fusarium), rust (Uromyces), Stemphylium blight, root rot.** Prevention: disease-free seed/planting material, sanitation, resistant varieties, need-based fungicides/bio-control and balanced irrigation to keep foliage dry."
+      },
+      {
+        "id": "growth-management",
+        "title": "Plant Growth Management",
+        "content": "Plant-growth management includes **shallow sowing encourages deep roots; avoid excessive cold during flowering; lentil fixes 100+ kg n/ha enriching soil.**. Remove off-types/diseased plants (roguing), avoid over-crowding, and provide support (staking/training) suited to the crop habit."
+      },
+      {
+        "id": "monitoring",
+        "title": "Crop Monitoring",
+        "content": "Monitor periodically: **Population, wilt patches (remove+destroy), rust pustules after rains, pod-fill moisture.** Record observations stage-wise and act early on pest/disease thresholds rather than after damage becomes visible."
+      },
+      {
+        "id": "harvest-post-harvest",
+        "title": "Harvest & Post-harvest",
+        "content": "Harvest at **leaves turn yellow-brown, pods mature**. **Uproot, thresh, dry to 10% MC**; expected yield about **9–14 q/ha**. Handle produce carefully to avoid bruising; dry to safe moisture and **Store at ≤10% MC; treat for bruchids**."
+      },
+      {
+        "id": "economics-marketing",
+        "title": "Economics & Marketing",
+        "content": "Typical input cost: **₹20,000–30,000/ha**. Prevailing market price **₹55,000–75,000/q dry dal**; expected net **Good returns in rice-fallow system**. **Masoor dal steady market; protein-rich export**"
+      }
+    ]
+  },
+  {
+    "id": "pomegranate",
+    "slug": "pomegranate",
+    "name": "Pomegranate",
+    "nameHi": "अनार",
+    "emoji": "🍎",
+    "scientificName": "Punica granatum",
+    "family": "Lythraceae",
+    "category": "fruit",
+    "categoryName": "Fruit crop (arid)",
+    "states": [
+      "Maharashtra",
+      "Karnataka",
+      "Andhra Pradesh",
+      "Gujarat",
+      "Telangana"
+    ],
+    "duration": "Perennial — first yield in year 3; 30–40 yrs life",
+    "image": null,
+    "conditions": {
+      "n": {
+        "min": 100,
+        "max": 150
+      },
+      "p": {
+        "min": 40,
+        "max": 60
+      },
+      "k": {
+        "min": 50,
+        "max": 70
+      },
+      "temperature": {
+        "min": 18,
+        "max": 38
+      },
+      "humidity": {
+        "min": 40,
+        "max": 60
+      },
+      "ph": {
+        "min": 6.5,
+        "max": 7.5
+      },
+      "rainfall": {
+        "min": 300,
+        "max": 700
+      }
+    },
+    "details": [
+      {
+        "id": "crop-basics",
+        "title": "Crop Basics & Plant Biology",
+        "content": "**Pomegranate (अनार)** is a fruit crop (arid) belonging to the family **Lythraceae** (scientific name *Punica granatum*). It completes its crop cycle in about **Perennial — first yield in year 3; 30–40 yrs life**. Growth stages follow the sequence germination → seedling → vegetative growth → reproductive phase (flowering/fruiting) → maturity. Main growing states: **Maharashtra, Karnataka, Andhra Pradesh, Gujarat, Telangana**. Popular varieties/ hybrids: **Bhagwa, Ganesh, Arakta, Mridula, Phule Bhagwa Super**."
+      },
+      {
+        "id": "climate",
+        "title": "Climate Requirements",
+        "content": "**Pomegranate** thrives in a hot, dry semi-arid; 25–35 °C ideal; cold & heavy rain cause fruit cracking climate with full sun (disease escape) conditions. Ideal temperature range is **18–38 °C**, relative humidity **40–60%**, and annual rainfall **300–700 mm**. Extreme conditions (frost, heat waves, hail or waterlogging) at sensitive stages lower yield and quality."
+      },
+      {
+        "id": "soil",
+        "title": "Soil Requirements",
+        "content": "The crop grows best in **deep loamy soils; tolerates ph 6.5–7.5, medium black soils**. Suitable soil pH ranges from **6.5–7.5**, electrical conductivity (EC) below **up to 2.0 dS/m**, and organic matter of about **0.8–1.5%**. Adequate soil depth, good drainage, and balanced nutrient status of the soil are prerequisites for a healthy stand."
+      },
+      {
+        "id": "land-preparation",
+        "title": "Land Preparation",
+        "content": "Land preparation includes **pit planting (60×60×60 cm) at 4.5–5 m spacing; add 10 kg fym + 500 g ssp per pit.**. A well-tilled but properly levelled seedbed ensures uniform germination and stand establishment; drainage channels protect against waterlogging in heavy soil and during monsoons."
+      },
+      {
+        "id": "seed-planting-material",
+        "title": "Seed & Planting Material",
+        "content": "Use certified material: **Disease-free certified nursery plants; Ganesh each-state clones.**. Seed/variant rate for main season is **n/a — planting material: rooted cuttings/air layers (250–400 plants/ha)**. Treat seed against soil-borne diseases and, where applicable, inoculate with beneficial rhizobia/PSB before sowing for legumes."
+      },
+      {
+        "id": "sowing-planting",
+        "title": "Sowing & Planting",
+        "content": "**Sowing/planting season:** Planting: Jul–Sep (rainy) in pits; Mrig bahar (Jun–Jul) flowering. Optimum sowing depth **Plant 15–20 cm deeper than nursery grade**, spacing **4.5–5.0 m × 4.5–5.0 m (≈ 280–400 plants/ha)**, maintaining a plant population of **280–400 plants/ha**. Correct spacing balances canopy (sunlight) and aeration. Depth and timing should follow regional package-of-practice recommendations."
+      },
+      {
+        "id": "water-irrigation",
+        "title": "Water & Irrigation Management",
+        "content": "Irrigation method: **Drip irrigation preferred; basin flooding acceptable**. Critical stages — Critical: flowering, fruit set, fruit development. Stop irrigation 3 weeks pre-harvest to reduce cracking. Typical frequency/quantity: **Drip 60–80 l/tree/day in summer; irrigate at 5–7 day interval**. Do not let the crop suffer at the most sensitive growth phases (critical: flowering, fruit set, fruit development. stop irrigation 3 weeks pre-harvest to reduce cracking); avoid both drought and waterlogging."
+      },
+      {
+        "id": "nutrients",
+        "title": "Nutrient Management",
+        "content": "Nutrient schedule: **600–700 g N + 350 g P₂O₅ + 350 g K₂O per tree/yr in 2 splits** together with **15–20 kg fym/tree + vermicompost** and micronutrients **zn & b foliar (0.5% znso₄ + 0.2% borax) after fruit set**. Apply nutrients in splits as per pre-flower & post-fruit-set splits for efficient uptake; for legumes the fixed nitrogen reduces external nitrogen requirement."
+      },
+      {
+        "id": "weeds",
+        "title": "Weed Management",
+        "content": "**Control in basin; mulching with dry grass reduces weeds & moisture loss. Control follows an integrated approach: **Hand hoeing in basin; glyphosate spot spray on bunds; mulching (dry leaves/pp film).**. Weed-free first 30–60 days (critical period) gives maximum yield advantage."
+      },
+      {
+        "id": "pests",
+        "title": "Pest Management",
+        "content": "Major pests: **Fruit borer (Deudorix isocrates), aphids, whiteflies, mite; thrips cause 'blister'.** Integrated Pest Management (IPM): monitor with traps/visual scouting, conserve natural enemies, and apply need-based pesticides at economic threshold levels."
+      },
+      {
+        "id": "diseases",
+        "title": "Disease Management",
+        "content": "Common diseases: **Bacterial blight (Xanthomonas), wilt (Ceratocystis fimbriata), powdery mildew.** Prevention: disease-free seed/planting material, sanitation, resistant varieties, need-based fungicides/bio-control and balanced irrigation to keep foliage dry."
+      },
+      {
+        "id": "growth-management",
+        "title": "Plant Growth Management",
+        "content": "Plant-growth management includes **training to single stem; annual pruning of dead/diseased; bahar regulation (stress drying) to induce flowering.**. Remove off-types/diseased plants (roguing), avoid over-crowding, and provide support (staking/training) suited to the crop habit."
+      },
+      {
+        "id": "monitoring",
+        "title": "Crop Monitoring",
+        "content": "Monitor periodically: **Borer incidence in fruits, blight spots on leaves/fruits, mite on lower leaves, irrigation-timing against cracking.** Record observations stage-wise and act early on pest/disease thresholds rather than after damage becomes visible."
+      },
+      {
+        "id": "harvest-post-harvest",
+        "title": "Harvest & Post-harvest",
+        "content": "Harvest at **fruit attains full colour at 4–5.5 months after flowering**. **Clip with stalk; harvest at physiological maturity; grade A/B**; expected yield about **12–15 t/ha mature orchard**. Handle produce carefully to avoid bruising; dry to safe moisture and **Cool store 5 °C, 85–90% RH for 8–12 weeks**."
+      },
+      {
+        "id": "economics-marketing",
+        "title": "Economics & Marketing",
+        "content": "Typical input cost: **Planting + maintenance ₹80,000–1.2 lakh/ha**. Prevailing market price **₹50–120/kg at farm gate (seasonal)**; expected net **Most profitable arid fruit — ₹4–6 lakh/ha gross at maturity**. **Export to Gulf/Europe; Jalore/Maharashtra hubs**"
+      }
+    ]
+  },
+  {
+    "id": "banana",
+    "slug": "banana",
+    "name": "Banana",
+    "nameHi": "केला",
+    "emoji": "🍌",
+    "scientificName": "Musa spp.",
+    "family": "Musaceae",
+    "category": "fruit",
+    "categoryName": "Fruit crop (tropical)",
+    "states": [
+      "Tamil Nadu",
+      "Maharashtra",
+      "Gujarat",
+      "Andhra Pradesh",
+      "Karnataka",
+      "Bihar"
+    ],
+    "duration": "10–14 months (tissue-culture 9–11 months)",
+    "image": null,
+    "conditions": {
+      "n": {
+        "min": 200,
+        "max": 350
+      },
+      "p": {
+        "min": 50,
+        "max": 100
+      },
+      "k": {
+        "min": 250,
+        "max": 400
+      },
+      "temperature": {
+        "min": 20,
+        "max": 35
+      },
+      "humidity": {
+        "min": 75,
+        "max": 95
+      },
+      "ph": {
+        "min": 5.5,
+        "max": 7.5
+      },
+      "rainfall": {
+        "min": 1200,
+        "max": 3000
+      }
+    },
+    "details": [
+      {
+        "id": "crop-basics",
+        "title": "Crop Basics & Plant Biology",
+        "content": "**Banana (केला)** is a fruit crop (tropical) belonging to the family **Musaceae** (scientific name *Musa spp.*). It completes its crop cycle in about **10–14 months (tissue-culture 9–11 months)**. Growth stages follow the sequence germination → seedling → vegetative growth → reproductive phase (flowering/fruiting) → maturity. Main growing states: **Tamil Nadu, Maharashtra, Gujarat, Andhra Pradesh, Karnataka, Bihar**. Popular varieties/ hybrids: **Grand Naine, Robusta, Dwarf Cavendish, Poovan, Nendran**."
+      },
+      {
+        "id": "climate",
+        "title": "Climate Requirements",
+        "content": "**Banana** thrives in a warm humid tropical; 25–32 °C; frost & strong winds damaging climate with full sun but avoid heat at flowering conditions. Ideal temperature range is **20–35 °C**, relative humidity **75–95%**, and annual rainfall **1200–3000 mm**. Extreme conditions (frost, heat waves, hail or waterlogging) at sensitive stages lower yield and quality."
+      },
+      {
+        "id": "soil",
+        "title": "Soil Requirements",
+        "content": "The crop grows best in **deep fertile loam/alluvial; ph 5.5–7.5; swampy soils avoided**. Suitable soil pH ranges from **5.5–7.5**, electrical conductivity (EC) below **<1.0 dS/m**, and organic matter of about **1.5–2.0% (banana is a heavy feeder)**. Adequate soil depth, good drainage, and balanced nutrient status of the soil are prerequisites for a healthy stand."
+      },
+      {
+        "id": "land-preparation",
+        "title": "Land Preparation",
+        "content": "Land preparation includes **deep ploughing + fym; beds of 1 m width for drip; good drainage channels.**. A well-tilled but properly levelled seedbed ensures uniform germination and stand establishment; drainage channels protect against waterlogging in heavy soil and during monsoons."
+      },
+      {
+        "id": "seed-planting-material",
+        "title": "Seed & Planting Material",
+        "content": "Use certified material: **Virus-free tissue-culture plants or healthy sword suckers (weight 500–700 g).**. Seed/variant rate for main season is **n/a — 1,600–2,200 suckers/plants per ha (tissue culture 1,663/ha @ 3×2 m)**. Treat seed against soil-borne diseases and, where applicable, inoculate with beneficial rhizobia/PSB before sowing for legumes."
+      },
+      {
+        "id": "sowing-planting",
+        "title": "Sowing & Planting",
+        "content": "**Sowing/planting season:** Plant after monsoon onset or with drip any time except severe winter. Optimum sowing depth **30–45 cm pits; plant 3–4 cm deeper than sucker collar**, spacing **2 × 1.5 m or 2.5 × 2 m (≈ 1,600–2,000 plants/ha)**, maintaining a plant population of **1,600–2,000 plants/ha**. Correct spacing balances canopy (sunlight) and aeration. Depth and timing should follow regional package-of-practice recommendations."
+      },
+      {
+        "id": "water-irrigation",
+        "title": "Water & Irrigation Management",
+        "content": "Irrigation method: **Drip irrigation + fertigation highly recommended**. Critical stages — Critical: flower emergence to maturity; regular soil moisture; avoid water logging. Typical frequency/quantity: **Drip 6–8 L/plant/day; surface 8–12 irrigations total**. Do not let the crop suffer at the most sensitive growth phases (critical: flower emergence to maturity; regular soil moisture; avoid water logging); avoid both drought and waterlogging."
+      },
+      {
+        "id": "nutrients",
+        "title": "Nutrient Management",
+        "content": "Nutrient schedule: **250–300 g N + 90 g P₂O₅ + 400–450 g K₂O per plant/year** together with **10 kg fym/lac planting; + vermicompost** and micronutrients **mg, zn, b foliar; poultry manure boosts n**. Apply nutrients in splits as per 6–8 splits via fertigation for efficient uptake; for legumes the fixed nitrogen reduces external nitrogen requirement."
+      },
+      {
+        "id": "weeds",
+        "title": "Weed Management",
+        "content": "**Mostly controlled by mulch; Commelina, Cyperus between rows. Control follows an integrated approach: **Glyphosate on strips + plastic/bio mulching at base; hand weeding during standing crop.**. Weed-free first 30–60 days (critical period) gives maximum yield advantage."
+      },
+      {
+        "id": "pests",
+        "title": "Pest Management",
+        "content": "Major pests: **Rhizome weevil (Cosmopolites), aphids, thrips, nematodes.** Integrated Pest Management (IPM): monitor with traps/visual scouting, conserve natural enemies, and apply need-based pesticides at economic threshold levels."
+      },
+      {
+        "id": "diseases",
+        "title": "Disease Management",
+        "content": "Common diseases: **Sigatoka leaf spot (Mycosphaerella), Panama wilt (Fusarium TR4), bunchy top virus, mosaic.** Prevention: disease-free seed/planting material, sanitation, resistant varieties, need-based fungicides/bio-control and balanced irrigation to keep foliage dry."
+      },
+      {
+        "id": "growth-management",
+        "title": "Plant Growth Management",
+        "content": "Plant-growth management includes **desuckering (keep 1 mother + 1 follower), propping bunches with sticks, leaf pruning for sanitation.**. Remove off-types/diseased plants (roguing), avoid over-crowding, and provide support (staking/training) suited to the crop habit."
+      },
+      {
+        "id": "monitoring",
+        "title": "Crop Monitoring",
+        "content": "Monitor periodically: **Sucker count, leaf area, bunch emergence watch, wilt/virus roguing, weevil trapping.** Record observations stage-wise and act early on pest/disease thresholds rather than after damage becomes visible."
+      },
+      {
+        "id": "harvest-post-harvest",
+        "title": "Harvest & Post-harvest",
+        "content": "Harvest at **fingers round with full ridges; harvest 70–85 days after bunch emergence**. **Cut bunch, de-hand, wash crown, de-latex**; expected yield about **45–70 t/ha (tissue culture, drip)**. Handle produce carefully to avoid bruising; dry to safe moisture and **Ripen in chambers (120 ppm ethylene); cold storage 13 °C**."
+      },
+      {
+        "id": "economics-marketing",
+        "title": "Economics & Marketing",
+        "content": "Typical input cost: **₹1.5–2.5 lakh/ha**. Prevailing market price **₹30–45/kg farm-gate**; expected net **₹3–6 lakh/ha net with drip+TC (30–40% margin)**. **Sold to ripening chambers & exporters (GPIC, SBI hubs)**"
+      }
+    ]
+  },
+  {
+    "id": "mango",
+    "slug": "mango",
+    "name": "Mango",
+    "nameHi": "आम",
+    "emoji": "🥭",
+    "scientificName": "Mangifera indica",
+    "family": "Anacardiaceae",
+    "category": "fruit",
+    "categoryName": "Fruit crop (topical/subtropical)",
+    "states": [
+      "Uttar Pradesh",
+      "Andhra Pradesh",
+      "Bihar",
+      "Karnataka",
+      "Maharashtra",
+      "Gujarat"
+    ],
+    "duration": "Perennial — grafted plants fruit in years 3–4; 40–100 yr life",
+    "image": null,
+    "conditions": {
+      "n": {
+        "min": 50,
+        "max": 150
+      },
+      "p": {
+        "min": 30,
+        "max": 60
+      },
+      "k": {
+        "min": 50,
+        "max": 100
+      },
+      "temperature": {
+        "min": 24,
+        "max": 38
+      },
+      "humidity": {
+        "min": 40,
+        "max": 70
+      },
+      "ph": {
+        "min": 5.5,
+        "max": 7.5
+      },
+      "rainfall": {
+        "min": 700,
+        "max": 2000
+      }
+    },
+    "details": [
+      {
+        "id": "crop-basics",
+        "title": "Crop Basics & Plant Biology",
+        "content": "**Mango (आम)** is a fruit crop (topical/subtropical) belonging to the family **Anacardiaceae** (scientific name *Mangifera indica*). It completes its crop cycle in about **Perennial — grafted plants fruit in years 3–4; 40–100 yr life**. Growth stages follow the sequence germination → seedling → vegetative growth → reproductive phase (flowering/fruiting) → maturity. Main growing states: **Uttar Pradesh, Andhra Pradesh, Bihar, Karnataka, Maharashtra, Gujarat**. Popular varieties/ hybrids: **Dashehari, Langra, Alphonso, Chausa, Kesar, Totapuri, Mallika, Amrapali**."
+      },
+      {
+        "id": "climate",
+        "title": "Climate Requirements",
+        "content": "**Mango** thrives in a warm subtropical/tropical; 24–38 °C; dry winter (<11 °C) triggers flowering; hail/frost harmful climate with full sun; light exposure = flower induction conditions. Ideal temperature range is **24–38 °C**, relative humidity **40–70%**, and annual rainfall **700–2000 mm**. Extreme conditions (frost, heat waves, hail or waterlogging) at sensitive stages lower yield and quality."
+      },
+      {
+        "id": "soil",
+        "title": "Soil Requirements",
+        "content": "The crop grows best in **deep (>1.5 m) well-drained soils; avoids heavy clay/waterlogged**. Suitable soil pH ranges from **5.5–7.5**, electrical conductivity (EC) below **<1.0 dS/m**, and organic matter of about **0.8–1.5%**. Adequate soil depth, good drainage, and balanced nutrient status of the soil are prerequisites for a healthy stand."
+      },
+      {
+        "id": "land-preparation",
+        "title": "Land Preparation",
+        "content": "Land preparation includes **pit 90×90×90 cm at 8–10 m spacing with fym + ssp; legume cover in young orchards.**. A well-tilled but properly levelled seedbed ensures uniform germination and stand establishment; drainage channels protect against waterlogging in heavy soil and during monsoons."
+      },
+      {
+        "id": "seed-planting-material",
+        "title": "Seed & Planting Material",
+        "content": "Use certified material: **Veneer- or softwood-grafted nursery plants; use certified rootstocks.**. Seed/variant rate for main season is **n/a — 50–175 grafted plants/ha (density varied)**. Treat seed against soil-borne diseases and, where applicable, inoculate with beneficial rhizobia/PSB before sowing for legumes."
+      },
+      {
+        "id": "sowing-planting",
+        "title": "Sowing & Planting",
+        "content": "**Sowing/planting season:** Planting: Jul–Sep (rainy); avoid winter in north. Optimum sowing depth **Plant graft union well above soil**, spacing **10 × 10 m (std) to 5 × 5 m (Amrapali high-density)**, maintaining a plant population of **100–400 plants/ha**. Correct spacing balances canopy (sunlight) and aeration. Depth and timing should follow regional package-of-practice recommendations."
+      },
+      {
+        "id": "water-irrigation",
+        "title": "Water & Irrigation Management",
+        "content": "Irrigation method: **Ring/basin irrigation; drip for high-density**. Critical stages — Critical: flowering (Jan–Mar), fruit set and growth; stop 3 weeks before harvest for sugar. Typical frequency/quantity: **Young: weekly; bearing: 4–8 irrigations**. Do not let the crop suffer at the most sensitive growth phases (critical: flowering (jan–mar), fruit set and growth; stop 3 weeks before harvest for sugar); avoid both drought and waterlogging."
+      },
+      {
+        "id": "nutrients",
+        "title": "Nutrient Management",
+        "content": "Nutrient schedule: **1 kg N + 0.6 kg P₂O₅ + 1 kg K₂O per tree/yr (increasing with age)** together with **20–50 kg fym/tree** and micronutrients **zn (0.4% znso₄) & b sprays at flowering**. Apply nutrients in splits as per two splits: after harvest & before flowering for efficient uptake; for legumes the fixed nitrogen reduces external nitrogen requirement."
+      },
+      {
+        "id": "weeds",
+        "title": "Weed Management",
+        "content": "**Bermuda grass & weeds in basin reduce yield. Control follows an integrated approach: **Mulching + weeding in basin; glyphosate strip on tree rows.**. Weed-free first 30–60 days (critical period) gives maximum yield advantage."
+      },
+      {
+        "id": "pests",
+        "title": "Pest Management",
+        "content": "Major pests: **Fruit fly (Bactrocera), hopper (Idioscopus), stone weevil, mealy bug, shoot borer.** Integrated Pest Management (IPM): monitor with traps/visual scouting, conserve natural enemies, and apply need-based pesticides at economic threshold levels."
+      },
+      {
+        "id": "diseases",
+        "title": "Disease Management",
+        "content": "Common diseases: **Powdery mildew, anthracnose, die-back, black tip, malformation (climatic+physiological).** Prevention: disease-free seed/planting material, sanitation, resistant varieties, need-based fungicides/bio-control and balanced irrigation to keep foliage dry."
+      },
+      {
+        "id": "growth-management",
+        "title": "Plant Growth Management",
+        "content": "Plant-growth management includes **training to 3–4 scaffold branches; pruning thin limbs; malformation clearing; growth regulators (pbz 0.5 ml/tree) for flowering in south.**. Remove off-types/diseased plants (roguing), avoid over-crowding, and provide support (staking/training) suited to the crop habit."
+      },
+      {
+        "id": "monitoring",
+        "title": "Crop Monitoring",
+        "content": "Monitor periodically: **Hopper trap counts at flushing, mildew at flowering, fruit fly bait traps, fruit-drop check.** Record observations stage-wise and act early on pest/disease thresholds rather than after damage becomes visible."
+      },
+      {
+        "id": "harvest-post-harvest",
+        "title": "Harvest & Post-harvest",
+        "content": "Harvest at **shoulder & apex points level; starch test (dip in ki — black = immature)**. **Hand picking with clippers; avoid latex drip on skin**; expected yield about **10–30 t/ha mature (15 t/ha avg)**. Handle produce carefully to avoid bruising; dry to safe moisture and **Hot-water treatment (48 °C) + cold storage 12–13 °C**."
+      },
+      {
+        "id": "economics-marketing",
+        "title": "Economics & Marketing",
+        "content": "Typical input cost: **Establishment ₹1.5–2 lakh/ha**. Prevailing market price **₹40–120/kg (varietal & season)**; expected net **₹3–7 lakh/ha at full bearing**. **Domestic + export (Alphonso, Kesar) to US/EU/Middle East**"
+      }
+    ]
+  },
+  {
+    "id": "grapes",
+    "slug": "grapes",
+    "name": "Grapes",
+    "nameHi": "अंगूर",
+    "emoji": "🍇",
+    "scientificName": "Vitis vinifera",
+    "family": "Vitaceae",
+    "category": "fruit",
+    "categoryName": "Fruit crop (vine)",
+    "states": [
+      "Maharashtra",
+      "Karnataka",
+      "Tamil Nadu",
+      "Andhra Pradesh"
+    ],
+    "duration": "Perennial — first crop year 2; 25–30 yr life",
+    "image": null,
+    "conditions": {
+      "n": {
+        "min": 40,
+        "max": 80
+      },
+      "p": {
+        "min": 40,
+        "max": 60
+      },
+      "k": {
+        "min": 80,
+        "max": 130
+      },
+      "temperature": {
+        "min": 15,
+        "max": 32
+      },
+      "humidity": {
+        "min": 50,
+        "max": 70
+      },
+      "ph": {
+        "min": 6,
+        "max": 7.5
+      },
+      "rainfall": {
+        "min": 500,
+        "max": 900
+      }
+    },
+    "details": [
+      {
+        "id": "crop-basics",
+        "title": "Crop Basics & Plant Biology",
+        "content": "**Grapes (अंगूर)** is a fruit crop (vine) belonging to the family **Vitaceae** (scientific name *Vitis vinifera*). It completes its crop cycle in about **Perennial — first crop year 2; 25–30 yr life**. Growth stages follow the sequence germination → seedling → vegetative growth → reproductive phase (flowering/fruiting) → maturity. Main growing states: **Maharashtra, Karnataka, Tamil Nadu, Andhra Pradesh**. Popular varieties/ hybrids: **Thompson Seedless, Sharad Seedless, Flame Seedless, Black Prince, Bangalore Blue, Nasik Red**."
+      },
+      {
+        "id": "climate",
+        "title": "Climate Requirements",
+        "content": "**Grapes** thrives in a hot but dry summer climate; 25–32 °C day, cooler nights; avoid high humidity & rains at ripening climate with full sun; enough sunshine for sugar conditions. Ideal temperature range is **15–32 °C**, relative humidity **50–70%**, and annual rainfall **500–900 mm**. Extreme conditions (frost, heat waves, hail or waterlogging) at sensitive stages lower yield and quality."
+      },
+      {
+        "id": "soil",
+        "title": "Soil Requirements",
+        "content": "The crop grows best in **light to medium textured red/black well-drained soils; deep roots need >1 m**. Suitable soil pH ranges from **6–7.5**, electrical conductivity (EC) below **<1.2 dS/m**, and organic matter of about **1.0–1.5%**. Adequate soil depth, good drainage, and balanced nutrient status of the soil are prerequisites for a healthy stand."
+      },
+      {
+        "id": "land-preparation",
+        "title": "Land Preparation",
+        "content": "Land preparation includes **pits 60×60×60 cm at 3 × 3 m; trellis (bower/fan) installations; good drainage essential.**. A well-tilled but properly levelled seedbed ensures uniform germination and stand establishment; drainage channels protect against waterlogging in heavy soil and during monsoons."
+      },
+      {
+        "id": "seed-planting-material",
+        "title": "Seed & Planting Material",
+        "content": "Use certified material: **Virus-free cuttings of promising clones on own/rootstocks.**. Seed/variant rate for main season is **n/a — 900–1,100 rooted cuttings/ha on trellis**. Treat seed against soil-borne diseases and, where applicable, inoculate with beneficial rhizobia/PSB before sowing for legumes."
+      },
+      {
+        "id": "sowing-planting",
+        "title": "Sowing & Planting",
+        "content": "**Sowing/planting season:** undefined. Optimum sowing depth **Plant at nursery depth in pits**, spacing **3 × 3 m (bower) or 2.75 × 1.8 m (Trellis,TSS)**, maintaining a plant population of **900–1,800 vines/ha**. Correct spacing balances canopy (sunlight) and aeration. Depth and timing should follow regional package-of-practice recommendations."
+      },
+      {
+        "id": "water-irrigation",
+        "title": "Water & Irrigation Management",
+        "content": "Irrigation method: **Drip irrigation essential for quality**. Critical stages — Critical: flowering, berry-set, ripening; stop 2–3 weeks before harvest. Typical frequency/quantity: **Drip at ET-based schedule**. Do not let the crop suffer at the most sensitive growth phases (critical: flowering, berry-set, ripening; stop 2–3 weeks before harvest); avoid both drought and waterlogging."
+      },
+      {
+        "id": "nutrients",
+        "title": "Nutrient Management",
+        "content": "Nutrient schedule: **120:120:240 g NPK per vine/yr (region-specific, split majorly K)** together with **10–15 kg fym + green manuring between rows** and micronutrients **b & zn foliar at bud differentiation**. Apply nutrients in splits as per n all pre-flower; p pre-flower; k in 2–3 splits from berry-set for efficient uptake; for legumes the fixed nitrogen reduces external nitrogen requirement."
+      },
+      {
+        "id": "weeds",
+        "title": "Weed Management",
+        "content": "**Control between rows to avoid humidity/fungal load. Control follows an integrated approach: **Glyphosate/paraquat strip sprays + mulching; tractor hoeing between rows.**. Weed-free first 30–60 days (critical period) gives maximum yield advantage."
+      },
+      {
+        "id": "pests",
+        "title": "Pest Management",
+        "content": "Major pests: **Mealy bug, thrips, flea beetle, mites, powdery mildew vector (on foliage).** Integrated Pest Management (IPM): monitor with traps/visual scouting, conserve natural enemies, and apply need-based pesticides at economic threshold levels."
+      },
+      {
+        "id": "diseases",
+        "title": "Disease Management",
+        "content": "Common diseases: **Powdery mildew, downy mildew, anthracnose, die-back, bacterial leaf spot.** Prevention: disease-free seed/planting material, sanitation, resistant varieties, need-based fungicides/bio-control and balanced irrigation to keep foliage dry."
+      },
+      {
+        "id": "growth-management",
+        "title": "Plant Growth Management",
+        "content": "Plant-growth management includes **pruning (canes per vine based on vigor); shoot thinning & pinching; girdling improves berry size in seedless; bunch management (crop load).**. Remove off-types/diseased plants (roguing), avoid over-crowding, and provide support (staking/training) suited to the crop habit."
+      },
+      {
+        "id": "monitoring",
+        "title": "Crop Monitoring",
+        "content": "Monitor periodically: **Bud break %, shoot length, thrips in young bunches, mildew weather alerts, berry TSS (≥20 °Brix) at harvest.** Record observations stage-wise and act early on pest/disease thresholds rather than after damage becomes visible."
+      },
+      {
+        "id": "harvest-post-harvest",
+        "title": "Harvest & Post-harvest",
+        "content": "Harvest at **tss 20–22 °brix, uniform berry colour**. **Hand cut bunches into crates, cool quickly**; expected yield about **20–35 t/ha**. Handle produce carefully to avoid bruising; dry to safe moisture and **Cold chain 0–2 °C; grape export needs SO₂ pads**."
+      },
+      {
+        "id": "economics-marketing",
+        "title": "Economics & Marketing",
+        "content": "Typical input cost: **High — ₹2.5–4 lakh/ha**. Prevailing market price **₹50–150/kg (depending on grade)**; expected net **₹4–8 lakh/ha net with quality crop**. **Export to EU; juice/raisin (Nasik, Sangli) side-industries**"
+      }
+    ]
+  },
+  {
+    "id": "watermelon",
+    "slug": "watermelon",
+    "name": "Watermelon",
+    "nameHi": "तरबूज",
+    "emoji": "🍉",
+    "scientificName": "Citrullus lanatus",
+    "family": "Cucurbitaceae",
+    "category": "vegetable",
+    "categoryName": "Fruit vegetable",
+    "states": [
+      "Karnataka",
+      "Punjab",
+      "Uttar Pradesh",
+      "Maharashtra",
+      "West Bengal",
+      "Assam"
+    ],
+    "duration": "90–110 days",
+    "image": null,
+    "conditions": {
+      "n": {
+        "min": 60,
+        "max": 100
+      },
+      "p": {
+        "min": 40,
+        "max": 60
+      },
+      "k": {
+        "min": 40,
+        "max": 60
+      },
+      "temperature": {
+        "min": 24,
+        "max": 32
+      },
+      "humidity": {
+        "min": 60,
+        "max": 75
+      },
+      "ph": {
+        "min": 6,
+        "max": 7
+      },
+      "rainfall": {
+        "min": 600,
+        "max": 1000
+      }
+    },
+    "details": [
+      {
+        "id": "crop-basics",
+        "title": "Crop Basics & Plant Biology",
+        "content": "**Watermelon (तरबूज)** is a fruit vegetable belonging to the family **Cucurbitaceae** (scientific name *Citrullus lanatus*). It completes its crop cycle in about **90–110 days**. Growth stages follow the sequence germination → seedling → vegetative growth → reproductive phase (flowering/fruiting) → maturity. Main growing states: **Karnataka, Punjab, Uttar Pradesh, Maharashtra, West Bengal, Assam**. Popular varieties/ hybrids: **Asahi Yamato, Arka Manik, Sugar Baby, KWS-33, Kaira, Madhuri**."
+      },
+      {
+        "id": "climate",
+        "title": "Climate Requirements",
+        "content": "**Watermelon** thrives in a long warm spell (24–32 °C); warm soil for germination; frost-sensitive climate with full sun conditions. Ideal temperature range is **24–32 °C**, relative humidity **60–75%**, and annual rainfall **600–1000 mm**. Extreme conditions (frost, heat waves, hail or waterlogging) at sensitive stages lower yield and quality."
+      },
+      {
+        "id": "soil",
+        "title": "Soil Requirements",
+        "content": "The crop grows best in **well-drained sandy-loam, river-bed alluvial soils excellent; ph 6–7**. Suitable soil pH ranges from **6–7**, electrical conductivity (EC) below **<1.5 dS/m**, and organic matter of about **0.8–1.2%**. Adequate soil depth, good drainage, and balanced nutrient status of the soil are prerequisites for a healthy stand."
+      },
+      {
+        "id": "land-preparation",
+        "title": "Land Preparation",
+        "content": "Land preparation includes **deep plough + level; beds of 4–5 m wide; plant on mound/ridge for drainage.**. A well-tilled but properly levelled seedbed ensures uniform germination and stand establishment; drainage channels protect against waterlogging in heavy soil and during monsoons."
+      },
+      {
+        "id": "seed-planting-material",
+        "title": "Seed & Planting Material",
+        "content": "Use certified material: **Certified seed (>80% germ); treat with thiram; one seed/hill.**. Seed/variant rate for main season is **1.5–2.5 kg/ha**. Treat seed against soil-borne diseases and, where applicable, inoculate with beneficial rhizobia/PSB before sowing for legumes."
+      },
+      {
+        "id": "sowing-planting",
+        "title": "Sowing & Planting",
+        "content": "**Sowing/planting season:** Feb–Mar (summer); Sep–Oct for ratoon in south (with irrigation). Optimum sowing depth **3–4 cm**, spacing **2.5–3 m × 0.6–0.9 m (hills/beds)**, maintaining a plant population of **≈ 5,000–7,000 plants/ha (single vine/mound)**. Correct spacing balances canopy (sunlight) and aeration. Depth and timing should follow regional package-of-practice recommendations."
+      },
+      {
+        "id": "water-irrigation",
+        "title": "Water & Irrigation Management",
+        "content": "Irrigation method: **Drip/furrow; fruit maturity requires reduced water**. Critical stages — Critical: fruit set & growth; at ripening reduce to improve sweetness (watermelon needs care against cracking). Typical frequency/quantity: **Drip 6–7 irrigations; surface every 7–10 days in summer**. Do not let the crop suffer at the most sensitive growth phases (critical: fruit set & growth; at ripening reduce to improve sweetness (watermelon needs care against cracking)); avoid both drought and waterlogging."
+      },
+      {
+        "id": "nutrients",
+        "title": "Nutrient Management",
+        "content": "Nutrient schedule: **100:60:60 kg N:P₂O₅:K₂O per ha + 20 t FYM** together with **10–20 t/ha fym in pits** and micronutrients **boron at flowering improves fruit set**. Apply nutrients in splits as per n half basal, half at vine growth for efficient uptake; for legumes the fixed nitrogen reduces external nitrogen requirement."
+      },
+      {
+        "id": "weeds",
+        "title": "Weed Management",
+        "content": "**Suppressed by vine canopy after 45 days; early weeds critical. Control follows an integrated approach: **Pre-plant glyphosate; hand weeding + hoeing at 15–20 DAS; mulching with straw reduces weeds & fruit rot.**. Weed-free first 30–60 days (critical period) gives maximum yield advantage."
+      },
+      {
+        "id": "pests",
+        "title": "Pest Management",
+        "content": "Major pests: **Red pumpkin beetle, fruit fly, aphids, cutworm (early).** Integrated Pest Management (IPM): monitor with traps/visual scouting, conserve natural enemies, and apply need-based pesticides at economic threshold levels."
+      },
+      {
+        "id": "diseases",
+        "title": "Disease Management",
+        "content": "Common diseases: **Fusarium wilt, anthracnose, powdery & downy mildew, mosaic virus.** Prevention: disease-free seed/planting material, sanitation, resistant varieties, need-based fungicides/bio-control and balanced irrigation to keep foliage dry."
+      },
+      {
+        "id": "growth-management",
+        "title": "Plant Growth Management",
+        "content": "Plant-growth management includes **train single/sub-vine, off-put lateral vines; fruit lifting on dry straw prevents ground rot; avoid excessive n.**. Remove off-types/diseased plants (roguing), avoid over-crowding, and provide support (staking/training) suited to the crop habit."
+      },
+      {
+        "id": "monitoring",
+        "title": "Crop Monitoring",
+        "content": "Monitor periodically: **Beetle damage on true leaves, vine health, fruit fly traps, fruit cracking at ripening.** Record observations stage-wise and act early on pest/disease thresholds rather than after damage becomes visible."
+      },
+      {
+        "id": "harvest-post-harvest",
+        "title": "Harvest & Post-harvest",
+        "content": "Harvest at **tendril drying near fruit, ground spot turns yellow, thump dull sound**. **Cut with 5–10 cm stalk; handle gently**; expected yield about **30–40 t/ha**. Handle produce carefully to avoid bruising; dry to safe moisture and **Shade 7–10 days; store 10 °C 85% RH**."
+      },
+      {
+        "id": "economics-marketing",
+        "title": "Economics & Marketing",
+        "content": "Typical input cost: **₹35,000–50,000/ha**. Prevailing market price **₹10–20/kg season, higher off-season**; expected net **₹40,000–80,000/ha (summer crop)**. **Summer fruit market; juice stands, local mandis**"
+      }
+    ]
+  },
+  {
+    "id": "muskmelon",
+    "slug": "muskmelon",
+    "name": "Muskmelon",
+    "nameHi": "खरबूजा",
+    "emoji": "🍈",
+    "scientificName": "Cucumis melo",
+    "family": "Cucurbitaceae",
+    "category": "vegetable",
+    "categoryName": "Fruit vegetable",
+    "states": [
+      "Punjab",
+      "Uttar Pradesh",
+      "Haryana",
+      "Rajasthan",
+      "Maharashtra",
+      "Tamil Nadu"
+    ],
+    "duration": "85–110 days",
+    "image": null,
+    "conditions": {
+      "n": {
+        "min": 40,
+        "max": 60
+      },
+      "p": {
+        "min": 25,
+        "max": 40
+      },
+      "k": {
+        "min": 25,
+        "max": 40
+      },
+      "temperature": {
+        "min": 25,
+        "max": 32
+      },
+      "humidity": {
+        "min": 55,
+        "max": 70
+      },
+      "ph": {
+        "min": 6,
+        "max": 7
+      },
+      "rainfall": {
+        "min": 500,
+        "max": 900
+      }
+    },
+    "details": [
+      {
+        "id": "crop-basics",
+        "title": "Crop Basics & Plant Biology",
+        "content": "**Muskmelon (खरबूजा)** is a fruit vegetable belonging to the family **Cucurbitaceae** (scientific name *Cucumis melo*). It completes its crop cycle in about **85–110 days**. Growth stages follow the sequence germination → seedling → vegetative growth → reproductive phase (flowering/fruiting) → maturity. Main growing states: **Punjab, Uttar Pradesh, Haryana, Rajasthan, Maharashtra, Tamil Nadu**. Popular varieties/ hybrids: **MH-51, MH-27, Punjab Hybrid, Punjab Sunehri, Hara Madhu, Madhuri (NC-10)**."
+      },
+      {
+        "id": "climate",
+        "title": "Climate Requirements",
+        "content": "**Muskmelon** thrives in a warm, dry with clear sunshine at ripening; germination 27–30 °C; high humidity increases disease climate with full sun conditions. Ideal temperature range is **25–32 °C**, relative humidity **55–70%**, and annual rainfall **500–900 mm**. Extreme conditions (frost, heat waves, hail or waterlogging) at sensitive stages lower yield and quality."
+      },
+      {
+        "id": "soil",
+        "title": "Soil Requirements",
+        "content": "The crop grows best in **well-drained loam; light sandy river beds ideal; ph 6.0–7.0, sensitive to acidity & salinity**. Suitable soil pH ranges from **6–7**, electrical conductivity (EC) below **<1.0 dS/m**, and organic matter of about **0.8–1.2%**. Adequate soil depth, good drainage, and balanced nutrient status of the soil are prerequisites for a healthy stand."
+      },
+      {
+        "id": "land-preparation",
+        "title": "Land Preparation",
+        "content": "Land preparation includes **beds 3–4 m wide; two seeds/hill both sides at 60 cm; polythene-bag nursery for early crop.**. A well-tilled but properly levelled seedbed ensures uniform germination and stand establishment; drainage channels protect against waterlogging in heavy soil and during monsoons."
+      },
+      {
+        "id": "seed-planting-material",
+        "title": "Seed & Planting Material",
+        "content": "Use certified material: **Certified seed; slow-germinating crop — use fresh seed (>80% germ).**. Seed/variant rate for main season is **400 g/acre direct-seeded; 5–6 kg bags for nursery**. Treat seed against soil-borne diseases and, where applicable, inoculate with beneficial rhizobia/PSB before sowing for legumes."
+      },
+      {
+        "id": "sowing-planting",
+        "title": "Sowing & Planting",
+        "content": "**Sowing/planting season:** Mid-Feb best (Punjab); nursery end-Jan; transplant end-Feb/Mar. Optimum sowing depth **not deeper than 1.5 cm**, spacing **60 cm × 60 cm both sides of 3–4 m beds**, maintaining a plant population of **≈ 4,000–5,000 hills/ha**. Correct spacing balances canopy (sunlight) and aeration. Depth and timing should follow regional package-of-practice recommendations."
+      },
+      {
+        "id": "water-irrigation",
+        "title": "Water & Irrigation Management",
+        "content": "Irrigation method: **Furrow in beds; avoid watering fruit contact**. Critical stages — Critical: flowering, fruit set, fruit growth; limited water at maturity. Typical frequency/quantity: **9–11 irrigations depending on soil/weather (weekly in summer)**. Do not let the crop suffer at the most sensitive growth phases (critical: flowering, fruit set, fruit growth; limited water at maturity); avoid both drought and waterlogging."
+      },
+      {
+        "id": "nutrients",
+        "title": "Nutrient Management",
+        "content": "Nutrient schedule: **50:25:25 kg N:P₂O₅:K₂O per acre (with 10–15 t FYM)** together with **10–15 t/ha fym 10–15 days before sowing** and micronutrients **b at flowering (3 sprays) improves sweetness/set**. Apply nutrients in splits as per ½–⅓ n basal; rest near vines at early growth for efficient uptake; for legumes the fixed nitrogen reduces external nitrogen requirement."
+      },
+      {
+        "id": "weeds",
+        "title": "Weed Management",
+        "content": "**Early weeds compete ±30 days; canopy closes later. Control follows an integrated approach: **Hoeing + hand weeding 20–25 DAS; mulching; pre-plant glyphosate.**. Weed-free first 30–60 days (critical period) gives maximum yield advantage."
+      },
+      {
+        "id": "pests",
+        "title": "Pest Management",
+        "content": "Major pests: **Red pumpkin beetle (early), fruit fly, caterpillars, aphids.** Integrated Pest Management (IPM): monitor with traps/visual scouting, conserve natural enemies, and apply need-based pesticides at economic threshold levels."
+      },
+      {
+        "id": "diseases",
+        "title": "Disease Management",
+        "content": "Common diseases: **Powdery mildew, downy mildew (avoid water on leaves), mosaic virus, fusarium wilt.** Prevention: disease-free seed/planting material, sanitation, resistant varieties, need-based fungicides/bio-control and balanced irrigation to keep foliage dry."
+      },
+      {
+        "id": "growth-management",
+        "title": "Plant Growth Management",
+        "content": "Plant-growth management includes **stop vine tip for compact growth; remove off-type fruits; dry grass/straw under fruits prevents rot.**. Remove off-types/diseased plants (roguing), avoid over-crowding, and provide support (staking/training) suited to the crop habit."
+      },
+      {
+        "id": "monitoring",
+        "title": "Crop Monitoring",
+        "content": "Monitor periodically: **Fruitfly traps/bait at flowering, mildew leaf signs, fruit-set %, slip-stage readiness.** Record observations stage-wise and act early on pest/disease thresholds rather than after damage becomes visible."
+      },
+      {
+        "id": "harvest-post-harvest",
+        "title": "Harvest & Post-harvest",
+        "content": "Harvest at **'full slip' stage — fruit separates easily; rind netting & aroma**. **Twist-off at full slip; half-slip for distant market**; expected yield about **20–35 t/ha**. Handle produce carefully to avoid bruising; dry to safe moisture and **2–5 °C; short shelf life**."
+      },
+      {
+        "id": "economics-marketing",
+        "title": "Economics & Marketing",
+        "content": "Typical input cost: **₹30,000–45,000/ha**. Prevailing market price **₹15–30/kg**; expected net **₹50,000–90,000/ha (early market premium)**. **Summer markets; nursery-transplant early crop fetches premium**"
+      }
+    ]
+  },
+  {
+    "id": "apple",
+    "slug": "apple",
+    "name": "Apple",
+    "nameHi": "सेब",
+    "emoji": "🍎",
+    "scientificName": "Malus domestica",
+    "family": "Rosaceae",
+    "category": "fruit",
+    "categoryName": "Fruit crop (temperate)",
+    "states": [
+      "Jammu & Kashmir",
+      "Himachal Pradesh",
+      "Uttarakhand",
+      "Arunachal Pradesh"
+    ],
+    "duration": "Perennial — bearing years 5–7 (high density 3–4); 30–50 yr life",
+    "image": null,
+    "conditions": {
+      "n": {
+        "min": 50,
+        "max": 100
+      },
+      "p": {
+        "min": 30,
+        "max": 50
+      },
+      "k": {
+        "min": 60,
+        "max": 100
+      },
+      "temperature": {
+        "min": 10,
+        "max": 25
+      },
+      "humidity": {
+        "min": 55,
+        "max": 70
+      },
+      "ph": {
+        "min": 5.5,
+        "max": 7
+      },
+      "rainfall": {
+        "min": 800,
+        "max": 1400
+      }
+    },
+    "details": [
+      {
+        "id": "crop-basics",
+        "title": "Crop Basics & Plant Biology",
+        "content": "**Apple (सेब)** is a fruit crop (temperate) belonging to the family **Rosaceae** (scientific name *Malus domestica*). It completes its crop cycle in about **Perennial — bearing years 5–7 (high density 3–4); 30–50 yr life**. Growth stages follow the sequence germination → seedling → vegetative growth → reproductive phase (flowering/fruiting) → maturity. Main growing states: **Jammu & Kashmir, Himachal Pradesh, Uttarakhand, Arunachal Pradesh**. Popular varieties/ hybrids: **Red Delicious, Golden Delicious, Royal Delicious, Ambri, Gala (HDP), Fuji, Anna (low chill)**."
+      },
+      {
+        "id": "climate",
+        "title": "Climate Requirements",
+        "content": "**Apple** thrives in a temperate; 800–1,200 chill hours below 7 °C; summer 21–24 °C; frost during bloom risky climate with full sun 6+ hours conditions. Ideal temperature range is **10–25 °C**, relative humidity **55–70%**, and annual rainfall **800–1400 mm**. Extreme conditions (frost, heat waves, hail or waterlogging) at sensitive stages lower yield and quality."
+      },
+      {
+        "id": "soil",
+        "title": "Soil Requirements",
+        "content": "The crop grows best in **deep loamy soils (altitude 1,500–2,700 m), ph 5.5–7.0**. Suitable soil pH ranges from **5.5–7**, electrical conductivity (EC) below **<1.0 dS/m**, and organic matter of about **1.5–2%**. Adequate soil depth, good drainage, and balanced nutrient status of the soil are prerequisites for a healthy stand."
+      },
+      {
+        "id": "land-preparation",
+        "title": "Land Preparation",
+        "content": "Land preparation includes **pits 90×90×90 cm at 4×4 m (hdp 2×3 m); slopes terraced; windbreaks & anti-hail nets where needed.**. A well-tilled but properly levelled seedbed ensures uniform germination and stand establishment; drainage channels protect against waterlogging in heavy soil and during monsoons."
+      },
+      {
+        "id": "seed-planting-material",
+        "title": "Seed & Planting Material",
+        "content": "Use certified material: **Certified nursery budded plants; rootstock-specific spacing.**. Seed/variant rate for main season is **n/a — budded plants on MM-106/MM-111 or seedling (125 plants/ha @ 8×8 m; HDP 1,250+ )**. Treat seed against soil-borne diseases and, where applicable, inoculate with beneficial rhizobia/PSB before sowing for legumes."
+      },
+      {
+        "id": "sowing-planting",
+        "title": "Sowing & Planting",
+        "content": "**Sowing/planting season:** undefined. Optimum sowing depth **Graft union above soil level**, spacing **4–8 m × 2–4 m**, maintaining a plant population of **125–1,666 plants/ha (HDP)**. Correct spacing balances canopy (sunlight) and aeration. Depth and timing should follow regional package-of-practice recommendations."
+      },
+      {
+        "id": "water-irrigation",
+        "title": "Water & Irrigation Management",
+        "content": "Irrigation method: **Drip/basin; critical at fruit swelling**. Critical stages — Pre-bloom, fruit set, cell-division stage (30–40 days after bloom). Typical frequency/quantity: **Water stress reduses quality & return bloom**. Do not let the crop suffer at the most sensitive growth phases (pre-bloom, fruit set, cell-division stage (30–40 days after bloom)); avoid both drought and waterlogging."
+      },
+      {
+        "id": "nutrients",
+        "title": "Nutrient Management",
+        "content": "Nutrient schedule: **400–600 g N + 250 g P₂O₅ + 500–700 g K₂O per tree/yr** together with **15–20 kg fym/tree** and micronutrients **zn (march) & b (bloom) sprays; ca for bitter pit prevention**. Apply nutrients in splits as per two thirds pre-bloom; rest after fruit set for efficient uptake; for legumes the fixed nitrogen reduces external nitrogen requirement."
+      },
+      {
+        "id": "weeds",
+        "title": "Weed Management",
+        "content": "**Orchard floor weeds compete with young trees. Control follows an integrated approach: **Grass inter-rows mown; glyphosate strip spray around trees (protected).**. Weed-free first 30–60 days (critical period) gives maximum yield advantage."
+      },
+      {
+        "id": "pests",
+        "title": "Pest Management",
+        "content": "Major pests: **Codling moth, woolly aphid, San Jose scale, red spider mite, apple sawfly.** Integrated Pest Management (IPM): monitor with traps/visual scouting, conserve natural enemies, and apply need-based pesticides at economic threshold levels."
+      },
+      {
+        "id": "diseases",
+        "title": "Disease Management",
+        "content": "Common diseases: **Apple scab (Venturia), powdery mildew, fire blight, root rot.** Prevention: disease-free seed/planting material, sanitation, resistant varieties, need-based fungicides/bio-control and balanced irrigation to keep foliage dry."
+      },
+      {
+        "id": "growth-management",
+        "title": "Plant Growth Management",
+        "content": "Plant-growth management includes **central-leader training; annual dormant pruning; fruit thinning (hand) to improve size & colour; propping heavy limbs.**. Remove off-types/diseased plants (roguing), avoid over-crowding, and provide support (staking/training) suited to the crop habit."
+      },
+      {
+        "id": "monitoring",
+        "title": "Crop Monitoring",
+        "content": "Monitor periodically: **Chill-hour records, codling moth traps, scab infection alerts (rain), fruit-set %, red mite on leaves.** Record observations stage-wise and act early on pest/disease thresholds rather than after damage becomes visible."
+      },
+      {
+        "id": "harvest-post-harvest",
+        "title": "Harvest & Post-harvest",
+        "content": "Harvest at **starch index test; seeds brown; colour per variety**. **Hand pick (twist up), into padded crates, avoid bruising**; expected yield about **15–25 t/ha (HDP 30–40 t)**. Handle produce carefully to avoid bruising; dry to safe moisture and **Cold store −1 to 1.5 °C with CA (2% O₂, 1% CO₂); 6–8 months**."
+      },
+      {
+        "id": "economics-marketing",
+        "title": "Economics & Marketing",
+        "content": "Typical input cost: **HDP establishment ₹5–8 lakh/ha**. Prevailing market price **₹60–150/kg deluxe grade**; expected net **₹6–12 lakh/ha in peak orchards**. **CA-stored supply through yr; HPMC/AgmarkAid sales**"
+      }
+    ]
+  },
+  {
+    "id": "orange",
+    "slug": "orange",
+    "name": "Orange (Citrus)",
+    "nameHi": "संतरा (नींबू वर्ग)",
+    "emoji": "🍊",
+    "scientificName": "Citrus sinensis / reticulata",
+    "family": "Rutaceae",
+    "category": "fruit",
+    "categoryName": "Fruit crop (citrus)",
+    "states": [
+      "Maharashtra",
+      "Madhya Pradesh",
+      "Assam",
+      "Karnataka",
+      "Punjab (Kinnow)",
+      "West Bengal"
+    ],
+    "duration": "Perennial — bearing years 4–6; crop 2× /yr in humid tropics",
+    "image": null,
+    "conditions": {
+      "n": {
+        "min": 100,
+        "max": 200
+      },
+      "p": {
+        "min": 50,
+        "max": 80
+      },
+      "k": {
+        "min": 100,
+        "max": 200
+      },
+      "temperature": {
+        "min": 20,
+        "max": 35
+      },
+      "humidity": {
+        "min": 60,
+        "max": 85
+      },
+      "ph": {
+        "min": 5.5,
+        "max": 7
+      },
+      "rainfall": {
+        "min": 1000,
+        "max": 2000
+      }
+    },
+    "details": [
+      {
+        "id": "crop-basics",
+        "title": "Crop Basics & Plant Biology",
+        "content": "**Orange (Citrus) (संतरा (नींबू वर्ग))** is a fruit crop (citrus) belonging to the family **Rutaceae** (scientific name *Citrus sinensis / reticulata*). It completes its crop cycle in about **Perennial — bearing years 4–6; crop 2× /yr in humid tropics**. Growth stages follow the sequence germination → seedling → vegetative growth → reproductive phase (flowering/fruiting) → maturity. Main growing states: **Maharashtra, Madhya Pradesh, Assam, Karnataka, Punjab (Kinnow), West Bengal**. Popular varieties/ hybrids: **Nagpur Mandarin, Darjeeling Mandarin, Khasi Mandarin, Kinnow mandarin, Coorg (MC-97)**."
+      },
+      {
+        "id": "climate",
+        "title": "Climate Requirements",
+        "content": "**Orange (Citrus)** thrives in a warm humid; ideal mean 20–32 °C with clear sunshine for quality; high humidity increases disease climate with full sun conditions. Ideal temperature range is **20–35 °C**, relative humidity **60–85%**, and annual rainfall **1000–2000 mm**. Extreme conditions (frost, heat waves, hail or waterlogging) at sensitive stages lower yield and quality."
+      },
+      {
+        "id": "soil",
+        "title": "Soil Requirements",
+        "content": "The crop grows best in **deep loam, ph 5.5–7.5; drainage critical (citrus root rot)**. Suitable soil pH ranges from **5.5–7**, electrical conductivity (EC) below **<1.2 dS/m**, and organic matter of about **1–1.5%**. Adequate soil depth, good drainage, and balanced nutrient status of the soil are prerequisites for a healthy stand."
+      },
+      {
+        "id": "land-preparation",
+        "title": "Land Preparation",
+        "content": "Land preparation includes **pits 60×60×60 cm at 6×6 m spacing; ridge planting in heavy soils to avoid collar rot.**. A well-tilled but properly levelled seedbed ensures uniform germination and stand establishment; drainage channels protect against waterlogging in heavy soil and during monsoons."
+      },
+      {
+        "id": "seed-planting-material",
+        "title": "Seed & Planting Material",
+        "content": "Use certified material: **Disease-free (viroids) certified budded plants; clean rootstocks.**. Seed/variant rate for main season is **n/a — budded/sprouted nursery plants on rough-lemon/Trifoliate stocks (~250/ha)**. Treat seed against soil-borne diseases and, where applicable, inoculate with beneficial rhizobia/PSB before sowing for legumes."
+      },
+      {
+        "id": "sowing-planting",
+        "title": "Sowing & Planting",
+        "content": "**Sowing/planting season:** undefined. Optimum sowing depth **Graft union above soil**, spacing **6 × 6 m (≈ 250 plants/ha)**, maintaining a plant population of **250–400 plants/ha**. Correct spacing balances canopy (sunlight) and aeration. Depth and timing should follow regional package-of-practice recommendations."
+      },
+      {
+        "id": "water-irrigation",
+        "title": "Water & Irrigation Management",
+        "content": "Irrigation method: **Basin/drip for Nagpur kinnow; regular in dry season**. Critical stages — Critical: flowering, fruit set, fruit growth; continuous water. Typical frequency/quantity: **8–14 irrigations (dry zone)**. Do not let the crop suffer at the most sensitive growth phases (critical: flowering, fruit set, fruit growth; continuous water); avoid both drought and waterlogging."
+      },
+      {
+        "id": "nutrients",
+        "title": "Nutrient Management",
+        "content": "Nutrient schedule: **600 g N + 400 g P₂O₅ + 400 g K₂O per tree/yr (bearing, in 3 splits)** together with **20–25 kg fym/tree** and micronutrients **zn, mn, b foliar at flushing; lime sprays for acid soils**. Apply nutrients in splits as per pre-flush ×3 ± monsoon for efficient uptake; for legumes the fixed nitrogen reduces external nitrogen requirement."
+      },
+      {
+        "id": "weeds",
+        "title": "Weed Management",
+        "content": "**Citrus root-zone weed competition; humidity hotspots. Control follows an integrated approach: **Mulching + strip wec; glyphosate on rows; keep basin clean.**. Weed-free first 30–60 days (critical period) gives maximum yield advantage."
+      },
+      {
+        "id": "pests",
+        "title": "Pest Management",
+        "content": "Major pests: **Citrus psylla (greening vector), leafminer, fruit fly, mealy bugs, mites.** Integrated Pest Management (IPM): monitor with traps/visual scouting, conserve natural enemies, and apply need-based pesticides at economic threshold levels."
+      },
+      {
+        "id": "diseases",
+        "title": "Disease Management",
+        "content": "Common diseases: **Citrus greening (Huanglongbing/SADC), Phytophthora root rot & gummosis, tristeza, canker.** Prevention: disease-free seed/planting material, sanitation, resistant varieties, need-based fungicides/bio-control and balanced irrigation to keep foliage dry."
+      },
+      {
+        "id": "growth-management",
+        "title": "Plant Growth Management",
+        "content": "Plant-growth management includes **skirt pruning; remove diseased/overlapping branches; windbreak for fruit drop; avoid over-cropping in young trees.**. Remove off-types/diseased plants (roguing), avoid over-crowding, and provide support (staking/training) suited to the crop habit."
+      },
+      {
+        "id": "monitoring",
+        "title": "Crop Monitoring",
+        "content": "Monitor periodically: **Psylla traps, new flush shoots for greening, yellowed sectors (greening), fruit-set %, fruit fly traps.** Record observations stage-wise and act early on pest/disease thresholds rather than after damage becomes visible."
+      },
+      {
+        "id": "harvest-post-harvest",
+        "title": "Harvest & Post-harvest",
+        "content": "Harvest at **colour break + tss:acid ≥8 for table fruit**. **Clip with shears, cupped into baskets (no stem puncture)**; expected yield about **15–25 t/ha bearing**. Handle produce carefully to avoid bruising; dry to safe moisture and **Waxed & cold stored 7–10 °C; short-term only**."
+      },
+      {
+        "id": "economics-marketing",
+        "title": "Economics & Marketing",
+        "content": "Typical input cost: **Establishment ₹2–3 lakh/ha**. Prevailing market price **₹40–80/kg**; expected net **₹3–6 lakh/ha**. **Mandi + juice processors; Kinnow exports to high-altitude markets**"
+      }
+    ]
+  },
+  {
+    "id": "papaya",
+    "slug": "papaya",
+    "name": "Papaya",
+    "nameHi": "पपीता",
+    "emoji": "🍈",
+    "scientificName": "Carica papaya",
+    "family": "Caricaceae",
+    "category": "fruit",
+    "categoryName": "Fruit crop (tropical)",
+    "states": [
+      "Andhra Pradesh",
+      "Gujarat",
+      "Karnataka",
+      "Maharashtra",
+      "Tamil Nadu",
+      "West Bengal",
+      "Punjab"
+    ],
+    "duration": "8–10 months to first fruit; harvests 10–18 months",
+    "image": null,
+    "conditions": {
+      "n": {
+        "min": 100,
+        "max": 200
+      },
+      "p": {
+        "min": 50,
+        "max": 100
+      },
+      "k": {
+        "min": 150,
+        "max": 250
+      },
+      "temperature": {
+        "min": 22,
+        "max": 32
+      },
+      "humidity": {
+        "min": 60,
+        "max": 85
+      },
+      "ph": {
+        "min": 5.5,
+        "max": 7
+      },
+      "rainfall": {
+        "min": 800,
+        "max": 1500
+      }
+    },
+    "details": [
+      {
+        "id": "crop-basics",
+        "title": "Crop Basics & Plant Biology",
+        "content": "**Papaya (पपीता)** is a fruit crop (tropical) belonging to the family **Caricaceae** (scientific name *Carica papaya*). It completes its crop cycle in about **8–10 months to first fruit; harvests 10–18 months**. Growth stages follow the sequence germination → seedling → vegetative growth → reproductive phase (flowering/fruiting) → maturity. Main growing states: **Andhra Pradesh, Gujarat, Karnataka, Maharashtra, Tamil Nadu, West Bengal, Punjab**. Popular varieties/ hybrids: **Pusa Nanha, Red Lady 786, TNAU Papaya Co-2, Solo . (gynodioecious hybrids)**."
+      },
+      {
+        "id": "climate",
+        "title": "Climate Requirements",
+        "content": "**Papaya** thrives in a tropical; 25–30 °C; frost kills; waterlogging root-kills quickly climate with full sun conditions. Ideal temperature range is **22–32 °C**, relative humidity **60–85%**, and annual rainfall **800–1500 mm**. Extreme conditions (frost, heat waves, hail or waterlogging) at sensitive stages lower yield and quality."
+      },
+      {
+        "id": "soil",
+        "title": "Soil Requirements",
+        "content": "The crop grows best in **light well-drained soils; ph 5.5–7.0; avoids saline/heavy clay**. Suitable soil pH ranges from **5.5–7**, electrical conductivity (EC) below **<1.0 dS/m**, and organic matter of about **1–1.5%**. Adequate soil depth, good drainage, and balanced nutrient status of the soil are prerequisites for a healthy stand."
+      },
+      {
+        "id": "land-preparation",
+        "title": "Land Preparation",
+        "content": "Land preparation includes **pits 45 cm³ at 1.8×1.8 m; plant 1 female: 9–10 male for fruit (or gynodioecious tnau varieties give self-fertile).**. A well-tilled but properly levelled seedbed ensures uniform germination and stand establishment; drainage channels protect against waterlogging in heavy soil and during monsoons."
+      },
+      {
+        "id": "seed-planting-material",
+        "title": "Seed & Planting Material",
+        "content": "Use certified material: **Nursery seedlings ≥15 cm; gynodioecious hybrids preferred (high female ratio).**. Seed/variant rate for main season is **300–400 g/ha (nursery)**. Treat seed against soil-borne diseases and, where applicable, inoculate with beneficial rhizobia/PSB before sowing for legumes."
+      },
+      {
+        "id": "sowing-planting",
+        "title": "Sowing & Planting",
+        "content": "**Sowing/planting season:** undefined. Optimum sowing depth **Set at nursery depth**, spacing **1.8 × 1.8 m (≈ 3,000/ha)**, maintaining a plant population of **≈ 3,000 plants/ha (2,000 female productive)**. Correct spacing balances canopy (sunlight) and aeration. Depth and timing should follow regional package-of-practice recommendations."
+      },
+      {
+        "id": "water-irrigation",
+        "title": "Water & Irrigation Management",
+        "content": "Irrigation method: **Drip recommended; keep collar dry (avoid root rot)**. Critical stages — Flowering to fruit maturity — constant moisture. Typical frequency/quantity: **Weekly in dry season; drip daily**. Do not let the crop suffer at the most sensitive growth phases (flowering to fruit maturity — constant moisture); avoid both drought and waterlogging."
+      },
+      {
+        "id": "nutrients",
+        "title": "Nutrient Management",
+        "content": "Nutrient schedule: **200:100:250 g NPK per plant (split 6–8×/yr) + 20 kg FYM** together with **10 kg fym/plant pre-planting** and micronutrients **b at flowering, zn/mn tropical sprays**. Apply nutrients in splits as per monthly split doses; k boosted at fruit development for efficient uptake; for legumes the fixed nitrogen reduces external nitrogen requirement."
+      },
+      {
+        "id": "weeds",
+        "title": "Weed Management",
+        "content": "**Control keeps collar dry & soil-borne disease low. Control follows an integrated approach: **Mulching (poly/paddy straw) + strip weeding; glyphosate on rows.**. Weed-free first 30–60 days (critical period) gives maximum yield advantage."
+      },
+      {
+        "id": "pests",
+        "title": "Pest Management",
+        "content": "Major pests: **Papaya mealy bug, fruit fly, whitefly, mites, aphids (PRSV vector).** Integrated Pest Management (IPM): monitor with traps/visual scouting, conserve natural enemies, and apply need-based pesticides at economic threshold levels."
+      },
+      {
+        "id": "diseases",
+        "title": "Disease Management",
+        "content": "Common diseases: **Papaya ringspot virus (PRSV), powdery mildew, root rot (Phytophthora), stem rot.** Prevention: disease-free seed/planting material, sanitation, resistant varieties, need-based fungicides/bio-control and balanced irrigation to keep foliage dry."
+      },
+      {
+        "id": "growth-management",
+        "title": "Plant Growth Management",
+        "content": "Plant-growth management includes **remove affected stem for eating; male-tree rouging; support trunks in heavy crops; prsv-resistant varieties mandatory in hot dry zones.**. Remove off-types/diseased plants (roguing), avoid over-crowding, and provide support (staking/training) suited to the crop habit."
+      },
+      {
+        "id": "monitoring",
+        "title": "Crop Monitoring",
+        "content": "Monitor periodically: **Aphid pressure early, ringspot symptoms, fruit fly traps, fruit set & maturity progress.** Record observations stage-wise and act early on pest/disease thresholds rather than after damage becomes visible."
+      },
+      {
+        "id": "harvest-post-harvest",
+        "title": "Harvest & Post-harvest",
+        "content": "Harvest at **fruit color break (1/3 yellow) for distant markets**. **Twist/pick with stalk; mature-green for transport, fully-colour for local**; expected yield about **20–40 kg/plant (≈ 40–75 t/ha)**. Handle produce carefully to avoid bruising; dry to safe moisture and **Papain extraction from latex; fruit cold stored 7 °C 1-2 weeks**."
+      },
+      {
+        "id": "economics-marketing",
+        "title": "Economics & Marketing",
+        "content": "Typical input cost: **₹60,000–1 lakh/ha**. Prevailing market price **₹20–40/kg**; expected net **₹2–4 lakh/ha (papain adds ₹25,000+/ha)**. **Fresh fruit markets + papain (digestive/staking industries)**"
+      }
+    ]
+  },
+  {
+    "id": "coconut",
+    "slug": "coconut",
+    "name": "Coconut",
+    "nameHi": "नारियल",
+    "emoji": "🥥",
+    "scientificName": "Cocos nucifera",
+    "family": "Arecaceae",
+    "category": "fruit",
+    "categoryName": "Plantation / tree crop",
+    "states": [
+      "Kerala",
+      "Tamil Nadu",
+      "Karnataka",
+      "Andhra Pradesh",
+      "Maharashtra",
+      "West Bengal",
+      "Odisha"
+    ],
+    "duration": "Perennial — bears year 5–7 from planting; 60–80 yr life",
+    "image": null,
+    "conditions": {
+      "n": {
+        "min": 100,
+        "max": 200
+      },
+      "p": {
+        "min": 50,
+        "max": 100
+      },
+      "k": {
+        "min": 150,
+        "max": 300
+      },
+      "temperature": {
+        "min": 25,
+        "max": 36
+      },
+      "humidity": {
+        "min": 70,
+        "max": 90
+      },
+      "ph": {
+        "min": 5.2,
+        "max": 8
+      },
+      "rainfall": {
+        "min": 1300,
+        "max": 3000
+      }
+    },
+    "details": [
+      {
+        "id": "crop-basics",
+        "title": "Crop Basics & Plant Biology",
+        "content": "**Coconut (नारियल)** is a plantation / tree crop belonging to the family **Arecaceae** (scientific name *Cocos nucifera*). It completes its crop cycle in about **Perennial — bears year 5–7 from planting; 60–80 yr life**. Growth stages follow the sequence germination → seedling → vegetative growth → reproductive phase (flowering/fruiting) → maturity. Main growing states: **Kerala, Tamil Nadu, Karnataka, Andhra Pradesh, Maharashtra, West Bengal, Odisha**. Popular varieties/ hybrids: **West Coast Tall, Chowghat Orange Dwarf, Malayan Yellow Dwarf, Dwarf×Tall hybrids (TxD)**."
+      },
+      {
+        "id": "climate",
+        "title": "Climate Requirements",
+        "content": "**Coconut** thrives in a warm humid coastal tropics; 22–36 °C; annual rainfall >1,300 mm; needs moisture without water-logging climate with full sun conditions. Ideal temperature range is **25–36 °C**, relative humidity **70–90%**, and annual rainfall **1300–3000 mm**. Extreme conditions (frost, heat waves, hail or waterlogging) at sensitive stages lower yield and quality."
+      },
+      {
+        "id": "soil",
+        "title": "Soil Requirements",
+        "content": "The crop grows best in **light sandy/red laterite coastal soils, ph 5.2–8.0, well-drained**. Suitable soil pH ranges from **5.2–8**, electrical conductivity (EC) below **0.5–2.5 dS/m**, and organic matter of about **0.8–1.2%**. Adequate soil depth, good drainage, and balanced nutrient status of the soil are prerequisites for a healthy stand."
+      },
+      {
+        "id": "land-preparation",
+        "title": "Land Preparation",
+        "content": "Land preparation includes **pit 90×90×90 at 7.5–9 m spacing; coastal & arecanut belt planting; mixed cropping/legume cultivation between palms.**. A well-tilled but properly levelled seedbed ensures uniform germination and stand establishment; drainage channels protect against waterlogging in heavy soil and during monsoons."
+      },
+      {
+        "id": "seed-planting-material",
+        "title": "Seed & Planting Material",
+        "content": "Use certified material: **High-yielding nursery seedlings (10–14 months) from elite mother palms.**. Seed/variant rate for main season is **n/a — 150–175 seedlings/ha**. Treat seed against soil-borne diseases and, where applicable, inoculate with beneficial rhizobia/PSB before sowing for legumes."
+      },
+      {
+        "id": "sowing-planting",
+        "title": "Sowing & Planting",
+        "content": "**Sowing/planting season:** undefined. Optimum sowing depth **Plant seedling ball slightly above soil (collar exposed)**, spacing **7.5–9 m triangular (≈ 150–180 palms/ha)**, maintaining a plant population of **150–180 palms/ha**. Correct spacing balances canopy (sunlight) and aeration. Depth and timing should follow regional package-of-practice recommendations."
+      },
+      {
+        "id": "water-irrigation",
+        "title": "Water & Irrigation Management",
+        "content": "Irrigation method: **Basin/ring irrigation; drip (150–200 l/tree/week)**. Critical stages — Regular moisture year-round critical for nut set; avoid flooding. Typical frequency/quantity: **Irrigate Apr–May; summer drag**. Do not let the crop suffer at the most sensitive growth phases (regular moisture year-round critical for nut set; avoid flooding); avoid both drought and waterlogging."
+      },
+      {
+        "id": "nutrients",
+        "title": "Nutrient Management",
+        "content": "Nutrient schedule: **500 g N + 320 g P₂O₅ + 1,200 g K₂O per palm/yr (+ Mg 500 g, + borax 50 g)** together with **25–50 kg fym + coconut husk/shell or coir pith mulch** and micronutrients **mg on laterite, b in many west-coast palms**. Apply nutrients in splits as per 2 splits/yr (pre- & post-monsoon) for efficient uptake; for legumes the fixed nitrogen reduces external nitrogen requirement."
+      },
+      {
+        "id": "weeds",
+        "title": "Weed Management",
+        "content": "**Keep palm basins weed-free; legume intercrop fixes N. Control follows an integrated approach: **Hand/mulch under tree; glyphosate spot on borders.**. Weed-free first 30–60 days (critical period) gives maximum yield advantage."
+      },
+      {
+        "id": "pests",
+        "title": "Pest Management",
+        "content": "Major pests: **Rhinoceros beetle, red palm weevil, Eriophyid mite, coreid bug (sudden wilt), nut borer.** Integrated Pest Management (IPM): monitor with traps/visual scouting, conserve natural enemies, and apply need-based pesticides at economic threshold levels."
+      },
+      {
+        "id": "diseases",
+        "title": "Disease Management",
+        "content": "Common diseases: **Root (wilt), nut fall (Kerala), leaf blight, bud rot (Phytophthora), Ganoderma (stem bleeding).** Prevention: disease-free seed/planting material, sanitation, resistant varieties, need-based fungicides/bio-control and balanced irrigation to keep foliage dry."
+      },
+      {
+        "id": "growth-management",
+        "title": "Plant Growth Management",
+        "content": "Plant-growth management includes **remove dried leaves/flowers; clean infested fronds; front for weevil with pheromone + trunk healing.**. Remove off-types/diseased plants (roguing), avoid over-crowding, and provide support (staking/training) suited to the crop habit."
+      },
+      {
+        "id": "monitoring",
+        "title": "Crop Monitoring",
+        "content": "Monitor periodically: **Crown damage (rhinoceros), weevil puncture wounds, mite suppression of nuts, collar heal watch.** Record observations stage-wise and act early on pest/disease thresholds rather than after damage becomes visible."
+      },
+      {
+        "id": "harvest-post-harvest",
+        "title": "Harvest & Post-harvest",
+        "content": "Harvest at **nuts 11–12 months to maturity; ripe harvest for copra/seed**. **Climber/pole; husk beat & de-husk**; expected yield about **60–120 nuts/palm/yr (TxD 130+)**. Handle produce carefully to avoid bruising; dry to safe moisture and **Dehusked nuts cooler; copra dried to 6% MC**."
+      },
+      {
+        "id": "economics-marketing",
+        "title": "Economics & Marketing",
+        "content": "Typical input cost: **Establishment ₹2–3 lakh/ha**. Prevailing market price **₹25–45/nut; copra ₹110–150/kg**; expected net **₹3–6 lakh/ha mature plantation**. **Oil mills, coir, tender-nut urban markets**"
+      }
+    ]
+  },
+  {
+    "id": "cotton",
+    "slug": "cotton",
+    "name": "Cotton",
+    "nameHi": "कपास",
+    "emoji": "🌿",
+    "scientificName": "Gossypium hirsutum / arboreum",
+    "family": "Malvaceae",
+    "category": "fiber",
+    "categoryName": "Fibre / cash crop",
+    "states": [
+      "Gujarat",
+      "Maharashtra",
+      "Punjab",
+      "Telangana",
+      "Madhya Pradesh",
+      "Haryana",
+      "Karnataka"
+    ],
+    "duration": "150–200 days",
+    "image": null,
+    "conditions": {
+      "n": {
+        "min": 60,
+        "max": 120
+      },
+      "p": {
+        "min": 30,
+        "max": 60
+      },
+      "k": {
+        "min": 30,
+        "max": 60
+      },
+      "temperature": {
+        "min": 22,
+        "max": 35
+      },
+      "humidity": {
+        "min": 50,
+        "max": 70
+      },
+      "ph": {
+        "min": 6,
+        "max": 8
+      },
+      "rainfall": {
+        "min": 700,
+        "max": 1500
+      }
+    },
+    "details": [
+      {
+        "id": "crop-basics",
+        "title": "Crop Basics & Plant Biology",
+        "content": "**Cotton (कपास)** is a fibre / cash crop belonging to the family **Malvaceae** (scientific name *Gossypium hirsutum / arboreum*). It completes its crop cycle in about **150–200 days**. Growth stages follow the sequence germination → seedling → vegetative growth → reproductive phase (flowering/fruiting) → maturity. Main growing states: **Gujarat, Maharashtra, Punjab, Telangana, Madhya Pradesh, Haryana, Karnataka**. Popular varieties/ hybrids: **Bt hybrids (RCH-2, Bunny Bt), Suvin, Ankur 6511, MCU-5, Phule Dhumketu; Desi (arboreum) for resistance**."
+      },
+      {
+        "id": "climate",
+        "title": "Climate Requirements",
+        "content": "**Cotton** thrives in a warm sunny kharif; 25–35 °C with long growing season; avoids excess rain (pink bollworm) & high humidity climate with full sun conditions. Ideal temperature range is **22–35 °C**, relative humidity **50–70%**, and annual rainfall **700–1500 mm**. Extreme conditions (frost, heat waves, hail or waterlogging) at sensitive stages lower yield and quality."
+      },
+      {
+        "id": "soil",
+        "title": "Soil Requirements",
+        "content": "The crop grows best in **deep black (regur) or medium loam, high water-holding, ph 6–8**. Suitable soil pH ranges from **6–8**, electrical conductivity (EC) below **up to 2.0 dS/m**, and organic matter of about **0.8–1.2%**. Adequate soil depth, good drainage, and balanced nutrient status of the soil are prerequisites for a healthy stand."
+      },
+      {
+        "id": "land-preparation",
+        "title": "Land Preparation",
+        "content": "Land preparation includes **deep plough once; ridge & furrow (60–75 cm) for irrigation/drainage; level fields for uniform stand.**. A well-tilled but properly levelled seedbed ensures uniform germination and stand establishment; drainage channels protect against waterlogging in heavy soil and during monsoons."
+      },
+      {
+        "id": "seed-planting-material",
+        "title": "Seed & Planting Material",
+        "content": "Use certified material: **Certified Bt hybrid seed (legal tags); treat for seedling diseases; quality lint length/fineness matters.**. Seed/variant rate for main season is **3–4 kg/ha (Bt hybrid single-seed); 10–15 kg desi**. Treat seed against soil-borne diseases and, where applicable, inoculate with beneficial rhizobia/PSB before sowing for legumes."
+      },
+      {
+        "id": "sowing-planting",
+        "title": "Sowing & Planting",
+        "content": "**Sowing/planting season:** Kharif: May–Jun in north (before monsoon); Jun–Jul in central India. Optimum sowing depth **4–6 cm**, spacing **60–75 cm × 60 cm (Bt hybrids ~35,000–55,000 plants/ha)**, maintaining a plant population of **30,000–55,000 plants/ha**. Correct spacing balances canopy (sunlight) and aeration. Depth and timing should follow regional package-of-practice recommendations."
+      },
+      {
+        "id": "water-irrigation",
+        "title": "Water & Irrigation Management",
+        "content": "Irrigation method: **Furrow irrigation; drip for hybrids**. Critical stages — Critical: squaring, flowering, boll development; avoid stress at flowering. Typical frequency/quantity: **4–8 irrigations (north irrigated)**. Do not let the crop suffer at the most sensitive growth phases (critical: squaring, flowering, boll development; avoid stress at flowering); avoid both drought and waterlogging."
+      },
+      {
+        "id": "nutrients",
+        "title": "Nutrient Management",
+        "content": "Nutrient schedule: **150:60:60 kg N:P₂O₅:K₂O per ha (hybrid + rains)** together with **5–10 t fym/ha** and micronutrients **mg (deficiency rampant), s, micro in northern belt**. Apply nutrients in splits as per n 3 splits; p/k basal for efficient uptake; for legumes the fixed nitrogen reduces external nitrogen requirement."
+      },
+      {
+        "id": "weeds",
+        "title": "Weed Management",
+        "content": "**Cyperus, Echinochloa, Trianthema, Digera — critical first 60 days. Control follows an integrated approach: **Pre-emergence pendimethalin/diuron 1.0 kg + hoeing at 4 weeks; glyphosate in inter-rows (Roundup-ready in some) .**. Weed-free first 30–60 days (critical period) gives maximum yield advantage."
+      },
+      {
+        "id": "pests",
+        "title": "Pest Management",
+        "content": "Major pests: **Pink bollworm (Pectinophora), American bollworm, jassids, whitefly, thrip, mealy bug, red cotton bug.** Integrated Pest Management (IPM): monitor with traps/visual scouting, conserve natural enemies, and apply need-based pesticides at economic threshold levels."
+      },
+      {
+        "id": "diseases",
+        "title": "Disease Management",
+        "content": "Common diseases: **Fusarium & Verticillium wilt, bacterial blight (blackarm), root rot, grey mildew (late).** Prevention: disease-free seed/planting material, sanitation, resistant varieties, need-based fungicides/bio-control and balanced irrigation to keep foliage dry."
+      },
+      {
+        "id": "growth-management",
+        "title": "Plant Growth Management",
+        "content": "Plant-growth management includes **package: correct bt hybrids; close mesh pheromone traps for pbw; rogging diseased plants; avoid late crop residue retention (pbw survival).**. Remove off-types/diseased plants (roguing), avoid over-crowding, and provide support (staking/training) suited to the crop habit."
+      },
+      {
+        "id": "monitoring",
+        "title": "Crop Monitoring",
+        "content": "Monitor periodically: **Pheromone trap counts (PBW>8 moths/night), square & flower damage %, jassid leaf-curl, whitefly in dry heat.** Record observations stage-wise and act early on pest/disease thresholds rather than after damage becomes visible."
+      },
+      {
+        "id": "harvest-post-harvest",
+        "title": "Harvest & Post-harvest",
+        "content": "Harvest at **bolls opening 55–60% full; kapas with lint at light brown**. **Hand pick kapas (2–3 pickings) at open boll; sun-dry**; expected yield about **8–12 q/ha kapas (Bt), 20–25 q rainfed less**. Handle produce carefully to avoid bruising; dry to safe moisture and **Kapas at ≤9% moisture in clean bags; ginning separates lint:seed**."
+      },
+      {
+        "id": "economics-marketing",
+        "title": "Economics & Marketing",
+        "content": "Typical input cost: **₹70,000–1.1 lakh/ha (Bt seed + inputs)**. Prevailing market price **₹6,000–9,000/q kapas**; expected net **₹40,000–90,000/ha in good boll year**. **Ginning mills → spinning; MSP & multi-national ginner demand**"
+      }
+    ]
+  },
+  {
+    "id": "jute",
+    "slug": "jute",
+    "name": "Jute",
+    "nameHi": "पटसन (जूट)",
+    "emoji": "🧶",
+    "scientificName": "Corchorus capsularis / olitorius",
+    "family": "Malvaceae (Tiliaceae)",
+    "category": "fiber",
+    "categoryName": "Fibre / cash crop",
+    "states": [
+      "West Bengal",
+      "Assam",
+      "Bihar",
+      "Odisha",
+      "Meghalaya"
+    ],
+    "duration": "100–120 days",
+    "image": null,
+    "conditions": {
+      "n": {
+        "min": 40,
+        "max": 80
+      },
+      "p": {
+        "min": 25,
+        "max": 45
+      },
+      "k": {
+        "min": 40,
+        "max": 80
+      },
+      "temperature": {
+        "min": 24,
+        "max": 35
+      },
+      "humidity": {
+        "min": 70,
+        "max": 90
+      },
+      "ph": {
+        "min": 5,
+        "max": 7.5
+      },
+      "rainfall": {
+        "min": 1500,
+        "max": 2500
+      }
+    },
+    "details": [
+      {
+        "id": "crop-basics",
+        "title": "Crop Basics & Plant Biology",
+        "content": "**Jute (पटसन (जूट))** is a fibre / cash crop belonging to the family **Malvaceae (Tiliaceae)** (scientific name *Corchorus capsularis / olitorius*). It completes its crop cycle in about **100–120 days**. Growth stages follow the sequence germination → seedling → vegetative growth → reproductive phase (flowering/fruiting) → maturity. Main growing states: **West Bengal, Assam, Bihar, Odisha, Meghalaya**. Popular varieties/ hybrids: **JRC 212 (capsularis), JRO 524, BINA-4, C-141 (olitorius)**."
+      },
+      {
+        "id": "climate",
+        "title": "Climate Requirements",
+        "content": "**Jute** thrives in a hot humid monsoon; 24–35 °C with 1,500–2,500 mm rain; high humidity ideal for fibre climate with full sun conditions. Ideal temperature range is **24–35 °C**, relative humidity **70–90%**, and annual rainfall **1500–2500 mm**. Extreme conditions (frost, heat waves, hail or waterlogging) at sensitive stages lower yield and quality."
+      },
+      {
+        "id": "soil",
+        "title": "Soil Requirements",
+        "content": "The crop grows best in **alluvial loam (ganges delta), new flood-plain soils best; ph 5.0–7.5**. Suitable soil pH ranges from **5–7.5**, electrical conductivity (EC) below **<1.0 dS/m**, and organic matter of about **1–1.5%**. Adequate soil depth, good drainage, and balanced nutrient status of the soil are prerequisites for a healthy stand."
+      },
+      {
+        "id": "land-preparation",
+        "title": "Land Preparation",
+        "content": "Land preparation includes **flat or bed preparation; fine tilt for small seed; drainage maintained for excess monsoon water.**. A well-tilled but properly levelled seedbed ensures uniform germination and stand establishment; drainage channels protect against waterlogging in heavy soil and during monsoons."
+      },
+      {
+        "id": "seed-planting-material",
+        "title": "Seed & Planting Material",
+        "content": "Use certified material: **Certified seed; grow olitorius vs capsularis by ecotype; seed treatment for seedling blight.**. Seed/variant rate for main season is **8–10 kg/ha**. Treat seed against soil-borne diseases and, where applicable, inoculate with beneficial rhizobia/PSB before sowing for legumes."
+      },
+      {
+        "id": "sowing-planting",
+        "title": "Sowing & Planting",
+        "content": "**Sowing/planting season:** Mar–Apr (pre-monsoon) in West Bengal/Punjab; Jun for south. Optimum sowing depth **1–2 cm (fine seed)**, spacing **20 cm rows × 5–6 cm (thinning)**, maintaining a plant population of **≈ 6–8 lakh plants/ha**. Correct spacing balances canopy (sunlight) and aeration. Depth and timing should follow regional package-of-practice recommendations."
+      },
+      {
+        "id": "water-irrigation",
+        "title": "Water & Irrigation Management",
+        "content": "Irrigation method: **Pre-monsoon life-saving irrigation; stand-by at sowing**. Critical stages — Critical at germination & 45 days; excess water causes waterlogging rot. Typical frequency/quantity: **1–3 irrigations pre-monsoon**. Do not let the crop suffer at the most sensitive growth phases (critical at germination & 45 days; excess water causes waterlogging rot); avoid both drought and waterlogging."
+      },
+      {
+        "id": "nutrients",
+        "title": "Nutrient Management",
+        "content": "Nutrient schedule: **60:30:40 kg N:P₂O₅:K₂O per ha** together with **fym 5–10 t/ha + green manuring (dhaincha) before jute for n** and micronutrients **b on deficient alluvial; k promotes fibre quality**. Apply nutrients in splits as per n 2 splits: sowing & peg stage for efficient uptake; for legumes the fixed nitrogen reduces external nitrogen requirement."
+      },
+      {
+        "id": "weeds",
+        "title": "Weed Management",
+        "content": "**Cyperus, Echinochloa, Digitaria in early phase. Control follows an integrated approach: **Hand/hoeing at 4th week + interculture; stale bed for sedge; no major late weeds.**. Weed-free first 30–60 days (critical period) gives maximum yield advantage."
+      },
+      {
+        "id": "pests",
+        "title": "Pest Management",
+        "content": "Major pests: **Yellow mite, semilooper, jute hairy caterpillar, stem weevil, aphids.** Integrated Pest Management (IPM): monitor with traps/visual scouting, conserve natural enemies, and apply need-based pesticides at economic threshold levels."
+      },
+      {
+        "id": "diseases",
+        "title": "Disease Management",
+        "content": "Common diseases: **Seedling blight/Collar rot (Macrophomina), stem rot, leaf mosaic.** Prevention: disease-free seed/planting material, sanitation, resistant varieties, need-based fungicides/bio-control and balanced irrigation to keep foliage dry."
+      },
+      {
+        "id": "growth-management",
+        "title": "Plant Growth Management",
+        "content": "Plant-growth management includes **thin to 6 cm plant-to-plant; top (decapitate) at 60 cm height if flowering early to extend vegetative fibre growth.**. Remove off-types/diseased plants (roguing), avoid over-crowding, and provide support (staking/training) suited to the crop habit."
+      },
+      {
+        "id": "monitoring",
+        "title": "Crop Monitoring",
+        "content": "Monitor periodically: **Pest scouting weekly, stem thickness/height progress, mosaic leaf yellowing (rougue), waterlogging watch.** Record observations stage-wise and act early on pest/disease thresholds rather than after damage becomes visible."
+      },
+      {
+        "id": "harvest-post-harvest",
+        "title": "Harvest & Post-harvest",
+        "content": "Harvest at **at 50% flowering (approx 100–130 days) for fibre**. **Cut at ground level, tie sheaves, ret (steep) in water 12–20 days, strip fibre**; expected yield about **25–35 q/ha fibre**. Handle produce carefully to avoid bruising; dry to safe moisture and **Clean, dried fibre bundled for market**."
+      },
+      {
+        "id": "economics-marketing",
+        "title": "Economics & Marketing",
+        "content": "Typical input cost: **₹40,000–60,000/ha**. Prevailing market price **₹45,000–60,000/q fibre (mandi)**; expected net **₹60,000–1 lakh/ha**. **Burlap (gunny) mills, eco-fibre (fashion) growing; MSP in place**"
+      }
+    ]
+  },
+  {
+    "id": "coffee",
+    "slug": "coffee",
+    "name": "Coffee",
+    "nameHi": "कॉफ़ी",
+    "emoji": "☕",
+    "scientificName": "Coffea arabica / canephora (robusta)",
+    "family": "Rubiaceae",
+    "category": "plant",
+    "categoryName": "Plantation beverage crop",
+    "states": [
+      "Karnataka",
+      "Kerala",
+      "Tamil Nadu (Nilgiris)",
+      "Andhra Pradesh (Araku)",
+      "Odisha"
+    ],
+    "duration": "Perennial — bearings years 3–4; 30–40 yr",
+    "image": null,
+    "conditions": {
+      "n": {
+        "min": 100,
+        "max": 150
+      },
+      "p": {
+        "min": 40,
+        "max": 60
+      },
+      "k": {
+        "min": 80,
+        "max": 120
+      },
+      "temperature": {
+        "min": 15,
+        "max": 28
+      },
+      "humidity": {
+        "min": 70,
+        "max": 90
+      },
+      "ph": {
+        "min": 4.5,
+        "max": 6.5
+      },
+      "rainfall": {
+        "min": 1200,
+        "max": 2500
+      }
+    },
+    "details": [
+      {
+        "id": "crop-basics",
+        "title": "Crop Basics & Plant Biology",
+        "content": "**Coffee (कॉफ़ी)** is a plantation beverage crop belonging to the family **Rubiaceae** (scientific name *Coffea arabica / canephora (robusta)*). It completes its crop cycle in about **Perennial — bearings years 3–4; 30–40 yr**. Growth stages follow the sequence germination → seedling → vegetative growth → reproductive phase (flowering/fruiting) → maturity. Main growing states: **Karnataka, Kerala, Tamil Nadu (Nilgiris), Andhra Pradesh (Araku), Odisha**. Popular varieties/ hybrids: **Arabica: S.795, S.9, Chandragiri, SLN-9; Robusta: S.274, CxR; hybrids**."
+      },
+      {
+        "id": "climate",
+        "title": "Climate Requirements",
+        "content": "**Coffee** thrives in a tropical highlands; arabica 15–24 °C, robusta 22–28 °C; well-distributed rainfall 1,200–2,500 mm climate with filtered shade 30–50% (silver oak / shade trees); heavy sun scorches conditions. Ideal temperature range is **15–28 °C**, relative humidity **70–90%**, and annual rainfall **1200–2500 mm**. Extreme conditions (frost, heat waves, hail or waterlogging) at sensitive stages lower yield and quality."
+      },
+      {
+        "id": "soil",
+        "title": "Soil Requirements",
+        "content": "The crop grows best in **deep, friable, slightly acidic (ph 4.5–6.5) iron-rich laterite loams**. Suitable soil pH ranges from **4.5–6.5**, electrical conductivity (EC) below **<1.0 dS/m**, and organic matter of about **1.5–2.5%**. Adequate soil depth, good drainage, and balanced nutrient status of the soil are prerequisites for a healthy stand."
+      },
+      {
+        "id": "land-preparation",
+        "title": "Land Preparation",
+        "content": "Land preparation includes **terrace on slopes (1–2% grade outward); contour planting 2.5×2.5 m; shade-tree belt before planting crop.**. A well-tilled but properly levelled seedbed ensures uniform germination and stand establishment; drainage channels protect against waterlogging in heavy soil and during monsoons."
+      },
+      {
+        "id": "seed-planting-material",
+        "title": "Seed & Planting Material",
+        "content": "Use certified material: **Certified bean seed/cuttings; arabica from fresh parchment; robusta from healthy clones.**. Seed/variant rate for main season is **n/a — 1,600–2,000 plants/ha (monocrop), 1,200 under shade**. Treat seed against soil-borne diseases and, where applicable, inoculate with beneficial rhizobia/PSB before sowing for legumes."
+      },
+      {
+        "id": "sowing-planting",
+        "title": "Sowing & Planting",
+        "content": "**Sowing/planting season:** undefined. Optimum sowing depth **Set at one node above soil in pits**, spacing **2.5 × 2.5 m under 9 × 9 m shade grid**, maintaining a plant population of **1,200–2,000 plants/ha**. Correct spacing balances canopy (sunlight) and aeration. Depth and timing should follow regional package-of-practice recommendations."
+      },
+      {
+        "id": "water-irrigation",
+        "title": "Water & Irrigation Management",
+        "content": "Irrigation method: **Rainfed under shade; drip later addition on plant setback**. Critical stages — Critical: blossom showers (Mar–Apr) & berry setting (Apr–May). Typical frequency/quantity: **0–2 light nfluence irrigations**. Do not let the crop suffer at the most sensitive growth phases (critical: blossom showers (mar–apr) & berry setting (apr–may)); avoid both drought and waterlogging."
+      },
+      {
+        "id": "nutrients",
+        "title": "Nutrient Management",
+        "content": "Nutrient schedule: **150:60:60 kg N:P₂O₅:K₂O per ha incl. organic cake supplements** together with **10 kg fym/plant + coffee husk compost + green manures** and micronutrients **zn, b on high altitude; lime/amendment for very acid**. Apply nutrients in splits as per 3 splits jan, may, sep for efficient uptake; for legumes the fixed nitrogen reduces external nitrogen requirement."
+      },
+      {
+        "id": "weeds",
+        "title": "Weed Management",
+        "content": "**Annual + perennial weeds harbour bugs. Control follows an integrated approach: **3 mechanical weedings Apr–Oct + mulching; glyphosate for perennial weeds (sheltered).**. Weed-free first 30–60 days (critical period) gives maximum yield advantage."
+      },
+      {
+        "id": "pests",
+        "title": "Pest Management",
+        "content": "Major pests: **Coffee berry borer (Hypothenemus), white stem borer (arabica), mealy bugs, shot hole borer, mites.** Integrated Pest Management (IPM): monitor with traps/visual scouting, conserve natural enemies, and apply need-based pesticides at economic threshold levels."
+      },
+      {
+        "id": "diseases",
+        "title": "Disease Management",
+        "content": "Common diseases: **Coffee leaf rust (Hemileia, arabica), black rot, root diseases, berry blight; robusta resistant to rust.** Prevention: disease-free seed/planting material, sanitation, resistant varieties, need-based fungicides/bio-control and balanced irrigation to keep foliage dry."
+      },
+      {
+        "id": "growth-management",
+        "title": "Plant Growth Management",
+        "content": "Plant-growth management includes **shade management (silver oak pollarding); pruning crooked bearers; borer control & timely harvest; two-peak monosson.**. Remove off-types/diseased plants (roguing), avoid over-crowding, and provide support (staking/training) suited to the crop habit."
+      },
+      {
+        "id": "monitoring",
+        "title": "Crop Monitoring",
+        "content": "Monitor periodically: **Borer beetle galleries on cherries, rust leaf spots on lower canopy, mist-damps at flowering, berry drop counting.** Record observations stage-wise and act early on pest/disease thresholds rather than after damage becomes visible."
+      },
+      {
+        "id": "harvest-post-harvest",
+        "title": "Harvest & Post-harvest",
+        "content": "Harvest at **cherries turn red (5–7 months arabica); selective picking at intervals**. **Hand pick red cherries; wet method for parchment; sun/polisher drying**; expected yield about **Arabica 800–1,200 kg/ha green; robusta 1,200–2,000 kg/ha**. Handle produce carefully to avoid bruising; dry to safe moisture and **Green beans grade & export; store at 10–12% MC, cool dry godown**."
+      },
+      {
+        "id": "economics-marketing",
+        "title": "Economics & Marketing",
+        "content": "Typical input cost: **Establishment ₹4–6 lakh/ha (incl. shade)**. Prevailing market price **₹250–400/kg green (arabica premium)**; expected net **₹2–4 lakh/ha mature**. **Coffee Board auction; exports to EU/West; artisanal roasters growing**"
+      }
+    ]
+  }
+]

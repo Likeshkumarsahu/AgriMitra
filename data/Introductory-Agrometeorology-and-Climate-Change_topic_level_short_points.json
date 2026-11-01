@@ -1,0 +1,2031 @@
+{
+  "title": "Introductory Agrometeorology and Climate Change — Topic-Level Short Points",
+  "source_file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+  "source_pages": 60,
+  "format_version": "topic-level-short-points-v1",
+  "extraction_style": "Deep extraction with short, separated points; semantic topic grouping; source terminology, formulas, classifications, numerical values, crop examples and procedures preserved; no page-by-page fragmentation.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Meaning and Scope of Agricultural Meteorology; Earth Atmosphere and Weather Variables",
+      "pages": "4–9",
+      "topic_count": 6
+    },
+    {
+      "chapter": 2,
+      "title": "Atmospheric Pressure and Wind",
+      "pages": "10–18",
+      "topic_count": 6
+    },
+    {
+      "chapter": 3,
+      "title": "Solar Radiation and Radiation Balance",
+      "pages": "19–30",
+      "topic_count": 7
+    },
+    {
+      "chapter": 4,
+      "title": "Atmospheric Temperature and Energy Balance",
+      "pages": "31–42",
+      "topic_count": 9
+    },
+    {
+      "chapter": 5,
+      "title": "Atmospheric Humidity and Condensation",
+      "pages": "43–53",
+      "topic_count": 9
+    },
+    {
+      "chapter": 6,
+      "title": "Weather Forecasting and Climate Change",
+      "pages": "54–59",
+      "topic_count": 8
+    }
+  ],
+  "topics": [
+    {
+      "slug": "agricultural-meteorology",
+      "title": "Agricultural Meteorology",
+      "category": "chapter-1",
+      "definition": "Applied meteorology dealing with crop and animal responses to the physical environment.",
+      "sections": [
+        {
+          "heading": "Meaning",
+          "type": "points",
+          "content": [
+            "Studies physical atmospheric processes producing weather in relation to agricultural production.",
+            "Includes meteorological, climatological and hydrological conditions significant to agriculture.",
+            "Focuses on interactions between environmental conditions and agricultural production."
+          ]
+        },
+        {
+          "heading": "Scope",
+          "type": "points",
+          "content": [
+            "Study climatic resources for effective production.",
+            "Quantify favourable weather normals for farm operations.",
+            "Develop crop/animal-weather relationships for productivity estimation.",
+            "Study weather–crop–pest and disease relationships.",
+            "Modify microclimate to increase agricultural productivity.",
+            "Delineate agro-ecological zones for efficient resource use and technology transfer.",
+            "Prepare crop-weather diagrams and crop-weather calendars.",
+            "Develop crop/animal growth simulation models.",
+            "Determine and monitor drought for drought management.",
+            "Provide value-added weather-based agro-advisories in real time."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "4"
+      },
+      "related": [
+        "weather-and-climate",
+        "weather-elements",
+        "agroclimatic-applications"
+      ]
+    },
+    {
+      "slug": "weather-and-climate",
+      "title": "Weather and Climate",
+      "category": "chapter-1",
+      "definition": "Weather is the short-term state of the atmosphere; climate describes longer-term average atmospheric conditions.",
+      "sections": [
+        {
+          "heading": "Weather",
+          "type": "points",
+          "content": [
+            "State of the atmosphere at a specific place and time.",
+            "Includes temperature, moisture, wind velocity and barometric pressure.",
+            "Usually concerns day-to-day changes over minutes to weeks."
+          ]
+        },
+        {
+          "heading": "Climate",
+          "type": "points",
+          "content": [
+            "Weather averaged over a long period and large area.",
+            "The source uses a 30-year period for climate normals.",
+            "Climate system components: atmosphere, hydrosphere, cryosphere, land surface and biosphere."
+          ]
+        },
+        {
+          "heading": "Comparison",
+          "type": "points",
+          "content": [
+            "Weather is studied in meteorology.",
+            "Climate is studied in climatology.",
+            "Weather uses real-time atmospheric measurements.",
+            "Climate uses aggregated weather statistics over long periods."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "4–5"
+      },
+      "related": [
+        "agricultural-meteorology",
+        "weather-elements",
+        "climatic-normal"
+      ]
+    },
+    {
+      "slug": "weather-elements",
+      "title": "Weather Variables and Elements",
+      "category": "chapter-1",
+      "definition": "The major weather elements used to describe weather and climate are temperature, pressure, wind, humidity and rain.",
+      "sections": [
+        {
+          "heading": "Major elements",
+          "type": "points",
+          "content": [
+            "Temperature indicates how hot or cold the atmosphere is.",
+            "Humidity is the amount of water vapour in the atmosphere.",
+            "Precipitation results from condensation processes and includes rain, snow, hail, sleet, drizzle, fog and mist.",
+            "Atmospheric pressure is the weight of air resting on the Earth's surface.",
+            "Wind is movement of air masses, especially near the Earth's surface."
+          ]
+        },
+        {
+          "heading": "Agricultural relevance",
+          "type": "points",
+          "content": [
+            "These elements provide the basis for weather forecasting.",
+            "Long-term analysis of the same elements supports climatology."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "5–6"
+      },
+      "related": [
+        "agricultural-meteorology",
+        "weather-and-climate"
+      ]
+    },
+    {
+      "slug": "earth-atmosphere-composition",
+      "title": "Earth's Atmosphere: Composition",
+      "category": "chapter-1",
+      "definition": "The atmosphere is a thick gaseous envelope surrounding Earth and held by gravitational force.",
+      "sections": [
+        {
+          "heading": "Gas composition",
+          "type": "points",
+          "content": [
+            "Nitrogen: 78.08% by volume.",
+            "Oxygen: 20.95%.",
+            "Argon: 0.93%.",
+            "Water vapour: 0–4% in the table.",
+            "Carbon dioxide: 0.0360% in the table.",
+            "Other trace gases include neon, helium, methane, hydrogen, nitrous oxide and ozone.",
+            "Nitrogen and oxygen together form about 99% of dry atmospheric volume."
+          ]
+        },
+        {
+          "heading": "Water vapour",
+          "type": "points",
+          "content": [
+            "Atmospheric vapour may range from zero to about 5% by volume in the text.",
+            "More than 90% of total atmospheric vapour occurs up to 5 km.",
+            "Water vapour absorbs terrestrial radiation and contributes to atmospheric heating."
+          ]
+        },
+        {
+          "heading": "Particulate matter",
+          "type": "points",
+          "content": [
+            "Includes dust, salt particles, pollen, smoke and volcanic ash.",
+            "Particles remain suspended in the atmosphere.",
+            "Selective scattering contributes to blue sky appearance.",
+            "Salt particles can act as hygroscopic nuclei for cloud and precipitation formation."
+          ]
+        },
+        {
+          "heading": "Ozone",
+          "type": "points",
+          "content": [
+            "Ozone is concentrated mainly around 15–55 km in the source discussion.",
+            "It absorbs harmful ultraviolet radiation.",
+            "The source attributes severe ozone thinning primarily to chlorofluorocarbon emissions."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "6–7"
+      },
+      "related": [
+        "atmospheric-layers",
+        "weather-elements"
+      ]
+    },
+    {
+      "slug": "atmospheric-layers",
+      "title": "Structure of Earth's Atmosphere",
+      "category": "chapter-1",
+      "definition": "The atmosphere is divided into layers with characteristic temperature and physical properties.",
+      "sections": [
+        {
+          "heading": "Troposphere",
+          "type": "points",
+          "content": [
+            "Lowest atmospheric layer.",
+            "Average height about 12 km in one source description; 9 km at poles and 17 km at equator.",
+            "Contains roughly 75–80% of atmospheric mass.",
+            "Nearly all water vapour and dust occur here.",
+            "Most weather phenomena occur here.",
+            "Temperature normally decreases upward at about 6.5°C per km.",
+            "Upper boundary is the tropopause."
+          ]
+        },
+        {
+          "heading": "Stratosphere",
+          "type": "points",
+          "content": [
+            "Extends from roughly 12 km to 50–55 km.",
+            "Contains the ozone layer.",
+            "Temperature increases with altitude because ozone absorbs ultraviolet radiation.",
+            "Atmosphere is stable with little weather-producing turbulence.",
+            "Upper boundary is the stratopause."
+          ]
+        },
+        {
+          "heading": "Mesosphere",
+          "type": "points",
+          "content": [
+            "Extends approximately from 50 km to 80–85 km.",
+            "Temperature decreases upward.",
+            "Most meteors burn up in this layer.",
+            "Mesopause is near 80–85 km and is the coldest atmospheric region in the source discussion."
+          ]
+        },
+        {
+          "heading": "Thermosphere and exosphere",
+          "type": "points",
+          "content": [
+            "Thermosphere begins near 80 km and temperature increases strongly with height.",
+            "Lower thermosphere contains the ionosphere.",
+            "Auroral phenomena occur in the thermosphere.",
+            "Exosphere is the outermost layer and merges into the solar wind.",
+            "Exosphere contains very low-density hydrogen and helium and many satellites."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "7–9"
+      },
+      "related": [
+        "earth-atmosphere-composition",
+        "lapse-rate-and-adiabatic-processes"
+      ]
+    },
+    {
+      "slug": "agroclimatic-applications",
+      "title": "Agrometeorological Applications",
+      "category": "chapter-1",
+      "definition": "Applications of atmospheric information for crop planning, productivity prediction and risk management.",
+      "sections": [
+        {
+          "heading": "Applications",
+          "type": "points",
+          "content": [
+            "Crop-weather calendars support timely farm operations.",
+            "Weather-crop relationships support productivity estimation.",
+            "Weather information helps manage drought.",
+            "Agro-ecological zoning supports resource-efficient production.",
+            "Growth simulation models can predict productivity and potential yield.",
+            "Weather-based advisories can reduce input costs and improve productivity."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "4"
+      },
+      "related": [
+        "agricultural-meteorology",
+        "weather-forecasting"
+      ]
+    },
+    {
+      "slug": "atmospheric-pressure",
+      "title": "Atmospheric Pressure",
+      "category": "chapter-2",
+      "definition": "Pressure exerted by the weight of air in the atmosphere.",
+      "sections": [
+        {
+          "heading": "Definition and variation",
+          "type": "points",
+          "content": [
+            "Low-pressure areas have less atmospheric mass above them.",
+            "High-pressure areas have more atmospheric mass above them.",
+            "Atmospheric pressure decreases with increasing elevation.",
+            "A one-square-centimetre column of air from sea level to the top of the atmosphere has a mass of about 1.03 kg.",
+            "Mean sea-level pressure is about 101.325 kPa = 1013.25 hPa = 1013.25 mbar.",
+            "Equivalent mean sea-level pressure is about 29.92 inHg or 760 mmHg."
+          ]
+        },
+        {
+          "heading": "Pressure and altitude",
+          "type": "points",
+          "content": [
+            "Increasing elevation reduces the mass of overlying air.",
+            "Mean sea-level pressure is the adjusted pressure commonly reported in weather reports."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "10"
+      },
+      "related": [
+        "wind-and-forces",
+        "cyclones-and-anticyclones"
+      ]
+    },
+    {
+      "slug": "wind-and-forces",
+      "title": "Wind and Forces Affecting Wind",
+      "category": "chapter-2",
+      "definition": "Wind is air in motion caused primarily by spatial differences in atmospheric pressure.",
+      "sections": [
+        {
+          "heading": "Forces",
+          "type": "points",
+          "content": [
+            "Pressure-gradient force controls wind speed.",
+            "Pressure gradient is the rate of pressure change over space.",
+            "Coriolis force deflects medium- and large-scale air movement due to Earth's rotation.",
+            "Coriolis force depends on latitude and wind speed.",
+            "Centripetal force acts when wind follows curved paths around pressure centres.",
+            "Friction affects wind near the Earth's surface."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "10"
+      },
+      "related": [
+        "atmospheric-pressure",
+        "types-of-wind"
+      ]
+    },
+    {
+      "slug": "types-of-wind",
+      "title": "Types of Wind",
+      "category": "chapter-2",
+      "definition": "Winds are classified according to their scale, persistence and periodic behaviour.",
+      "sections": [
+        {
+          "heading": "Planetary winds",
+          "type": "points",
+          "content": [
+            "Blow throughout the year between latitude belts in response to pressure differences.",
+            "Major prevailing winds include trade winds and westerlies."
+          ]
+        },
+        {
+          "heading": "Trade winds",
+          "type": "points",
+          "content": [
+            "Blow from subtropical high-pressure belts near 30° toward the equatorial low-pressure belt.",
+            "Deflected right in the Northern Hemisphere and left in the Southern Hemisphere.",
+            "Known as tropical easterlies.",
+            "Generally steady in direction and force."
+          ]
+        },
+        {
+          "heading": "Westerlies",
+          "type": "points",
+          "content": [
+            "Blow from subtropical high-pressure belts toward subpolar low-pressure belts.",
+            "Southern Hemisphere westerlies are described as stronger and more constant.",
+            "40°–65°S latitudes are associated with Roaring Forties, Furious Fifties and Shrieking Sixties."
+          ]
+        },
+        {
+          "heading": "Periodic winds",
+          "type": "points",
+          "content": [
+            "Direction changes periodically with seasons or daily heating differences.",
+            "Examples: monsoons, land/sea breezes, mountain/valley breezes."
+          ]
+        },
+        {
+          "heading": "Local winds",
+          "type": "points",
+          "content": [
+            "Produced by local temperature and pressure differences.",
+            "Types listed: hot, cold, convectional and slope winds."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "11–13"
+      },
+      "related": [
+        "land-and-sea-breeze",
+        "cyclones-and-anticyclones"
+      ]
+    },
+    {
+      "slug": "land-and-sea-breeze",
+      "title": "Land and Sea Breezes",
+      "category": "chapter-2",
+      "definition": "Local coastal winds produced by differential heating and cooling of land and water.",
+      "sections": [
+        {
+          "heading": "Land breeze",
+          "type": "points",
+          "content": [
+            "Occurs mainly at night.",
+            "Land cools faster than the sea.",
+            "Air flows from relatively higher-pressure land toward lower-pressure water.",
+            "Usually weaker than the daytime sea breeze.",
+            "Dies as land warms the next morning."
+          ]
+        },
+        {
+          "heading": "Sea breeze",
+          "type": "points",
+          "content": [
+            "Develops after sunrise as land heats faster than water.",
+            "Warm air over land expands and lowers surface pressure.",
+            "Air moves from relatively higher-pressure sea toward lower-pressure land.",
+            "Strength increases with the land–sea temperature difference.",
+            "A strong offshore wind above about 15 km/h can prevent development."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "11–13"
+      },
+      "related": [
+        "types-of-wind"
+      ]
+    },
+    {
+      "slug": "mountain-and-valley-breeze",
+      "title": "Mountain and Valley Breezes",
+      "category": "chapter-2",
+      "definition": "Diurnal mountain winds caused by differential heating and cooling of mountain slopes and valleys.",
+      "sections": [
+        {
+          "heading": "Valley breeze",
+          "type": "points",
+          "content": [
+            "Occurs during the day.",
+            "Heated mountain slopes cause air to move upward from valleys."
+          ]
+        },
+        {
+          "heading": "Mountain breeze",
+          "type": "points",
+          "content": [
+            "Occurs after sunset.",
+            "Cold dense air moves downslope from mountains toward valleys."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "13"
+      },
+      "related": [
+        "land-and-sea-breeze",
+        "types-of-wind"
+      ]
+    },
+    {
+      "slug": "cyclones-and-anticyclones",
+      "title": "Cyclones and Anticyclones",
+      "category": "chapter-2",
+      "definition": "Cyclones are low-pressure systems with inward rising flow; anticyclones are high-pressure systems with outward surface flow and subsidence.",
+      "sections": [
+        {
+          "heading": "Cyclone",
+          "type": "points",
+          "content": [
+            "Large-scale air mass rotating around a strong low-pressure centre.",
+            "Northern Hemisphere rotation is counter-clockwise.",
+            "Southern Hemisphere rotation is clockwise.",
+            "Surface air converges inward and rises near the centre.",
+            "Rising air expands and cools, increasing humidity and cloudiness.",
+            "Cyclones are generally associated with rain, clouds and unsettled weather."
+          ]
+        },
+        {
+          "heading": "Tropical cyclone",
+          "type": "points",
+          "content": [
+            "Warm-core system driven by significant convective activity and latent heat release.",
+            "Six source-listed requirements: warm sea surface, atmospheric instability, lower/middle tropospheric humidity, sufficient Coriolis force, pre-existing low-level disturbance, and low vertical wind shear.",
+            "Called hurricane in the Atlantic/northeastern Pacific.",
+            "Called cyclone in the Indian and South Pacific oceans.",
+            "Called typhoon in the northwestern Pacific."
+          ]
+        },
+        {
+          "heading": "Extratropical cyclone",
+          "type": "points",
+          "content": [
+            "Also called mid-latitude or wave cyclone.",
+            "Large-scale low-pressure system generally occurring in middle latitudes.",
+            "Often develops along strong temperature/dew-point gradients and fronts.",
+            "Associated with significant vertical wind shear and jet-stream dynamics.",
+            "Usually occurs between about 30° and 60° latitude.",
+            "Can produce cloudiness, showers, gales and thunderstorms.",
+            "Often develops through frontal waves and later occludes."
+          ]
+        },
+        {
+          "heading": "Anticyclone",
+          "type": "points",
+          "content": [
+            "High-pressure system.",
+            "Northern Hemisphere winds rotate clockwise.",
+            "Southern Hemisphere winds rotate counter-clockwise.",
+            "Air descends and warms by compression.",
+            "Subsidence reduces humidity and cloud formation.",
+            "Generally associated with clear skies and light surface winds."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "13–18"
+      },
+      "related": [
+        "atmospheric-pressure",
+        "wind-and-forces"
+      ]
+    },
+    {
+      "slug": "solar-radiation",
+      "title": "Solar Radiation",
+      "category": "chapter-3",
+      "definition": "Radiant energy emitted by the Sun and the prime external energy source for Earth's biosphere.",
+      "sections": [
+        {
+          "heading": "Sun and energy",
+          "type": "points",
+          "content": [
+            "Solar radiation is the flux of radiant energy from the Sun.",
+            "Sun diameter: about 1.39 × 10^6 km.",
+            "Mean Sun–Earth distance: about 1.5 × 10^8 km.",
+            "Source gives solar surface temperature around 5462 K in one description.",
+            "Energy is produced by fusion in which hydrogen is transformed to helium.",
+            "The source states about 99% of biosphere energy comes from the Sun."
+          ]
+        },
+        {
+          "heading": "Insolation",
+          "type": "points",
+          "content": [
+            "Electromagnetic energy radiated into space by the Sun.",
+            "Factors affecting insolation: solar constant, atmospheric transparency, duration of daily sunlight and noon solar angle."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "19"
+      },
+      "related": [
+        "solar-spectrum",
+        "solar-radiation-and-crops"
+      ]
+    },
+    {
+      "slug": "heat-transfer",
+      "title": "Heat Transfer Processes",
+      "category": "chapter-3",
+      "definition": "Heat moves by conduction, convection and radiation.",
+      "sections": [
+        {
+          "heading": "Conduction",
+          "type": "points",
+          "content": [
+            "Heat transfer through matter without bulk movement of the substance.",
+            "Heat flows from warmer to cooler parts.",
+            "Example: heating along an iron rod."
+          ]
+        },
+        {
+          "heading": "Convection",
+          "type": "points",
+          "content": [
+            "Heat transfer through actual movement of molecules or fluid masses.",
+            "Predominant in many atmospheric weather processes.",
+            "Example: boiling water."
+          ]
+        },
+        {
+          "heading": "Radiation",
+          "type": "points",
+          "content": [
+            "Energy transfer by electromagnetic waves without a material medium.",
+            "Solar energy reaches Earth by radiation.",
+            "Radiation produces heat when absorbed by a surface."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "20"
+      },
+      "related": [
+        "solar-radiation",
+        "radiation-laws"
+      ]
+    },
+    {
+      "slug": "solar-spectrum",
+      "title": "Solar Spectrum and Wavelength Bands",
+      "category": "chapter-3",
+      "definition": "Solar radiation spans a broad electromagnetic spectrum with different wavelengths and biological effects.",
+      "sections": [
+        {
+          "heading": "Major bands",
+          "type": "points",
+          "content": [
+            "Ultraviolet: about 0.20–0.39 μm.",
+            "Visible radiation: about 0.39–0.76 μm.",
+            "Infrared: greater than 0.76 μm in the source table.",
+            "Visible colours progress from violet through indigo, blue, green, yellow, orange and red."
+          ]
+        },
+        {
+          "heading": "Plant significance",
+          "type": "points",
+          "content": [
+            "Visible light is essential for photosynthesis.",
+            "Infrared provides thermal energy.",
+            "Shorter-than-visible radiation is chemically active and potentially damaging.",
+            "Ultraviolet radiation is strongly absorbed by atmospheric ozone."
+          ]
+        },
+        {
+          "heading": "Wavelength units",
+          "type": "points",
+          "content": [
+            "1 μm = 10^-6 m = 10^-4 cm.",
+            "1 millimicron = 10^-9 m = 10^-7 cm.",
+            "1 Å = 10^-10 m = 10^-8 cm."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "20–22"
+      },
+      "related": [
+        "solar-radiation",
+        "solar-radiation-and-crops"
+      ]
+    },
+    {
+      "slug": "solar-radiation-and-crops",
+      "title": "Solar Radiation and Crop Plants",
+      "category": "chapter-3",
+      "definition": "Crop production depends on the intensity, quality and duration of solar radiation.",
+      "sections": [
+        {
+          "heading": "Spectral effects",
+          "type": "points",
+          "content": [
+            "Radiation below visible wavelengths can be detrimental at high exposure.",
+            "Infrared has a thermal effect and supplies thermal energy to the plant environment.",
+            "Visible light is indispensable to photosynthesis.",
+            "Light affects tillering, culm stability, culm length, yield, plant biomass, leaf size and root development."
+          ]
+        },
+        {
+          "heading": "Critical stages",
+          "type": "points",
+          "content": [
+            "Maize: radiation intensity during the third month is highlighted.",
+            "Rice: about 25 days before flowering.",
+            "Barley: flowering period."
+          ]
+        },
+        {
+          "heading": "Specific spectral bands",
+          "type": "points",
+          "content": [
+            "700–900 nm far-red region influences photoperiodism, germination, flowering and fruit coloration.",
+            "720–510 nm is strongly absorbed by chlorophyll and has strong photosynthetic activity.",
+            "510–400 nm includes strong chlorophyll/yellow pigment absorption and strong blue-violet photosynthetic effects.",
+            "400–315 nm can produce formative and dwarfing effects.",
+            "Below 280 nm has lethal/germicidal effects in the source."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "22–23"
+      },
+      "related": [
+        "solar-spectrum",
+        "radiation-balance-and-albedo"
+      ]
+    },
+    {
+      "slug": "radiation-balance-and-albedo",
+      "title": "Radiation Balance, Albedo and Earth Energy Budget",
+      "category": "chapter-3",
+      "definition": "Radiation balance is the difference between incoming and outgoing radiation; albedo is the percentage of incident radiation reflected by a surface.",
+      "sections": [
+        {
+          "heading": "Radiation properties",
+          "type": "points",
+          "content": [
+            "Absorptivity = absorbed radiant energy / incident radiant energy.",
+            "Reflectivity = reflected radiant energy / incident radiant energy.",
+            "Albedo is reflectivity expressed as a percentage.",
+            "Transmittivity = transmitted radiation / incident radiation.",
+            "Emissivity = radiation emitted by a surface / radiation emitted by a blackbody under comparable conditions.",
+            "A blackbody completely absorbs incident radiation and has absorptivity and emissivity of unity."
+          ]
+        },
+        {
+          "heading": "Earth energy budget",
+          "type": "points",
+          "content": [
+            "The atmosphere filters, absorbs, scatters and reflects solar radiation.",
+            "Source example: 324 W m^-2 reaching Earth in the upper-atmosphere budget discussion.",
+            "236 W m^-2 are re-emitted to space as infrared radiation in the cited budget.",
+            "86 W m^-2 are reflected by clouds.",
+            "20 W m^-2 are reflected by the ground as short-wave radiation.",
+            "Atmospheric absorption and re-radiation contribute to the greenhouse effect."
+          ]
+        },
+        {
+          "heading": "Albedo values",
+          "type": "points",
+          "content": [
+            "Pure water: 5–20%.",
+            "Vegetation: 10–40%.",
+            "Soils: 15–50%.",
+            "Earth: 34–43%.",
+            "Clouds: about 55%.",
+            "High albedo means more incident solar radiation is reflected.",
+            "Albedo depends on incidence angle, surface properties, season and time of day.",
+            "Crop-community albedo depends on crop age, ground cover, foliage colour and reflectivity."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "23–26"
+      },
+      "related": [
+        "outgoing-longwave-radiation",
+        "solar-radiation"
+      ]
+    },
+    {
+      "slug": "outgoing-longwave-radiation",
+      "title": "Outgoing Long-Wave Radiation",
+      "category": "chapter-3",
+      "definition": "Long-wave radiation emitted by the heated Earth and modified by atmospheric absorbers.",
+      "sections": [
+        {
+          "heading": "Characteristics",
+          "type": "points",
+          "content": [
+            "Average Earth surface temperature is given as about 285 K in the source.",
+            "About 99% of emitted terrestrial radiation is in the infrared range of 4–120 μm.",
+            "About 90% of outgoing radiation is absorbed by the atmosphere in the source discussion.",
+            "Water vapour absorbs in approximately 5.3–7.7 μm and beyond 20 μm.",
+            "Ozone absorbs around 9.4–9.8 μm.",
+            "CO2 absorbs around 13.1–16.9 μm.",
+            "Clouds absorb across broad wavelengths."
+          ]
+        },
+        {
+          "heading": "Atmospheric window",
+          "type": "points",
+          "content": [
+            "Long-wave radiation escapes relatively freely between about 8.5 and 11 μm.",
+            "This region is called the atmospheric window.",
+            "The source notes its use in microwave remote sensing and its role in limiting excessive night cooling through counter-radiation."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "26"
+      },
+      "related": [
+        "radiation-balance-and-albedo",
+        "radiation-laws"
+      ]
+    },
+    {
+      "slug": "radiation-laws",
+      "title": "Radiation Laws",
+      "category": "chapter-3",
+      "definition": "Physical relationships connecting wavelength, frequency, energy, emission and temperature.",
+      "sections": [
+        {
+          "heading": "Wave relation",
+          "type": "formula",
+          "content": [
+            "λ = c/ν.",
+            "λ = wavelength.",
+            "c = velocity of light ≈ 3 × 10^10 cm s^-1.",
+            "ν = frequency."
+          ]
+        },
+        {
+          "heading": "Planck's law",
+          "type": "formula",
+          "content": [
+            "E = hν.",
+            "h = Planck's constant ≈ 6.62 × 10^-34 J s.",
+            "Higher frequency means higher quantum energy.",
+            "Shorter wavelength corresponds to higher frequency and energy."
+          ]
+        },
+        {
+          "heading": "Kirchhoff's law",
+          "type": "formula",
+          "content": [
+            "a(λ) = e(λ).",
+            "A good absorber is a good emitter under similar conditions."
+          ]
+        },
+        {
+          "heading": "Stefan–Boltzmann law",
+          "type": "formula",
+          "content": [
+            "E = σT^4.",
+            "T is absolute temperature in kelvin.",
+            "σ ≈ 5.673 × 10^-8 W m^-2 K^-4 for the blackbody constant given."
+          ]
+        },
+        {
+          "heading": "Wien's displacement law",
+          "type": "formula",
+          "content": [
+            "λmax = 2897/T μm.",
+            "Higher temperature shifts maximum emission toward shorter wavelengths.",
+            "For Sun temperature around 5793 K, λmax is about 0.5 μm.",
+            "For Earth surface near 287 K, λmax is about 10 μm."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "26–27"
+      },
+      "related": [
+        "solar-spectrum",
+        "outgoing-longwave-radiation"
+      ]
+    },
+    {
+      "slug": "air-temperature",
+      "title": "Air Temperature and Temperature Factors",
+      "category": "chapter-4",
+      "definition": "Air temperature describes the molecular kinetic state of air and strongly controls atmospheric and crop processes.",
+      "sections": [
+        {
+          "heading": "Definition and heat transfer",
+          "type": "points",
+          "content": [
+            "Temperature is described as a measure of molecular motion.",
+            "Heat is energy associated with molecular motion and transfer due to temperature differences.",
+            "Conduction, convection and radiation transfer heat."
+          ]
+        },
+        {
+          "heading": "Factors affecting air temperature",
+          "type": "points",
+          "content": [
+            "Latitude.",
+            "Altitude.",
+            "Distribution of land and water.",
+            "Ocean currents.",
+            "Prevailing winds.",
+            "Cloudiness.",
+            "Mountain barriers.",
+            "Nature of surface and relief.",
+            "Convection and turbulence."
+          ]
+        },
+        {
+          "heading": "Examples",
+          "type": "points",
+          "content": [
+            "Northern India source example: January is the coldest month and June the warmest.",
+            "Southern India source example: December is the coldest month and May the warmest.",
+            "Land shows larger temperature variations than water.",
+            "Ocean currents redistribute heat and create temperature contrasts."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "31–32"
+      },
+      "related": [
+        "diurnal-and-seasonal-temperature",
+        "vertical-temperature-distribution"
+      ]
+    },
+    {
+      "slug": "diurnal-and-seasonal-temperature",
+      "title": "Diurnal and Seasonal Temperature Variation",
+      "category": "chapter-4",
+      "definition": "Air temperature changes systematically within a day and across seasons.",
+      "sections": [
+        {
+          "heading": "Diurnal variation",
+          "type": "points",
+          "content": [
+            "Minimum air temperature generally occurs near sunrise.",
+            "Temperature rises after sunrise and reaches a maximum around 13:00–14:00 h.",
+            "Temperature then declines toward sunrise.",
+            "Difference between daily maximum and minimum is the diurnal range.",
+            "Clear days have larger diurnal ranges.",
+            "Cloudy conditions reduce daily temperature amplitude.",
+            "Daily mean temperature = (daily maximum + daily minimum) / 2."
+          ]
+        },
+        {
+          "heading": "Seasonal variation",
+          "type": "points",
+          "content": [
+            "Northern Hemisphere winter minimum is stated as January.",
+            "Northern Hemisphere summer maximum is stated as July."
+          ]
+        },
+        {
+          "heading": "Horizontal distribution",
+          "type": "points",
+          "content": [
+            "Isotherms join places with equal temperature.",
+            "Temperature generally decreases from equator toward poles.",
+            "Land-water distribution modifies latitudinal temperature patterns.",
+            "Mountain barriers and local topography alter horizontal temperature distribution."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "32"
+      },
+      "related": [
+        "air-temperature",
+        "vertical-temperature-distribution"
+      ]
+    },
+    {
+      "slug": "vertical-temperature-distribution",
+      "title": "Vertical Temperature Distribution",
+      "category": "chapter-4",
+      "definition": "Atmospheric layers can be distinguished by how temperature changes with altitude.",
+      "sections": [
+        {
+          "heading": "Troposphere",
+          "type": "points",
+          "content": [
+            "Average height about 14 km in this chapter; about 16 km at equator and 7–8 km at poles.",
+            "Seat of weather phenomena.",
+            "Temperature decreases upward at about 6.5°C/km.",
+            "Contains most atmospheric moisture and aerosols."
+          ]
+        },
+        {
+          "heading": "Stratosphere",
+          "type": "points",
+          "content": [
+            "Extends roughly from 20 km to 50–55 km in the source chapter.",
+            "Called a seat of photochemical reactions.",
+            "Temperature increases with height.",
+            "Ozone absorbs ultraviolet radiation and warms the upper stratosphere.",
+            "Upper boundary is the stratopause."
+          ]
+        },
+        {
+          "heading": "Mesosphere and ozonosphere",
+          "type": "points",
+          "content": [
+            "Ozone concentration is highlighted between about 30 and 60 km.",
+            "Ozone absorbs UV radiation.",
+            "Mesosphere lies approximately 50–80 km.",
+            "Mesospheric temperature decreases with height.",
+            "Mesopause temperature may reach nearly −95°C in the source."
+          ]
+        },
+        {
+          "heading": "Thermosphere and exosphere",
+          "type": "points",
+          "content": [
+            "Thermosphere/ionosphere extends from about 80 km to 400 km in the chapter.",
+            "Temperature rises again and may reach about 1000°C.",
+            "Ionosphere reflects radio waves and supports long-distance radio communication.",
+            "Exosphere is the outermost layer, roughly 400–1000 km in this chapter.",
+            "Hydrogen and helium predominate in the exosphere."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "33–35"
+      },
+      "related": [
+        "atmospheric-layers",
+        "lapse-rate-and-adiabatic-processes"
+      ]
+    },
+    {
+      "slug": "lapse-rate-and-adiabatic-processes",
+      "title": "Lapse Rate and Adiabatic Processes",
+      "category": "chapter-4",
+      "definition": "Lapse rate is temperature change with height; adiabatic temperature change occurs without external heat exchange.",
+      "sections": [
+        {
+          "heading": "Lapse rates",
+          "type": "points",
+          "content": [
+            "Average atmospheric lapse rate is about 6.5°C/km.",
+            "Dry adiabatic lapse rate is about 10°C/km.",
+            "Moist adiabatic lapse rate is usually below 6°C/km.",
+            "Moist air cools more slowly because condensation releases latent heat."
+          ]
+        },
+        {
+          "heading": "Mountain process",
+          "type": "points",
+          "content": [
+            "Moist air forced upward over mountains expands and cools.",
+            "Cooling may cause condensation and precipitation.",
+            "Descending air becomes warmer and drier after losing moisture.",
+            "Descending air warms at the dry adiabatic rate in the source explanation."
+          ]
+        },
+        {
+          "heading": "Adiabatic change",
+          "type": "points",
+          "content": [
+            "No outside heat is involved.",
+            "Rising air expands and cools.",
+            "Sinking air compresses and warms."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "35"
+      },
+      "related": [
+        "temperature-inversion",
+        "vertical-temperature-distribution"
+      ]
+    },
+    {
+      "slug": "temperature-inversion",
+      "title": "Temperature Inversion",
+      "category": "chapter-4",
+      "definition": "A temperature inversion occurs when temperature increases with altitude over a layer instead of decreasing normally.",
+      "sections": [
+        {
+          "heading": "Causes",
+          "type": "points",
+          "content": [
+            "Ground air can cool faster than overlying air during clear cooling nights.",
+            "A warm layer may pass over a lower cold layer.",
+            "Cold air can drain downslope and be replaced by warmer air."
+          ]
+        },
+        {
+          "heading": "Significance",
+          "type": "points",
+          "content": [
+            "Influences cloud formation and precipitation.",
+            "Can cause fog near the ground.",
+            "Reduces visibility and can affect air navigation.",
+            "Affects diurnal temperature behaviour and conversion of incoming solar radiation to heat."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "35–36"
+      },
+      "related": [
+        "lapse-rate-and-adiabatic-processes"
+      ]
+    },
+    {
+      "slug": "heat-units-and-gdd",
+      "title": "Heat Units and Growing Degree Days",
+      "category": "chapter-4",
+      "definition": "Heat units quantify accumulated warmth above a crop-specific threshold during growth.",
+      "sections": [
+        {
+          "heading": "GDD concept",
+          "type": "points",
+          "content": [
+            "Heat unit represents departure of mean daily temperature above a minimum threshold.",
+            "Base temperatures in the source commonly range from 4.5–12.5°C.",
+            "6.0°C is stated as a commonly used value."
+          ]
+        },
+        {
+          "heading": "Formula",
+          "type": "formula",
+          "content": [
+            "GDD = Σ[(Tmax + Tmin)/2 − Tb].",
+            "Tmax = daily maximum air temperature.",
+            "Tmin = daily minimum air temperature.",
+            "Tb = crop base or threshold temperature."
+          ]
+        },
+        {
+          "heading": "Uses",
+          "type": "points",
+          "content": [
+            "Guide agricultural operations and planting land use.",
+            "Forecast crop harvest dates, yield and quality.",
+            "Estimate labour requirements.",
+            "Support introduction of crops and varieties into new areas.",
+            "Predict likelihood of successful crop growth."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "36"
+      },
+      "related": [
+        "air-temperature",
+        "role-of-temperature-in-crops"
+      ]
+    },
+    {
+      "slug": "temperature-injuries",
+      "title": "Heat and Cold Injuries in Crops",
+      "category": "chapter-4",
+      "definition": "Extreme temperatures cause physiological and physical injuries to crop plants.",
+      "sections": [
+        {
+          "heading": "Heat injury",
+          "type": "points",
+          "content": [
+            "Thermal death point is given as about 50–60°C, varying with species.",
+            "Aquatic and shade-loving plants may be killed at around 40°C.",
+            "High temperature causes desiccation.",
+            "It disrupts photosynthesis and respiration.",
+            "High temperature increases respiration and rapidly depletes stored food."
+          ]
+        },
+        {
+          "heading": "Cold injury",
+          "type": "points",
+          "content": [
+            "Chilling injury affects warm-climate plants exposed to low temperatures.",
+            "Sugarcane, sorghum and maize may show chlorotic bands when night temperature falls below 20°C in the source example.",
+            "Freezing injury forms ice crystals in plant tissues and dehydrates cells.",
+            "Examples include frost damage in potato and tea.",
+            "Suffocation can occur under thick ice/snow due to restricted oxygen entry.",
+            "Heaving occurs when ice crystals expand soil and mechanically lift plants."
+          ]
+        },
+        {
+          "heading": "Specific injury",
+          "type": "points",
+          "content": [
+            "Stem griddle is bark/stem injury associated with high daytime and low nighttime temperatures.",
+            "Young cotton seedlings in sandy soil may be affected when soil temperature exceeds 60°C."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "36–37"
+      },
+      "related": [
+        "role-of-temperature-in-crops",
+        "soil-temperature"
+      ]
+    },
+    {
+      "slug": "role-of-temperature-in-crops",
+      "title": "Role of Temperature in Crop Production",
+      "category": "chapter-4",
+      "definition": "Temperature controls crop distribution, development, physiological processes and productivity.",
+      "sections": [
+        {
+          "heading": "Crop effects",
+          "type": "points",
+          "content": [
+            "Influences crop and vegetation distribution.",
+            "Affects leaf production, expansion and flowering.",
+            "Changes gas and liquid diffusion rates.",
+            "Affects solubility of substances.",
+            "Biochemical reaction rates increase strongly with temperature; the source states reactions may double or more per 10°C rise.",
+            "Affects enzyme stability and system equilibrium.",
+            "Most higher plants grow between about 0–60°C; crop plants are more restricted, around 10–40°C.",
+            "Maximum dry matter production is stated around 20–30°C.",
+            "High temperature plus high humidity favours some pests and diseases.",
+            "High night temperature increases respiration and metabolism."
+          ]
+        },
+        {
+          "heading": "Cardinal temperatures",
+          "type": "points",
+          "content": [
+            "Crops have minimum, optimum and maximum temperatures.",
+            "Wheat and barley: minimum 0–5°C; optimum 25–31°C; maximum 31–37°C.",
+            "Sorghum: minimum 15–18°C; optimum 31–36°C; maximum 40–42°C."
+          ]
+        },
+        {
+          "heading": "Thermoperiodism",
+          "type": "points",
+          "content": [
+            "Response of living organisms to regular temperature changes between day and night or seasons."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "37–38"
+      },
+      "related": [
+        "heat-units-and-gdd",
+        "temperature-injuries",
+        "soil-temperature"
+      ]
+    },
+    {
+      "slug": "soil-temperature",
+      "title": "Soil Temperature",
+      "category": "chapter-4",
+      "definition": "Soil temperature influences seed, root and microbial processes and is controlled by meteorological and soil factors.",
+      "sections": [
+        {
+          "heading": "Importance",
+          "type": "points",
+          "content": [
+            "Governs uptake of water and nutrients.",
+            "Controls soil microbial activity; source optimum range is 18–30°C.",
+            "Influences seed germination and root development.",
+            "Influences mineralization of organic nitrogen.",
+            "Low soil temperature favours greater persistence of organic matter.",
+            "Affects mineral weathering and soil reactions.",
+            "Influences soil structure and exchangeable ions."
+          ]
+        },
+        {
+          "heading": "Meteorological factors",
+          "type": "points",
+          "content": [
+            "Solar radiation directly affects soil temperature.",
+            "Wind/convection transfers heat to the soil.",
+            "Evaporation cools soil.",
+            "Condensation and freezing can release heat.",
+            "Precipitation may warm or cool soil depending on its temperature."
+          ]
+        },
+        {
+          "heading": "Soil factors",
+          "type": "points",
+          "content": [
+            "Slope/aspect affect received insolation.",
+            "Sandy soils warm faster than clay soils.",
+            "Light soils generally show larger temperature ranges.",
+            "Tillage and soil mulch modify heat flow and moisture.",
+            "Organic matter lowers heat capacity and thermal conductivity while increasing water-holding capacity.",
+            "Dark soils absorb more radiation than light soils.",
+            "Moisture increases heat capacity and conductivity and cools the surface through evaporation."
+          ]
+        },
+        {
+          "heading": "Daily and seasonal variation",
+          "type": "points",
+          "content": [
+            "At 5 cm depth, daily change can exceed 10°C.",
+            "At 20 cm the daily change is smaller.",
+            "At about 80 cm, diurnal changes are practically nil.",
+            "Heat penetrates downward with a time lag.",
+            "Seasonal variations penetrate deeper than diurnal variations.",
+            "Plant canopy reduces seasonal soil-temperature variation."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "38–40"
+      },
+      "related": [
+        "air-temperature"
+      ]
+    },
+    {
+      "slug": "humidity",
+      "title": "Atmospheric Humidity",
+      "category": "chapter-5",
+      "definition": "Humidity is the amount of water vapour present in air.",
+      "sections": [
+        {
+          "heading": "Meaning and sources",
+          "type": "points",
+          "content": [
+            "Humidity is a highly variable climatic factor.",
+            "Source gives atmospheric water vapour as roughly 0–4% by volume, averaging around 2%.",
+            "Measured with a hygrometer.",
+            "Water vapour enters the atmosphere through evaporation, plant transpiration and animal respiration."
+          ]
+        },
+        {
+          "heading": "Importance",
+          "type": "points",
+          "content": [
+            "Supports precipitation formation.",
+            "Absorbs incoming and terrestrial radiation and influences Earth's heat budget.",
+            "Stores latent energy important in storms and cyclones.",
+            "Influences sensible temperature and human cooling."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "43"
+      },
+      "related": [
+        "absolute-humidity",
+        "relative-humidity",
+        "condensation"
+      ]
+    },
+    {
+      "slug": "absolute-humidity",
+      "title": "Absolute Humidity",
+      "category": "chapter-5",
+      "definition": "Weight of actual water vapour present per unit volume of air.",
+      "sections": [
+        {
+          "heading": "Definition",
+          "type": "points",
+          "content": [
+            "Usually expressed as grams of water vapour per cubic metre of air.",
+            "Warm air can hold more water vapour than cold air.",
+            "At 10°C, one cubic metre of air can hold about 11.4 g water vapour in the source example.",
+            "At 21°C, the same volume can hold about 22.2 g."
+          ]
+        },
+        {
+          "heading": "Limitation",
+          "type": "points",
+          "content": [
+            "Not a fully reliable index because temperature and pressure change air volume and therefore absolute humidity."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "43"
+      },
+      "related": [
+        "relative-humidity",
+        "specific-humidity-and-mixing-ratio"
+      ]
+    },
+    {
+      "slug": "relative-humidity",
+      "title": "Relative Humidity and Saturation",
+      "category": "chapter-5",
+      "definition": "Relative humidity is the ratio of actual water vapour content to the moisture-holding capacity of air at a given temperature, expressed as a percentage.",
+      "sections": [
+        {
+          "heading": "Relative humidity",
+          "type": "points",
+          "content": [
+            "Adding moisture by evaporation increases relative humidity.",
+            "Cooling air decreases its moisture-holding capacity and increases relative humidity.",
+            "Saturated air has relative humidity of 100%.",
+            "Air containing half of its moisture-holding capacity has relative humidity of 50%.",
+            "Relative humidity strongly influences evaporation."
+          ]
+        },
+        {
+          "heading": "Dew point",
+          "type": "points",
+          "content": [
+            "Temperature at which a given air sample becomes saturated without changing its moisture content.",
+            "Further cooling below the dew point promotes condensation."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "44"
+      },
+      "related": [
+        "humidity"
+      ]
+    },
+    {
+      "slug": "specific-humidity-and-mixing-ratio",
+      "title": "Specific Humidity and Mixing Ratio",
+      "category": "chapter-5",
+      "definition": "Specific humidity relates water-vapour mass to total moist-air mass; mixing ratio relates water-vapour mass to dry-air mass.",
+      "sections": [
+        {
+          "heading": "Specific humidity",
+          "type": "points",
+          "content": [
+            "Weight of water vapour per unit weight of air.",
+            "Usually expressed in grams per kilogram.",
+            "Less affected by changes in pressure or temperature than absolute humidity."
+          ]
+        },
+        {
+          "heading": "Mixing ratio",
+          "type": "points",
+          "content": [
+            "Mass of water vapour divided by mass of dry air.",
+            "Expressed as grams of water vapour per kilogram of dry air."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "44"
+      },
+      "related": [
+        "absolute-humidity",
+        "relative-humidity"
+      ]
+    },
+    {
+      "slug": "saturation-and-vapour-pressure",
+      "title": "Saturation and Vapour Pressure",
+      "category": "chapter-5",
+      "definition": "Saturation occurs when evaporation and condensation reach dynamic equilibrium at a given temperature.",
+      "sections": [
+        {
+          "heading": "Saturation",
+          "type": "points",
+          "content": [
+            "Saturation does not mean evaporation stops.",
+            "In a closed water system, evaporation initially exceeds condensation.",
+            "At equilibrium, evaporation rate equals condensation rate and the air is saturated.",
+            "Higher temperature permits more water to remain in the vapour phase."
+          ]
+        },
+        {
+          "heading": "Vapour pressure",
+          "type": "points",
+          "content": [
+            "Saturation vapour pressure increases with air temperature.",
+            "Below 0°C, saturation curves differ over liquid water and ice.",
+            "Supercooled liquid water can persist below 0°C in clouds."
+          ]
+        },
+        {
+          "heading": "Vapour pressure deficit",
+          "type": "points",
+          "content": [
+            "VPD = saturated vapour pressure (SVP) − actual vapour pressure (AVP).",
+            "VPD is useful in crop-growth and atmospheric-moisture studies."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "44–46"
+      },
+      "related": [
+        "relative-humidity",
+        "condensation"
+      ]
+    },
+    {
+      "slug": "condensation",
+      "title": "Condensation",
+      "category": "chapter-5",
+      "definition": "Condensation is the change of water vapour into liquid or solid form when atmospheric conditions exceed moisture-holding capacity.",
+      "sections": [
+        {
+          "heading": "Requirements",
+          "type": "points",
+          "content": [
+            "Cooling moist air can reduce moisture-holding capacity below actual vapour content.",
+            "Condensation generally begins when air temperature reaches or falls below the dew point.",
+            "Relative humidity near 100% means the air is near saturation.",
+            "Dust, smoke, pollen and ocean salt can act as hygroscopic condensation nuclei."
+          ]
+        },
+        {
+          "heading": "Ways condensation can occur",
+          "type": "points",
+          "content": [
+            "Air temperature can fall to the dew point at approximately constant volume.",
+            "Air volume can increase without addition of heat.",
+            "Combined temperature and volume changes can reduce moisture-holding capacity.",
+            "Evaporation can add moisture to the air."
+          ]
+        },
+        {
+          "heading": "Products",
+          "type": "points",
+          "content": [
+            "Condensation may produce dew, frost, fog, mist and clouds.",
+            "Direct vapour-to-solid deposition is described as sublimation in the source."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "46–48"
+      },
+      "related": [
+        "dew-frost-fog-mist"
+      ]
+    },
+    {
+      "slug": "adiabatic-and-nonadiabatic-cooling",
+      "title": "Adiabatic and Non-Adiabatic Cooling",
+      "category": "chapter-5",
+      "definition": "Cooling processes that produce condensation are classified into adiabatic and non-adiabatic changes.",
+      "sections": [
+        {
+          "heading": "Adiabatic cooling",
+          "type": "points",
+          "content": [
+            "Rising air expands and cools without external heat loss.",
+            "Vertical air displacement is a major cause of adiabatic temperature change.",
+            "Katabatic flow is cold, dense air moving downslope."
+          ]
+        },
+        {
+          "heading": "Non-adiabatic cooling",
+          "type": "points",
+          "content": [
+            "Includes cooling by radiation, conduction or mixing with colder air.",
+            "Radiational cooling can produce fog or clouds when nuclei are present.",
+            "Contact cooling can produce dew, frost or fog.",
+            "Effects are mainly confined to a thin atmospheric layer.",
+            "Source states non-adiabatic cooling generally produces dew, fog or frost rather than substantial precipitation."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "48–49"
+      },
+      "related": [
+        "condensation",
+        "lapse-rate-and-adiabatic-processes"
+      ]
+    },
+    {
+      "slug": "dew-frost-fog-mist",
+      "title": "Dew, Frost, Fog, Mist, Haze and Smog",
+      "category": "chapter-5",
+      "definition": "These are near-surface atmospheric moisture or particulate phenomena formed under different temperature, humidity and condensation conditions.",
+      "sections": [
+        {
+          "heading": "Dew",
+          "type": "points",
+          "content": [
+            "Water droplets deposited on cool solid surfaces such as leaves, grass and stones.",
+            "Ideal conditions: clear sky, calm air, high relative humidity, cold and long nights.",
+            "Dew point must be above freezing."
+          ]
+        },
+        {
+          "heading": "White frost",
+          "type": "points",
+          "content": [
+            "Forms on cold surfaces when condensation occurs at or below 0°C.",
+            "Moisture deposits as minute ice crystals rather than liquid droplets.",
+            "Formation conditions resemble dew except temperature is at or below freezing."
+          ]
+        },
+        {
+          "heading": "Fog",
+          "type": "points",
+          "content": [
+            "Cloud with base at or very near the ground.",
+            "Visibility is less than 1 km in the source.",
+            "Radiation fog forms from radiational cooling and is common in winter.",
+            "Advection fog forms when warm air moves over a cold surface; it is thick and persistent.",
+            "Frontal or precipitation fog forms near converging warm and cold air masses."
+          ]
+        },
+        {
+          "heading": "Mist",
+          "type": "points",
+          "content": [
+            "Contains more moisture per nucleus than fog in the source description.",
+            "Droplets are less coalesced, so mist is less dense and dissipates faster.",
+            "Visibility is more than 1 km but less than 2 km."
+          ]
+        },
+        {
+          "heading": "Haze and smog",
+          "type": "points",
+          "content": [
+            "Haze occurs when dust, smoke and dry particles reduce sky clarity without condensation.",
+            "Sources include farming in dry weather, traffic, industry and wildfires.",
+            "Smog = smoke + fog.",
+            "Source links smog to coal burning, vehicle emissions and industrial fumes."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "49–52"
+      },
+      "related": [
+        "condensation",
+        "humidity-effects-on-crops"
+      ]
+    },
+    {
+      "slug": "humidity-effects-on-crops",
+      "title": "Importance and Variation of Humidity for Crops",
+      "category": "chapter-5",
+      "definition": "Atmospheric humidity interacts with temperature, rainfall and wind to influence crop water relations, pests, diseases and yield.",
+      "sections": [
+        {
+          "heading": "Crop effects",
+          "type": "points",
+          "content": [
+            "Helps determine which crops can be grown in a region.",
+            "Affects internal plant water potential.",
+            "Influences transpiration and potential evapotranspiration.",
+            "Determines crop water requirement.",
+            "High humidity can reduce irrigation requirement by reducing evapotranspiration losses.",
+            "High humidity can prolong crop survival under moisture stress.",
+            "Very high or very low relative humidity is generally unfavorable for high yields in the source.",
+            "High humidity favours some fungi, bacteria and pests.",
+            "Examples include potato blight and thrips/jassid damage.",
+            "High humidity during grain filling can reduce yield.",
+            "Very high relative humidity is described as beneficial to maize, sorghum and sugarcane but harmful to sunflower and tobacco.",
+            "Moderate relative humidity above 40% is described as generally safe for most crops."
+          ]
+        },
+        {
+          "heading": "Variation",
+          "type": "points",
+          "content": [
+            "Absolute humidity is highest near the equator and lowest near the poles.",
+            "Absolute humidity is minimum around sunrise and maximum around 14:00–15:00 in the source.",
+            "Relative humidity is generally maximum near sunrise and minimum around 14:00–15:00.",
+            "The source gives relative humidity around 80% at the equator and around 85% at the poles, with about 70% near horse latitudes."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "53"
+      },
+      "related": [
+        "humidity",
+        "dew-frost-fog-mist"
+      ]
+    },
+    {
+      "slug": "climatic-normal",
+      "title": "Climatic Normal",
+      "category": "chapter-6",
+      "definition": "A climatic normal is the average value of a weather element over 30 years.",
+      "sections": [
+        {
+          "heading": "Meaning and use",
+          "type": "points",
+          "content": [
+            "The period may be represented by weekly, monthly or annual averages.",
+            "Crop distribution, production and productivity depend on climatic normals.",
+            "Crop selection based on optimum climatic requirements can improve production potential."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "54"
+      },
+      "related": [
+        "weather-forecasting",
+        "weather-and-climate"
+      ]
+    },
+    {
+      "slug": "weather-forecasting",
+      "title": "Weather Forecasting",
+      "category": "chapter-6",
+      "definition": "Prediction of weather from the next few hours to seasonal periods.",
+      "sections": [
+        {
+          "heading": "Importance for agriculture",
+          "type": "points",
+          "content": [
+            "Weather has major social and economic impacts.",
+            "The source states weather aberrations alone can explain up to 50% variation in crop production.",
+            "Rainfall is especially important for crop production and regional economy.",
+            "Forecasts support moisture conservation during weak monsoon conditions.",
+            "Forecasts support flood-relief planning during strong monsoon conditions.",
+            "Timely pest and disease warnings can reduce recurring crop losses.",
+            "Forecasts help plan water use.",
+            "Reliable forecasts can support sustainability and reduce damage from adverse weather."
+          ]
+        },
+        {
+          "heading": "Forecast types",
+          "type": "points",
+          "content": [
+            "Nowcast: next few hours.",
+            "Short-range: about 24 hours, with outlook for another 24 hours.",
+            "Medium-range: about 3–7/10 days.",
+            "Long-range: beyond 7 days up to a season.",
+            "Seasonal climate forecast supports farm decisions, especially rainfall-related decisions."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "54–55"
+      },
+      "related": [
+        "forecast-methods-and-services",
+        "climate-change-and-global-warming"
+      ]
+    },
+    {
+      "slug": "forecast-methods-and-services",
+      "title": "Forecast Services, Users and Accuracy",
+      "category": "chapter-6",
+      "definition": "Forecast services differ in lead time, predicted elements, methods and agricultural users.",
+      "sections": [
+        {
+          "heading": "Service table",
+          "type": "points",
+          "content": [
+            "Nowcasting: IMD; thunderstorms, dust storms, cold/heat waves; lead time 1–2 hours; source accuracy 90–98%.",
+            "Short range: IMD; cloud spread, rainfall, temperature and cyclone warnings; lead time about 1 day; source accuracy 80–90%.",
+            "Medium range: IMD; rainfall, temperature, relative humidity, wind speed/direction and cloud cover; 3–10 days; source accuracy 70–75%.",
+            "Long range: IMD; seasonal rainfall; 30–40 days in the source table; source accuracy about 60%."
+          ]
+        },
+        {
+          "heading": "Methods",
+          "type": "points",
+          "content": [
+            "Synoptic method uses surface and upper-air observations from multiple locations and prepares charts of atmospheric status.",
+            "Statistical methods include multiple regression and ARIMA.",
+            "Numerical weather prediction integrates equations representing Coriolis, frictional, pressure-gradient and gravitational forces.",
+            "NWP model results depend strongly on accurate initial conditions."
+          ]
+        },
+        {
+          "heading": "Farmer use",
+          "type": "points",
+          "content": [
+            "Forecasters should understand crops grown in each agroclimatic zone.",
+            "Forecast warnings should match crop growth stages.",
+            "Farmers need to understand and interpret weather bulletins."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "55–56"
+      },
+      "related": [
+        "weather-forecasting",
+        "climate-change-and-global-warming"
+      ]
+    },
+    {
+      "slug": "climate-change-and-global-warming",
+      "title": "Climate Change and Global Warming",
+      "category": "chapter-6",
+      "definition": "Climate change is a significant long-term change in expected regional or global weather patterns; accelerated change is linked in the source to anthropogenic activities and greenhouse gases.",
+      "sections": [
+        {
+          "heading": "Climate change",
+          "type": "points",
+          "content": [
+            "Can occur over decades, centuries or much longer periods.",
+            "The source emphasizes faster recent change associated with industrialization, urbanization, deforestation, agriculture and land-use change.",
+            "Scenarios include higher temperature, changed precipitation and higher atmospheric CO2.",
+            "The greenhouse effect is described as a natural process that helps maintain a warm Earth surface."
+          ]
+        },
+        {
+          "heading": "Agricultural pathways",
+          "type": "points",
+          "content": [
+            "Higher CO2 can directly affect crop and weed growth.",
+            "CO2-driven climate changes can alter temperature, rainfall and sunshine.",
+            "Sea-level rise can inundate farmland and increase salinity of coastal groundwater.",
+            "Crop production is weather-dependent, so climate changes can affect productivity.",
+            "Elevated CO2 and temperature affect respiration, photosynthesis, growth, reproduction and water use."
+          ]
+        },
+        {
+          "heading": "GWP values",
+          "type": "points",
+          "content": [
+            "Source gives Global Warming Potential values of CO2 = 1, CH4 = 25 and N2O = 310 for the cited comparison."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "56–57"
+      },
+      "related": [
+        "climate-variability"
+      ]
+    },
+    {
+      "slug": "climate-variability",
+      "title": "Climate Variability",
+      "category": "chapter-6",
+      "definition": "Climate variability refers to temporal changes in weather phenomena associated with atmospheric circulation and natural or human-related drivers.",
+      "sections": [
+        {
+          "heading": "Meaning and impacts",
+          "type": "points",
+          "content": [
+            "Occurs from year to year and across regions.",
+            "Recurring drought and desertification threaten land-dependent livelihoods.",
+            "Weather-related disasters include droughts, floods, ice storms, dust storms, landslides, lightning-associated storms and forest fires."
+          ]
+        },
+        {
+          "heading": "External causes",
+          "type": "points",
+          "content": [
+            "Solar output changes.",
+            "Earth orbital eccentricity varies from nearly circular to more elliptical.",
+            "Precession causes wobble of Earth's axis.",
+            "Earth's axial tilt is given as varying between 21.8° and 24.4°."
+          ]
+        },
+        {
+          "heading": "Internal and anthropogenic causes",
+          "type": "points",
+          "content": [
+            "Changes in atmospheric greenhouse-gas composition.",
+            "Land-surface changes including afforestation and deforestation.",
+            "Southern Oscillation/El Niño–La Niña dynamics involving western tropical Pacific sea-surface temperature.",
+            "Anthropogenic greenhouse gases and aerosols."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "57–58"
+      },
+      "related": [
+        "climate-change-and-global-warming",
+        "enso-and-climate"
+      ]
+    },
+    {
+      "slug": "enso-and-climate",
+      "title": "El Niño, La Niña and Climate Variability",
+      "category": "chapter-6",
+      "definition": "El Niño and La Niña are natural short-term climate fluctuations associated with tropical Pacific Ocean conditions and the Southern Oscillation.",
+      "sections": [
+        {
+          "heading": "ENSO effects",
+          "type": "points",
+          "content": [
+            "El Niño is associated with tropical Pacific warming.",
+            "La Niña is associated with tropical Pacific cooling.",
+            "Strong events can produce year-to-year changes in temperature and rainfall in many regions.",
+            "The source links strong events with extreme weather such as flooding and drought.",
+            "These short-term fluctuations are described as smaller than the long-term 20th-century warming trend."
+          ]
+        },
+        {
+          "heading": "Related drivers",
+          "type": "points",
+          "content": [
+            "Southern Oscillation Index is described through normalized pressure differences between Tahiti and Darwin.",
+            "Natural variability can also arise from volcanic aerosols and changes in Earth's orbit."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "57–58"
+      },
+      "related": [
+        "climate-variability",
+        "climate-change-and-global-warming"
+      ]
+    },
+    {
+      "slug": "effects-of-climate-change-on-agriculture",
+      "title": "Effects of Climate Change on Agriculture",
+      "category": "chapter-6",
+      "definition": "Climate change affects crop production through changes in temperature, rainfall, atmospheric CO2 and related biological processes.",
+      "sections": [
+        {
+          "heading": "Major effects",
+          "type": "points",
+          "content": [
+            "Higher greenhouse-gas concentrations are expected to increase Earth's temperature.",
+            "Changes in weather can alter crop production and productivity.",
+            "Elevated CO2 and temperature affect photosynthesis, respiration, growth, reproduction and water use.",
+            "CO2 effects can differ with latitude and environmental context."
+          ]
+        },
+        {
+          "heading": "Evidence in model simulations",
+          "type": "points",
+          "content": [
+            "The source describes simulations using only natural factors as showing negligible warming or slight cooling over the 20th century.",
+            "Including greenhouse-gas emissions and other human activities produced temperature changes closer to observations in the source discussion."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "58–59"
+      },
+      "related": [
+        "climate-change-and-global-warming",
+        "climate-variability"
+      ]
+    },
+    {
+      "slug": "climate-change-mitigation-adaptation-agriculture",
+      "title": "Climate Change Mitigation and Adaptation in Agriculture",
+      "category": "chapter-6",
+      "definition": "Agricultural adaptation combines weather services, resilient crops, improved water and nutrient management, and risk-reduction practices.",
+      "sections": [
+        {
+          "heading": "Adaptation measures",
+          "type": "points",
+          "content": [
+            "Provide value-added weather services to help farmers manage current climate risks.",
+            "Shift planting dates when appropriate.",
+            "Choose varieties with different growth durations.",
+            "Modify crop rotations.",
+            "Establish early-warning systems for pest and disease outbreaks.",
+            "Use integrated pest management under changing climatic conditions.",
+            "Use participatory and formal breeding for heat-, drought- and salinity-tolerant varieties.",
+            "Develop short-duration varieties that mature before peak heat.",
+            "Select genotypes with higher per-day yield potential to offset heat-related shortening of growth periods."
+          ]
+        },
+        {
+          "heading": "Drought prevention",
+          "type": "points",
+          "content": [
+            "Use on-farm reservoirs in medium lands.",
+            "Grow pulses and oilseeds instead of rice in uplands where suitable.",
+            "Use ridge-and-furrow systems in cotton.",
+            "Use intercrops instead of pure crops in uplands.",
+            "Use land grading and leveling.",
+            "Stabilize bunds with stone and grasses.",
+            "Use graded line bunds and contour trenches for runoff collection.",
+            "Use conservation furrows, mulching and more FYM."
+          ]
+        },
+        {
+          "heading": "Efficient water and fertilizer use",
+          "type": "points",
+          "content": [
+            "Use frequent but shallow irrigation where appropriate.",
+            "Use drip and sprinkler irrigation for high-value crops.",
+            "Irrigate at critical crop stages.",
+            "Use optimum fertilizer doses and split nitrogen/potassium applications.",
+            "Use deep fertilizer placement.",
+            "Use neem, karanja and other nitrification inhibitors.",
+            "Use lime in acid soils.",
+            "Use micronutrients such as zinc where needed."
+          ]
+        }
+      ],
+      "source": {
+        "file": "Introductory-Agrometeorology-and-Climate-Change.pdf",
+        "pages": "59"
+      },
+      "related": [
+        "effects-of-climate-change-on-agriculture",
+        "weather-forecasting"
+      ]
+    }
+  ]
+}

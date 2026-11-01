@@ -1,0 +1,32 @@
+# AgriMitra — single development environment (root .venv)
+#
+# One venv for the whole project: FastAPI backend, ML model (sklearn),
+# Jupyter notebooks (crop-ml), and the PDF→topic JSON pipeline.
+#
+# Setup:
+#   uv venv && uv pip install -r requirements.txt && source .venv/bin/activate
+#
+# Python 3.14 is expected (matches the venvs this project previously used).
+
+# ---------------- backend (FastAPI) ----------------
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pymongo>=4.8
+chromadb>=0.5.5
+httpx>=0.27
+pydantic>=2.8
+pydantic-settings>=2.3
+python-dotenv>=1.0
+
+# ---------------- ML model (crop-ml) ----------------
+scikit-learn>=1.9
+joblib>=1.6
+numpy>=1.26
+scipy>=1.13
+pandas>=2.0
+matplotlib>=3.8
+jupyter
+ipykernel
+
+# ---------------- docs → topic JSON pipeline (scripts/pdf-to-json) ----------------
+pdfplumber>=0.11

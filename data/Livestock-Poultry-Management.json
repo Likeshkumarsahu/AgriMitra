@@ -1,0 +1,460 @@
+[
+  {
+    "slug": "role-of-livestock-in-national-economy",
+    "title": "Role of Livestock in National Economy",
+    "category": "Livestock & Poultry Management",
+    "definition": "Animal husbandry is an integral component of Indian agriculture supporting the livelihood of more than two-thirds of the rural population, providing nutrient-rich food products, draught power, organic manure, fuel, and acting as living capital and insurance against crop failure.",
+    "sections": [
+      {
+        "heading": "Importance in Rural Economy",
+        "type": "list",
+        "items": [
+          "Integral part of agricultural production: India accounts for ~57.3% of the world's buffalo population, 14.7% of cattle, and 20.4% of small ruminants.",
+          "Employment generation: Engages ~20.5 million workers in animal farming; agriculture overall engages ~57% of total working population and 73% of rural labour force.",
+          "Women empowerment: Over three-fourths of labour demand in livestock production is met by women, reaching ~90% in Punjab and Haryana.",
+          "Nutritional security: Contributes significantly to milk and egg availability; per capita milk availability stands at 283 g/day (vs. ICMR recommendation of 300 g/day) and egg availability at 55 eggs/year.",
+          "Income and power generation: Generates around 16% of farmer income, provides draught/draft power for ploughing, threshing, water harvesting, and transportation.",
+          "Soil fertility and by-products: Supplies dung, urine, and organic manure; provides feedstock for gobar gas plants; yields slaughterhouse by-products and medicinal inputs (serum, vaccines)."
+        ]
+      },
+      {
+        "heading": "Production of Major Livestock Products (2011-12)",
+        "type": "list",
+        "items": [
+          "Milk: 127.9 million tonnes (annual growth rate ~5%).",
+          "Eggs: 66.45 billion numbers.",
+          "Wool: 44.73 million kg.",
+          "Meat: 5.5 million tonnes (growth rate ~13%).",
+          "Fish: 86.66 lakh tonnes (33.71 lakh tonnes marine, 52.95 lakh tonnes inland)."
+        ]
+      },
+      {
+        "heading": "Major Challenges in Animal Husbandry",
+        "type": "list",
+        "items": [
+          "Low animal productivity: Indian cattle average annual milk yield is 1,172 kg (~50% of global average).",
+          "Feed and fodder deficit: Deficit of 11% dry fodder, 35% green fodder, and 28% concentrate feed; only 5% of cropped area grows fodder.",
+          "Breeding and AI constraints: Poor conception rates and limited AI infrastructure; crossbred population remains low (16.6% in cattle, 21.5% in pigs, 5.2% in sheep).",
+          "Disease outbreaks: Recurrent losses due to FMD, BQ, PPR, and avian influenza.",
+          "Inadequate infrastructure and financial support: Insufficient public expenditure (~12% of agri-budget), low formal credit share (<4%), inadequate registered slaughterhouses, and only 6% livestock insurance coverage."
+        ]
+      }
+    ],
+    "source": "Livestock & Poultry Management, Chapter 1, pp. 4-8",
+    "related": [
+      "dairy-development",
+      "livestock-census",
+      "disease-control"
+    ]
+  },
+  {
+    "slug": "reproduction-in-farm-animals-and-poultry",
+    "title": "Reproduction in Farm Animals and Poultry",
+    "category": "Reproduction & Breeding",
+    "definition": "The physiological processes, anatomical structures, and management practices involved in gametogenesis, mating, fertilization, gestation, and artificial insemination across domestic livestock and avian species.",
+    "sections": [
+      {
+        "heading": "Male Reproductive System (Mammals)",
+        "type": "list",
+        "items": [
+          "Testes: Paired ovoid organs located in scrotum, site of spermatogenesis and testosterone synthesis.",
+          "Epididymis: Coiled tube for sperm maturation, storage, and transport.",
+          "Accessory Glands: Vesicular glands (nourishment/transport medium), Prostate gland (milky fluid conferring substance and nutrients), and Bulbourethral/Cowper's glands (neutralizes urinary acid residues).",
+          "Penis Types: Vascular penis (stallion, depends on engorgement without sigmoid flexure); Fibroelastic penis (bull, ram, boar, contains S-shaped sigmoid flexure when relaxed)."
+        ]
+      },
+      {
+        "heading": "Female Reproductive System (Mammals)",
+        "type": "list",
+        "items": [
+          "Ovaries: Produce ova, estrogen (follicles), and progesterone (corpus luteum).",
+          "Oviducts (Fallopian tubes): Site of fertilization; infundibulum receives ovulated ova.",
+          "Uterus: Site of embryo incubation and development; varies from long horns (sow) to short horns (mare).",
+          "Cervix and Vagina: Cervix forms fibrous barrier and seals uterus during pregnancy; vagina acts as copulatory organ and birth canal."
+        ]
+      },
+      {
+        "heading": "Reproductive Parameters of Domestic Animals",
+        "type": "list",
+        "items": [
+          "Cow: Puberty at 24-36 months; Estrus cycle 21 days; Ovulation 10-14 hrs after heat; Gestation 280±5 days; Normal temp 99.5-101.5°F.",
+          "Buffalo: Puberty at 36-42 months; Estrus cycle 21 days; Ovulation 10-14 hrs after heat; Gestation 310±5 days; Normal temp 99-102°F.",
+          "Ewe: Puberty at 6-12 months; Estrus cycle 17 days; Ovulation at end of heat; Gestation 155 days; Normal temp 102°F.",
+          "Goat: Puberty at 6-12 months; Estrus cycle 18-20 days; Ovulation at end of heat; Gestation 155 days; Normal temp 103-104°F.",
+          "Sow: Puberty at 5-8 months; Estrus cycle 21 days; Ovulation 35 hrs after heat onset; Gestation 115 days; Normal temp 102°F."
+        ]
+      },
+      {
+        "heading": "Avian Reproductive Anatomy & Artificial Insemination",
+        "type": "list",
+        "items": [
+          "Male poultry: Testes located internally along backbone; rudimentary copulatory phallus engorges with lymph.",
+          "Female poultry: Only left ovary and oviduct are functional; oviduct comprises Infundibulum (fertilization site), Magnum (thick albumen secretion), Isthmus (shell membranes), Uterus (thin white, shell, pigment), and Vagina.",
+          "Poultry AI: Fresh diluted semen (normal saline 1:2) used within 1 hour; dose is 0.03 ml/hen; administered after 3:00 PM when oviposition is completed."
+        ]
+      }
+    ],
+    "source": "Livestock & Poultry Management, Chapter 2, pp. 9-15",
+    "related": [
+      "artificial-insemination",
+      "oestrus-cycle",
+      "poultry-reproduction"
+    ]
+  },
+  {
+    "slug": "housing-principles-and-space-requirements",
+    "title": "Housing Principles and Space Requirements for Livestock and Poultry",
+    "category": "Farm Housing & Design",
+    "definition": "Guidelines and space specifications required to provide safe, comfortable, properly ventilated, and cost-effective shelter that maximizes growth, health, and productive performance.",
+    "sections": [
+      {
+        "heading": "Core Principles of Animal Housing",
+        "type": "list",
+        "items": [
+          "Protection: Shield animals from heat, cold, rain, mud, and predatory intrusion.",
+          "Feeding & Watering: Standard manger space of 50 cm/head; provide adequate water troughs (average need is 10 litres water/100 kg live weight/day).",
+          "Ventilation & Comfort: Promote free airflow to dissipate carbon dioxide and ammonia; provide clean, non-slippery resting areas."
+        ]
+      },
+      {
+        "heading": "Space Requirements for Livestock",
+        "type": "list",
+        "items": [
+          "Bulls: 12.0 m² covered area, 120.0 m² open yard.",
+          "Cows: 3.5 m² covered area, 7.0 m² open yard.",
+          "Down Calves: 4.0 m² covered area, 8.0 m² open yard.",
+          "Young Calves: 1.0 m² covered area, 1.5 m² open yard.",
+          "Older Calves: 2.0 m² covered area, 4.0 m² open yard.",
+          "Ewe / Nanny: 1.0 - 2.0 m² covered area.",
+          "Boar: 6.0 - 7.0 m² covered area, 8.8 - 12.0 m² open yard.",
+          "Farrowing Sow: 7.0 - 9.0 m² covered area, 8.8 - 12.0 m² open yard."
+        ]
+      },
+      {
+        "heading": "Poultry Housing Systems",
+        "type": "list",
+        "items": [
+          "Free-range / Extensive: Traditional system requiring extensive open ground.",
+          "Semi-intensive: Fixed housing with 20-30 square yards run space per bird.",
+          "Folding Unit: Portable units holding ~25 birds (1 sq. ft house, 3 sq. ft run per bird), moved daily.",
+          "Battery Cage System: Cages (14 x 16 inches, 17 inches high) with sloping mesh floor and droppings tray; space saving but holds only unfertilized pullet production.",
+          "Deep Litter System: Litter (straw/sawdust) 8-12 inches deep; builds built-up dry compost generating Animal Protein Factor and vitamin B2 (riboflavin); stocking up to 250 birds per pen."
+        ]
+      }
+    ],
+    "source": "Livestock & Poultry Management, Chapter 3, pp. 16-20",
+    "related": [
+      "deep-litter-system",
+      "battery-cage",
+      "loose-housing"
+    ]
+  },
+  {
+    "slug": "management-of-calves-heifers-and-milch-animals",
+    "title": "Management of Calves, Growing Heifers and Milch Animals",
+    "category": "Cattle Management",
+    "definition": "Standard operating practices and nutritional regimens for dairy cattle across lifecycle stages, from neonatal calf care to heifer rearing and lactating cow management.",
+    "sections": [
+      {
+        "heading": "Newborn Calf Management & Colostrum Feeding",
+        "type": "list",
+        "items": [
+          "Neonatal care: Clean nostrils, stimulate respiration, cut umbilical cord 3 cm from body, treat stump with tincture of iodine.",
+          "Colostrum feeding: Administer colostrum within 2 hours of birth at 10% of body weight (superior nutrition, high vitamins A/D/E, imparts passive immunity and acts as laxative for meconium).",
+          "Calf Starter: Formulated concentrate (16% DCP, 70% TDN, ~20% quality protein) fed from day 10 onward.",
+          "Milk Replacer: Reconstituted warm liquid diet containing 50% spray-dried skim milk, 12% fat, and 22% protein."
+        ]
+      },
+      {
+        "heading": "Growing Heifer Management",
+        "type": "list",
+        "items": [
+          "Housing: Provide 2 m² covered space and 4 m² open yard per heifer from 6 months of age.",
+          "Steaming-up: Supplementary concentrate feeding (1.5 kg/day of 18% DCP, 65-70% TDN) during the last trimester of pregnancy to support foetal growth, mammary development, and future milk yields.",
+          "Challenge feeding: Increasing concentrate allowance by 500 g daily during the last 15 days before calving to acclimate the digestive tract.",
+          "Breeding benchmarks: Breed Indian heifers at 2-3 years and crossbred heifers at 1-2 years, when they attain 60% of mature body weight."
+        ]
+      },
+      {
+        "heading": "Lactating/Milch Cow Care & Feeding",
+        "type": "list",
+        "items": [
+          "Feeding rules: Indigenous cows receive 1 kg concentrate (16% DCP) per 2.5-3.0 kg milk; crossbreds/buffaloes receive 1 kg per 2.0-2.5 kg milk over maintenance allowance.",
+          "Milking hygiene: Wash udders with antiseptic solution, groom 2 hours prior to milking, follow a strict 12-hour or 8-hour schedule.",
+          "Dry Period: Provide a dry period of 60 days before the next expected calving date."
+        ]
+      }
+    ],
+    "source": "Livestock & Poultry Management, Chapter 4, pp. 21-25",
+    "related": [
+      "colostrum-feeding",
+      "steaming-up",
+      "milch-cow-ration"
+    ]
+  },
+  {
+    "slug": "management-of-sheep-goat-and-swine",
+    "title": "Management of Sheep, Goat and Swine",
+    "category": "Small Ruminants & Swine",
+    "definition": "Husbandry, nutritional strategies, and reproductive management protocols for sheep, goats, and domestic swine.",
+    "sections": [
+      {
+        "heading": "Sheep and Goat Terminology & Characteristics",
+        "type": "list",
+        "items": [
+          "Sheep (Ovis aries, 2n=54): Castrated male is wether/wedder; Mating is tupping; Parturition is lambing; Feeding style is grazing.",
+          "Goat (Capra hircus, 2n=60): Castrated male is wether; Mating is serving; Parturition is kidding; Meat is chevon; Feeding style is browsing."
+        ]
+      },
+      {
+        "heading": "Nutritional Practices for Small Ruminants",
+        "type": "list",
+        "items": [
+          "Flushing ewes: Elevating dietary nutrition 2-3 weeks before breeding season (May in India) to stimulate ovarian activity, increase ovulation, and boost twinning rates.",
+          "Creep feed for kids: 22% protein ration fed at 50-100 g/kid/day from 1 month to 2-3 months of age to support fast pre-weaning weight gains.",
+          "Colostrum in kids: Fed at 100 ml per kg body weight; may be preserved with 1-1.5% propionic acid."
+        ]
+      },
+      {
+        "heading": "Swine Production and Husbandry",
+        "type": "list",
+        "items": [
+          "Breeding biology: Gestation period is ~114 days (3 months, 3 weeks, 3 days); heat duration 2-3 days; best bred on first day (gilts) or second day (sows).",
+          "Feed conversion: High dressing percentage (65-80%) and exceptional feed conversion ratio compared to large ruminants.",
+          "Wallow requirement: Essential due to very few functional sweat glands in pigs; masonry wallows with drainage prevent heat stress."
+        ]
+      }
+    ],
+    "source": "Livestock & Poultry Management, Chapter 5, pp. 26-33",
+    "related": [
+      "flushing-ewes",
+      "piggery-management",
+      "small-ruminant-nutrition"
+    ]
+  },
+  {
+    "slug": "incubation-brooding-and-poultry-management",
+    "title": "Incubation, Hatching, Brooding, and Flock Management",
+    "category": "Poultry Management",
+    "definition": "Technical parameters governing artificial incubation of hatching eggs, brooding environment controls, and housing practices for growers, broilers, and commercial laying flocks.",
+    "sections": [
+      {
+        "heading": "Principles of Incubation",
+        "type": "list",
+        "items": [
+          "Critical physical factors: Temperature, relative humidity, adequate ventilation (O2 and CO2 levels), position (broad end up), and regular turning of eggs.",
+          "Candling: Carried out during transfer from setter to hatcher to eliminate unfertilized eggs and dead embryos."
+        ]
+      },
+      {
+        "heading": "Brooding Environmental Standards",
+        "type": "list",
+        "items": [
+          "Temperature schedule: 95°F (35°C) during week 1, reduced by 5°F each week until reaching 70°F (21.1°C).",
+          "Brooder space: 7 to 10 sq inches (45-65 cm²) per chick under hovers; a 1.8 m hover holds 500 chicks.",
+          "Hover guard: Placed 1.05 to 1.50 m from the hover edge during the first week to keep chicks near warmth."
+        ]
+      },
+      {
+        "heading": "Management Pointers for High Egg Production",
+        "type": "list",
+        "items": [
+          "Lighting: Constant 16 hours of light per day (never exceed 17 hours; never decrease photoperiod during lay).",
+          "Space allowance (Layers 17-76 wks): Deep litter requires 2.0 sq. ft/bird; Cages require 0.8 sq. ft/bird.",
+          "Starvation risks: 6 hours without feed causes immediate drop in lay; 12 hours causes molt of wing feathers; water deprivation rapidly induces forced molting.",
+          "Cannibalism prevention: Implement precision debeaking, provide adequate feeder/water space, avoid excessive light intensity, and maintain proper stocking density."
+        ]
+      }
+    ],
+    "source": "Livestock & Poultry Management, Chapter 6, pp. 34-38",
+    "related": [
+      "egg-incubation",
+      "chick-brooding",
+      "layer-lighting"
+    ]
+  },
+  {
+    "slug": "breeds-of-livestock-and-poultry",
+    "title": "Breeds of Livestock and Poultry",
+    "category": "Animal Genetics & Breeds",
+    "definition": "Morphological classification, geographic origins, and economic utility categories of indigenous and exotic breeds of cattle, buffalo, sheep, goats, swine, and chickens.",
+    "sections": [
+      {
+        "heading": "Indigenous and Exotic Cattle Breeds",
+        "type": "list",
+        "items": [
+          "Milch Breeds: Gir, Sahiwal, Red Sindhi, Tharparkar, Rathi.",
+          "Draught Breeds: Amritmahal, Hallikar, Kangayam, Khillari, Bargur, Nagori, Bachaur, Kenkatha, Malvi, Siri, Vechur.",
+          "Dual-Purpose Breeds: Hariana, Ongole, Deoni, Gaolao, Kankrej, Mewati, Krishna Valley.",
+          "Exotic Breeds: Holstein Friesian (Holland), Jersey (England), Brown Swiss (Switzerland), Guernsey (France).",
+          "Crossbred Cattle: Karan-Swiss (Brown Swiss × Sahiwal), Karan-Fries (HF × Tharparkar), Frieswal (HF × Sahiwal), Sunandini (Brown Swiss × Local)."
+        ]
+      },
+      {
+        "heading": "Buffalo Breeds",
+        "type": "list",
+        "items": [
+          "Riverine Breeds: Murrah (premier dairy breed, curled horns), Nili-Ravi, Surti, Mehsana, Jaffarabadi, Bhadawari (high milk fat).",
+          "Swamp Breeds: Found mainly in Assam and parts of Tamil Nadu (e.g., Toda buffaloes)."
+        ]
+      },
+      {
+        "heading": "Goat and Sheep Breeds",
+        "type": "list",
+        "items": [
+          "Jamunapari Goat: Tall, long-legged, Roman nose ('parrot mouth' appearance), large pendulous ears; dual-purpose (milk & meat).",
+          "Other Indian Goats: Barbari, Beetal, Sirohi, Black Bengal (high prolificacy/skin quality), Chegu/Changthangi (pashmina producers).",
+          "Indian Sheep: Chokla (fine carpet wool), Magra, Nali, Marwari, Deccani, Nellore (mutton), Mandya, Nilgiri."
+        ]
+      },
+      {
+        "heading": "Swine and Poultry Breeds",
+        "type": "list",
+        "items": [
+          "Swine: Large White Yorkshire (England), Middle White Yorkshire, Landrace (Switzerland), Berkshire, Hampshire, T&D crossbred.",
+          "Poultry Classes: American (Rhode Island Red, Plymouth Rock), Mediterranean (White Leghorn), English (Australorp, Cornish, Sussex), Asiatic (Brahma, Cochin).",
+          "Indigenous Chicken: Aseel (game bird/fighting), Kadaknath (melanic/black flesh), Naked Neck, Nicobari."
+        ]
+      }
+    ],
+    "source": "Livestock & Poultry Management, Chapter 7 & Appendix, pp. 39-46, 94-107",
+    "related": [
+      "zebu-cattle",
+      "murrah-buffalo",
+      "kadaknath"
+    ]
+  },
+  {
+    "slug": "digestion-in-ruminants-and-poultry",
+    "title": "Digestion in Livestock and Poultry",
+    "category": "Animal Physiology & Nutrition",
+    "definition": "The physiological, mechanical, and microbial mechanisms responsible for the digestion of carbohydrates, proteins, and lipids within ruminant stomachs and monogastric avian digestive tracts.",
+    "sections": [
+      {
+        "heading": "Ruminant Stomach Compartments",
+        "type": "list",
+        "items": [
+          "Rumen: Largest compartment, active microbial fermentation vat; absorbs VFAs; pH buffered between 6.2 and 6.8 by saliva (60-70 L/day).",
+          "Reticulum: Honeycomb lining; coordinates regurgitation and cud chewing; functions in conjunction with rumen.",
+          "Omasum: Manyplies structure with leaf-like tissue folds; functions in water and mineral reabsorption.",
+          "Abomasum: 'True stomach' with acid (HCl) and pepsin/enzyme secretions, comparable to monogastric stomachs."
+        ]
+      },
+      {
+        "heading": "Microbial Fermentation & By-products",
+        "type": "list",
+        "items": [
+          "Carbohydrate digestion: Cellulose, hemicellulose, and starch are converted into volatile fatty acids (VFAs: Acetic, Propionic, and Butyric acids), providing 50-70% of energy.",
+          "Fiber vs Grain diet: High-fiber roughage produces 60-70% acetic acid; high-grain concentrates increase propionic acid up to 40% (lowering milk fat percentage).",
+          "Protein synthesis: Rumen microflora hydrolyze feed proteins and non-protein nitrogen (NPN such as urea) into ammonia to assemble microbial crude protein.",
+          "Vitamin synthesis: Microorganisms synthesize all B-complex vitamins and Vitamin K in quantities sufficient for maintenance."
+        ]
+      },
+      {
+        "heading": "Calf Stomach Development",
+        "type": "list",
+        "items": [
+          "Esophageal groove reflex directs sucked milk directly past the undeveloped rumen/reticulum into the abomasum.",
+          "Functional rumen development begins at 3-4 weeks and matures to adult capacity by ~3 months of age."
+        ]
+      }
+    ],
+    "source": "Livestock & Poultry Management, Chapter 9, pp. 51-53",
+    "related": [
+      "rumen-fermentation",
+      "volatile-fatty-acids",
+      "abomasum"
+    ]
+  },
+  {
+    "slug": "feedstuffs-and-ration-formulation",
+    "title": "Classification of Feedstuffs, Proximate Principles, and Ration Formulation",
+    "category": "Feeds & Nutrition",
+    "definition": "Classification of animal feedstuffs into roughages, concentrates, supplements, and additives, along with proximate chemical analysis and ration computation principles.",
+    "sections": [
+      {
+        "heading": "Classification of Feedstuffs",
+        "type": "list",
+        "items": [
+          "Roughages: >18% Crude Fibre (CF) and <60% TDN; divided into Green/Succulent (60-90% moisture: berseem, lucerne, maize, silage) and Dry roughages (10-15% moisture: straw, stover, hay).",
+          "Concentrates: <18% CF and >60% TDN; categorized into Carbonaceous/Energy-rich (maize, barley, oats, wheat bran) and Protein-rich (groundnut cake, soybean meal, fish meal)."
+        ]
+      },
+      {
+        "heading": "Weende Proximate Analysis",
+        "type": "list",
+        "items": [
+          "Moisture: Determined by drying at 100°C; non-moisture portion represents Dry Matter (DM).",
+          "Crude Protein (CP): Measured via Kjeldahl nitrogen determination multiplied by 6.25 (assuming 16% N in protein).",
+          "Crude Fibre (CF): Insoluble carbohydrate fraction remaining after boiling in weak acid and alkali.",
+          "Ether Extract (EE): Neutral fats, lipids, and pigments extracted with petroleum ether.",
+          "Total Ash: Inorganic mineral fraction remaining after complete incineration at 600°C.",
+          "Nitrogen-Free Extract (NFE): Soluble starches and sugars calculated by difference [100 - (Moisture + CP + CF + EE + Ash)]."
+        ]
+      },
+      {
+        "heading": "Dairy Cattle Feeding Standards",
+        "type": "list",
+        "items": [
+          "Dry matter intake: 2.5% body weight for dry cows; 3.0% for lactating dairy cows.",
+          "Ration distribution: 2/3 of total DM from roughages (2/3 dry fodder + 1/3 green fodder) and 1/3 DM from concentrates.",
+          "Maintenance allowance: 1.0 - 1.5 kg concentrate for desi cows; 1.5 - 2.0 kg for crossbred cows and buffaloes.",
+          "Production allowance: 1 kg concentrate per 2.5-3 kg cow milk (or per 2.0-2.5 kg buffalo milk)."
+        ]
+      }
+    ],
+    "source": "Livestock & Poultry Management, Chapters 10, 11, 12, 13, 15, pp. 54-66, 70-74",
+    "related": [
+      "proximate-analysis",
+      "crude-protein",
+      "balanced-ration"
+    ]
+  },
+  {
+    "slug": "livestock-and-poultry-diseases-and-vaccination",
+    "title": "Diseases of Livestock and Poultry, Prevention and Vaccination Schedules",
+    "category": "Animal Health & Biosecurity",
+    "definition": "Etiology, clinical manifestations, prevention, and compulsory vaccination protocols for major viral, bacterial, parasitic, and metabolic diseases affecting farm animals and poultry.",
+    "sections": [
+      {
+        "heading": "Major Bacterial Diseases",
+        "type": "list",
+        "items": [
+          "Black Quarter (BQ, Clostridium chauvoei): Emphysematous hot, painful swellings over heavy muscles (loins/buttocks) that crackle on pressure, high fever; annual pre-monsoon vaccination in stock >6 months.",
+          "Haemorrhagic Septicaemia (HS, Pasteurella multocida): Throat oedema, severe dyspnoea, grunting, high mortality (up to 80%); pre-monsoon annual vaccination.",
+          "Anthrax (Bacillus anthracis): Sudden death, blood oozing from natural orifices, uncoagulated blood; strictly never open carcass; annual vaccination in endemic zones.",
+          "Brucellosis (Brucella abortus): Contagious abortion in late pregnancy (>5th month); zoonotic; single lifetime calfhood vaccination of female calves between 4-8 months.",
+          "Bovine Tuberculosis & Johne's Disease: Chronic wasting diseases causing emaciation and persistent diarrhoea; incurables; culled upon positive testing."
+        ]
+      },
+      {
+        "heading": "Viral and Metabolic Diseases",
+        "type": "list",
+        "items": [
+          "Foot and Mouth Disease (FMD): Vesicles in mouth and interdigital cleft, heavy drop in milk; biannual vaccination (every 6 months).",
+          "Rabies: Transmitted through bites of rabid carnivores; symptoms include hyper-excitability, salivation, bellowing, paralysis, inevitable death; post-bite vaccination regimen (days 0, 4, 7, 14, 28, 90).",
+          "Milk Fever: Hypocalcaemia occurring within 72 hours of calving; caused by sudden calcium drain into colostrum; causes sternal recumbency, paresis, and coma.",
+          "Ketosis (Acetonemia): Hypoglycaemia and ketone body accumulation 10-60 days postpartum; sweetish acetone odor in breath and milk."
+        ]
+      },
+      {
+        "heading": "Poultry Vaccination Schedule",
+        "type": "list",
+        "items": [
+          "Day 0: Marek's Disease Vaccine (HVT) — 0.2 ml subcutaneous (S/C).",
+          "1st Week: Ranikhet Disease Vaccine (RDVF / F-strain) — Eye/nasal drop (O/N).",
+          "2nd Week: Infectious Bronchitis (IB) — Eye/nasal drop (O/N).",
+          "3rd Week: Infectious Bursal Disease (IBD / Gumboro) — Eye/nasal drop (O/N).",
+          "4th-6th Week: RD La Sota booster (drinking water) and Fowl Pox (wing web puncture at 6-9 weeks)."
+        ]
+      }
+    ],
+    "source": "Livestock & Poultry Management, Chapters 16 & 17, pp. 75-93",
+    "related": [
+      "fmd-vaccine",
+      "brucellosis",
+      "mareks-disease",
+      "ranikhet-disease"
+    ]
+  }
+]

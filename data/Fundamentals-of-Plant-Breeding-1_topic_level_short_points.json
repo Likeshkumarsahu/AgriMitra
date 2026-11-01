@@ -1,0 +1,2919 @@
+{
+  "title": "Fundamentals of Plant Breeding — Topic-Level Short Points",
+  "source_file": "Fundamentals-of-Plant-Breeding-1.pdf",
+  "source_pages": 175,
+  "format_version": "topic-level-short-points-v1",
+  "extraction_style": "Deep extraction with short, separated points; topic-level organization; formulas, classifications, numerical values, named scientists, methods and source-specific examples preserved.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Historical development, concept, nature and role of plant breeding, major achievements and future prospects",
+      "pages": "4-13",
+      "topic_count": 7
+    },
+    {
+      "chapter": 2,
+      "title": "Genetics in relation to plant breeding, mode of reproduction, apomixis, self-incompatibility and male sterility",
+      "pages": "14-39",
+      "topic_count": 7
+    },
+    {
+      "chapter": 3,
+      "title": "Domestication, plant introduction and acclimatization",
+      "pages": "40-49",
+      "topic_count": 4
+    },
+    {
+      "chapter": 4,
+      "title": "Centres of origin and diversity",
+      "pages": "50-53",
+      "topic_count": 1
+    },
+    {
+      "chapter": 5,
+      "title": "Components of genetic variation, heritability and genetic advance",
+      "pages": "54-58",
+      "topic_count": 3
+    },
+    {
+      "chapter": 6,
+      "title": "Selection in self-pollinated crops",
+      "pages": "59-67",
+      "topic_count": 4
+    },
+    {
+      "chapter": 7,
+      "title": "Handling of segregating populations",
+      "pages": "68-76",
+      "topic_count": 5
+    },
+    {
+      "chapter": 8,
+      "title": "Multiline concept",
+      "pages": "77-78",
+      "topic_count": 1
+    },
+    {
+      "chapter": 9,
+      "title": "Population genetics and Hardy-Weinberg law",
+      "pages": "79-82",
+      "topic_count": 2
+    },
+    {
+      "chapter": 10,
+      "title": "Population improvement schemes",
+      "pages": "83-89",
+      "topic_count": 3
+    },
+    {
+      "chapter": 11,
+      "title": "Heterosis, inbreeding depression, inbred lines, hybrids, composites and synthetic varieties",
+      "pages": "90-118",
+      "topic_count": 7
+    },
+    {
+      "chapter": 12,
+      "title": "Methods of breeding for vegetatively propagated crops",
+      "pages": "119-123",
+      "topic_count": 2
+    },
+    {
+      "chapter": 13,
+      "title": "Maintenance of breeding records and data collection",
+      "pages": "124-127",
+      "topic_count": 3
+    },
+    {
+      "chapter": 14,
+      "title": "Wide or distant hybridization",
+      "pages": "128-137",
+      "topic_count": 3
+    },
+    {
+      "chapter": 15,
+      "title": "Mutation breeding",
+      "pages": "138-150",
+      "topic_count": 4
+    },
+    {
+      "chapter": 16,
+      "title": "Breeding for abiotic stress resistance",
+      "pages": "151-152",
+      "topic_count": 1
+    },
+    {
+      "chapter": 17,
+      "title": "DNA markers and marker assisted selection",
+      "pages": "153-167",
+      "topic_count": 5
+    },
+    {
+      "chapter": 18,
+      "title": "Intellectual property, plant breeders’ and farmers’ rights, participatory plant breeding",
+      "pages": "168-175",
+      "topic_count": 5
+    }
+  ],
+  "topics": [
+    {
+      "slug": "plant-breeding-history",
+      "title": "History and milestones of plant breeding",
+      "category": "historical_development",
+      "definition": "Plant breeding developed from deliberate selection and artificial crossing into a science based on genetics.",
+      "sections": [
+        {
+          "heading": "Early milestones",
+          "type": "points",
+          "content": [
+            "Babylonians and Assyrians artificially pollinated date palm as early as 700 BC.",
+            "Thomas Fairchild produced the first artificial hybrid in 1717.",
+            "Joseph Kolreuter studied extensive tobacco and Solanum crosses during 1760–1766.",
+            "Thomas Andrew Knight produced new fruit varieties through artificial hybridization.",
+            "Le Coutier reported wheat selection results in 1843.",
+            "Patrick Shireff practiced individual plant selection in wheat and oats.",
+            "Vilmorin proposed individual plant selection with progeny testing in 1857.",
+            "Nilsson and associates refined single-plant selection at Svalöf around 1890.",
+            "Johannsen proposed the pure-line theory in 1903.",
+            "G.H. Shull's maize work became a foundation for modern hybrid maize breeding."
+          ]
+        },
+        {
+          "heading": "Major achievements",
+          "type": "points",
+          "content": [
+            "Norman Borlaug developed Mexican semi-dwarf wheat varieties in the 1960s.",
+            "Norin 10 supplied the dwarfing gene used in Mexican semi-dwarf wheat.",
+            "M.S. Swaminathan introduced Mexican dwarf wheats into India.",
+            "IRRI used Dee-geo-woo-gen (DGWG) in development of IR 8 rice.",
+            "C.A. Barber and T.S. Venkatraman contributed to sugarcane noblisation."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 1,
+        "pages": "4-5"
+      },
+      "related": []
+    },
+    {
+      "slug": "plant-breeding-india",
+      "title": "Development of plant breeding in India",
+      "category": "historical_development",
+      "definition": "Indian plant breeding developed through agricultural departments, research institutes, coordinated projects and agricultural universities.",
+      "sections": [
+        {
+          "heading": "Institutional milestones",
+          "type": "points",
+          "content": [
+            "Department of Agriculture was created by Government of India in 1871.",
+            "Imperial Agricultural Research Institute was established at Pusa in 1905.",
+            "The institute shifted to New Delhi in 1936 after earthquake damage in 1934.",
+            "Its name changed to Indian Agricultural Research Institute in 1946.",
+            "Imperial Council of Agricultural Research was established in 1929.",
+            "It became Indian Council of Agricultural Research in 1946.",
+            "Indian Central Cotton Committee was established in 1921.",
+            "PIRRCOM began in 1956 for cotton, oilseeds and millets.",
+            "All India Coordinated Maize Improvement Project started in 1957.",
+            "First hybrid maize varieties were released by the project in 1961.",
+            "First Agricultural University was established at Pantnagar in 1960."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 1,
+        "pages": "5"
+      },
+      "related": []
+    },
+    {
+      "slug": "plant-breeding-scientists",
+      "title": "Important scientists and contributions",
+      "category": "scientists",
+      "definition": "Several classical breeding methods and concepts are associated with named scientists.",
+      "sections": [
+        {
+          "heading": "Named contributions",
+          "type": "points",
+          "content": [
+            "Allard and Bradshaw — G × E interaction.",
+            "Hull — recurrent selection for SCA.",
+            "Jenkins — recurrent selection for GCA.",
+            "Davenport — dominance hypothesis.",
+            "Flor — gene-for-gene hypothesis.",
+            "Johannsen — pure-line concept.",
+            "Harlan and Pope — backcross method.",
+            "Jones — double-cross scheme.",
+            "Jones and Davis — cytoplasmic genetic male sterility.",
+            "Hopkins — ear-to-row method.",
+            "Lonnquist — modified ear-to-row method.",
+            "Blakeslee and Nebel — colchicine.",
+            "Goulden — single-seed descent.",
+            "Lewis — self-incompatibility classification.",
+            "Vavilov — centres of diversity and law of homologous series.",
+            "Vilmorin — progeny testing.",
+            "Fairchild — first artificial hybrid.",
+            "Rimpau — triticale.",
+            "Hugo de Vries — mutation.",
+            "Shull — heterosis.",
+            "Yuan Long Ping — father of hybrid rice."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 1,
+        "pages": "6-7"
+      },
+      "related": []
+    },
+    {
+      "slug": "plant-breeding-activities",
+      "title": "Activities in plant breeding",
+      "category": "breeding_process",
+      "definition": "Plant breeding proceeds through creation or discovery of variation followed by selection, evaluation, multiplication and distribution.",
+      "sections": [
+        {
+          "heading": "Sources of variation",
+          "type": "points",
+          "content": [
+            "Naturally existing variability includes domestication, germplasm collection and introduction.",
+            "New variability can be created by hybridization.",
+            "Hybridization includes intervarietal, distant and somatic forms.",
+            "Mutation, polyploidy and somaclonal variation create new variability.",
+            "Genetic engineering is another source of new variation."
+          ]
+        },
+        {
+          "heading": "Breeding sequence",
+          "type": "points",
+          "content": [
+            "Selection identifies desirable plants or lines.",
+            "Evaluation tests performance and target traits.",
+            "Multiplication increases seed or planting material.",
+            "Distribution makes the improved material available for cultivation."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 1,
+        "pages": "8"
+      },
+      "related": []
+    },
+    {
+      "slug": "plant-breeding-definition",
+      "title": "Concept, nature and role of plant breeding",
+      "category": "concept",
+      "definition": "Plant breeding is the art, science and technology of improving plant genetic makeup for economic use and human benefit.",
+      "sections": [
+        {
+          "heading": "Core concept",
+          "type": "points",
+          "content": [
+            "Plant breeding is also described as the science of crop improvement.",
+            "It changes and improves plant heredity.",
+            "N.W. Simmonds described plant breeding as the current phase of crop evolution in 1979."
+          ]
+        },
+        {
+          "heading": "Role",
+          "type": "points",
+          "content": [
+            "Breeding converts genetic variation into agronomically useful varieties.",
+            "The programme is directed by the crop, environment and economic objective."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 1,
+        "pages": "9"
+      },
+      "related": [
+        "plant-breeding-objectives"
+      ]
+    },
+    {
+      "slug": "plant-breeding-objectives",
+      "title": "Objectives of plant breeding",
+      "category": "objectives",
+      "definition": "Objectives are crop-specific improvements in yield, quality, resistance, adaptation, maturity and other useful traits.",
+      "sections": [
+        {
+          "heading": "Yield and quality",
+          "type": "points",
+          "content": [
+            "Higher economic yield may mean grain, fodder, fibre, tuber, cane or oil yield.",
+            "Yield improvement may use high-yielding varieties or hybrids.",
+            "Quality targets include grain size, colour, milling and baking quality in wheat.",
+            "Rice breeding may target cooking quality.",
+            "Barley breeding may target malting quality.",
+            "Vegetable breeding may target nutritive and keeping quality.",
+            "Pulse breeding may target protein content.",
+            "Oilseed breeding may target oil content.",
+            "Cotton breeding may target fibre length, strength and fineness."
+          ]
+        },
+        {
+          "heading": "Stress and protection",
+          "type": "points",
+          "content": [
+            "Abiotic targets include drought, salinity, heat, cold, frost and wind resistance.",
+            "Biotic resistance targets diseases and insects.",
+            "Genetic resistance is described as an economical way to reduce losses.",
+            "Resistant donor parents can be used from the gene pool."
+          ]
+        },
+        {
+          "heading": "Plant type and maturity",
+          "type": "points",
+          "content": [
+            "Earliness reduces crop management period and may reduce insecticide use.",
+            "Early varieties can permit new crop rotations.",
+            "Cotton maturity was reduced from 270 to 170 days in the source example.",
+            "Pigeonpea maturity was reduced from 270 to 120 days.",
+            "Sugarcane maturity was reduced from 360 to 270 days.",
+            "Determinate growth is desirable in mung, pigeonpea and cotton.",
+            "Dormancy can prevent pre-harvest germination in greengram, blackgram, barley and pea.",
+            "Desirable agronomic traits include plant height, branching, tillering and growth habit.",
+            "Dwarf cereals are associated in the source with lodging resistance and fertilizer response."
+          ]
+        },
+        {
+          "heading": "Special objectives",
+          "type": "points",
+          "content": [
+            "Breeding may eliminate toxic compounds such as neurotoxin in khesari, erucic acid in Brassica and gossypol in cotton seed.",
+            "Non-shattering is important in green gram.",
+            "Synchronous maturity is desirable in crops requiring repeated pickings.",
+            "Photo- and thermo-insensitive varieties expand cultivation into new regions.",
+            "Wider adaptability helps stabilize production across environments.",
+            "Breeding can create varieties for new seasons; maize can be grown in kharif, rabi and zaid situations."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 1,
+        "pages": "9-12"
+      },
+      "related": [
+        "plant-breeding-definition"
+      ]
+    },
+    {
+      "slug": "plant-breeding-future",
+      "title": "Scope, future prospects and undesirable effects",
+      "category": "future_prospects",
+      "definition": "Future breeding combines classical genetics with molecular biology and biotechnology, while maintaining attention to genetic diversity.",
+      "sections": [
+        {
+          "heading": "Future prospects",
+          "type": "points",
+          "content": [
+            "Population growth creates continuing demand for crop improvement.",
+            "Molecular biology provides sharper tools for breeders.",
+            "Biotechnology has enabled field testing of genetically modified crops.",
+            "Genes from diverse organisms may improve biotic and abiotic stress resistance.",
+            "Plants may be engineered to produce valuable compounds such as pharmaceuticals.",
+            "The source cites transgenic Brassica napus producing hirudin as an example."
+          ]
+        },
+        {
+          "heading": "Undesirable effects",
+          "type": "points",
+          "content": [
+            "Modern improved varieties may be more uniform than landraces.",
+            "Reduced diversity can increase vulnerability to new pathogen races.",
+            "Uniform varieties may have a narrow genetic base and poorer adaptability.",
+            "Shared pedigree parents can create danger of genetic uniformity.",
+            "Plant breeding can sometimes create undesirable combinations such as Raphanobrassica and Pomato.",
+            "Strong selection for major pests and diseases may increase susceptibility to minor pests or diseases.",
+            "The source cites chickpea grey mold epidemics, Karnal bunt in wheat and mealy bugs in Bt cotton as examples."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 1,
+        "pages": "12-13"
+      },
+      "related": [
+        "plant-breeding-objectives"
+      ]
+    },
+    {
+      "slug": "genetics-breeding-basis",
+      "title": "Genetics and cytogenetics in plant breeding",
+      "category": "genetics",
+      "definition": "Genetic and cytogenetic principles provide the basis for planned crop improvement.",
+      "sections": [
+        {
+          "heading": "Important concepts",
+          "type": "points",
+          "content": [
+            "Mitosis and meiosis.",
+            "Chromosomes and chromosomal structural changes.",
+            "Numerical chromosome changes.",
+            "Mendel's laws of inheritance.",
+            "Gene interaction, linkage and crossing over.",
+            "Pleiotropy, penetrance and expressivity.",
+            "Cytoplasmic inheritance.",
+            "Polygenic and oligogenic characters.",
+            "Mutations and population genetics.",
+            "Plant biotechnology."
+          ]
+        },
+        {
+          "heading": "Mode of reproduction",
+          "type": "points",
+          "content": [
+            "Mode of reproduction determines whether crop populations are mainly homozygous or heterozygous.",
+            "Self-pollinated crops such as wheat are generally homozygous.",
+            "A homozygous line is therefore a common breeding target in self-pollinators."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 2,
+        "pages": "14"
+      },
+      "related": []
+    },
+    {
+      "slug": "vegetative-reproduction",
+      "title": "Vegetative reproduction",
+      "category": "reproduction",
+      "definition": "Asexual vegetative reproduction produces new plants from vegetative plant parts without gamete fusion.",
+      "sections": [
+        {
+          "heading": "Natural vegetative structures",
+          "type": "points",
+          "content": [
+            "Tuber — potato.",
+            "Bulb — onion and garlic.",
+            "Rhizome — ginger and turmeric.",
+            "Corm — bunda and arvi.",
+            "Sub-aerial stems include runners, stolons and suckers.",
+            "Mint and date palm are examples of crops using sub-aerial stems."
+          ]
+        },
+        {
+          "heading": "Artificial vegetative reproduction",
+          "type": "points",
+          "content": [
+            "Stem cuttings are used in sugarcane, grapes and roses.",
+            "Layering, budding, grafting and gootee are used for fruit trees and ornamentals.",
+            "Tissue culture permits vegetative multiplication in many plant species."
+          ]
+        },
+        {
+          "heading": "Breeding significance",
+          "type": "points",
+          "content": [
+            "A desirable plant can be used directly as a variety even when heterozygous.",
+            "Desirable mutant buds, branches or seedlings can be multiplied directly.",
+            "Vegetative propagation can preserve a selected genotype unchanged."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 2,
+        "pages": "15-16"
+      },
+      "related": [
+        "apomixis"
+      ]
+    },
+    {
+      "slug": "apomixis",
+      "title": "Apomixis",
+      "category": "reproduction",
+      "definition": "Apomixis is seed formation in which the embryo develops without fertilization.",
+      "sections": [
+        {
+          "heading": "Types",
+          "type": "points",
+          "content": [
+            "Apomictic progeny is generally genetically identical to the parent.",
+            "Facultative apomixis occurs when sexual reproduction can also occur.",
+            "Obligate apomixis occurs when sexual reproduction is absent.",
+            "Adventive embryony develops embryos directly from nucellus, integument or chalaza.",
+            "Apospory produces unreduced embryo sacs from ovular somatic cells.",
+            "Diplospory develops the embryo sac from the megaspore, often with modified meiosis.",
+            "Parthenogenesis develops the embryo from an embryo-sac cell without pollination.",
+            "Gonial parthenogenesis uses the egg cell.",
+            "Somatic parthenogenesis uses another embryo-sac cell.",
+            "Apogamy develops an embryo from synergids or antipodals."
+          ]
+        },
+        {
+          "heading": "Breeding significance",
+          "type": "points",
+          "content": [
+            "Apomixis is undesirable when sexual progeny, selfs or hybrids are required.",
+            "It is useful for maintaining a desirable genotype unchanged.",
+            "Apomictic reproduction can preserve selected varieties without segregation.",
+            "Asexually reproducing crops are often highly heterozygous and may show severe inbreeding depression.",
+            "Breeding programmes for such crops should avoid unnecessary inbreeding."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 2,
+        "pages": "16-17"
+      },
+      "related": [
+        "vegetative-reproduction"
+      ]
+    },
+    {
+      "slug": "sexual-reproduction",
+      "title": "Sexual reproduction and gametogenesis",
+      "category": "reproduction",
+      "definition": "Sexual reproduction involves fusion of male and female gametes to form a zygote and creates recombination.",
+      "sections": [
+        {
+          "heading": "Flower and sporogenesis",
+          "type": "points",
+          "content": [
+            "Perfect or hermaphrodite flowers contain stamens and pistil.",
+            "Staminate flowers contain stamens but not pistils.",
+            "Pistillate flowers contain pistils but not stamens.",
+            "Monoecious species have male and female flowers on the same plant.",
+            "Dioecious species have male and female flowers on different plants.",
+            "Sporogenesis is production of microspores and megaspores.",
+            "Microsporogenesis occurs in anthers.",
+            "Each pollen mother cell undergoes meiosis to produce four haploid microspores.",
+            "Megasporogenesis occurs in ovules.",
+            "A megaspore mother cell produces four haploid megaspores; usually three degenerate."
+          ]
+        },
+        {
+          "heading": "Gametogenesis",
+          "type": "points",
+          "content": [
+            "Microgametogenesis produces male gametes.",
+            "The pollen nucleus forms a generative nucleus and vegetative or tube nucleus.",
+            "The generative nucleus divides to form two sperm cells.",
+            "The pollen tube enters the ovule through the micropyle.",
+            "Megagametogenesis forms the embryo sac from the functional megaspore.",
+            "In most crops, three mitotic divisions produce eight nuclei.",
+            "The mature embryo sac generally has one egg, two synergids, three antipodals and two polar nuclei forming the diploid secondary nucleus."
+          ]
+        },
+        {
+          "heading": "Significance",
+          "type": "points",
+          "content": [
+            "Sexual reproduction combines genes from two parents.",
+            "Recombination generates many genotypes.",
+            "Hybridization uses this variation for crop improvement."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 2,
+        "pages": "18-21"
+      },
+      "related": [
+        "modes-of-pollination"
+      ]
+    },
+    {
+      "slug": "modes-of-pollination",
+      "title": "Modes of pollination and genetic consequences",
+      "category": "pollination",
+      "definition": "Pollination is transfer of pollen from anthers to stigmas; its pattern determines genetic structure and breeding strategy.",
+      "sections": [
+        {
+          "heading": "Types",
+          "type": "points",
+          "content": [
+            "Self-pollination or autogamy uses pollen from the same flower.",
+            "Cross-pollination or allogamy transfers pollen between different plants.",
+            "Geitonogamy transfers pollen between flowers of the same plant.",
+            "Genetic consequences of geitonogamy are similar to autogamy."
+          ]
+        },
+        {
+          "heading": "Self-pollination mechanisms",
+          "type": "points",
+          "content": [
+            "Cleistogamy prevents flower opening and promotes complete self-pollination.",
+            "Some cereals open only after pollination.",
+            "In tomato and brinjal, anthers closely surround the stigma.",
+            "In legumes, floral organs enclose anthers and stigma within the keel.",
+            "These mechanisms make self-pollination efficient."
+          ]
+        },
+        {
+          "heading": "Genetic consequence",
+          "type": "points",
+          "content": [
+            "Self-pollination rapidly increases homozygosity.",
+            "Self-pollinated populations are highly homozygous.",
+            "The source states that self-pollinated species generally do not show inbreeding depression.",
+            "Breeding usually aims at developing homozygous varieties."
+          ]
+        },
+        {
+          "heading": "Cross-pollination mechanisms",
+          "type": "points",
+          "content": [
+            "Dicliny produces separate staminate and pistillate flowers.",
+            "Monoecy has male and female flowers on the same plant.",
+            "Dioecy has male and female flowers on different plants.",
+            "Protogyny means pistils mature before stamens; bajra is an example.",
+            "Protandry means stamens mature before pistils; maize and sugarbeet are examples.",
+            "Honey bees break the waxy film over alfalfa stigmas and facilitate pollination.",
+            "Self-incompatibility prevents successful self-fertilization.",
+            "Male sterility produces nonfunctional pollen."
+          ]
+        },
+        {
+          "heading": "Genetic consequence",
+          "type": "points",
+          "content": [
+            "Cross-pollination preserves and promotes heterozygosity.",
+            "Cross-pollinated species may show inbreeding depression.",
+            "They often show considerable heterosis.",
+            "Breeding may aim at hybrid or synthetic varieties."
+          ]
+        },
+        {
+          "heading": "Often cross-pollinated crops",
+          "type": "points",
+          "content": [
+            "Jowar, cotton, arhar and safflower are cited as often cross-pollinated.",
+            "Cross-pollination can exceed 5% and may reach about 30% in such crops.",
+            "Their genetic architecture is intermediate between self- and cross-pollinated crops."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 2,
+        "pages": "21-24"
+      },
+      "related": [
+        "self-incompatibility",
+        "male-sterility"
+      ]
+    },
+    {
+      "slug": "self-incompatibility",
+      "title": "Self-incompatibility",
+      "category": "reproductive_barriers",
+      "definition": "Self-incompatibility is failure of pollen from a flower or plant to fertilize compatible female tissue on the same plant.",
+      "sections": [
+        {
+          "heading": "Classification",
+          "type": "points",
+          "content": [
+            "More than 300 species in about 20 angiosperm families show self-incompatibility in the source.",
+            "Heteromorphic and homomorphic systems are recognized.",
+            "Homomorphic systems include gametophytic and sporophytic control."
+          ]
+        },
+        {
+          "heading": "Heteromorphic system",
+          "type": "points",
+          "content": [
+            "Flower morphology differs between incompatibility groups.",
+            "Primula has pin and thrum forms; this is distyly.",
+            "Lythrum shows tristyly.",
+            "In distyly, compatible mating occurs between pin and thrum flowers.",
+            "The source gives Ss for thrum and ss for pin.",
+            "Pin × thrum produces Ss and ss progeny in equal frequencies."
+          ]
+        },
+        {
+          "heading": "Gametophytic system",
+          "type": "points",
+          "content": [
+            "Pollen incompatibility is determined by its own genotype.",
+            "A single S locus with multiple alleles commonly controls the system.",
+            "Pollen carrying an S allele is rejected by stylar tissue carrying the same allele.",
+            "Examples include Trifolium, Nicotiana, Lycopersicon, Solanum and Petunia.",
+            "S1S2 × S1S2 is fully incompatible.",
+            "S1S2 × S3S4 is fully compatible.",
+            "S1S2 × S2S3 is partially compatible; about 50% pollen is compatible."
+          ]
+        },
+        {
+          "heading": "Sporophytic system",
+          "type": "points",
+          "content": [
+            "Pollen reaction is determined by the genotype of the plant producing the pollen.",
+            "More than 30 S alleles are reported in Brassica oleracea in the source.",
+            "Dominance, codominance or competition can occur among S alleles.",
+            "Radish, diploid Brassica and Sinapis are examples.",
+            "Reciprocal differences may occur.",
+            "Homozygotes can occur as normal members of the system."
+          ]
+        },
+        {
+          "heading": "Mechanism and breeding use",
+          "type": "points",
+          "content": [
+            "Pollen-stigma, pollen tube-style and pollen tube-ovule interactions can block fertilization.",
+            "Gametophytic incompatibility often blocks pollen-tube growth in the stigma or style.",
+            "Sporophytic incompatibility commonly acts at the stigma.",
+            "Self-incompatibility can be exploited for hybrid seed production.",
+            "Two self-incompatible but cross-compatible lines can be interplanted to produce hybrid seed.",
+            "Environmental conditions such as high temperature and humidity can reduce incompatibility and increase selfed seed."
+          ]
+        },
+        {
+          "heading": "Temporary suppression",
+          "type": "points",
+          "content": [
+            "Bud pollination uses mature pollen on immature stigma about 1–2 days before anthesis.",
+            "Surgical removal of stigma or style can permit incompatible crosses in some species.",
+            "End-of-season pollination may exploit reduced incompatibility late in flowering.",
+            "The source reports temperatures up to 60°C inducing pseudofertility in some crops.",
+            "X-rays or gamma-rays can temporarily suppress incompatibility in some systems.",
+            "Grafting and double pollination have also been reported."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 2,
+        "pages": "25-32"
+      },
+      "related": [
+        "modes-of-pollination",
+        "male-sterility"
+      ]
+    },
+    {
+      "slug": "male-sterility",
+      "title": "Male sterility",
+      "category": "reproductive_barriers",
+      "definition": "Male sterility is production of nonfunctional pollen while female fertility remains functional.",
+      "sections": [
+        {
+          "heading": "Types",
+          "type": "points",
+          "content": [
+            "Genetic male sterility is usually controlled by a recessive ms gene.",
+            "Dominant male-sterility genes are also known, including in safflower.",
+            "Cytoplasmic male sterility is controlled by cytoplasm.",
+            "Cytoplasmic-genetic male sterility combines sterile cytoplasm with nuclear fertility-restorer genes."
+          ]
+        },
+        {
+          "heading": "Genetic male sterility",
+          "type": "points",
+          "content": [
+            "ms ms × Ms ms gives about 1:1 male-sterile and male-fertile progeny.",
+            "Male-sterile and maintainer lines can be isogenic except at the ms locus.",
+            "Male-fertile plants must be identified and removed from the female line before pollen shedding.",
+            "This rouging requirement increases hybrid-seed production cost.",
+            "The source notes commercial use in castor in the USA and arhar in India."
+          ]
+        },
+        {
+          "heading": "Cytoplasmic male sterility",
+          "type": "points",
+          "content": [
+            "Cytoplasm is inherited mainly through the egg, so progeny of a male-sterile female remain male sterile.",
+            "A recurrent pollinator can maintain the male-sterile A line.",
+            "The fertile maintainer is called the B line.",
+            "The source associates CMS genes particularly with mitochondria in maize."
+          ]
+        },
+        {
+          "heading": "Cytoplasmic-genetic system",
+          "type": "points",
+          "content": [
+            "A dominant nuclear restorer gene R restores fertility in sterile cytoplasm.",
+            "rr plants remain male sterile with male-sterile cytoplasm.",
+            "Rr or RR plants are male fertile.",
+            "The system is known in maize, jowar, bajra, sunflower, rice and wheat.",
+            "Restorer genes can be transferred through backcrossing."
+          ]
+        },
+        {
+          "heading": "Hybrid seed production",
+          "type": "points",
+          "content": [
+            "Removal of anthers before fertilization is essential when manual emasculation is required.",
+            "Male sterility reduces the need for repeated emasculation.",
+            "A, B and R lines are central to CMS-based hybrid systems."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 2,
+        "pages": "33-39"
+      },
+      "related": [
+        "self-incompatibility"
+      ]
+    },
+    {
+      "slug": "domestication",
+      "title": "Domestication",
+      "category": "domestication",
+      "definition": "Domestication is the evolutionary and human-directed transformation of wild plants into cultivated forms.",
+      "sections": [
+        {
+          "heading": "Key features",
+          "type": "points",
+          "content": [
+            "Domestication begins with selection and cultivation of useful plants.",
+            "Selection under cultivation changes plant form, reproduction and adaptation.",
+            "Domestication is a major source of cultivated crop diversity."
+          ]
+        },
+        {
+          "heading": "Breeding relevance",
+          "type": "points",
+          "content": [
+            "Domesticated material provides variation for selection.",
+            "Traits associated with cultivation can differ markedly from wild relatives.",
+            "Domestication history helps breeders understand available variation."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 3,
+        "pages": "40-41"
+      },
+      "related": []
+    },
+    {
+      "slug": "plant-introduction",
+      "title": "Plant introduction",
+      "category": "plant_introduction",
+      "definition": "Plant introduction is bringing crop germplasm from one geographical region into another for cultivation, breeding or evaluation.",
+      "sections": [
+        {
+          "heading": "Types and purpose",
+          "type": "points",
+          "content": [
+            "Introductions may be primary or secondary.",
+            "Primary introduction can be directly cultivated after testing and selection.",
+            "Secondary introduction is used as breeding material and may produce improved varieties after crossing or selection.",
+            "The source cites popularization of grape cultivation in Haryana and introduction of wheat as examples."
+          ]
+        },
+        {
+          "heading": "History and institutions",
+          "type": "points",
+          "content": [
+            "Crop plants have been moved into new regions throughout agricultural history.",
+            "The source describes an organized Indian plant-introduction programme supported by ICAR from 1956.",
+            "NBPGR is identified with national management of agricultural and horticultural germplasm.",
+            "The Botanical Survey of India is associated with botanical and medicinal plant resources."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 3,
+        "pages": "40-44"
+      },
+      "related": [
+        "germplasm-collection"
+      ]
+    },
+    {
+      "slug": "plant-introduction-procedure",
+      "title": "Procedure and purposes of plant introduction",
+      "category": "plant_introduction",
+      "definition": "Introduction requires procurement, quarantine, evaluation and multiplication before safe use.",
+      "sections": [
+        {
+          "heading": "Procedure",
+          "type": "points",
+          "content": [
+            "Procurement of planting material is the first step.",
+            "Imported material is subjected to quarantine.",
+            "Introductions are evaluated for adaptation and useful traits.",
+            "Selected material is multiplied after successful evaluation.",
+            "Promising introductions can be released as varieties after required trials."
+          ]
+        },
+        {
+          "heading": "Purpose",
+          "type": "points",
+          "content": [
+            "Introduce useful variation into breeding programmes.",
+            "Obtain traits not available in local material.",
+            "Provide material for direct cultivation after adaptation.",
+            "Support diversification of crops and growing regions."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 3,
+        "pages": "44-46"
+      },
+      "related": [
+        "plant-introduction"
+      ]
+    },
+    {
+      "slug": "germplasm-collection",
+      "title": "Germplasm collection and conservation",
+      "category": "germplasm",
+      "definition": "Germplasm collection assembles genetic resources needed for present and future crop improvement.",
+      "sections": [
+        {
+          "heading": "Collection",
+          "type": "points",
+          "content": [
+            "Germplasm may be collected from cultivated and wild material.",
+            "Collections preserve genetic diversity for breeding.",
+            "Characterization and evaluation identify useful accessions."
+          ]
+        },
+        {
+          "heading": "Breeding value",
+          "type": "points",
+          "content": [
+            "Germplasm supplies donors for disease, insect, quality and stress traits.",
+            "Exotic and indigenous material can broaden the genetic base.",
+            "Conserved accessions support future breeding when new traits are required."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 3,
+        "pages": "47-49"
+      },
+      "related": [
+        "plant-introduction"
+      ]
+    },
+    {
+      "slug": "centres-of-origin",
+      "title": "Centres of origin and diversity",
+      "category": "genetic_resources",
+      "definition": "Centres of origin and diversity identify regions where crops or their diversity are concentrated.",
+      "sections": [
+        {
+          "heading": "Vavilov concept",
+          "type": "points",
+          "content": [
+            "Vavilov developed the concept of centres of diversity.",
+            "Centres of diversity are important sources of genetic variability.",
+            "The law of homologous series is also associated with Vavilov."
+          ]
+        },
+        {
+          "heading": "Breeding significance",
+          "type": "points",
+          "content": [
+            "Regions rich in diversity can provide germplasm for crop improvement.",
+            "Wild and cultivated forms in diversity centres can supply useful alleles.",
+            "Knowledge of origin helps guide exploration and germplasm collection."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 4,
+        "pages": "50-53"
+      },
+      "related": [
+        "germplasm-collection"
+      ]
+    },
+    {
+      "slug": "genetic-variation-components",
+      "title": "Components of genetic variation",
+      "category": "quantitative_genetics",
+      "definition": "Observed phenotypic variation is partitioned into genetic and environmental components for selection decisions.",
+      "sections": [
+        {
+          "heading": "Variance components",
+          "type": "points",
+          "content": [
+            "Phenotypic variation contains genetic and environmental components.",
+            "Genetic variation includes additive and non-additive effects.",
+            "Environmental variation can mask genetic differences.",
+            "Genotype × environment interaction contributes to observed performance across environments."
+          ]
+        },
+        {
+          "heading": "Breeding significance",
+          "type": "points",
+          "content": [
+            "Selection is effective when useful variation is heritable.",
+            "Partitioning variation helps predict response to selection.",
+            "Heritability and genetic advance are used together as selection parameters."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 5,
+        "pages": "54-55"
+      },
+      "related": [
+        "heritability",
+        "genetic-advance"
+      ]
+    },
+    {
+      "slug": "heritability",
+      "title": "Heritability",
+      "category": "quantitative_genetics",
+      "definition": "Heritability measures the proportion of phenotypic variance attributable to genetic variance in a specified population and environment.",
+      "sections": [
+        {
+          "heading": "Broad-sense heritability",
+          "type": "formula",
+          "content": [
+            "Broad-sense heritability is the proportion of total phenotypic variance due to total genetic variance.",
+            "H² = Vg / Vp.",
+            "The source also expresses estimation using variance components from generations such as VF2 and VF1."
+          ]
+        },
+        {
+          "heading": "Narrow-sense heritability",
+          "type": "formula",
+          "content": [
+            "Narrow-sense heritability focuses on additive genetic variance.",
+            "It is especially relevant to response from selection because additive effects are transmitted predictably."
+          ]
+        },
+        {
+          "heading": "Interpretation",
+          "type": "points",
+          "content": [
+            "Heritability is population- and environment-dependent.",
+            "High heritability does not by itself guarantee large genetic gain.",
+            "Genetic advance should be considered with heritability."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 5,
+        "pages": "55-57"
+      },
+      "related": [
+        "genetic-variation-components",
+        "genetic-advance"
+      ]
+    },
+    {
+      "slug": "genetic-advance",
+      "title": "Genetic advance",
+      "category": "quantitative_genetics",
+      "definition": "Genetic advance is the expected improvement in mean genotypic value from selection.",
+      "sections": [
+        {
+          "heading": "Measures",
+          "type": "formula",
+          "content": [
+            "Genetic advance is the difference between mean genotypic value of selected lines and the original population.",
+            "Genetic advance as percent of mean = Genetic advance / population mean × 100.",
+            "The source classifies GA% mean as low below 10%, moderate at 10–20% and high above 20%."
+          ]
+        },
+        {
+          "heading": "Joint interpretation",
+          "type": "points",
+          "content": [
+            "High heritability + high genetic advance suggests additive gene effects and effective selection.",
+            "High heritability + low genetic advance suggests greater non-additive effects and less rewarding direct selection.",
+            "Low heritability + high genetic advance can occur when additive effects exist but environmental effects are large.",
+            "Low heritability + low genetic advance suggests strong environmental influence and ineffective selection."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 5,
+        "pages": "57-58"
+      },
+      "related": [
+        "heritability"
+      ]
+    },
+    {
+      "slug": "pure-line-selection",
+      "title": "Pure-line theory and selection",
+      "category": "selection",
+      "definition": "A pure line is the progeny of a single self-fertilized homozygous plant.",
+      "sections": [
+        {
+          "heading": "Johannsen's findings",
+          "type": "points",
+          "content": [
+            "Johannsen studied Phaseolus vulgaris, variety Princess.",
+            "A market seed lot contained mixtures of larger and smaller seeds.",
+            "Selection produced genetically distinct pure lines.",
+            "Variation within a pure line was attributed to environment.",
+            "Selection within a pure line was ineffective because individuals were genetically homozygous."
+          ]
+        },
+        {
+          "heading": "Requirements and value",
+          "type": "points",
+          "content": [
+            "Successful selection requires variation.",
+            "The variation must be heritable.",
+            "Progeny testing helps distinguish genetic from environmental performance.",
+            "Pure-line selection is particularly useful in self-pollinated crops."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 6,
+        "pages": "59-61"
+      },
+      "related": [
+        "hybridization-self-pollinated"
+      ]
+    },
+    {
+      "slug": "pureline-selection-method",
+      "title": "Pure-line selection method: merits and limitations",
+      "category": "selection",
+      "definition": "Pure-line selection identifies superior individual plants from a variable self-pollinated population and evaluates their progenies.",
+      "sections": [
+        {
+          "heading": "Method",
+          "type": "points",
+          "content": [
+            "Select superior individual plants from a heterogeneous population.",
+            "Grow progenies separately.",
+            "Compare progenies for uniformity and target traits.",
+            "Discard inferior lines.",
+            "Test promising pure lines in yield and adaptation trials.",
+            "Multiply and release the superior line after confirmation."
+          ]
+        },
+        {
+          "heading": "Merits",
+          "type": "points",
+          "content": [
+            "Produces highly uniform varieties.",
+            "Useful for self-pollinated crops.",
+            "Uses existing variability without requiring a planned cross."
+          ]
+        },
+        {
+          "heading": "Limitations",
+          "type": "points",
+          "content": [
+            "Selection cannot create new genetic variation within an already pure line.",
+            "The method depends on available variability.",
+            "Narrow genetic base can result if the source population is limited."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 6,
+        "pages": "60-62"
+      },
+      "related": [
+        "pure-line-selection"
+      ]
+    },
+    {
+      "slug": "hybridization-self-pollinated",
+      "title": "Hybridization in self-pollinated crops",
+      "category": "hybridization",
+      "definition": "Hybridization combines desirable genes from different parents to create new segregating variation.",
+      "sections": [
+        {
+          "heading": "Objectives",
+          "type": "points",
+          "content": [
+            "Combine complementary characters from parents.",
+            "Transfer specific resistance or quality traits.",
+            "Create transgressive segregants.",
+            "Generate variation not present in a single parent."
+          ]
+        },
+        {
+          "heading": "Types",
+          "type": "points",
+          "content": [
+            "Intervarietal hybridization crosses varieties of the same species.",
+            "Distant hybridization uses more remote parents.",
+            "Somatic hybridization can combine cells or genomes through tissue-culture approaches."
+          ]
+        },
+        {
+          "heading": "Basic procedure",
+          "type": "points",
+          "content": [
+            "Select suitable parents.",
+            "Synchronize flowering.",
+            "Emasculate the female parent where needed.",
+            "Bag and protect the female flower.",
+            "Apply pollen from the selected male parent.",
+            "Tag and record the cross.",
+            "Harvest and store F1 seed separately.",
+            "Grow F1 plants to confirm hybridity."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 6,
+        "pages": "62-67"
+      },
+      "related": [
+        "emasculation"
+      ]
+    },
+    {
+      "slug": "emasculation",
+      "title": "Emasculation and controlled crossing",
+      "category": "hybridization",
+      "definition": "Emasculation removes or disables anthers of the female parent before pollen shedding to prevent unwanted selfing.",
+      "sections": [
+        {
+          "heading": "Methods",
+          "type": "points",
+          "content": [
+            "Hand emasculation removes anthers manually.",
+            "Hot-water treatment can kill pollen without removing floral parts.",
+            "Alcohol treatment can sterilize or kill pollen in suitable crops.",
+            "Suction methods can remove pollen from some flowers.",
+            "Male-sterility systems can replace manual emasculation."
+          ]
+        },
+        {
+          "heading": "Crossing steps",
+          "type": "points",
+          "content": [
+            "Emasculate at the appropriate floral stage.",
+            "Bag the emasculated flower.",
+            "Collect mature pollen from the male parent.",
+            "Pollinate the receptive stigma.",
+            "Rebag to prevent contamination.",
+            "Label the cross with parent identities and date.",
+            "Harvest crossed heads or pods after seed maturation.",
+            "Store F1 seed with original tags."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 6,
+        "pages": "64-67"
+      },
+      "related": [
+        "hybridization-self-pollinated",
+        "male-sterility"
+      ]
+    },
+    {
+      "slug": "segregating-populations",
+      "title": "Segregating populations and transgressive segregation",
+      "category": "segregating_population",
+      "definition": "F2 and later generations after selfing an F1 segregate for parental genes; some individuals may exceed both parents.",
+      "sections": [
+        {
+          "heading": "Concept",
+          "type": "points",
+          "content": [
+            "F2 and onward generations are called segregating generations.",
+            "Transgressive segregation produces individuals exceeding either parent for one or more characters.",
+            "Transgressive breeding exploits these superior segregants."
+          ]
+        },
+        {
+          "heading": "Main methods",
+          "type": "points",
+          "content": [
+            "Pedigree breeding.",
+            "Bulk breeding.",
+            "Single-seed descent.",
+            "Backcross breeding.",
+            "Multiple-cross breeding."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 7,
+        "pages": "68"
+      },
+      "related": [
+        "pedigree-breeding",
+        "bulk-breeding",
+        "single-seed-descent",
+        "backcross-breeding"
+      ]
+    },
+    {
+      "slug": "pedigree-breeding",
+      "title": "Pedigree method",
+      "category": "segregating_population",
+      "definition": "Pedigree breeding selects individual plants and records their ancestry generation by generation until desirable lines become sufficiently homozygous.",
+      "sections": [
+        {
+          "heading": "Procedure",
+          "type": "points",
+          "content": [
+            "F1 plants are space planted to obtain F2 seed.",
+            "About 2,000–10,000 F2 plants may be grown in the source procedure.",
+            "About 200–500 desirable F2 plants are selected.",
+            "Selected plants are grown as separate progenies in F3.",
+            "About 3–5 best plants may be selected from each superior row.",
+            "The process continues through F4 and F5; about 20–50 families may be retained at F5.",
+            "By F6 many lines become homozygous and uniform.",
+            "F7 preliminary yield trials are conducted.",
+            "F8–F10 confirm superior lines across trials.",
+            "F10–F11 seed is multiplied and distributed."
+          ]
+        },
+        {
+          "heading": "Merits and limitations",
+          "type": "points",
+          "content": [
+            "Provides information on inheritance.",
+            "Allows breeder judgement during selection.",
+            "Can recover useful transgressive segregants.",
+            "Accurate pedigree records require substantial time.",
+            "Large selected material becomes difficult to handle.",
+            "Success depends on breeder skill."
+          ]
+        },
+        {
+          "heading": "Modified form",
+          "type": "points",
+          "content": [
+            "Mass pedigree method combines bulk handling when selection conditions are unfavorable with pedigree selection when conditions are favorable."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 7,
+        "pages": "68-70"
+      },
+      "related": [
+        "segregating-populations",
+        "bulk-breeding"
+      ]
+    },
+    {
+      "slug": "bulk-breeding",
+      "title": "Bulk method",
+      "category": "segregating_population",
+      "definition": "Bulk breeding advances segregating generations in bulk and postpones intensive individual-plant selection until later generations.",
+      "sections": [
+        {
+          "heading": "Procedure",
+          "type": "points",
+          "content": [
+            "F1 plants are grown and F2 seed is harvested in bulk.",
+            "F2 to about F5 generations are grown as bulk populations with little or no deliberate selection.",
+            "F6 is space planted for single-plant selection.",
+            "Selected plants are grown as separate progenies in F7.",
+            "Preliminary yield testing begins around F8–F9.",
+            "Multi-location trials are conducted in later generations.",
+            "The source gives F9–F12 as a typical testing and multiplication period."
+          ]
+        },
+        {
+          "heading": "Merits",
+          "type": "points",
+          "content": [
+            "Simple and convenient.",
+            "Inexpensive and less labour-intensive.",
+            "No detailed pedigree records are required.",
+            "Natural selection operates during early generations.",
+            "Useful for studying survival of genes and genotypes."
+          ]
+        },
+        {
+          "heading": "Limitations",
+          "type": "points",
+          "content": [
+            "May take longer to develop a variety.",
+            "Breeder has less opportunity for early selection.",
+            "Inheritance information is limited.",
+            "Natural selection may favor survival rather than highest economic yield."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 7,
+        "pages": "70-72"
+      },
+      "related": [
+        "pedigree-breeding",
+        "single-seed-descent"
+      ]
+    },
+    {
+      "slug": "single-seed-descent",
+      "title": "Single-seed descent",
+      "category": "segregating_population",
+      "definition": "Single-seed descent rapidly advances segregating generations by taking one seed from each plant for the next generation.",
+      "sections": [
+        {
+          "heading": "Core method",
+          "type": "points",
+          "content": [
+            "The method was suggested by Goulden in 1939.",
+            "One seed from each plant is carried forward generation after generation.",
+            "Rapid generation advance increases homozygosity without early intensive selection.",
+            "Individual plants or lines are evaluated after sufficient homozygosity."
+          ]
+        },
+        {
+          "heading": "Use",
+          "type": "points",
+          "content": [
+            "Useful when large segregating populations must be advanced quickly.",
+            "Reduces space and record requirements during early generations.",
+            "Selection is concentrated after advanced generations are obtained."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 7,
+        "pages": "72-73"
+      },
+      "related": [
+        "bulk-breeding",
+        "pedigree-breeding"
+      ]
+    },
+    {
+      "slug": "backcross-breeding",
+      "title": "Backcross breeding",
+      "category": "segregating_population",
+      "definition": "Backcross breeding repeatedly crosses a hybrid to one recurrent parent to transfer a specific desirable trait.",
+      "sections": [
+        {
+          "heading": "Concept",
+          "type": "points",
+          "content": [
+            "The recurrent parent supplies most of the final genetic background.",
+            "The donor parent supplies the target gene or trait.",
+            "Repeated backcrossing recovers the recurrent-parent genotype.",
+            "Selection is made for the desired donor trait during the process."
+          ]
+        },
+        {
+          "heading": "Use",
+          "type": "points",
+          "content": [
+            "Useful for transferring disease or insect resistance.",
+            "Useful for transferring a specific quality or stress trait.",
+            "Particularly effective when the donor character is readily identifiable."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 7,
+        "pages": "73-76"
+      },
+      "related": [
+        "segregating-populations",
+        "wide-hybridization"
+      ]
+    },
+    {
+      "slug": "multiline-concept",
+      "title": "Multiline concept",
+      "category": "disease_management",
+      "definition": "A multiline variety is a mixture of genetically similar lines that differ mainly in resistance genes or another specific feature.",
+      "sections": [
+        {
+          "heading": "Concept",
+          "type": "points",
+          "content": [
+            "Lines in a multiline have a common or similar genetic background.",
+            "They differ for specific resistance genes.",
+            "A multiline reduces uniform vulnerability to a pathogen population.",
+            "The approach was associated in the source with Jenson."
+          ]
+        },
+        {
+          "heading": "Procedure",
+          "type": "points",
+          "content": [
+            "Develop or identify lines differing for the desired resistance genes.",
+            "Select lines that are similar for agronomic background.",
+            "Combine the component lines in an appropriate proportion.",
+            "Evaluate the mixture for agronomic performance and disease response."
+          ]
+        },
+        {
+          "heading": "Applications",
+          "type": "points",
+          "content": [
+            "Main application is management of diseases with variable pathogen populations.",
+            "Useful where uniform single-gene resistance is vulnerable to pathogen change."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 8,
+        "pages": "77-78"
+      },
+      "related": [
+        "backcross-breeding"
+      ]
+    },
+    {
+      "slug": "hardy-weinberg",
+      "title": "Hardy-Weinberg law",
+      "category": "population_genetics",
+      "definition": "Under specified assumptions, allele and genotype frequencies remain constant across generations in a random-mating population.",
+      "sections": [
+        {
+          "heading": "Law",
+          "type": "formula",
+          "content": [
+            "For two alleles A and a, p + q = 1.",
+            "Expected genotype frequencies are p² AA, 2pq Aa and q² aa.",
+            "Equilibrium means genotype frequencies remain stable from generation to generation.",
+            "The law was independently developed by Hardy in 1908 and Weinberg in 1909."
+          ]
+        },
+        {
+          "heading": "Assumptions",
+          "type": "points",
+          "content": [
+            "Random mating.",
+            "No selection.",
+            "No mutation.",
+            "No migration.",
+            "No random genetic drift.",
+            "A sufficiently large Mendelian population is implied by the equilibrium model."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 9,
+        "pages": "79-80"
+      },
+      "related": [
+        "population-forces"
+      ]
+    },
+    {
+      "slug": "population-forces",
+      "title": "Forces changing population equilibrium",
+      "category": "population_genetics",
+      "definition": "Evolutionary forces alter allele frequencies and therefore disturb Hardy-Weinberg equilibrium.",
+      "sections": [
+        {
+          "heading": "Forces",
+          "type": "points",
+          "content": [
+            "Selection changes reproductive contribution of genotypes.",
+            "Mutation introduces new alleles or changes existing alleles.",
+            "Migration moves genes between populations.",
+            "Genetic drift changes frequencies through random sampling.",
+            "Non-random mating changes genotype frequencies.",
+            "These forces are treated as evolutionary forces because they change population genetic structure."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 9,
+        "pages": "80-82"
+      },
+      "related": [
+        "hardy-weinberg"
+      ]
+    },
+    {
+      "slug": "population-improvement",
+      "title": "Population improvement schemes",
+      "category": "population_improvement",
+      "definition": "Population improvement increases the frequency of desirable alleles in cross-pollinated populations while retaining useful heterozygosity.",
+      "sections": [
+        {
+          "heading": "Basis",
+          "type": "points",
+          "content": [
+            "Cross-pollinated crops are highly heterozygous and heterogeneous.",
+            "Inbreeding should be avoided or minimized because of inbreeding depression.",
+            "Individual genotypes are less important than allele frequencies in population improvement.",
+            "Selection can be with or without progeny testing."
+          ]
+        },
+        {
+          "heading": "Classes",
+          "type": "points",
+          "content": [
+            "Selection without progeny testing includes mass selection.",
+            "Selection with progeny testing includes progeny selection, line breeding and recurrent selection."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 10,
+        "pages": "83"
+      },
+      "related": [
+        "mass-selection",
+        "recurrent-selection"
+      ]
+    },
+    {
+      "slug": "mass-selection",
+      "title": "Mass selection",
+      "category": "population_improvement",
+      "definition": "Mass selection chooses many superior plants phenotypically and mixes their seed to form the next generation.",
+      "sections": [
+        {
+          "heading": "Procedure",
+          "type": "points",
+          "content": [
+            "Select plants based on phenotype.",
+            "Allow selected plants to intermate or open-pollinate according to the scheme.",
+            "Harvest seed from selected plants as required by the method.",
+            "Use the selected bulk as the next breeding population.",
+            "Repeat cycles when further improvement is required."
+          ]
+        },
+        {
+          "heading": "Use",
+          "type": "points",
+          "content": [
+            "Simple method for increasing frequency of favorable phenotypes.",
+            "Useful when target traits have adequate heritability.",
+            "Does not require detailed progeny testing."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 10,
+        "pages": "83-85"
+      },
+      "related": [
+        "population-improvement",
+        "pedigree-breeding"
+      ]
+    },
+    {
+      "slug": "recurrent-selection",
+      "title": "Recurrent selection",
+      "category": "population_improvement",
+      "definition": "Recurrent selection repeatedly selects superior plants or progenies, intermates selected material and recombines favorable alleles.",
+      "sections": [
+        {
+          "heading": "Purpose",
+          "type": "points",
+          "content": [
+            "Increase frequency of favorable alleles.",
+            "Maintain sufficient genetic variability for continued selection.",
+            "Improve a population over repeated cycles."
+          ]
+        },
+        {
+          "heading": "Forms",
+          "type": "points",
+          "content": [
+            "Recurrent selection for general combining ability targets performance with a tester or reference population.",
+            "Recurrent selection for specific combining ability targets performance in a particular cross combination.",
+            "The source associates GCA recurrent selection with Jenkins and SCA recurrent selection with Hull."
+          ]
+        },
+        {
+          "heading": "Cycle",
+          "type": "points",
+          "content": [
+            "Select superior plants or families.",
+            "Evaluate progenies as specified by the scheme.",
+            "Select the best materials.",
+            "Intermate selected plants or families.",
+            "Advance the recombined population into another selection cycle."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 10,
+        "pages": "85-89"
+      },
+      "related": [
+        "population-improvement",
+        "mass-selection"
+      ]
+    },
+    {
+      "slug": "heterosis",
+      "title": "Heterosis and its estimation",
+      "category": "heterosis",
+      "definition": "Heterosis is superiority of an F1 hybrid over a defined parental or standard reference for a target trait.",
+      "sections": [
+        {
+          "heading": "Types",
+          "type": "points",
+          "content": [
+            "The term heterosis was first used by Shull in 1914.",
+            "Average or mid-parent heterosis compares F1 with the average of two parents.",
+            "Heterobeltiosis compares F1 with the superior parent.",
+            "Economic, standard or useful heterosis compares F1 with the best commercial or standard variety.",
+            "The source describes economic heterosis as the commercially useful estimate."
+          ]
+        },
+        {
+          "heading": "Formula",
+          "type": "formula",
+          "content": [
+            "Mid-parent heterosis (%) = (F1 − MP) / MP × 100.",
+            "Superior-parent heterosis (%) = (F1 − BP) / BP × 100.",
+            "Standard heterosis (%) = (F1 − standard check) / standard check × 100."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 11,
+        "pages": "90-94"
+      },
+      "related": [
+        "inbreeding-depression"
+      ]
+    },
+    {
+      "slug": "inbreeding-depression",
+      "title": "Inbreeding depression",
+      "category": "heterosis",
+      "definition": "Inbreeding depression is reduction in vigor, fertility, yield or related performance caused by increased homozygosity in cross-pollinated populations.",
+      "sections": [
+        {
+          "heading": "Concept",
+          "type": "points",
+          "content": [
+            "Inbreeding increases homozygosity.",
+            "Recessive deleterious alleles become more frequently expressed.",
+            "Cross-pollinated crops can show mild to severe inbreeding depression.",
+            "Self-pollinated crops generally show much less inbreeding depression."
+          ]
+        },
+        {
+          "heading": "Relation to heterosis",
+          "type": "points",
+          "content": [
+            "Inbred lines often lose vigor during inbreeding.",
+            "Crossing suitable inbred lines can restore vigor in the hybrid.",
+            "The magnitude depends on crop, population and genetic constitution."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 11,
+        "pages": "94-95"
+      },
+      "related": [
+        "heterosis",
+        "inbred-lines"
+      ]
+    },
+    {
+      "slug": "genetic-bases-heterosis",
+      "title": "Genetic bases of heterosis and inbreeding depression",
+      "category": "heterosis",
+      "definition": "The source discusses dominance, overdominance and epistatic explanations for heterosis and inbreeding depression.",
+      "sections": [
+        {
+          "heading": "Hypotheses",
+          "type": "points",
+          "content": [
+            "Dominance hypothesis explains heterosis through masking deleterious recessive alleles.",
+            "Overdominance attributes superior performance to heterozygous advantage at loci.",
+            "Epistatic explanations involve interactions among genes at different loci.",
+            "No single mechanism necessarily explains all cases of heterosis."
+          ]
+        },
+        {
+          "heading": "Breeding implication",
+          "type": "points",
+          "content": [
+            "Understanding genetic basis helps guide parent choice and hybrid development.",
+            "Genetic divergence and combining ability influence hybrid performance."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 11,
+        "pages": "95-102"
+      },
+      "related": [
+        "heterosis",
+        "inbreeding-depression"
+      ]
+    },
+    {
+      "slug": "physiological-heterosis",
+      "title": "Physiological basis of heterosis",
+      "category": "heterosis",
+      "definition": "Heterosis can be expressed through physiological differences in growth, metabolism and resource use.",
+      "sections": [
+        {
+          "heading": "Manifestations",
+          "type": "points",
+          "content": [
+            "Hybrid vigor may increase growth rate, size and yield.",
+            "Differences can occur in photosynthesis, respiration and assimilate production.",
+            "Improved physiological efficiency can contribute to superior hybrid performance."
+          ]
+        },
+        {
+          "heading": "Practical view",
+          "type": "points",
+          "content": [
+            "Physiological expression is a result of underlying genetic differences.",
+            "The breeder evaluates the final phenotype and economic performance of hybrids."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 11,
+        "pages": "102-104"
+      },
+      "related": [
+        "genetic-bases-heterosis"
+      ]
+    },
+    {
+      "slug": "commercial-hybrid-use",
+      "title": "Commercial utilization of heterosis",
+      "category": "hybrid_breeding",
+      "definition": "Commercial hybrid breeding exploits heterosis by producing seed from selected parental lines.",
+      "sections": [
+        {
+          "heading": "Requirements",
+          "type": "points",
+          "content": [
+            "Parents must be sufficiently uniform and stable.",
+            "Crossing must be reliable and economical.",
+            "Hybrid seed production requires effective control of self-pollination.",
+            "The hybrid must outperform relevant commercial standards for the target trait."
+          ]
+        },
+        {
+          "heading": "Systems",
+          "type": "points",
+          "content": [
+            "Male sterility can facilitate hybrid seed production.",
+            "Self-incompatibility can also be used in some crops.",
+            "Manual emasculation is possible where economical."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 11,
+        "pages": "104-108"
+      },
+      "related": [
+        "male-sterility",
+        "heterosis"
+      ]
+    },
+    {
+      "slug": "inbred-lines",
+      "title": "Development and evaluation of inbred lines",
+      "category": "hybrid_breeding",
+      "definition": "Inbred lines are highly homozygous lines developed through repeated selfing or related inbreeding and used as hybrid parents.",
+      "sections": [
+        {
+          "heading": "Development",
+          "type": "points",
+          "content": [
+            "Select suitable source populations.",
+            "Self-pollinate selected plants repeatedly.",
+            "Select uniform and fertile lines during inbreeding.",
+            "Evaluate lines for agronomic performance and combining ability.",
+            "Maintain superior lines through controlled selfing or appropriate seed-production procedures."
+          ]
+        },
+        {
+          "heading": "Evaluation",
+          "type": "points",
+          "content": [
+            "Evaluate general combining ability where relevant.",
+            "Test specific combining ability through crosses.",
+            "Assess yield, quality, resistance, maturity and other target traits.",
+            "Discard weak or unstable lines."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 11,
+        "pages": "108-112"
+      },
+      "related": [
+        "heterosis",
+        "commercial-hybrid-use"
+      ]
+    },
+    {
+      "slug": "composites-synthetics",
+      "title": "Composite and synthetic varieties",
+      "category": "variety_types",
+      "definition": "Composite and synthetic varieties are population varieties formed from selected parents or lines while retaining genetic diversity.",
+      "sections": [
+        {
+          "heading": "Definitions",
+          "type": "points",
+          "content": [
+            "A synthetic variety is produced by intercrossing selected lines with good combining ability.",
+            "A composite variety is formed by combining selected genotypes or varieties and allowing them to intermate.",
+            "Both maintain more genetic diversity than a single pure line."
+          ]
+        },
+        {
+          "heading": "Synthetic production",
+          "type": "points",
+          "content": [
+            "Evaluate candidate lines for combining ability.",
+            "Select lines with desirable performance and compatibility.",
+            "Intermate selected lines in a controlled scheme.",
+            "Bulk and maintain the resulting population.",
+            "Evaluate performance across environments."
+          ]
+        },
+        {
+          "heading": "Merits and limitations",
+          "type": "points",
+          "content": [
+            "Synthetics can maintain useful heterozygosity and broad adaptation.",
+            "They may be easier to maintain than commercial single-cross hybrids in some crops.",
+            "Performance can decline across generations due to recombination and segregation.",
+            "The number and combining ability of component lines influence performance."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 11,
+        "pages": "113-118"
+      },
+      "related": [
+        "population-improvement",
+        "heterosis"
+      ]
+    },
+    {
+      "slug": "vegetative-crop-breeding",
+      "title": "Breeding of vegetatively propagated crops",
+      "category": "clonal_breeding",
+      "definition": "Clonal breeding improves crops propagated through vegetative organs and preserves selected genotypes as clones.",
+      "sections": [
+        {
+          "heading": "Characteristics",
+          "type": "points",
+          "content": [
+            "A clone is a group of plants produced from one plant by asexual reproduction.",
+            "Asexually propagated crops may lack seed, have short seed viability or produce seed rarely.",
+            "Many are perennials; annual examples include potato, cassava and sweet potato.",
+            "Many show reduced flowering or seed set.",
+            "They are commonly cross-pollinated, highly heterozygous and may show severe inbreeding depression.",
+            "Many are polyploids, such as sugarcane and potato.",
+            "Some are interspecific hybrids, including banana and sugarcane."
+          ]
+        },
+        {
+          "heading": "Clone properties",
+          "type": "points",
+          "content": [
+            "Members of a clone are genetically identical in principle.",
+            "Within-clone phenotypic variation is mainly environmental.",
+            "Phenotype reflects genotype, environment and G × E interaction.",
+            "Clones can be maintained for generations.",
+            "Clones may deteriorate through pathogens and mutation."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 12,
+        "pages": "119-120"
+      },
+      "related": [
+        "vegetative-reproduction"
+      ]
+    },
+    {
+      "slug": "clonal-selection",
+      "title": "Clonal selection and breeding problems",
+      "category": "clonal_breeding",
+      "definition": "Clonal selection identifies superior plants and multiplies them vegetatively without fixing the genotype through sexual reproduction.",
+      "sections": [
+        {
+          "heading": "Selection",
+          "type": "points",
+          "content": [
+            "Select superior individual plants from a variable clonal population.",
+            "Multiply selected plants vegetatively.",
+            "Test clonal progenies in replicated and multi-environment trials.",
+            "Discard unstable or inferior clones.",
+            "Maintain elite clones through disease-free propagation."
+          ]
+        },
+        {
+          "heading": "Advantages",
+          "type": "points",
+          "content": [
+            "Heterozygous genotypes can be preserved.",
+            "A desirable plant can be released without homozygosity.",
+            "Genetic combinations can be maintained generation after generation."
+          ]
+        },
+        {
+          "heading": "Problems",
+          "type": "points",
+          "content": [
+            "Disease accumulation is a major concern in vegetatively propagated crops.",
+            "Sexual recombination may be difficult because flowering or seed set is poor.",
+            "Severe inbreeding depression can limit selfing.",
+            "Polyploidy and sterility complicate genetic analysis.",
+            "Long generation time is a problem in perennial crops."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 12,
+        "pages": "120-123"
+      },
+      "related": [
+        "vegetative-crop-breeding"
+      ]
+    },
+    {
+      "slug": "breeding-records",
+      "title": "Breeding records and data collection",
+      "category": "records",
+      "definition": "Accurate records allow breeders to identify, compare, trace and evaluate large numbers of breeding materials.",
+      "sections": [
+        {
+          "heading": "Need for records",
+          "type": "points",
+          "content": [
+            "Variety development requires evaluation across environments and locations.",
+            "Breeders may handle thousands of strains each year.",
+            "Complete and accurate records support identification and decision-making."
+          ]
+        },
+        {
+          "heading": "Major records",
+          "type": "points",
+          "content": [
+            "Accession records.",
+            "Project book.",
+            "Sowing or planting plan.",
+            "Planting list.",
+            "Record book of crosses.",
+            "Field book."
+          ]
+        },
+        {
+          "heading": "Maintenance registers",
+          "type": "points",
+          "content": [
+            "Accession register.",
+            "Germplasm bank records.",
+            "Descriptive blank register.",
+            "Crossing programme records.",
+            "Single-plant selection register.",
+            "Row test and replicated-row test records.",
+            "Preliminary and initial evaluation trial records.",
+            "Comparative yield and yield evaluation trial records.",
+            "Multi-location trial records.",
+            "Quality observation notebook.",
+            "Segregating-generation notebook."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 13,
+        "pages": "124-125"
+      },
+      "related": [
+        "accession-register",
+        "cross-designation"
+      ]
+    },
+    {
+      "slug": "accession-register",
+      "title": "Accession register",
+      "category": "records",
+      "definition": "An accession register tracks the identity, source, receipt and evaluation history of germplasm or planting material.",
+      "sections": [
+        {
+          "heading": "Contents",
+          "type": "points",
+          "content": [
+            "Record receipt date.",
+            "Record source and accession number.",
+            "Assign the number at the receiving unit.",
+            "Maintain a short description of planting material.",
+            "Record destination for evaluation.",
+            "Record evaluation feedback."
+          ]
+        },
+        {
+          "heading": "Numbering",
+          "type": "points",
+          "content": [
+            "The source describes accession numbers as serial number plus year of entry.",
+            "EC denotes exotic collection.",
+            "IC denotes indigenous collection."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 13,
+        "pages": "125"
+      },
+      "related": [
+        "breeding-records",
+        "cross-designation"
+      ]
+    },
+    {
+      "slug": "cross-designation",
+      "title": "Cross and selection designation",
+      "category": "records",
+      "definition": "Designation systems provide unique identifiers for crosses, selections and introductions.",
+      "sections": [
+        {
+          "heading": "Purpose",
+          "type": "points",
+          "content": [
+            "Identify breeding material through generations.",
+            "Connect a selected line to its original cross or introduction.",
+            "Prevent loss of ancestry information during large breeding programmes."
+          ]
+        },
+        {
+          "heading": "Source convention",
+          "type": "points",
+          "content": [
+            "The source describes codes containing programme or material identifiers and year information.",
+            "Selection, cross and introduction series numbers are used to trace material.",
+            "Correct designation is essential for pedigree and trial records."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 13,
+        "pages": "125-127"
+      },
+      "related": [
+        "breeding-records"
+      ]
+    },
+    {
+      "slug": "wide-hybridization",
+      "title": "Wide or distant hybridization",
+      "category": "wide_hybridization",
+      "definition": "Wide hybridization crosses individuals from different species or genera to transfer useful variation across reproductive boundaries.",
+      "sections": [
+        {
+          "heading": "Definitions and history",
+          "type": "points",
+          "content": [
+            "Interspecific hybridization crosses different species within the same genus.",
+            "Example: Oryza sativa × O. perennis.",
+            "Intergeneric hybridization crosses species belonging to different genera.",
+            "Example: wheat × rye.",
+            "Wide or distant hybridization includes interspecific and intergeneric crosses.",
+            "Thomas Fairchild produced the first cited distant hybrid in 1717: carnation × sweet william.",
+            "Raphanobrassica was an amphidiploid radish × cabbage hybrid.",
+            "Triticale is cited as an intergeneric hybrid with major potential."
+          ]
+        },
+        {
+          "heading": "Objectives",
+          "type": "points",
+          "content": [
+            "Transfer disease-resistance genes from wild relatives.",
+            "Transfer insect resistance.",
+            "Transfer drought resistance and cold tolerance.",
+            "Improve quality, such as cotton fibre or tobacco leaf traits.",
+            "Improve yield in oats, tobacco, maize and sugarcane.",
+            "Transfer CMS, earliness, dwarfness or useful morphological characters."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 14,
+        "pages": "128-129"
+      },
+      "related": [
+        "barriers-wide-crosses",
+        "backcross-breeding"
+      ]
+    },
+    {
+      "slug": "barriers-wide-crosses",
+      "title": "Barriers to wide hybridization and their overcoming",
+      "category": "wide_hybridization",
+      "definition": "Wide crosses are limited by pre-fertilization, post-fertilization and chromosome-related barriers.",
+      "sections": [
+        {
+          "heading": "Barriers",
+          "type": "points",
+          "content": [
+            "Poor pollen germination or pollen-stigma incompatibility can prevent fertilization.",
+            "Pollen-tube growth may be inhibited in the style.",
+            "Embryo development may fail after fertilization.",
+            "Hybrid sterility can result from chromosome imbalance or poor chromosome pairing.",
+            "Genetic incompatibility may prevent normal hybrid development."
+          ]
+        },
+        {
+          "heading": "Breeding approaches",
+          "type": "points",
+          "content": [
+            "Use appropriate parents and reciprocal crosses.",
+            "Manipulate pollination timing.",
+            "Use embryo rescue when hybrid embryos abort.",
+            "Double chromosome number where fertility requires chromosome pairing.",
+            "Backcross useful hybrids to a cultivated parent to recover agronomic background.",
+            "Repeated selection can stabilize useful introgressed characters."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 14,
+        "pages": "129-134"
+      },
+      "related": [
+        "wide-hybridization"
+      ]
+    },
+    {
+      "slug": "wide-hybridization-applications",
+      "title": "Applications of wide hybridization",
+      "category": "wide_hybridization",
+      "definition": "Wide hybridization broadens the genetic base by moving useful genes from related species or genera into crops.",
+      "sections": [
+        {
+          "heading": "Applications",
+          "type": "points",
+          "content": [
+            "Disease and insect resistance from wild relatives.",
+            "Abiotic stress tolerance such as drought and cold tolerance.",
+            "Quality improvement in fibre and leaf products.",
+            "Yield improvement.",
+            "Transfer of male sterility, earliness and dwarfness.",
+            "Creation of new amphidiploids or crop types."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 14,
+        "pages": "134-137"
+      },
+      "related": [
+        "wide-hybridization"
+      ]
+    },
+    {
+      "slug": "mutation-breeding",
+      "title": "Mutation breeding",
+      "category": "mutation_breeding",
+      "definition": "Mutation breeding uses induced heritable variation to obtain useful changes not readily available through existing variation.",
+      "sections": [
+        {
+          "heading": "Concept and history",
+          "type": "points",
+          "content": [
+            "Hugo de Vries coined the term mutation in 1900.",
+            "Mutation means a sudden heritable change other than ordinary Mendelian segregation and recombination.",
+            "1927 marked discovery of X-ray mutagenesis by Muller in Drosophila.",
+            "Stadler demonstrated X-ray mutagenesis in barley in 1929.",
+            "Auerbach and Robson demonstrated chemical mutagenesis using nitrogen mustard.",
+            "After 1953, molecular understanding of DNA expanded mutation studies."
+          ]
+        },
+        {
+          "heading": "Types by genetic basis",
+          "type": "points",
+          "content": [
+            "Gene mutations alter DNA base sequence.",
+            "Changes may involve base substitution, deletion or addition.",
+            "Chromosomal mutations alter chromosome structure or number.",
+            "Structural changes include deletion, duplication, inversion and translocation.",
+            "Numerical changes include polyploidy and aneuploidy.",
+            "Cytoplasmic or plasmagene mutations affect genetic material in cytoplasmic organelles."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 15,
+        "pages": "138-140"
+      },
+      "related": [
+        "mutagens",
+        "mutation-selection"
+      ]
+    },
+    {
+      "slug": "mutagens",
+      "title": "Mutagens and mutation induction",
+      "category": "mutation_breeding",
+      "definition": "Mutagens are physical or chemical agents used to increase mutation frequency.",
+      "sections": [
+        {
+          "heading": "Physical mutagens",
+          "type": "points",
+          "content": [
+            "X-rays.",
+            "Gamma rays.",
+            "Other ionizing radiation may be used according to the material and objective."
+          ]
+        },
+        {
+          "heading": "Chemical mutagens",
+          "type": "points",
+          "content": [
+            "Nitrogen mustard is cited as an early chemical mutagen.",
+            "Chemical mutagens alter DNA or chromosome behavior and can create heritable variation."
+          ]
+        },
+        {
+          "heading": "Treatment material",
+          "type": "points",
+          "content": [
+            "Seeds, buds, pollen, cuttings and other plant materials can be treated.",
+            "Treatment dose must balance mutation frequency with survival and fertility.",
+            "The source describes irradiation procedures followed by generation-wise selection."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 15,
+        "pages": "140-142"
+      },
+      "related": [
+        "mutation-breeding"
+      ]
+    },
+    {
+      "slug": "mutation-selection",
+      "title": "Selection after mutation induction",
+      "category": "mutation_breeding",
+      "definition": "Mutation breeding requires screening and selection across generations because most induced changes are not immediately fixed or useful.",
+      "sections": [
+        {
+          "heading": "Generation handling",
+          "type": "points",
+          "content": [
+            "Treated material is advanced to produce segregating mutant generations.",
+            "M1 plants are generally treated material and mutation expression is evaluated in later generations.",
+            "M2 is important for detecting recessive mutations.",
+            "Subsequent generations are used to confirm stability and performance.",
+            "Promising mutants are evaluated in replicated trials."
+          ]
+        },
+        {
+          "heading": "Selection",
+          "type": "points",
+          "content": [
+            "Select for the desired phenotype.",
+            "Confirm that the character is heritable and stable.",
+            "Compare mutant lines with the parent variety.",
+            "Test yield, quality, resistance and adaptation before release."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 15,
+        "pages": "142-145"
+      },
+      "related": [
+        "mutation-breeding"
+      ]
+    },
+    {
+      "slug": "polyploidy-breeding",
+      "title": "Polyploidy breeding",
+      "category": "mutation_breeding",
+      "definition": "Polyploid breeding changes chromosome number to create new variation, restore fertility or modify plant size and other traits.",
+      "sections": [
+        {
+          "heading": "Autopolyploidy",
+          "type": "points",
+          "content": [
+            "Autopolyploidy increases chromosome sets from the same species.",
+            "Colchicine is used to induce chromosome doubling.",
+            "Polyploids may show larger cells and organs.",
+            "Limitations include reduced fertility, meiotic irregularity and difficulty in fixation of desirable types."
+          ]
+        },
+        {
+          "heading": "Allopolyploidy",
+          "type": "points",
+          "content": [
+            "Allopolyploidy combines chromosome sets from different species.",
+            "Chromosome doubling can restore pairing and fertility in a sterile interspecific hybrid.",
+            "It can stabilize wide-hybrid combinations.",
+            "Limitations include complex inheritance and fertility problems."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 15,
+        "pages": "145-150"
+      },
+      "related": [
+        "mutation-breeding",
+        "wide-hybridization"
+      ]
+    },
+    {
+      "slug": "abiotic-stress-breeding",
+      "title": "Breeding for abiotic stress resistance",
+      "category": "stress_breeding",
+      "definition": "Abiotic-stress breeding develops crop varieties that tolerate environmental stresses such as temperature, water and salinity.",
+      "sections": [
+        {
+          "heading": "Temperature stress",
+          "type": "points",
+          "content": [
+            "Cold tolerance is important in rice-growing areas such as Gudalur and Cumbum valley.",
+            "Artificial low-temperature and freeze tests are available, but single-plant selection is difficult.",
+            "Field testing of segregating lines is considered suitable but can be time-consuming.",
+            "High temperature can reduce seed set.",
+            "High temperature may break male sterility in male-sterile lines.",
+            "Leaf-disc heat tests and desiccation tolerance tests are used."
+          ]
+        },
+        {
+          "heading": "Water stress",
+          "type": "points",
+          "content": [
+            "About 75% of cultivated area is described as rainfed in the source.",
+            "Drought escape means completing the life cycle before severe water deficit.",
+            "Drought tolerance can occur with high tissue water potential.",
+            "Drought tolerance can also occur with low tissue water potential.",
+            "Physiological traits include stomatal aperture, photosynthetic rate and root characteristics.",
+            "Proline accumulation in leaves can be used as a drought-screening indicator.",
+            "Excess-water tolerance is important in tail-end Cauvery delta areas.",
+            "Deep-water paddy with long stems is suited to excess water."
+          ]
+        },
+        {
+          "heading": "Chemical stress",
+          "type": "points",
+          "content": [
+            "Salinity and alkalinity can be screened using in-vitro techniques.",
+            "Rice seedlings may be raised in test tubes containing different salt concentrations.",
+            "Similar screening principles can be used for pesticide or herbicide tolerance."
+          ]
+        },
+        {
+          "heading": "Difficulties",
+          "type": "points",
+          "content": [
+            "Screening requires high skill.",
+            "Screening is time-consuming.",
+            "Artificial stress conditions can be expensive.",
+            "Field conditions may not provide the required stress intensity uniformly."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 16,
+        "pages": "151-152"
+      },
+      "related": []
+    },
+    {
+      "slug": "genetic-markers",
+      "title": "Genetic markers: concept and classes",
+      "category": "molecular_breeding",
+      "definition": "Genetic markers are heritable biological features associated with loci that can track individuals, chromosomes or genes.",
+      "sections": [
+        {
+          "heading": "Concept",
+          "type": "points",
+          "content": [
+            "Markers can act as genetic tags near genes controlling traits.",
+            "Markers occupy defined genomic positions called loci.",
+            "Marker quality is commonly assessed by heterozygosity in the population of interest.",
+            "Important properties include abundance, polymorphism, locus specificity and reproducibility.",
+            "No single marker is best for every application."
+          ]
+        },
+        {
+          "heading": "Classes",
+          "type": "points",
+          "content": [
+            "Classical markers include morphological, cytological and biochemical markers.",
+            "DNA markers include RFLP, AFLP, RAPD, SSR and SNP systems.",
+            "Markers support genetic mapping, germplasm characterization, marker-assisted introgression and variety protection."
+          ]
+        },
+        {
+          "heading": "History",
+          "type": "points",
+          "content": [
+            "Alfred Sturtevant produced an early genetic map in Drosophila using morphological factors.",
+            "Genetic markers progressed from morphological markers to isozyme markers and then DNA markers."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 17,
+        "pages": "153-154"
+      },
+      "related": [
+        "morphological-markers",
+        "dna-markers"
+      ]
+    },
+    {
+      "slug": "morphological-markers",
+      "title": "Classical morphological and cytological markers",
+      "category": "molecular_breeding",
+      "definition": "Classical markers use visible traits or chromosome features to identify inherited variation.",
+      "sections": [
+        {
+          "heading": "Morphological markers",
+          "type": "points",
+          "content": [
+            "Examples include leaf shape, flower colour, pubescence, pod colour, seed shape and fruit shape.",
+            "They are easy to observe and inexpensive.",
+            "They can be used as indirect selection criteria when linked to target traits.",
+            "They are limited in number.",
+            "They may be strongly influenced by environment.",
+            "Some appear only late in plant development.",
+            "The source cites semi-dwarfism selection in rice and wheat as an example."
+          ]
+        },
+        {
+          "heading": "Cytological markers",
+          "type": "points",
+          "content": [
+            "Cytological markers identify chromosome structure and banding patterns.",
+            "Q bands use quinacrine hydrochloride.",
+            "G bands use Giemsa stain.",
+            "R bands are reversed G bands.",
+            "They help classify chromosomes and identify chromosome changes.",
+            "They support physical mapping and linkage-group identification."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 17,
+        "pages": "154-155"
+      },
+      "related": [
+        "genetic-markers"
+      ]
+    },
+    {
+      "slug": "dna-markers",
+      "title": "DNA markers and ideal marker characteristics",
+      "category": "molecular_breeding",
+      "definition": "DNA markers detect heritable DNA-sequence differences and provide genotype-level information largely independent of phenotype.",
+      "sections": [
+        {
+          "heading": "Characteristics of an ideal marker",
+          "type": "points",
+          "content": [
+            "High polymorphism.",
+            "High reproducibility.",
+            "Clear inheritance.",
+            "Genome-wide or suitable genomic distribution.",
+            "High locus specificity.",
+            "Easy and reliable assay.",
+            "Low cost and high throughput where possible."
+          ]
+        },
+        {
+          "heading": "Applications",
+          "type": "points",
+          "content": [
+            "Genetic diversity analysis.",
+            "Linkage mapping.",
+            "Gene tagging.",
+            "Germplasm characterization.",
+            "Marker-assisted introgression.",
+            "Marker-assisted selection.",
+            "Variety identification and protection.",
+            "Selection of favorable recurrent-parent genome in breeding programmes."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 17,
+        "pages": "155-158"
+      },
+      "related": [
+        "genetic-markers",
+        "marker-systems"
+      ]
+    },
+    {
+      "slug": "marker-systems",
+      "title": "Major DNA marker systems",
+      "category": "molecular_breeding",
+      "definition": "DNA marker systems differ in how polymorphism is detected and in dominance, reproducibility, cost and throughput.",
+      "sections": [
+        {
+          "heading": "RFLP",
+          "type": "points",
+          "content": [
+            "RFLP detects DNA polymorphism using restriction-fragment differences.",
+            "It is based on restriction digestion and hybridization.",
+            "It is generally reproducible and codominant but technically demanding."
+          ]
+        },
+        {
+          "heading": "RAPD",
+          "type": "points",
+          "content": [
+            "RAPD uses short random primers for PCR amplification.",
+            "The source states that about 5–50 ng template DNA may be sufficient.",
+            "Advantages include speed, simplicity and no requirement for prior sequence information.",
+            "Main limitations are low reproducibility and dominant inheritance.",
+            "RAPD cannot reliably distinguish homozygous from heterozygous bands."
+          ]
+        },
+        {
+          "heading": "AFLP",
+          "type": "points",
+          "content": [
+            "AFLP combines restriction digestion with selective PCR amplification.",
+            "Main steps are restriction, adapter ligation, preselective amplification, selective amplification and gel analysis.",
+            "The source gives typical AFLP fragments of about 80–500 bp.",
+            "Advantages include high genomic abundance and many polymorphic bands per reaction.",
+            "Limitations include dominant scoring and technical demands."
+          ]
+        },
+        {
+          "heading": "SSR and SNP",
+          "type": "points",
+          "content": [
+            "SSR markers are based on variation in repeat number at microsatellite loci.",
+            "SSRs are highly useful because of polymorphism and locus specificity.",
+            "SNP markers detect single-nucleotide differences.",
+            "SNPs can support high-throughput genotyping and genomic applications."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 17,
+        "pages": "158-165"
+      },
+      "related": [
+        "dna-markers",
+        "marker-assisted-selection"
+      ]
+    },
+    {
+      "slug": "marker-assisted-selection",
+      "title": "Marker-assisted selection (MAS)",
+      "category": "molecular_breeding",
+      "definition": "MAS integrates DNA-marker detection with conventional breeding to select plants carrying desired alleles.",
+      "sections": [
+        {
+          "heading": "Procedure",
+          "type": "points",
+          "content": [
+            "Select parents in which at least one parent carries the marker allele for the desired trait.",
+            "Grow F1 and use markers to confirm hybrids or remove false hybrids.",
+            "Screen F2 individuals and retain plants carrying desired marker alleles.",
+            "Screen F2:3 rows and select plants with required marker alleles plus desirable phenotypes.",
+            "Continue marker screening in F4 and F5.",
+            "Bulk best lines around F4:5 or F5:6 using marker and phenotypic information.",
+            "Conduct yield, quality, resistance and other performance trials."
+          ]
+        },
+        {
+          "heading": "Important considerations",
+          "type": "points",
+          "content": [
+            "Phenotypic selection remains useful when the trait can be evaluated reliably.",
+            "A marker does not guarantee expression of the target trait.",
+            "Marker–QTL association may vary across environments.",
+            "Genetic background can affect QTL expression.",
+            "QTL × environment, QTL × QTL and QTL × genetic-background interactions should be considered."
+          ]
+        },
+        {
+          "heading": "When MAS is especially useful",
+          "type": "points",
+          "content": [
+            "Target traits expressed late in plant development.",
+            "Recessive target genes.",
+            "Traits requiring special or difficult screening conditions.",
+            "Traits with strong environmental variability.",
+            "Pyramiding several unlinked genes for durable disease or insect resistance."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 17,
+        "pages": "165-167"
+      },
+      "related": [
+        "dna-markers",
+        "marker-systems"
+      ]
+    },
+    {
+      "slug": "intellectual-property",
+      "title": "Intellectual property and major forms of protection",
+      "category": "intellectual_property",
+      "definition": "Intellectual property protects creations of the mind and can provide recognition or economic rights under law.",
+      "sections": [
+        {
+          "heading": "Forms",
+          "type": "points",
+          "content": [
+            "IP is intangible and must be expressed in a discernible form to be protectable.",
+            "Examples include patents, trademarks, copyrights, trade secrets, geographical indications and plant varieties.",
+            "Copyright protects literary and artistic works and related rights.",
+            "Industrial property includes distinctive signs and technology-related rights."
+          ]
+        },
+        {
+          "heading": "Distinctive signs",
+          "type": "points",
+          "content": [
+            "Trademarks distinguish goods or services of one enterprise from another.",
+            "Geographical indications identify goods associated with a specific geographical origin and its characteristics."
+          ]
+        },
+        {
+          "heading": "Technology-related protection",
+          "type": "points",
+          "content": [
+            "Patents protect inventions.",
+            "Industrial designs protect ornamental or aesthetic aspects of articles.",
+            "Trade secrets protect confidential information with commercial value."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 18,
+        "pages": "168-169"
+      },
+      "related": [
+        "patents",
+        "plant-variety-protection"
+      ]
+    },
+    {
+      "slug": "patents",
+      "title": "Patent criteria and plant-variety registration criteria",
+      "category": "intellectual_property",
+      "definition": "A patent gives an exclusive right for an invention for a limited period when statutory criteria are satisfied.",
+      "sections": [
+        {
+          "heading": "Patent criteria",
+          "type": "points",
+          "content": [
+            "Novelty means the invention is not known in prior art.",
+            "Non-obviousness means the invention involves an inventive step.",
+            "Usefulness means it has industrial application."
+          ]
+        },
+        {
+          "heading": "Plant variety criteria",
+          "type": "points",
+          "content": [
+            "For PPV&FR registration, varieties must satisfy distinctiveness, uniformity and stability (DUS) criteria.",
+            "Distinctiveness means the variety differs from previously known varieties.",
+            "Uniformity means essential traits are sufficiently consistent among plants.",
+            "Stability means essential characteristics remain after reproduction."
+          ]
+        },
+        {
+          "heading": "Purpose",
+          "type": "points",
+          "content": [
+            "Patent protection is intended to stimulate innovation and research investment.",
+            "Publication of patent information provides technical information while granting limited exclusive rights."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 18,
+        "pages": "170"
+      },
+      "related": [
+        "intellectual-property",
+        "plant-variety-protection"
+      ]
+    },
+    {
+      "slug": "plant-variety-protection",
+      "title": "Plant variety protection in India",
+      "category": "intellectual_property",
+      "definition": "India adopted a sui generis plant-variety protection system through the Protection of Plant Varieties and Farmers' Rights Act, 2001.",
+      "sections": [
+        {
+          "heading": "Legal framework",
+          "type": "points",
+          "content": [
+            "TRIPS requires WTO members to protect plant varieties through patents or an effective sui generis system under Article 27.3(b).",
+            "India adopted a sui generis approach.",
+            "The Protection of Plant Varieties and Farmers' Rights Act came into force in 2001.",
+            "The source states that the Act covers almost all plants except microorganisms."
+          ]
+        },
+        {
+          "heading": "Breeders and researchers",
+          "type": "points",
+          "content": [
+            "Registered breeders receive exclusive rights to produce, sell, market, distribute, import or export the variety under Section 28(1).",
+            "The breeder's rights can pass to a successor, agent or licensee.",
+            "Researchers may use protected varieties for research under Section 30.",
+            "A protected variety can serve as an initial source for developing other varieties.",
+            "Authorization is required when repeated use as a parental line is necessary for commercial production of the new variety."
+          ]
+        },
+        {
+          "heading": "Protection duration",
+          "type": "points",
+          "content": [
+            "Trees and vines: 18 years from registration in the source table.",
+            "Other crops: 15 years from registration.",
+            "Extant notified varieties: 15 years from notification under the Seeds Act, 1966."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 18,
+        "pages": "171-173"
+      },
+      "related": [
+        "patents",
+        "farmers-rights"
+      ]
+    },
+    {
+      "slug": "farmers-rights",
+      "title": "Farmers' rights under plant-variety protection",
+      "category": "intellectual_property",
+      "definition": "The source describes farmer-oriented rights intended to recognize conservation, use and contribution of agricultural genetic resources.",
+      "sections": [
+        {
+          "heading": "Rights listed in the source",
+          "type": "points",
+          "content": [
+            "Farmers may save, use, reuse, exchange and sell farm produce including seed of registered varieties, subject to the Act's provisions.",
+            "Farmers can claim compensation if a registered variety fails to perform as represented at registration.",
+            "Farmers are exempted from certain registration and proceeding fees described in the source.",
+            "A farmer group or community can register a variety evolved, cultivated and conserved by them.",
+            "Farmers may seek benefit sharing when their genetic material contributes to a new registered variety.",
+            "Compulsory licensing may be sought when a registered variety is unavailable to farmers at a reasonable price.",
+            "The source describes protection from innocent infringement where lack of awareness is established.",
+            "Farmers and communities may receive recognition or rewards when conserved material contributes genes to registered varieties."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 18,
+        "pages": "172-173"
+      },
+      "related": [
+        "plant-variety-protection"
+      ]
+    },
+    {
+      "slug": "participatory-plant-breeding",
+      "title": "Participatory plant breeding",
+      "category": "participatory_breeding",
+      "definition": "Participatory plant breeding is breeding carried out collaboratively by breeders, farmers and other stakeholders.",
+      "sections": [
+        {
+          "heading": "Definition and goals",
+          "type": "points",
+          "content": [
+            "PPB involves collaboration among breeders, farmers, marketers, processors, consumers and policy makers.",
+            "The approach is especially emphasized for developing-world farming systems with complex and risk-prone conditions.",
+            "Goals include increasing production and profitability.",
+            "PPB can target the needs of specific user groups or broader user groups.",
+            "It builds farmer skills in selection and seed production."
+          ]
+        },
+        {
+          "heading": "Participation",
+          "type": "points",
+          "content": [
+            "Breeders can direct research toward the needs of specific farmer groups.",
+            "Farmers can help breeders assess trade-offs among traits.",
+            "On-farm research evaluates varieties under real farming conditions.",
+            "Research can be managed by researchers, farmers or both.",
+            "Participatory approaches can improve adoption of innovations."
+          ]
+        },
+        {
+          "heading": "Activities",
+          "type": "points",
+          "content": [
+            "Identify breeding objectives.",
+            "Generate genetic variability and provide plants for breeding.",
+            "Select within variable populations.",
+            "Evaluate experimental varieties through participatory variety selection.",
+            "Support variety release.",
+            "Popularize new varieties and management information.",
+            "Produce seed."
+          ]
+        }
+      ],
+      "source": {
+        "chapter": 18,
+        "pages": "173-174"
+      },
+      "related": [
+        "farmers-rights"
+      ]
+    }
+  ]
+}
