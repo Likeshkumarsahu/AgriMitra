@@ -5,28 +5,27 @@
   <img src="https://img.shields.io/badge/ChromaDB-1.5-orange" alt="ChromaDB" />
   <img src="https://img.shields.io/badge/Groq-API-orange" alt="Groq API" />
   <img src="https://img.shields.io/badge/TailwindCSS-v4-38bdf8" alt="Tailwind" />
+  <a href="https://huggingface.co/datasets/logicmatters06/agrimitra-dataset">
+    <img src="https://img.shields.io/badge/Hugging%20Face-Dataset-yellow" alt="Hugging Face Dataset" />
+  </a>
 </p>
 
 # 🌾 AgriMitra
 
 **An Agriculture Learning & Crop Recommendation Platform** — a GeeksforGeeks-style
 agronomy portal that turns a 36-PDF agriculture library into searchable tutorials,
-
-```
-```
-
-adds an **ML-powered Crop Recommendation System** (trained RandomForest), and a
+and adds an **ML-powered Crop Recommendation System** (trained RandomForest) plus a
 **Groq-powered RAG chatbot** grounded in the same knowledge base.
 
 > Major Project · Next.js frontend + FastAPI (micro) backend · MongoDB + ChromaDB storage
 
-✨ Features
+## ✨ Features
 
 | # | Feature                         | Detail                                                                                                                                                                                                                              |
 | - | ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 | **Course Hub**            | 36 PDFs auto-parsed into Markdown tutorials (~1.6M words), SSG prerendered, searchable & filterable by 16 categories                                                                                                                |
-| 2 | **Crop Knowledge Base**   | 22 crops ×**15 horticultural sections** (basics · climate · soil · land prep · seed · sowing · irrigation · nutrients · weeds · pests · diseases · growth · monitoring · harvest · economics)                  |
-| 3 | **Crop Recommender**      | Enter**N, P, K, temperature, humidity, pH, rainfall, location** → get top 5–6 crops with confidence scores. **RandomForest ML model** (trained on a 51-crop dataset, `crop-ml/`) with **rule-based fallback** |
+| 1 | **Course Hub**            | 36 PDFs auto-parsed into Markdown tutorials (~1.6M words) plus structured topic guides for 16 courses (1,613 topics), SSG prerendered, searchable & filterable by 16 categories                                                        |
+| 2 | **Crop Knowledge Base**   | 22 crops × **15 horticultural sections** (basics · climate · soil · land prep · seed · sowing · irrigation · nutrients · weeds · pests · diseases · growth · monitoring · harvest · economics)                  |
+| 3 | **Crop Recommender**      | Enter **N, P, K, temperature, humidity, pH, rainfall, location** → get top 5–6 crops with confidence scores. **RandomForest ML model** (trained on a 51-crop dataset, `crop-ml/`) with **rule-based fallback** |
 | 4 | **AgriBot (RAG Chatbot)** | Floating chat widget. Groq generates answers (small/fast models) grounded in ChromaDB vector chunks; graceful fallback to keyword search → LLM → verbatim snippets                                                                |
 | 5 | **Bilingual UI**          | English ⇄ हिन्दी toggle for the whole interface; Hindi crop names & bot replies                                                                                                                                              |
 | 6 | **Dark / Light mode**     | Persisted preference, system-aware default                                                                                                                                                                                          |
@@ -113,21 +112,65 @@ flowchart TB
 
 ---
 
+## 📦 Dataset & Hosted Assets
+
+The source PDFs and the generated JSON exports are also published on Hugging Face:
+
+| Asset | Location | Size |
+| --- | --- | --- |
+| 36 source PDFs | [Dataset root](https://huggingface.co/datasets/logicmatters06/agrimitra-dataset) | ~165 MB |
+| JSON exports | [`json/` folder](https://huggingface.co/datasets/logicmatters06/agrimitra-dataset/tree/main/json) | ~16.8 MB (20 files) |
+| Source code | [GitHub](https://github.com/Likeshkumarsahu/AgriMitra) | — |
+| Trained model | `crop-ml/crop_recommendation_model.pkl` (local, gitignored) | ~47 MB |
+
+The `json/` folder contains `index.json`, `crops.json`, `topics.json`,
+`chatbot-index.json`, and all 16 source topic exports.
+
+The app does **not** need the PDFs at runtime: the committed `data/*.json` and
+`data/courses/*.md` are enough to run the frontend. Download the PDFs only when
+you want to rebuild the datasets with `npm run generate-data`.
+
+### Restore the hosted data
+
+```bash
+# PDFs -> agri-data/
+hf download logicmatters06/agrimitra-dataset \
+  --type dataset --include "*.pdf" --local-dir agri-data
+
+# JSON -> data/
+hf download logicmatters06/agrimitra-dataset \
+  --type dataset --include "json/*" --local-dir /tmp/agrimitra-json
+cp /tmp/agrimitra-json/json/*.json data/
+```
+
+Install and authenticate the Hugging Face CLI if needed:
+
+```bash
+curl -LsSf https://hf.co/cli/install.sh | bash -s
+hf auth login
+```
+
+> `agri-data/` and `crop-ml/*.pkl` are intentionally gitignored. The model is
+> regenerated from `crop-ml/trainingModel.ipynb`; if it is missing, the backend
+> falls back to the rule-based recommender.
+
+---
+
 ## 📁 Project Structure
 
 ```
 🗂 AgriMitra/
 ├── .venv/                       # single Python environment for the whole project
 ├── requirements.txt             # union: backend + ML + Jupyter + pdf-to-json deps
-├── agri-data/                  # 36 source PDFs (input dataset)
+├── agri-data/                  # 36 source PDFs (gitignored; download from Hugging Face)
 ├── crop-ml/                    # ML recipe: model + notebooks + training data
-│   ├── crop_recommendation_model.pkl  #   trained RandomForest (~47 MB, joblib)
+│   ├── crop_recommendation_model.pkl  #   trained RandomForest (~47 MB; gitignored)
 │   ├── dataProcessing_EDA.ipynb       #   EDA on the merged crop dataset
 │   ├── trainingModel.ipynb            #   model training (GridSearchCV)
 │   ├── testingModel.ipynb             #   evaluation on a holdout set
 │   ├── merged_crop_dataset.csv        #   51-crop merged dataset
 │   └── processed_crop_dataset.csv     #   cleaned/feature-engineered input
-├── data/                       # generated, committed datasets
+├── data/                       # generated datasets (committed; JSON also mirrored on Hugging Face)
 │   ├── index.json              #   course index (36 entries)
 │   ├── crops.json              #   22 crops × 15 sections
 │   ├── topics.json             #   structured topics for 16 courses (1,613 topics)
@@ -234,6 +277,15 @@ Open **http://localhost:3000** → try the Crop Recommender or chat with **Mitra
 
 ### 4. Rebuild datasets (when agri-data changes)
 
+If the source PDFs are not present locally:
+
+```bash
+hf download logicmatters06/agrimitra-dataset \
+  --type dataset --include "*.pdf" --local-dir agri-data
+```
+
+Then rebuild the generated data:
+
 ```bash
 npm run generate-data    # extract → crops → topics → chatbot-index → public copy
 ```
@@ -268,9 +320,10 @@ ranges, so each pick stays explainable.
 **Fallback — rule engine** (`modelVersion: rule-based-v1`): each crop scores 0–100 per
 parameter (100 inside its ideal range, linear decay outside), weighted
 **N 15% · P 10% · K 10% · Temperature 20% · Humidity 15% · pH 10% · Rainfall 20%**,
-plus a **+8 region bonus** when the location's state matches. Total = `weights·scores
-
-+ bonus`, clamped ≤ 100. Used when `crop_recommendation_model.pkl`is missing or fails to load — the API contract never changes. The model is lazy-loaded from`backend/app/services/ml_model.py`.
+plus a **+8 region bonus** when the location's state matches. Total =
+`weights·scores + bonus`, clamped ≤ 100. Used when `crop_recommendation_model.pkl`
+is missing or fails to load — the API contract never changes. The model is
+lazy-loaded from `backend/app/services/ml_model.py`.
 
 ### RAG chain (fine-grained degradation)
 
@@ -316,6 +369,13 @@ curl -s localhost:8000/api/health | jq .   # crop_model should read ml-randomfor
 - The BFF proxies keep `BACKEND_URL` private to the server.
 - If keys were ever shared in chat/logs, **rotate them immediately**.
 
-## 📄 License
+## 📄 License & Data
 
-Educational project. Dataset from publicly available agriculture PDFs. Use responsibly.
+Educational project.
+
+- **Code:** use and adapt for learning; add an explicit license if you plan to redistribute it.
+- **Source PDFs:** remain the property of their original authors/publishers. They are
+  hosted on Hugging Face for educational use — verify redistribution rights before
+  reusing them elsewhere.
+- **Generated JSON/Markdown:** derived from the source PDFs; use responsibly and
+  attribute the original sources.
