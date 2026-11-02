@@ -1,7 +1,8 @@
-"""LLM client abstraction (Gemini primary, Groq fallback).
+"""LLM client abstraction for the configured provider.
 
-Pure REST via httpx — provider key, model and timeout come from settings
-(environment / .env). No provider SDK required.
+Groq is the default (with automatic model rotation); Gemini is supported when
+`LLM_PROVIDER=gemini`. Pure REST via httpx — the provider key, model, and
+timeout come from settings (environment / .env). No provider SDK required.
 """
 import logging
 

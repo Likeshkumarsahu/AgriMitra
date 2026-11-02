@@ -112,6 +112,7 @@ console.log(
 function slugify(s) {
   return s
     .toLowerCase()
+    .replace(/—|–/g, "-")
     .replace(/[^\w\s-]/g, "")
     .trim()
     .replace(/\s+/g, "-");

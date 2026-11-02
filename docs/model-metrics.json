@@ -1,0 +1,31 @@
+{
+  "model": "RandomForestClassifier",
+  "artifact": "crop-ml/crop_recommendation_model.pkl",
+  "training_notebook": "crop-ml/trainingModel.ipynb",
+  "split": "80/20 stratified holdout, random_state=42",
+  "test_samples": 1320,
+  "classes": 51,
+  "correct": 1316,
+  "accuracy": 0.996969696969697,
+  "macro_precision": 0.9963500551735847,
+  "macro_recall": 0.9960784313725489,
+  "macro_f1": 0.9960722908695423,
+  "weighted_f1": 0.9969649520355554,
+  "top_confusions": [
+    {
+      "count": 2,
+      "actual": "jute",
+      "predicted": "rice"
+    },
+    {
+      "count": 1,
+      "actual": "blackgram",
+      "predicted": "maize"
+    },
+    {
+      "count": 1,
+      "actual": "mothbeans",
+      "predicted": "pigeonpeas"
+    }
+  ]
+}

@@ -91,6 +91,7 @@ export interface CropHit {
   emoji: string;
   categoryName: string;
   confidence: number;
+  rawProbability?: number | null;
   scores: Record<string, number>;
 }
 
@@ -110,6 +111,7 @@ export interface RecommendResponse {
   recommendations: CropHit[];
   modelVersion: string;
   generatedAt: string;
+  coverage?: number | null;
   warnings: string[];
 }
 
@@ -126,6 +128,7 @@ export interface ChatResponse {
   reply: string;
   sources: ChatSource[];
   fallback: boolean;
+  grounded: boolean;
 }
 
 export interface ChatbotChunk {

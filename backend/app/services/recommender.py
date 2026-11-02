@@ -78,11 +78,16 @@ def recommend(inputs: dict[str, float], location: str = "", language: str = "en"
     warnings: list[str] = []
 
     # --- primary: trained ML classifier ---
-    ml_ranked = ml_model.predict(inputs, crop_base)
+    ml_ranked, coverage = ml_model.predict(inputs, crop_base)
     using_ml = len(ml_ranked) > 0
 
     if using_ml:
         version = ML_MODEL_VERSION
+        if coverage < 50:
+            warnings.append(
+                f"Only {coverage:.1f}% of the model's probability mass maps to crops "
+                "with a full guide — treat these picks as suggestions, not certainty."
+            )
         # per-parameter fit from the rule engine explains each ML pick
         for entry in ml_ranked:
             entry["scores"] = _fit_score(inputs, entry["crop"])
@@ -90,6 +95,7 @@ def recommend(inputs: dict[str, float], location: str = "", language: str = "en"
     else:
         # --- fallback: rule-based scoring ---
         version = RULE_MODEL_VERSION
+        coverage = None
         warnings.append(
             "Trained model not available — results from the rule-based engine."
         )
@@ -115,6 +121,9 @@ def recommend(inputs: dict[str, float], location: str = "", language: str = "en"
                 emoji=crop.get("emoji", "🌱"),
                 categoryName=crop.get("categoryName", ""),
                 confidence=round(confidence, 1),
+                rawProbability=(
+                    round(entry["proba"], 6) if using_ml and entry.get("proba") is not None else None
+                ),
                 scores={p: round(min(100.0, entry["scores"].get(p, 0.0) * 100), 1) for p in PARAMS},
             )
         )
@@ -130,5 +139,8 @@ def recommend(inputs: dict[str, float], location: str = "", language: str = "en"
         )
 
     return RecommendationResult(
-        recommendations=results, modelVersion=version, warnings=warnings
+        recommendations=results,
+        modelVersion=version,
+        coverage=round(coverage, 2) if coverage is not None else None,
+        warnings=warnings,
     )

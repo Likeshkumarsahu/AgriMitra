@@ -1,0 +1,20 @@
+AgriMitra Agriculture Corpus — rights notice
+
+Source PDFs
+-----------
+The PDF files in this repository remain the property of their original authors and
+publishers. They are shared for educational and research access only. This project
+does not relicense them and makes no warranty about their redistribution status.
+Rights holders may request correction or removal via the repository discussions.
+
+Project-created metadata and JSON annotations
+---------------------------------------------
+The JSON exports and metadata created by the AgriMitra project are released under
+CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+The source PDFs are excluded from that licence grant.
+
+Code
+----
+The AgriMitra application code is MIT licensed:
+https://github.com/Likeshkumarsahu/AgriMitra/blob/main/LICENSE

@@ -223,6 +223,7 @@ export default function RecommendationForm() {
               <span className="inline-flex items-center gap-1.5 rounded-full border border-emerald-900/15 px-3 py-1 text-[11px] text-emerald-950/60 dark:border-emerald-400/15 dark:text-emerald-100/60">
                 <Sprout size={12} className="text-emerald-600" />
                 {t("model_version")}: {result.modelVersion}
+                {result.coverage != null && ` · coverage ${result.coverage.toFixed(1)}%`}
               </span>
             </div>
 
@@ -300,6 +301,11 @@ function CropResultCard({ hit, rank, lang }: { hit: CropHit; rank: number; lang:
           <p className="text-[10px] uppercase tracking-wider text-emerald-950/50 dark:text-emerald-100/50">
             {lang === "hi" ? "विश्वसनीयता" : "confidence"}
           </p>
+          {hit.rawProbability != null && (
+            <p className="text-[10px] text-emerald-950/40 dark:text-emerald-100/40">
+              raw p={hit.rawProbability.toFixed(3)}
+            </p>
+          )}
         </div>
       </div>
 

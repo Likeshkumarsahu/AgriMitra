@@ -28,6 +28,9 @@ class CropHit(BaseModel):
     emoji: str
     categoryName: str
     confidence: float
+    rawProbability: float | None = Field(
+        default=None, ge=0, le=1, description="Raw model probability for this crop (0–1)"
+    )
     scores: dict[str, float] = {}
 
 
@@ -35,6 +38,12 @@ class RecommendationResult(BaseModel):
     recommendations: list[CropHit] = []
     modelVersion: str = "rule-based-v1"
     generatedAt: datetime = Field(default_factory=lambda: datetime.now(timezone.utc))
+    coverage: float | None = Field(
+        default=None,
+        ge=0,
+        le=100,
+        description="Percentage of model probability mass mapped to guide crops",
+    )
     warnings: list[str] = []
 
 

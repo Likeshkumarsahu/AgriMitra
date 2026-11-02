@@ -1,0 +1,18 @@
+# Backend-only runtime subset. For the full project (notebooks + PDF pipeline),
+# install the root requirements.txt instead.
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pymongo>=4.8
+chromadb>=0.5.5
+httpx>=0.27
+pydantic>=2.8
+pydantic-settings>=2.3
+python-dotenv>=1.0
+
+# Crop model
+scikit-learn==1.9.1
+joblib>=1.6
+numpy>=1.26
+
+# Tests / CI
+pytest>=8

@@ -13,13 +13,24 @@ import { FormEvent, useEffect, useRef, useState } from "react";
 import { useLang } from "@/components/providers";
 import { fetchWithTimeout } from "@/lib/api";
 import { loadChatbotIndex } from "@/lib/utils";
-import type { ChatResponse, ChatbotChunk } from "@/types";
+import type { ChatResponse, ChatSource, ChatbotChunk } from "@/types";
 
 interface Msg {
   role: "user" | "bot";
   text: string;
-  sources?: ChatbotChunk[];
+  sources?: ChatSource[];
   fallback?: boolean;
+  grounded?: boolean;
+}
+
+function toSources(chunks: ChatbotChunk[]): ChatSource[] {
+  return chunks.map((chunk) => ({
+    course: chunk.course,
+    courseSlug: chunk.courseSlug,
+    section: chunk.section,
+    link: chunk.link,
+    snippet: chunk.text.slice(0, 160),
+  }));
 }
 
 const SUGGESTIONS: Record<"en" | "hi", string[]> = {
@@ -101,7 +112,8 @@ export default function Chatbot() {
           role: "bot",
           text: res.reply,
           fallback: res.fallback,
-          sources: res.sources as unknown as ChatbotChunk[],
+          grounded: res.grounded,
+          sources: res.sources,
         },
       ]);
     } catch (err) {
@@ -129,7 +141,8 @@ export default function Chatbot() {
                 : lang === "hi"
                   ? "सहायक सेवा अभी उपलब्ध नहीं है — नीचे कैश्ड नोट्स हैं।"
                   : "The assistant service is unreachable right now — showing the closest cached notes.",
-            sources: hits,
+            sources: toSources(hits),
+            grounded: true,
           },
         ]);
       } else {
@@ -146,6 +159,7 @@ export default function Chatbot() {
                 : lang === "hi"
                   ? "इस प्रश्न के लिए कोई कैश्ड नोट नहीं मिला, और सहायक सेवा अभी उपलब्ध नहीं है। कुछ मिनट बाद फिर से पूछें।"
                   : "No cached note matches this question and the assistant service is unreachable right now. Please retry in a few minutes.",
+            grounded: false,
           },
         ]);
       }
@@ -213,6 +227,30 @@ export default function Chatbot() {
                   }`}
                 >
                   <p className="whitespace-pre-wrap leading-relaxed">{m.text}</p>
+                  {m.sources && m.sources.length > 0 && (
+                    <div className="mt-2 space-y-1 border-t border-emerald-950/10 pt-2 dark:border-emerald-100/10">
+                      <p className="text-[10px] font-semibold uppercase tracking-wider text-emerald-950/45 dark:text-emerald-100/45">
+                        {lang === "hi" ? "स्रोत" : "Sources"}
+                      </p>
+                      {m.sources.map((source, index) => (
+                        <a
+                          key={`${source.link}-${index}`}
+                          href={source.link || "/courses"}
+                          className="block truncate text-[11px] text-emerald-700 underline decoration-emerald-700/30 underline-offset-2 hover:text-emerald-600 dark:text-emerald-300 dark:decoration-emerald-300/30"
+                          title={`${source.course} — ${source.section}`}
+                        >
+                          [{index + 1}] {source.course} — {source.section}
+                        </a>
+                      ))}
+                    </div>
+                  )}
+                  {m.grounded === false && !m.fallback && (
+                    <p className="mt-1 text-[11px] font-medium text-amber-600 dark:text-amber-400">
+                      ⚠ {lang === "hi"
+                        ? "यह उत्तर पाठ्यक्रम पुस्तकालय से नहीं लिया गया है — मात्रा स्थानीय विशेषज्ञ से पुष्टि करें।"
+                        : "Not grounded in the course library — verify doses with a local expert."}
+                    </p>
+                  )}
                   {m.fallback && (
                     <p className="mt-1 inline-flex items-center gap-1 text-[11px] font-medium text-amber-600 dark:text-amber-400">
                       ⚠ {lang === "hi" ? "अस्थायी उत्तर" : "fallback response"}
@@ -238,6 +276,12 @@ export default function Chatbot() {
               {t("chatbot_offline")}
             </p>
           )}
+
+          <p className="px-4 pb-2 text-[10px] leading-relaxed text-emerald-950/40 dark:text-emerald-100/40">
+            {lang === "hi"
+              ? "AI उत्तर गलत हो सकते हैं। कीटनाशक/खाद की मात्रा स्थानीय कृषि विशेषज्ञ से पुष्टि करें।"
+              : "AI answers can be wrong. Verify pesticide or fertilizer doses with a local expert."}
+          </p>
 
           {/* input */}
           <form

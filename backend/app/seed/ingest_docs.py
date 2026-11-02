@@ -48,9 +48,18 @@ def chunk_markdown(md: str, course_title: str, slug: str) -> list[tuple[str, str
     chunks = []
     for i, (heading, text) in enumerate(blocks):
         cid = f"{slug}::{i}::{_safe_id(heading)}"
-        meta = {"course": course_title, "courseSlug": slug, "section": heading}
+        anchor = _slugify(heading)
+        link = f"/courses/{slug}#{anchor}" if anchor else f"/courses/{slug}"
+        meta = {"course": course_title, "courseSlug": slug, "section": heading, "link": link}
         chunks.append((text[:1400], cid, meta))
     return chunks
+
+
+def _slugify(text: str) -> str:
+    """Mirror the frontend heading-anchor helper."""
+    text = text.lower().replace("—", "-").replace("–", "-")
+    text = re.sub(r"[^\w\s-]", "", text).strip()
+    return re.sub(r"\s+", "-", text)
 
 
 def _safe_id(text: str) -> str:

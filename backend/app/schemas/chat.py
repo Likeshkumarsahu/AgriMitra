@@ -17,3 +17,7 @@ class ChatResponse(BaseModel):
     fallback: bool = Field(
         default=False, description="True when LLM was unreachable and snippets were returned"
     )
+    grounded: bool = Field(
+        default=False,
+        description="True when the reply was based on retrieved course-library chunks",
+    )

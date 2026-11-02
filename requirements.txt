@@ -6,7 +6,7 @@
 # Setup:
 #   uv venv && uv pip install -r requirements.txt && source .venv/bin/activate
 #
-# Python 3.14 is expected (matches the venvs this project previously used).
+# Python 3.14 is required (matches the project .venv and CI).
 
 # ---------------- backend (FastAPI) ----------------
 fastapi>=0.115
@@ -19,7 +19,9 @@ pydantic-settings>=2.3
 python-dotenv>=1.0
 
 # ---------------- ML model (crop-ml) ----------------
-scikit-learn>=1.9
+# Pinned: the saved artifact was trained with scikit-learn 1.8 and is loaded
+# with 1.9.1. Keep the runtime on the same minor line as the artifact.
+scikit-learn==1.9.1
 joblib>=1.6
 numpy>=1.26
 scipy>=1.13
@@ -30,3 +32,6 @@ ipykernel
 
 # ---------------- docs → topic JSON pipeline (scripts/pdf-to-json) ----------------
 pdfplumber>=0.11
+
+# ---------------- tests / CI ----------------
+pytest>=8

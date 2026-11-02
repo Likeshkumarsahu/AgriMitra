@@ -6,6 +6,7 @@ All secrets and tunables are read from environment variables (or the .env /
 from functools import lru_cache
 from pathlib import Path
 
+from pydantic import field_validator
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 BACKEND_DIR = Path(__file__).resolve().parent.parent
@@ -26,7 +27,9 @@ class Settings(BaseSettings):
 
     llm_provider: str = "groq"  # "groq" | "gemini" — only the configured provider is used
     gemini_model: str = "gemini-2.5-flash"
-    groq_model: str = "allam-2-7b"  # small+fast; a working chat model is auto-detected if this isn't accessible
+    # allam-2-7b is available on Groq but is noticeably weaker in Hindi;
+    # gpt-oss-120b handles both English and Hindi farming answers well.
+    groq_model: str = "openai/gpt-oss-120b"
 
     # --- Embeddings ---
     # "local" (all-MiniLM-L6-v2 via ONNX, offline, no key) | "gemini" (API)
@@ -38,6 +41,10 @@ class Settings(BaseSettings):
     mongodb_db: str = "agrimitra"
     chroma_persist_dir: str = str(PROJECT_ROOT / "data" / "chroma")
     chroma_collection: str = "agrimitra_docs"
+    # Cosine distance (0 = identical, 2 = opposite). Chunks above this are
+    # treated as irrelevant; without a cutoff the "no retrieval" branch never runs.
+    chroma_max_distance: float = 0.75
+    rag_top_k: int = 5
 
     # --- App ---
     environment: str = "development"
@@ -53,6 +60,23 @@ class Settings(BaseSettings):
     llm_timeout_s: float = 25.0
     retrieval_timeout_s: float = 10.0
     chroma_http_timeout_s: float = 30.0
+
+    # --- Abuse protection ---
+    chat_rate_limit: int = 20
+    chat_rate_window_s: int = 60
+
+    @field_validator("data_dir", "chroma_persist_dir", "crop_model_path", mode="after")
+    @classmethod
+    def _resolve_repo_path(cls, value: str) -> str:
+        """Resolve optional relative paths against the repo root, not the cwd.
+
+        This keeps `pytest` (repo root), `uvicorn` (backend/), and Docker all
+        pointing at the same files.
+        """
+        path = Path(value).expanduser()
+        if not path.is_absolute():
+            path = PROJECT_ROOT / path
+        return str(path.resolve())
 
     @property
     def cors_origin_list(self) -> list[str]:

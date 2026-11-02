@@ -89,6 +89,7 @@ export async function localRecommend(inputs: RecommendInput): Promise<RecommendR
     })),
     modelVersion: "local-rule-based-v1",
     generatedAt: new Date().toISOString(),
-    warnings: ["Backend offline — results from the in-browser recomnendation engine."],
+    coverage: null,
+    warnings: ["Backend offline — results from the in-browser recommendation engine."],
   };
 }

@@ -53,6 +53,9 @@ data/chroma/
 # Large source PDFs — host on Hugging Face, not GitHub
 /agri-data/
 
+# Generated client fallback copies (npm run sync-public / build)
+/public/data/
+
 # 47 MB ML artifact — regenerate from crop-ml/trainingModel.ipynb
 /crop-ml/*.pkl
 
