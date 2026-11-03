@@ -19,8 +19,8 @@ pydantic-settings>=2.3
 python-dotenv>=1.0
 
 # ---------------- ML model (crop-ml) ----------------
-# Pinned: the saved artifact was trained with scikit-learn 1.8 and is loaded
-# with 1.9.1. Keep the runtime on the same minor line as the artifact.
+# Pinned: the saved artifact is trained and saved with scikit-learn 1.9.1.
+# Retrain the artifact if the runtime version changes to avoid version drift.
 scikit-learn==1.9.1
 joblib>=1.6
 numpy>=1.26

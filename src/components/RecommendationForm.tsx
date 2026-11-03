@@ -47,6 +47,15 @@ export default function RecommendationForm() {
   const [failed, setFailed] = useState(false);
   const [result, setResult] = useState<RecommendResponse | null>(null);
 
+  const coverage = result?.coverage ?? null;
+  const warnings = result?.warnings ?? [];
+  // The API already emits a coverage warning, but keep a UI fallback so a stale
+  // or cached response can never hide low coverage from the user.
+  const showCoverageWarning =
+    coverage != null &&
+    coverage < 50 &&
+    !warnings.some((w) => /coverage|probability mass/i.test(w));
+
   const fields = useMemo<{ key: FieldKey; placeholder: string }[]>(
     () => [
       { key: "n", placeholder: t("placeholder_n") },
@@ -227,7 +236,7 @@ export default function RecommendationForm() {
               </span>
             </div>
 
-            {result.warnings?.map((w, i) => (
+            {warnings.map((w, i) => (
               <p
                 key={i}
                 className="mt-3 rounded-xl border border-amber-600/30 bg-amber-50 px-3 py-2 text-xs text-amber-700 dark:bg-amber-500/10 dark:text-amber-300"
@@ -235,6 +244,15 @@ export default function RecommendationForm() {
                 ⚠ {w}
               </p>
             ))}
+
+            {showCoverageWarning && coverage != null && (
+              <p className="mt-3 rounded-xl border border-amber-600/30 bg-amber-50 px-3 py-2 text-xs text-amber-700 dark:bg-amber-500/10 dark:text-amber-300">
+                ⚠{" "}
+                {lang === "hi"
+                  ? `मॉडल की केवल ${coverage.toFixed(1)}% संभावना उन फसलों पर है जिनकी पूरी गाइड उपलब्ध है — इन सुझावों को केवल सलाह मानें, निश्चितता नहीं।`
+                  : `Only ${coverage.toFixed(1)}% of the model's probability mass maps to crops with a full guide — treat these picks as suggestions, not certainty.`}
+              </p>
+            )}
 
             <div className="mt-5 grid gap-4 md:grid-cols-2">
               {result.recommendations.map((hit, i) => (

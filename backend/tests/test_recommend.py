@@ -1,5 +1,7 @@
 from fastapi.testclient import TestClient
 
+from app.services import recommender
+
 VALID_PAYLOAD = {
     "n": 90,
     "p": 50,
@@ -52,3 +54,29 @@ def test_recommend_requires_location(client: TestClient):
     response = client.post("/api/recommend", json=payload)
 
     assert response.status_code == 422
+
+
+def test_low_coverage_adds_warning(monkeypatch):
+    crop = {
+        "id": "rice",
+        "slug": "rice",
+        "name": "Rice",
+        "nameHi": "चावल",
+        "emoji": "🌾",
+        "categoryName": "Cereal",
+        "states": [],
+        "conditions": {
+            param: {"min": 0, "max": 100} for param in recommender.PARAMS
+        },
+    }
+    ranked = [{"crop": crop, "confidence": 12.5, "proba": 0.125, "scores": {}}]
+    monkeypatch.setattr(recommender, "load_crop_base", lambda: [crop])
+    monkeypatch.setattr(recommender.ml_model, "predict", lambda inputs, base: (ranked, 12.5))
+
+    result = recommender.recommend(
+        {param: 50.0 for param in recommender.PARAMS},
+        location="",
+    )
+
+    assert result.coverage == 12.5
+    assert any("probability mass" in warning for warning in result.warnings)

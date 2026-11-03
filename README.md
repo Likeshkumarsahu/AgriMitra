@@ -32,16 +32,16 @@ same knowledge base.
 
 ## ✨ Features
 
-| # | Feature | Detail |
-| - | --- | --- |
-| 1 | **Course Hub** | 36 PDFs parsed into Markdown tutorials (~1.6M words) plus structured topic guides for 16 courses (1,613 topics), SSG-rendered, searchable and filterable by 16 categories |
-| 2 | **Crop Knowledge Base** | 22 crops × **15 guide sections** (basics · climate · soil · land prep · seed · sowing · irrigation · nutrients · weeds · pests · diseases · growth · monitoring · harvest · economics) |
-| 3 | **Crop Recommender** | Enter **N, P, K, temperature, humidity, pH, rainfall, location** → top crops with raw model probability, a separate coverage score, and per-parameter fit bars. RandomForest with a rule-based fallback |
-| 4 | **AgriBot (RAG Chatbot)** | Chat widget answers from ChromaDB chunks, shows up to **5 source cards**, and warns when an answer is not grounded in the library. Graceful keyword/offline fallback |
-| 5 | **Bilingual UI** | English ⇄ हिन्दी toggle for the interface, crop names, and chatbot replies |
-| 6 | **Dark / Light mode** | Persisted preference, system-aware default |
-| 7 | **Resilient by design** | MongoDB down → skip persistence, keep serving. Backend down → in-browser recommender and cached chat notes. Timeouts everywhere |
-| 8 | **Modular monorepo** | Next.js BFF routes, FastAPI API modules, Mongo models, services, seed scripts, ML notebooks, and a tested data pipeline |
+| # | Feature                         | Detail                                                                                                                                                                                                         |
+| - | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1 | **Course Hub**            | 36 PDFs parsed into Markdown tutorials (~1.6M words) plus structured topic guides for 16 courses (1,613 topics), SSG-rendered, searchable and filterable by 16 categories                                      |
+| 2 | **Crop Knowledge Base**   | 22 crops × **15 guide sections** (basics · climate · soil · land prep · seed · sowing · irrigation · nutrients · weeds · pests · diseases · growth · monitoring · harvest · economics)    |
+| 3 | **Crop Recommender**      | Enter **N, P, K, temperature, humidity, pH, rainfall, location** → top crops with raw model probability, a separate coverage score, and per-parameter fit bars. RandomForest with a rule-based fallback |
+| 4 | **AgriBot (RAG Chatbot)** | Chat widget answers from ChromaDB chunks, shows up to **5 source cards**, and warns when an answer is not grounded in the library. Graceful keyword/offline fallback                                     |
+| 5 | **Bilingual UI**          | English ⇄ हिन्दी toggle for the interface, crop names, and chatbot replies                                                                                                                              |
+| 6 | **Dark / Light mode**     | Persisted preference, system-aware default                                                                                                                                                                     |
+| 7 | **Resilient by design**   | MongoDB down → skip persistence, keep serving. Backend down → in-browser recommender and cached chat notes. Timeouts everywhere                                                                              |
+| 8 | **Modular monorepo**      | Next.js BFF routes, FastAPI API modules, Mongo models, services, seed scripts, ML notebooks, and a tested data pipeline                                                                                        |
 
 ---
 
@@ -113,13 +113,13 @@ Browser UI · recommender · chatbot with source cards
 
 ## 🧰 Tech Stack
 
-| Layer | Technology |
-| --- | --- |
-| Frontend | Next.js 16 (App Router) · React 19 · TypeScript · Tailwind CSS v4 · lucide-react · react-markdown |
-| Backend | FastAPI 0.141 · uvicorn · Pydantic v2 · httpx |
-| Databases | MongoDB 7 (Docker) · ChromaDB 1.5 (vector) |
-| AI | Groq `openai/gpt-oss-120b` · local embeddings (`all-MiniLM-L6-v2`, ONNX, 384d) · Gemini optional |
-| Tooling | Node 24 · Python **3.14** · uv · Docker Compose · pytest · GitHub Actions |
+| Layer     | Technology                                                                                             |
+| --------- | ------------------------------------------------------------------------------------------------------ |
+| Frontend  | Next.js 16 (App Router) · React 19 · TypeScript · Tailwind CSS v4 · lucide-react · react-markdown |
+| Backend   | FastAPI 0.141 · uvicorn · Pydantic v2 · httpx                                                       |
+| Databases | MongoDB 7 (Docker) · ChromaDB 1.5 (vector)                                                            |
+| AI        | Groq `openai/gpt-oss-120b` · local embeddings (`all-MiniLM-L6-v2`, ONNX, 384d) · Gemini optional |
+| Tooling   | Node 24 · Python **3.14** · uv · Docker Compose · pytest · GitHub Actions                   |
 
 > `allam-2-7b` is still available on Groq and was verified for English and Hindi,
 > but its Hindi farming answers were noticeably weaker. The default is therefore
@@ -133,15 +133,18 @@ Browser UI · recommender · chatbot with source cards
 The trained artifact is a scikit-learn `RandomForestClassifier` over **51 crop
 labels**, using the feature order `N, P, K, temperature, humidity, ph, rainfall`.
 
-| Metric | Value |
-| --- | ---: |
-| Holdout samples | 1,320 |
-| Correct | 1,316 |
+| Metric             |             Value |
+| ------------------ | ----------------: |
+| Holdout samples    |             1,320 |
+| Correct            |             1,316 |
 | **Accuracy** | **0.99697** |
-| Macro precision | 0.99635 |
-| Macro recall | 0.99608 |
+| Macro precision    |           0.99635 |
+| Macro recall       |           0.99608 |
 | **Macro F1** | **0.99607** |
-| Weighted F1 | 0.99696 |
+| Weighted F1        |           0.99696 |
+
+The artifact is trained and saved with **scikit-learn 1.9.1**, matching
+`requirements.txt`, so loading it no longer emits an `InconsistentVersionWarning`.
 
 The holdout is the same **80/20 stratified split** (`random_state=42`) used in
 `crop-ml/trainingModel.ipynb`. Full values are in
@@ -174,14 +177,14 @@ Top confusions: `jute → rice` (2), `blackgram → maize` (1),
 
 ## 📦 Hosted Assets
 
-| Asset | Location |
-| --- | --- |
-| Source code | [GitHub](https://github.com/Likeshkumarsahu/AgriMitra) |
-| 36 source PDFs | [HF dataset root](https://huggingface.co/datasets/logicmatters06/agrimitra-dataset) |
+| Asset           | Location                                                                                               |
+| --------------- | ------------------------------------------------------------------------------------------------------ |
+| Source code     | [GitHub](https://github.com/Likeshkumarsahu/AgriMitra)                                                  |
+| 36 source PDFs  | [HF dataset root](https://huggingface.co/datasets/logicmatters06/agrimitra-dataset)                     |
 | 20 JSON exports | [HF dataset `json/`](https://huggingface.co/datasets/logicmatters06/agrimitra-dataset/tree/main/json) |
-| Trained model | [`logicmatters06/agrimitra-crop-model`](https://huggingface.co/logicmatters06/agrimitra-crop-model) |
-| Model card | [`docs/hf-model-card.md`](docs/hf-model-card.md) |
-| Dataset card | [`docs/hf-dataset-card.md`](docs/hf-dataset-card.md) |
+| Trained model   | [`logicmatters06/agrimitra-crop-model`](https://huggingface.co/logicmatters06/agrimitra-crop-model)   |
+| Model card      | [`docs/hf-model-card.md`](docs/hf-model-card.md)                                                      |
+| Dataset card    | [`docs/hf-dataset-card.md`](docs/hf-dataset-card.md)                                                  |
 
 The app does **not** need the PDFs at runtime: the generated `data/*.json` and
 `data/courses/*.md` are enough for the frontend. Download the PDFs only when you
@@ -308,24 +311,24 @@ cp .env.example .env.local
 cp backend/.env.example backend/.env
 ```
 
-| Variable | Where | Required | Default | Purpose |
-| --- | --- | :---: | --- | --- |
-| `GROQ_API_KEY` | `backend/.env` | ✅ | – | Chat generation |
-| `LLM_PROVIDER` | `backend/.env` | ❌ | `groq` | `groq` or `gemini` |
-| `GROQ_MODEL` | `backend/.env` | ❌ | `openai/gpt-oss-120b` | Auto-detects another model if unreachable |
-| `GEMINI_API_KEY` | `backend/.env` | ❌ | – | Only for Gemini chat/embeddings |
-| `GEMINI_MODEL` | `backend/.env` | ❌ | `gemini-2.5-flash` | Only if `LLM_PROVIDER=gemini` |
-| `EMBEDDING_PROVIDER` | `backend/.env` | ❌ | `local` | `local` (ONNX) or `gemini` (API) |
-| `MONGODB_URI` | `backend/.env` | ❌ | `mongodb://localhost:27017` | Mongo connection |
-| `DATA_DIR` | `backend/.env` | ❌ | `./data` | Relative paths resolve from repo root |
-| `CHROMA_PERSIST_DIR` | `backend/.env` | ❌ | `./data/chroma` | Vector store path |
-| `CROP_MODEL_PATH` | `backend/.env` | ❌ | `./crop-ml/crop_recommendation_model.pkl` | Empty/missing disables ML |
-| `RAG_TOP_K` | `backend/.env` | ❌ | `5` | Retrieved chunks and max source cards |
-| `CHROMA_MAX_DISTANCE` | `backend/.env` | ❌ | `0.75` | Drop weak vector matches |
-| `CHAT_RATE_LIMIT` | `backend/.env` | ❌ | `20` | Requests per client per window |
-| `CHAT_RATE_WINDOW_S` | `backend/.env` | ❌ | `60` | Rate-limit window (seconds) |
-| `BACKEND_URL` | root `.env.local` | ❌ | `http://localhost:8000` | Private BFF target |
-| `NEXT_PUBLIC_BACKEND_URL` | root `.env.local` | ❌ | `http://localhost:8000` | Direct backend URL |
+| Variable                    | Where               | Required | Default                                     | Purpose                                   |
+| --------------------------- | ------------------- | :------: | ------------------------------------------- | ----------------------------------------- |
+| `GROQ_API_KEY`            | `backend/.env`    |    ✅    | –                                          | Chat generation                           |
+| `LLM_PROVIDER`            | `backend/.env`    |    ❌    | `groq`                                    | `groq` or `gemini`                    |
+| `GROQ_MODEL`              | `backend/.env`    |    ❌    | `openai/gpt-oss-120b`                     | Auto-detects another model if unreachable |
+| `GEMINI_API_KEY`          | `backend/.env`    |    ❌    | –                                          | Only for Gemini chat/embeddings           |
+| `GEMINI_MODEL`            | `backend/.env`    |    ❌    | `gemini-2.5-flash`                        | Only if `LLM_PROVIDER=gemini`           |
+| `EMBEDDING_PROVIDER`      | `backend/.env`    |    ❌    | `local`                                   | `local` (ONNX) or `gemini` (API)      |
+| `MONGODB_URI`             | `backend/.env`    |    ❌    | `mongodb://localhost:27017`               | Mongo connection                          |
+| `DATA_DIR`                | `backend/.env`    |    ❌    | `./data`                                  | Relative paths resolve from repo root     |
+| `CHROMA_PERSIST_DIR`      | `backend/.env`    |    ❌    | `./data/chroma`                           | Vector store path                         |
+| `CROP_MODEL_PATH`         | `backend/.env`    |    ❌    | `./crop-ml/crop_recommendation_model.pkl` | Empty/missing disables ML                 |
+| `RAG_TOP_K`               | `backend/.env`    |    ❌    | `5`                                       | Retrieved chunks and max source cards     |
+| `CHROMA_MAX_DISTANCE`     | `backend/.env`    |    ❌    | `0.75`                                    | Drop weak vector matches                  |
+| `CHAT_RATE_LIMIT`         | `backend/.env`    |    ❌    | `20`                                      | Requests per client per window            |
+| `CHAT_RATE_WINDOW_S`      | `backend/.env`    |    ❌    | `60`                                      | Rate-limit window (seconds)               |
+| `BACKEND_URL`             | root `.env.local` |    ❌    | `http://localhost:8000`                   | Private BFF target                        |
+| `NEXT_PUBLIC_BACKEND_URL` | root `.env.local` |    ❌    | `http://localhost:8000`                   | Direct backend URL                        |
 
 > 🔒 **Never commit real `.env*` files.** `.env.example`, `backend/.env.example`,
 > and non-secret templates are the only exceptions.
@@ -416,14 +419,14 @@ The full model evaluation can be regenerated from the notebook or the committed
 
 Base URL: `http://localhost:8000`
 
-| Method | Endpoint | Body | Response |
-| --- | --- | --- | --- |
-| `GET` | `/api/health` | – | `{status, services:{mongo,chroma,llm_provider,llm_configured,embedding,crop_model}, model_version}` |
-| `POST` | `/api/recommend` | `{n,p,k,temperature,humidity,ph,rainfall,location,language}` | `{recommendations[{...,confidence,rawProbability,scores}], modelVersion, coverage, generatedAt, warnings}` |
-| `GET` | `/api/crops` | – | 22 crops × full 15-section data |
-| `GET` | `/api/crops/{slug}` | – | single crop document |
-| `GET` | `/api/courses` | – | 36 course summaries |
-| `POST` | `/api/chat` | `{message, language, session_id?}` | `{session_id, reply, sources[…], fallback, grounded}` |
+| Method   | Endpoint              | Body                                                           | Response                                                                                                     |
+| -------- | --------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| `GET`  | `/api/health`       | –                                                             | `{status, services:{mongo,chroma,llm_provider,llm_configured,embedding,crop_model}, model_version}`        |
+| `POST` | `/api/recommend`    | `{n,p,k,temperature,humidity,ph,rainfall,location,language}` | `{recommendations[{...,confidence,rawProbability,scores}], modelVersion, coverage, generatedAt, warnings}` |
+| `GET`  | `/api/crops`        | –                                                             | 22 crops × full 15-section data                                                                             |
+| `GET`  | `/api/crops/{slug}` | –                                                             | single crop document                                                                                         |
+| `GET`  | `/api/courses`      | –                                                             | 36 course summaries                                                                                          |
+| `POST` | `/api/chat`         | `{message, language, session_id?}`                           | `{session_id, reply, sources[…], fallback, grounded}`                                                     |
 
 **Error convention:** hard failures never return 2xx.
 
@@ -438,8 +441,10 @@ Base URL: `http://localhost:8000`
 temperature, humidity, pH, rainfall, computes `predict_proba` over 51 labels, and
 returns **raw probabilities** for the 22 guide crops. `coverage` is the percentage
 of probability mass that maps to those guide crops; it is **not** renormalised to
-100%. Low coverage produces a warning. Confidence = raw probability × 100 (+ the
-region bonus), while `rawProbability` stays untouched for transparency.
+100%. Coverage below **50%** adds a warning to the API response, and the results
+panel renders an amber banner with a UI-side fallback based on `coverage`.
+Confidence = raw probability × 100 (+ the region bonus), while `rawProbability`
+stays untouched for transparency.
 
 **Fallback — rule engine** (`modelVersion: rule-based-v1`): each crop scores 0–100
 per parameter, weighted **N 15% · P 10% · K 10% · Temperature 20% · Humidity 15% ·

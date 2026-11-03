@@ -42,7 +42,8 @@ climate inputs:
 The model predicts one of **51 crop labels**. AgriMitra only displays the 22 crops
 that also have a full 15-section guide in its knowledge base; the remaining labels
 are still part of the trained classifier and are exposed through the response's
-`coverage` value.
+`coverage` value. The AgriMitra UI shows an amber warning whenever coverage drops
+below 50%, so raw probabilities are not presented as certainty.
 
 ## Files
 
@@ -97,10 +98,9 @@ ranked = sorted(zip(labels, proba), key=lambda item: item[1], reverse=True)
 print(ranked[:5])
 ```
 
-The artifact was trained with scikit-learn 1.8 and is loaded here with
-**scikit-learn 1.9.1**. Loading emits an `InconsistentVersionWarning`; the
-AgriMitra backend logs that warning rather than hiding it. Pin the runtime to the
-version in `requirements.txt` for reproducible results.
+The artifact was trained and saved with **scikit-learn 1.9.1**, the version pinned
+in `requirements.txt`. It therefore loads without an `InconsistentVersionWarning`.
+Keep the training and runtime versions aligned when regenerating the artifact.
 
 ## Limitations
 

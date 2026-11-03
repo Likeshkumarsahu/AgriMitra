@@ -27,5 +27,6 @@
       "actual": "mothbeans",
       "predicted": "pigeonpeas"
     }
-  ]
+  ],
+  "scikit_learn": "1.9.1"
 }

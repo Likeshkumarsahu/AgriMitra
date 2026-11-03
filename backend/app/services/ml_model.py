@@ -59,8 +59,8 @@ def _load_model_cached(path: str, mtime_ns: int):
     with warnings.catch_warnings(record=True) as caught:
         warnings.simplefilter("always")
         model = joblib.load(path)
-    # A forest emits the same version warning once per tree; log each distinct
-    # message once instead of flooding the startup log with 100+ duplicates.
+    # Surface load-time warnings (for example version drift) without repeating
+    # the same message once per tree.
     for message in {str(warning.message) for warning in caught}:
         log.warning(
             "scikit-learn %s warning while loading %s: %s",
